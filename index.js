@@ -32,7 +32,7 @@ bot.onText(/\/start(?:\s+(.+))?/, (msg) => {
             parse_mode: 'Markdown',
         });
     }
-    
+
     startExam(chatId);
 });
 
@@ -55,6 +55,43 @@ bot.onText(/\/clear(?:\s+(.+))?/, (msg) => {
     const user = getUser(chatId);
     clearUserData(user);
     bot.sendMessage(chatId, `Your currunt exam data cleared, if you want to change exam use /change or if you want to start exam use /start`, { parse_mode: 'Markdown' });
+});
+
+bot.onText(/\/help(?:\s+(.+))?/, (msg) => {
+    const chatId = msg.chat.id;
+    const helpText = `
+<b>📘 Help Menu</b>
+
+Use the following commands to interact with the bot:
+
+/start – Start the bot or begin a new exam session.
+/change – Change your current category, subject, or module.
+/clear – Clear the current exam session and start fresh.
+/leaderboard – View the top scorers and compete for the top ranks.
+/contact – Need help? Contact the developer for support.
+
+<b>✨ Tip:</b> Complete exams daily to improve your rank and earn points!
+`;
+    bot.sendMessage(chatId, helpText, { parse_mode: 'HTML' });
+});
+
+bot.onText(/\/contact(?:\s+(.+))?/, (msg) => {
+    const chatId = msg.chat.id;
+    const contactText = `
+    <b>📞 Contact & Support</b>
+    
+    Need help or want to connect with the developer? Here are the links:
+    
+    🔗 <b>GitHub:</b> <a href="https://github.com/Me-amruth">github.com/Me-amruth</a>  
+    ☕ <b>Buy Me a Coffee:</b> <a href="https://www.buymeacoffee.com/am1uth">am1uth</a>  
+    🌐 <b>Website:</b> <a href="https://amruthhh.netlify.app">amruthhh.netlify.app</a>  
+    💬 <b>WhatsApp:</b> <a href="https://wa.me/916282378078">wa.me/916282378078</a>  
+    📬 <b>Telegram:</b> <a href="https://t.me/MeAmruth">MeAmruth</a>
+    
+    <b>📢 Feedback, suggestions, or collaborations are always welcome!</b>
+    `;
+
+    bot.sendMessage(chatId, contactText, { parse_mode: 'HTML', disable_web_page_preview: true });
 });
 
 bot.on('callback_query', (callbackQuery) => {
