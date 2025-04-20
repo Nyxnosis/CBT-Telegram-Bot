@@ -1,0 +1,4659 @@
+[
+    {
+      "module": "Screws",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "What is the use of swiss pattern files?",
+          "image_url": null,
+          "options": [
+            "Intricate parts",
+            "Narrow work",
+            "Die sinking work",
+            "Tool room work"
+          ],
+          "answer": "Intricate parts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "What is the name of screw?",
+          "image_url": null,
+          "options": [
+            "Grub screw",
+            "Driver screw",
+            "Self taping screw",
+            "Thread cutting screw"
+          ],
+          "answer": "Driver screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the name of file?",
+          "image_url": null,
+          "options": [
+            "Pillar file",
+            "Warding file",
+            "Swiss pattern file",
+            "Dreadnaught file"
+          ],
+          "answer": "Swiss pattern file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "What is used for placing the instruments during working?",
+          "image_url": null,
+          "options": [
+            "Wooden blank",
+            "Felt pad",
+            "Sheet steel",
+            "Cloth"
+          ],
+          "answer": "Felt pad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "What is the purpose of dowel pins in assembly?",
+          "image_url": null,
+          "options": [
+            "Perfect alignment & quicker disassembly",
+            "Imperfect alignment",
+            "Slow disassembly",
+            "Easy maintenance"
+          ],
+          "answer": "Perfect alignment & quicker disassembly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "What is the use of rotary files?",
+          "image_url": null,
+          "options": [
+            "To finish sharp corners",
+            "To sharpening teeth of wood-working saws",
+            "Die sinking and mould-making work",
+            "Finish the automobile bodies, after tinkering"
+          ],
+          "answer": "Die sinking and mould-making work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What will be the effects on the fit if the pitch of the thread is less than the actual size?",
+          "image_url": null,
+          "options": [
+            "Clearance fit",
+            "Transmission fit",
+            "Interference fit",
+            "Not possible to fit"
+          ],
+          "answer": "Not possible to fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "How many set of feeler gauges are available as per BIS?",
+          "image_url": null,
+          "options": [
+            "Set Number: 1, 2",
+            "Set No: 1, 2, 3, 4",
+            "Set No: 1, 2, 3, 4, 5",
+            "Set No: 1, 2, 3, 4, 5, 6"
+          ],
+          "answer": "Set No: 1, 2, 3, 4",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "What is the use of round key in assembly?",
+          "image_url": null,
+          "options": [
+            "To secure the mating component with light torque",
+            "High torque",
+            "Unidirectional torque",
+            "Slide the pulley small on the shaft to some distance"
+          ],
+          "answer": "To secure the mating component with light torque",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "Which key is useful for fitting on tapered shafts?",
+          "image_url": null,
+          "options": [
+            "Feather key",
+            "Gib head key",
+            "Woodruff key",
+            "Flat saddle key"
+          ],
+          "answer": "Woodruff key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What is the name of locking device?",
+          "image_url": null,
+          "options": [
+            "Tab washer",
+            "Locking plate",
+            "Lock washer",
+            "Spring washer"
+          ],
+          "answer": "Spring washer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "What is the name of gauge?",
+          "image_url": null,
+          "options": [
+            "Taper gauge",
+            "Snap gauge",
+            "Progressive plug gauge",
+            "Double end plug gauge"
+          ],
+          "answer": "Snap gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "What is the use of tab washers?",
+          "image_url": null,
+          "options": [
+            "Locking the nut at corner",
+            "Locking the nut at center",
+            "Locking the nut from bottom",
+            "Locking the nut from top"
+          ],
+          "answer": "Locking the nut at corner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What is the name of file?",
+          "image_url": null,
+          "options": [
+            "Pillar file",
+            "Warding file",
+            "Dreadnaught file",
+            "Swiss pattern file"
+          ],
+          "answer": "Warding file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the name of screw driver?",
+          "image_url": null,
+          "options": [
+            "Offset screw driver",
+            "Philips screw driver",
+            "Standard screw driver",
+            "Heavy duty screw driver"
+          ],
+          "answer": "Offset screw driver",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "What is the use of air ratchet wrench?",
+          "image_url": null,
+          "options": [
+            "High speed and less torque",
+            "Low speed",
+            "More torque",
+            "High speed and more torque"
+          ],
+          "answer": "High speed and less torque",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What is the file for lock repair and filing hard notches in keys?",
+          "image_url": null,
+          "options": [
+            "Pillar file",
+            "Flexible file",
+            "Warding file",
+            "Swiss pattern file"
+          ],
+          "answer": "Warding file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "What is the effect oversized ID of nylon insert in self locking nut?",
+          "image_url": null,
+          "options": [
+            "Nut will loose due to vibration",
+            "Prevents from loosening",
+            "Provides positive grip",
+            "Provides self locking"
+          ],
+          "answer": "Nut will loose due to vibration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "What is the use of check nut?",
+          "image_url": null,
+          "options": [
+            "Less strength places",
+            "More strength places",
+            "Better appearance",
+            "Frequent adjustment places"
+          ],
+          "answer": "Less strength places",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "What is the name of gauge?",
+          "image_url": null,
+          "options": [
+            "Thread ring gauge",
+            "Thread plug gauge",
+            "Thread pitch gauge",
+            "Taper plug gauge"
+          ],
+          "answer": "Thread plug gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Name the part marked ʹxʹ in tubular box spanner.",
+          "image_url": null,
+          "options": [
+            "Handle",
+            "Body",
+            "Head",
+            "Tommy bar"
+          ],
+          "answer": "Tommy bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "What is the type of screw?",
+          "image_url": null,
+          "options": [
+            "Hexagon socket head cap screws",
+            "Hexagon head screws",
+            "Counter sink head screws",
+            "Raised cheese hand screws"
+          ],
+          "answer": "Hexagon socket head cap screws",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What is the name of gauge?",
+          "image_url": null,
+          "options": [
+            "Snap gauge",
+            "Progressive plug gauge",
+            "Taper ring gauge",
+            "Taper plug gauge"
+          ],
+          "answer": "Taper plug gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "What is the ratio of key way taper?",
+          "image_url": null,
+          "options": [
+            "01:19",
+            "01:20",
+            "01:50",
+            "02:40"
+          ],
+          "answer": "02:40",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "What will be the lead of thread on multi start thread?",
+          "image_url": null,
+          "options": [
+            "Pitch x number of start",
+            "Pitch x 1/number of start",
+            "Pitch x constant/number of start",
+            "Pitch x Lead of lead screw/Number of start"
+          ],
+          "answer": "Pitch x number of start",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 25,
+          "question": "What is the effect, of reading a bar type torque wrench viewing at an angle?",
+          "image_url": null,
+          "options": [
+            "Correct reading",
+            "False reading",
+            "Slight error",
+            "More error"
+          ],
+          "answer": "False reading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "What is the type of screw?",
+          "image_url": null,
+          "options": [
+            "Hexagon head screw",
+            "Grub screws",
+            "Round head screw",
+            "Square head screw"
+          ],
+          "answer": "Grub screws",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which nut protects the bolt end thread from damages?",
+          "image_url": null,
+          "options": [
+            "Cap nut",
+            "Castle nut",
+            "Slotted nut",
+            "Knurled nut"
+          ],
+          "answer": "Cap nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the name of file?",
+          "image_url": null,
+          "options": [
+            "Tinker’s file",
+            "Crossing file",
+            "Swiss pattern file",
+            "Dread naught file"
+          ],
+          "answer": "Tinker’s file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "What type of screws are used in the places were frequent removal and assembling?",
+          "image_url": null,
+          "options": [
+            "Square head screws",
+            "Hexagon socket head cap screws",
+            "Round head screws",
+            "Cheese head screws"
+          ],
+          "answer": "Square head screws",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "What will be the effect on the matting part, if the pitch diameter of the thread is larger than the actual size?",
+          "image_url": null,
+          "options": [
+            "Correct fitting",
+            "Loose fitting",
+            "Tight fitting",
+            "Not possible to fit"
+          ],
+          "answer": "Not possible to fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "What is the name of the nut?",
+          "image_url": null,
+          "options": [
+            "Castle nut",
+            "Slotted nut",
+            "T - Nut",
+            "Cap nut"
+          ],
+          "answer": "Castle nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What will be effect on matting part, if the effective diameter of the thread is less than the actual size?",
+          "image_url": null,
+          "options": [
+            "Correct fitting",
+            "Loose fitting",
+            "Tight fitting",
+            "Not possible to fit"
+          ],
+          "answer": "Loose fitting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "Which device is used to check the workpiece to confirm the shape?",
+          "image_url": null,
+          "options": [
+            "Profile gauge",
+            "Snap gauge",
+            "Caliper gauge",
+            "Progressive gauge"
+          ],
+          "answer": "Profile gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "Why square head screws are provided with collar?",
+          "image_url": null,
+          "options": [
+            "Protect work surface",
+            "Raise the head width",
+            "Provide leak proof joint",
+            "Provide access for tools"
+          ],
+          "answer": "Protect work surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "Which file used as finishing tool and ensure precision smoothness?",
+          "image_url": null,
+          "options": [
+            "Swiss pattern file",
+            "Pillar file",
+            "Dreadnaught file",
+            "Warding file"
+          ],
+          "answer": "Swiss pattern file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "Name the part marked as ʹxʹ in the figure.",
+          "image_url": null,
+          "options": [
+            "Movable jaw",
+            "Stationary jaw",
+            "Handle",
+            "knurl"
+          ],
+          "answer": "knurl",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "What type of nuts are used in coach building work?",
+          "image_url": null,
+          "options": [
+            "Square nut",
+            "T-nuts",
+            "Wing nuts",
+            "Cap nuts"
+          ],
+          "answer": "Square nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "Which key is used for transmitting light torque?",
+          "image_url": null,
+          "options": [
+            "Saddle key",
+            "Woodruff key",
+            "Gib head key",
+            "Feather key"
+          ],
+          "answer": "Woodruff key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "What is the range of size in individual radius gauges?",
+          "image_url": null,
+          "options": [
+            "Step of 1mm",
+            "Step of 0.5mm",
+            "Step of 1.5mm",
+            "Step of 2mm"
+          ],
+          "answer": "Step of 1mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "Which file with sharp and parallel teeth used on soft and non metallic materials?",
+          "image_url": null,
+          "options": [
+            "Pillar file",
+            "Tinker file",
+            "Dreadnaught file",
+            "Warding file"
+          ],
+          "answer": "Dreadnaught file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is the use of fillet gauge?",
+          "image_url": null,
+          "options": [
+            "To check external radius",
+            "To check external corner radius",
+            "To check internal radius",
+            "To check gap between mating components"
+          ],
+          "answer": "To check internal radius",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "What is the gauge to check acceptable size on external diameter of a shaft?",
+          "image_url": null,
+          "options": [
+            "Ring gauge - Go",
+            "Plug gauge - Go",
+            "Ring gauge - No Go",
+            "Plug gauge - No Go"
+          ],
+          "answer": "Ring gauge - Go",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the use of drill gauge?",
+          "image_url": null,
+          "options": [
+            "Check the diameter of the drill",
+            "Check the length of the drill",
+            "Check the cutting angle of the drill",
+            "Check the lip length"
+          ],
+          "answer": "Check the diameter of the drill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What is the use of rifflerʹs file?",
+          "image_url": null,
+          "options": [
+            "Ward notches filing",
+            "Lock repair",
+            "Silversmith work",
+            "Mould - making work"
+          ],
+          "answer": "Silversmith work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "Which special file is used for narrow work?",
+          "image_url": null,
+          "options": [
+            "Pillar file",
+            "Square file",
+            "Dread naught file",
+            "Swiss pattern file"
+          ],
+          "answer": "Pillar file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "Name the file used for silversmithʹs work.",
+          "image_url": null,
+          "options": [
+            "Min saw file",
+            "Riffler file",
+            "Pillar file",
+            "Warding file"
+          ],
+          "answer": "Riffler file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is the use of a template?",
+          "image_url": null,
+          "options": [
+            "To check the diameter of shaft",
+            "To check the pitch of holes",
+            "To check the hole size",
+            "To check the contour profile of a work piece"
+          ],
+          "answer": "To check the contour profile of a work piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the advantage of wing nut?",
+          "image_url": null,
+          "options": [
+            "In coach building work",
+            "Heavy duty assembly work",
+            "Loosen and tighten without wrench",
+            "Provide decorative appearance"
+          ],
+          "answer": "Loosen and tighten without wrench",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "What is the name of the key?",
+          "image_url": null,
+          "options": [
+            "Sunk key",
+            "Feather key",
+            "Flat saddle key",
+            "Hollow saddle key"
+          ],
+          "answer": "Feather key",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Slip gauge",
+      "quizWrap": [
+        {
+          "id": 50,
+          "question": "Which material is used to make slip gauge block?",
+          "image_url": null,
+          "options": [
+            "Tool steel",
+            "Low grade steel",
+            "High grade steel with low thermal expansion",
+            "High carbon steel"
+          ],
+          "answer": "High grade steel with low thermal expansion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What is the name of surface texture measuring instrument?",
+          "image_url": null,
+          "options": [
+            "Dial test indicator",
+            "Electrical surface indicator",
+            "Electronic surface indicator",
+            "Mechanical surface indicator"
+          ],
+          "answer": "Mechanical surface indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "What type of abrasives are used in honing cast iron and non-ferrous materials?",
+          "image_url": null,
+          "options": [
+            "Diamond",
+            "Boron carbide",
+            "Silicon carbide",
+            "Aluminium oxide"
+          ],
+          "answer": "Silicon carbide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "Which material is used to clean the slip gauge?",
+          "image_url": null,
+          "options": [
+            "Wax",
+            "Kerosene",
+            "Soluble oil",
+            "Carbon tetra chloride"
+          ],
+          "answer": "Carbon tetra chloride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "What is the instrument used in measuring external diameter?",
+          "image_url": null,
+          "options": [
+            "Vernier caliper",
+            "Outside caliper",
+            "Parallel leg caliper",
+            "Pair of special jaws by using slip gauge"
+          ],
+          "answer": "Pair of special jaws by using slip gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "What is the effect, if you touch the lapped surfaces of slip gauges while holding?",
+          "image_url": null,
+          "options": [
+            "Accuracy will increase",
+            "Rust will form",
+            "Accuracy will reduce",
+            "Affect wringing"
+          ],
+          "answer": "Affect wringing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "Name the operation of joining the slip gauges together to build up sizes.",
+          "image_url": null,
+          "options": [
+            "Honing",
+            "Lapping",
+            "Wringing",
+            "Polishing"
+          ],
+          "answer": "Wringing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the name of instrument?",
+          "image_url": null,
+          "options": [
+            "Depth vernier gauge",
+            "Vernier height gauge",
+            "Clamp type height gauge",
+            "Height gauge with slip gauge holder"
+          ],
+          "answer": "Height gauge with slip gauge holder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "What is the purpose of lapping vehicles?",
+          "image_url": null,
+          "options": [
+            "Regulate cutting action and lubricate surface",
+            "Medium effective operation",
+            "Decrease dimensional accuracy",
+            "Decrease cutting ability"
+          ],
+          "answer": "Regulate cutting action and lubricate surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "Why manual stroking is preferred for large quantities in honing operation?",
+          "image_url": null,
+          "options": [
+            "To reduce cost",
+            "To reduce time",
+            "To keep close tolerance",
+            "To reduce maintenance cost"
+          ],
+          "answer": "To keep close tolerance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "What is the height of slip gauge (q = 25° = 0.4226)?",
+          "image_url": null,
+          "options": [
+            "41.26",
+            "42.26",
+            "43.26",
+            "44.26"
+          ],
+          "answer": "42.26",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What grade of slip gauge is used in general workshop?",
+          "image_url": null,
+          "options": [
+            "Grade I accuracy",
+            "Grade II accuracy",
+            "Grade ‘0’ accuracy",
+            "Grade ‘00’ accuracy"
+          ],
+          "answer": "Grade II accuracy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "Which is the abrasive used for lapping soft steel and non-ferrous metals?",
+          "image_url": null,
+          "options": [
+            "Silicon carbide",
+            "Diamond",
+            "Boron carbide",
+            "Fused alumina"
+          ],
+          "answer": "Fused alumina",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What is the use of frosting operation?",
+          "image_url": null,
+          "options": [
+            "Decreasing oil retention on scraped surfaces",
+            "Increasing oil retention on milled surfaces",
+            "Increasing oil retention on scraped surfaces",
+            "Decreasing oil retention on milled surfaces"
+          ],
+          "answer": "Increasing oil retention on scraped surfaces",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "Which one forms the hypotenuse of the triangle while checking with sine bar?",
+          "image_url": null,
+          "options": [
+            "Surface plate",
+            "Sine bar width",
+            "Sine bar length",
+            "Slip gauges height"
+          ],
+          "answer": "Sine bar length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "What is the method of build of size using slip gauge?",
+          "image_url": null,
+          "options": [
+            "Wringing",
+            "Sliding",
+            "Glazing",
+            "Loading"
+          ],
+          "answer": "Wringing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "Which grade slip gauge is used for precision tool room applications?",
+          "image_url": null,
+          "options": [
+            "Grade 00",
+            "Grade 0",
+            "Grade I",
+            "Grade II"
+          ],
+          "answer": "Grade I",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "Which is the hardest of all abrasive material and used for lapping tungsten carbide?",
+          "image_url": null,
+          "options": [
+            "Silicon carbide",
+            "Boron carbide",
+            "Diamond",
+            "Aluminium oxide"
+          ],
+          "answer": "Diamond",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "Name the part marked as ʹxʹ in the slip gauge accessories.",
+          "image_url": null,
+          "options": [
+            "Redii scriber",
+            "Special jaw",
+            "Flat jaw",
+            "Base"
+          ],
+          "answer": "Flat jaw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "What material is used to make sine bar?",
+          "image_url": null,
+          "options": [
+            "Invar steel",
+            "High speed steel",
+            "High carbon steel",
+            "Stabilized chromium steel"
+          ],
+          "answer": "Stabilized chromium steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "Which material is used to protect slip gauge from rust?",
+          "image_url": null,
+          "options": [
+            "Oil",
+            "Wax",
+            "Kerosene",
+            "Petroleum jelly"
+          ],
+          "answer": "Petroleum jelly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "What is marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Length",
+            "Depth surface",
+            "Contact rollers",
+            "Width"
+          ],
+          "answer": "Length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the purpose of slit provided in the lapping tool?",
+          "image_url": null,
+          "options": [
+            "For clearance",
+            "For expansion",
+            "To retain abrasive",
+            "To adjust the sleeve"
+          ],
+          "answer": "For expansion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "Name the part marked as ʹxʹ in slip gauge.",
+          "image_url": null,
+          "options": [
+            "Chamois leather",
+            "Leather pad",
+            "Protector slip",
+            "Steel sheet"
+          ],
+          "answer": "Protector slip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What is the act of joining the slip gauges together for building up sizes?",
+          "image_url": null,
+          "options": [
+            "Glazing",
+            "Pinning",
+            "Loading",
+            "Wringing"
+          ],
+          "answer": "Wringing",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Metallurgy",
+      "quizWrap": [
+        {
+          "id": 75,
+          "question": "Which corrosion resistant metal is used in chemical plant and food processing?",
+          "image_url": null,
+          "options": [
+            "Lead",
+            "Copper",
+            "Aluminium",
+            "Stainless steel"
+          ],
+          "answer": "Stainless steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "What is the process to refine the structure of steel component?",
+          "image_url": null,
+          "options": [
+            "Tempering",
+            "Annealing",
+            "Hardening",
+            "Normalising"
+          ],
+          "answer": "Normalising",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "Which metal protects corrosion resistant and does not crack or peel off due to temperature variation on coating?",
+          "image_url": null,
+          "options": [
+            "Zinc",
+            "Nickel",
+            "Copper",
+            "Chromium"
+          ],
+          "answer": "Zinc",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "Which structure of steel contain 0% carbon?",
+          "image_url": null,
+          "options": [
+            "Ferrite",
+            "Pearlite",
+            "Austenite",
+            "Cementite"
+          ],
+          "answer": "Ferrite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Which method of surface hardening is done in a heated salt bath?",
+          "image_url": null,
+          "options": [
+            "Flame hardening",
+            "Gas carburising",
+            "Pack carburising",
+            "Liquid carburising"
+          ],
+          "answer": "Liquid carburising",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "What is the name of key?",
+          "image_url": null,
+          "options": [
+            "Parallel sunk key",
+            "Gib head key",
+            "Wood ruff key",
+            "Tapper sunk key"
+          ],
+          "answer": "Parallel sunk key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "What is the method of metal coating?",
+          "image_url": null,
+          "options": [
+            "Cladding",
+            "Sherardising",
+            "Galvanizing",
+            "Electroplating"
+          ],
+          "answer": "Electroplating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "What is marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Upper critical temperature",
+            "Lower critical temperature",
+            "Austenite",
+            "Ferrite"
+          ],
+          "answer": "Lower critical temperature",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What is the quenching media used in heat treatment to obtain faster rate of cooling?",
+          "image_url": null,
+          "options": [
+            "Brine solution",
+            "Air",
+            "Oil",
+            "Water"
+          ],
+          "answer": "Brine solution",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "How the mechanical properties of steel like strength, toughness, ductility are affected?",
+          "image_url": null,
+          "options": [
+            "By tempering",
+            "By hardening",
+            "By annealing",
+            "By normalising"
+          ],
+          "answer": "By hardening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the purpose of annealing?",
+          "image_url": null,
+          "options": [
+            "To soften the steel",
+            "To add cutting ability",
+            "To increase wear resistance",
+            "To refine the grain structure of the steel"
+          ],
+          "answer": "To soften the steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "Which type of key used if the hub of pulley has to axially slide on the shaft to some distance?",
+          "image_url": null,
+          "options": [
+            "Feather key",
+            "Flat saddle key",
+            "Circular taper key",
+            "Hallow saddle key"
+          ],
+          "answer": "Feather key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "What is the name of method in metallic coating done by rolling or drawing the layers of metal on the base metal?",
+          "image_url": null,
+          "options": [
+            "Spraying",
+            "Cladding",
+            "Enamelling",
+            "Molten metal bath"
+          ],
+          "answer": "Cladding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "What is the method of surface hardening?",
+          "image_url": null,
+          "options": [
+            "Nitriding",
+            "Case hardening",
+            "Flame hardening",
+            "Induction hardening"
+          ],
+          "answer": "Flame hardening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "What is the name if hot steel cooled rapidly to form a new structure?",
+          "image_url": null,
+          "options": [
+            "Ferrite",
+            "Austenite",
+            "Martensite",
+            "Pearlite"
+          ],
+          "answer": "Martensite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "Which method of heat treatment to improve machinability and ductility in the job?",
+          "image_url": null,
+          "options": [
+            "Annealing",
+            "Hardening",
+            "Tempering",
+            "Normalizing"
+          ],
+          "answer": "Annealing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "What is the disadvantage of flame hardening in the heat treatment process?",
+          "image_url": null,
+          "options": [
+            "More distortion",
+            "Long hardening time",
+            "Small depth of hardening",
+            "Not suitable for small workpieces"
+          ],
+          "answer": "Not suitable for small workpieces",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "Which type of cutting tool is tempered by heating upto 230°C?",
+          "image_url": null,
+          "options": [
+            "Taps",
+            "Drills",
+            "Turning tool",
+            "Reamers"
+          ],
+          "answer": "Turning tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "What is the name of part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Taper shaft",
+            "Splined shaft",
+            "Serrated shaft",
+            "Screw pitch gauge"
+          ],
+          "answer": "Serrated shaft",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the process to add cutting ability and wear resistance on steel?",
+          "image_url": null,
+          "options": [
+            "Tempering",
+            "Annealing",
+            "Normalising",
+            "Hardening"
+          ],
+          "answer": "Hardening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the advantage of using Gib headed key?",
+          "image_url": null,
+          "options": [
+            "Used for tapered fittings",
+            "Can be withdrawn easily",
+            "Provides unidirectional torque",
+            "Good in high speed application"
+          ],
+          "answer": "Can be withdrawn easily",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "What is the method of surface hardening?’",
+          "image_url": null,
+          "options": [
+            "Nitriding",
+            "Pack - carburising",
+            "Flame hardening",
+            "Induction hardening"
+          ],
+          "answer": "Pack - carburising",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "What is the operation of a metal coated with other metal to obtain protecting surface?",
+          "image_url": null,
+          "options": [
+            "Cladding",
+            "Galvanizing",
+            "Cementation",
+            "Electroplating"
+          ],
+          "answer": "Electroplating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "What is the process of removing the internal defects of steel components?",
+          "image_url": null,
+          "options": [
+            "Annealing",
+            "Normalising",
+            "Hardened",
+            "Tempering"
+          ],
+          "answer": "Normalising",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "What is the purpose of normalising?",
+          "image_url": null,
+          "options": [
+            "Add cutting ability",
+            "Develop high hardness",
+            "Increase wear resistance",
+            "Remove stress and strain"
+          ],
+          "answer": "Remove stress and strain",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Gauge and Bearing",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "Why the Go end is made longer than No go end in Go and No-go gauge?",
+          "image_url": null,
+          "options": [
+            "Check the part for correct dimension",
+            "Check the taper on the dimensions",
+            "Check the part for longer length",
+            "For easy distinguish"
+          ],
+          "answer": "For easy distinguish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "What is the name of bearing?",
+          "image_url": null,
+          "options": [
+            "Needle bearing",
+            "Thrust ball bearing",
+            "Taper roller bearing",
+            "Angular contact ball bearing"
+          ],
+          "answer": "Needle bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "Why extra clearance is provided between bearing and journal in the aluminium alloy bearing?",
+          "image_url": null,
+          "options": [
+            "To allow lubricant to flow freely",
+            "To overcome leaner expansion",
+            "To over come co-efficient expansion",
+            "To overcome high thermal expansion"
+          ],
+          "answer": "To overcome high thermal expansion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "What is the name of gauge?",
+          "image_url": null,
+          "options": [
+            "Screw pitch gauge",
+            "Angle gauge",
+            "Slip gauge",
+            "Centre gauge"
+          ],
+          "answer": "Centre gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the part marked as ‘x’ in the bearing?",
+          "image_url": null,
+          "options": [
+            "Outer race",
+            "Ball cage",
+            "Inner race",
+            "Rolling elements"
+          ],
+          "answer": "Ball cage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "What is the use of ring gauge?",
+          "image_url": null,
+          "options": [
+            "Check hole diameter",
+            "Check shaft diameter",
+            "Check tapered shaft diameter",
+            "Check internal thread diameter"
+          ],
+          "answer": "Check shaft diameter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "What is the name of bearing shown in figure?",
+          "image_url": null,
+          "options": [
+            "Plain bearing",
+            "Bush bearing",
+            "Solid bearing",
+            "Self aligning bush bearing"
+          ],
+          "answer": "Self aligning bush bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "What will be result in rolling contract bearing, It should have proper recommended fit .If the bearing is fitted too tight?",
+          "image_url": null,
+          "options": [
+            "Power will not be transmit",
+            "Rollers will get jammed",
+            "Rollers will not have contact with outer race",
+            "More power will be transmitted"
+          ],
+          "answer": "Rollers will get jammed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the purpose of thrust ball bearing?",
+          "image_url": null,
+          "options": [
+            "Axial load",
+            "Radial load",
+            "Axial thrust load",
+            "Vertical thrust load"
+          ],
+          "answer": "Vertical thrust load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "Which bearing material is best suited for hard journals?",
+          "image_url": null,
+          "options": [
+            "Sintered alloy",
+            "Aluminium alloy",
+            "Copper lead alloy",
+            "Cadmium based alloy"
+          ],
+          "answer": "Aluminium alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "How the wear in adjustable bearing is rectified?",
+          "image_url": null,
+          "options": [
+            "By placing the shim at equal intervals",
+            "Coating hard material on the housing",
+            "Punching the housing at equal intervals",
+            "Adjusting the slotted nut?"
+          ],
+          "answer": "Adjusting the slotted nut?",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the name of part marked ʹXʹ in figure?",
+          "image_url": null,
+          "options": [
+            "Ring gauge",
+            "Plug gauge",
+            "Thread gauge",
+            "Component"
+          ],
+          "answer": "Component",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "Which bearing is used in the limited space?",
+          "image_url": null,
+          "options": [
+            "Needle bearing",
+            "Thrust ball bearing",
+            "Taper roller bearing",
+            "Angular contact ball bearing"
+          ],
+          "answer": "Needle bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What will be the result in rolling contact bearing, It should have proper recommended fit. If the bearing fitted with too loose fit?",
+          "image_url": null,
+          "options": [
+            "It will not take the load",
+            "Heat will be generated",
+            "Roller will not have contact with inner race",
+            "Roller will get jammed with outer race"
+          ],
+          "answer": "It will not take the load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "What is the name of the gauge?",
+          "image_url": null,
+          "options": [
+            "Ring gauge",
+            "Snap gauge",
+            "Taper ring gauge",
+            "Internal thread gauge"
+          ],
+          "answer": "Taper ring gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the name of gauge?",
+          "image_url": null,
+          "options": [
+            "Pitch gauge",
+            "Angle gauge",
+            "Feeler gauge",
+            "Radius gauge"
+          ],
+          "answer": "Radius gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "Why the double row roller bearing is used?",
+          "image_url": null,
+          "options": [
+            "To take axial load",
+            "To take radial load",
+            "To take heavy axial load",
+            "To take heavy radial load"
+          ],
+          "answer": "To take heavy radial load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "Which bearing material is used for light loading and low speed application?",
+          "image_url": null,
+          "options": [
+            "Cast iron",
+            "Tin bronze",
+            "Cadmium based alloy",
+            "Copper and lead alloys"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "Which bearing carry the load parallel to its bearing axis?",
+          "image_url": null,
+          "options": [
+            "Split bearing",
+            "Plain bearing",
+            "Thrust bearing",
+            "Radial bearing"
+          ],
+          "answer": "Thrust bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "What is the name of part marked ‘X’?",
+          "image_url": null,
+          "options": [
+            "Ball case",
+            "Inner race",
+            "Outer race",
+            "Ball separating gauge"
+          ],
+          "answer": "Ball separating gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "What is the gauge used?",
+          "image_url": null,
+          "options": [
+            "Thread ring gauge",
+            "Thread plug gauge",
+            "Screw pitch gauge",
+            "Thread caliper gauge"
+          ],
+          "answer": "Thread plug gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "Which part of ball bearing do not rotate along the bearing assembly?",
+          "image_url": null,
+          "options": [
+            "Ball cage",
+            "Inner race",
+            "Outer race",
+            "Rolling elements"
+          ],
+          "answer": "Outer race",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the name of gauge shown in figure?",
+          "image_url": null,
+          "options": [
+            "Plain snap gauge",
+            "Adjustable snap gauge",
+            "Threaded snap gauge",
+            "Go and no-go snap gauge"
+          ],
+          "answer": "Adjustable snap gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "Which gauge is used to check the gap between the mating parts?",
+          "image_url": null,
+          "options": [
+            "Slip gauge",
+            "Plug gauge",
+            "Feeler gauge",
+            "Radius gauge"
+          ],
+          "answer": "Feeler gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "How to find incorrect taper component, Checking by taper ring gauge?",
+          "image_url": null,
+          "options": [
+            "Not entering",
+            "Fully passing through",
+            "Half passing through",
+            "Wobbling gauge and work piece"
+          ],
+          "answer": "Wobbling gauge and work piece",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Bearing metals",
+      "quizWrap": [
+        {
+          "id": 125,
+          "question": "Which type of bearing metal is self lubricated?",
+          "image_url": null,
+          "options": [
+            "White metal",
+            "sintered alloy",
+            "Aluminium alloy",
+            "Cadmium based alloy"
+          ],
+          "answer": "sintered alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "What is the purpose of deep groove type of ball races provided in the ball bearing?",
+          "image_url": null,
+          "options": [
+            "To withstand shock",
+            "To carry journal loads",
+            "To withstand axial thrust",
+            "To withstand radial load"
+          ],
+          "answer": "To withstand axial thrust",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "How to overcomes this defects of thermal conductive of laminated phenolics bearing material is low?",
+          "image_url": null,
+          "options": [
+            "Replace bearing with good thermal conductivity",
+            "Do not run the system for more time",
+            "Have adequate cooling facilities",
+            "Arrange for air cooling the equipments"
+          ],
+          "answer": "Have adequate cooling facilities",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "Which metal powder is used in calorizing process to prevent corrosion?",
+          "image_url": null,
+          "options": [
+            "Zinc powder",
+            "Nickel powder",
+            "Chromium powder",
+            "Aluminium powder"
+          ],
+          "answer": "Aluminium powder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "Which material connecting rod bearing is made up of?",
+          "image_url": null,
+          "options": [
+            "White metal",
+            "Cadmium based alloy",
+            "Copper lead alloys",
+            "Sintered alloy"
+          ],
+          "answer": "Copper lead alloys",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "How to over comes this defects the load carrying capacity decreases with increasing temperature using white metal bearing?",
+          "image_url": null,
+          "options": [
+            "Heat treated to increase the hardness",
+            "Heat treated to increase the temper",
+            "Coated with high strength material",
+            "Coated with bronze material"
+          ],
+          "answer": "Coated with high strength material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "Why the melting point of bearing material should be lower than that of the shaft?",
+          "image_url": null,
+          "options": [
+            "Prevents shaft seizure",
+            "Prevent damage to bearing",
+            "Allow the bearing to run efficiently",
+            "Prevent thermal expansion of shaft"
+          ],
+          "answer": "Prevents shaft seizure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "How to protect the metallic material from corrosion?",
+          "image_url": null,
+          "options": [
+            "Apply oil",
+            "Apply grease",
+            "Apply protective coating",
+            "Apply thin steel of lead"
+          ],
+          "answer": "Apply protective coating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "Which bearing material has poor thermal conductivity?",
+          "image_url": null,
+          "options": [
+            "Nylon",
+            "Teflon",
+            "Sintered alloys",
+            "Laminated phenolic"
+          ],
+          "answer": "Laminated phenolic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "Which metal is used in electroplating to the metal surface to resist corrosion for long period and to retain high polish?",
+          "image_url": null,
+          "options": [
+            "Lead",
+            "Nickel",
+            "Chromium",
+            "Aluminium"
+          ],
+          "answer": "Chromium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "Which bearing metals are applicable light load and low speed applications?",
+          "image_url": null,
+          "options": [
+            "White metal",
+            "Cadmium based alloy",
+            "Copper lead alloys",
+            "Cast iron"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is the disadvantage of thrust ball bearing?",
+          "image_url": null,
+          "options": [
+            "Cannot take any radial load",
+            "Cannot take horizontal end thrust",
+            "Cannot take load on both directions",
+            "Cannot take any vertical thrust load"
+          ],
+          "answer": "Cannot take horizontal end thrust",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "Which bearing material have poor resistance to corrosion?",
+          "image_url": null,
+          "options": [
+            "White metal",
+            "Cadmium based alloy",
+            "Aluminium alloy",
+            "Sintered alloy"
+          ],
+          "answer": "Cadmium based alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "How to overcome the effect of high thermal expansion in aluminium alloys bearings?",
+          "image_url": null,
+          "options": [
+            "Provide extra clearance on bearing outer race",
+            "Provide extra clearance on shaft",
+            "Provide extra clearance on bearing inner race",
+            "Provide extra clearance on bearing and journal"
+          ],
+          "answer": "Provide extra clearance on bearing and journal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "Which one is the self lubricating bearing material?",
+          "image_url": null,
+          "options": [
+            "White metal",
+            "Cadmium based alloy",
+            "Copper lead alloys",
+            "Sintered alloy"
+          ],
+          "answer": "Sintered alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "Which bearing material is suitable for high strength and shock resistance?",
+          "image_url": null,
+          "options": [
+            "Nylon",
+            "Teflon",
+            "Plastics",
+            "Laminated phenolics"
+          ],
+          "answer": "Laminated phenolics",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "Which bearing material is an alloy of tin or lead based?",
+          "image_url": null,
+          "options": [
+            "White metal",
+            "Cadmium based alloy",
+            "Aluminium alloy",
+            "Sintered alloy"
+          ],
+          "answer": "White metal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "Which bearing material has low co-efficient of friction and high material cost?",
+          "image_url": null,
+          "options": [
+            "Nylon",
+            "Teflon",
+            "Thrust ball bearing",
+            "Laminated phenolic"
+          ],
+          "answer": "Teflon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the temperature required to process the chromising for prevention of corrosion?",
+          "image_url": null,
+          "options": [
+            "900 to 1100°C",
+            "1000 to 1100°C",
+            "1100 to 1200°C",
+            "1300 to 1400°C"
+          ],
+          "answer": "1300 to 1400°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "Which bearing material ,the lubrication is not needed?",
+          "image_url": null,
+          "options": [
+            "Plastics",
+            "Cast iron",
+            "White metal",
+            "Aluminium alloy"
+          ],
+          "answer": "Plastics",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Pipe and Pipe fitting",
+      "quizWrap": [
+        {
+          "id": 145,
+          "question": "Which type of wrench is used for more than 50 mm dia meter pipe to tight with heavy gripping?",
+          "image_url": null,
+          "options": [
+            "Strap wrench",
+            "Foot print wrench",
+            "Chain pipe wrench",
+            "Stilson pipe wrench"
+          ],
+          "answer": "Chain pipe wrench",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "What is the name of the pipe fitting?",
+          "image_url": null,
+          "options": [
+            "45° elbow",
+            "Tee joint pipe",
+            "Short radius elbow",
+            "Long radius elbow"
+          ],
+          "answer": "45° elbow",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "What is the cause of water dripping from the tap even after closed?",
+          "image_url": null,
+          "options": [
+            "Defective washer",
+            "Spindle thread wornout",
+            "Bend spindle",
+            "Loose valve"
+          ],
+          "answer": "Defective washer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "Which valve is used to permit fluid flow in one direction only?",
+          "image_url": null,
+          "options": [
+            "Plug-cock",
+            "Needle valve",
+            "Non-return valve",
+            "Pressure regulator valve"
+          ],
+          "answer": "Non-return valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "Which standard fitting is used for joining pipeline of different diameter?",
+          "image_url": null,
+          "options": [
+            "Plug",
+            "Caps",
+            "Reducer",
+            "Coupling"
+          ],
+          "answer": "Reducer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 150,
+          "question": "What is the type of visual pipe inspection at 30° angle between the plane of vision and surface?",
+          "image_url": null,
+          "options": [
+            "Direct visual testing",
+            "Remote visual testing",
+            "Translucent visual testing",
+            "Transparent visual testing"
+          ],
+          "answer": "Direct visual testing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the capacity of the pipe vice to hold pipes diameter in mm?",
+          "image_url": null,
+          "options": [
+            "68mm",
+            "65 mm",
+            "63mm",
+            "72mm"
+          ],
+          "answer": "63mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is the name of part marked as ‘x’ in the pipe joint?",
+          "image_url": null,
+          "options": [
+            "Outer pipe",
+            "Hemp packing",
+            "Tapered male thread",
+            "Parallel female thread"
+          ],
+          "answer": "Hemp packing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "How pipes are classified?",
+          "image_url": null,
+          "options": [
+            "Uses",
+            "Colour",
+            "Shapes",
+            "Material"
+          ],
+          "answer": "Material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Pivot",
+            "Spring",
+            "Movable jaw",
+            "Adjusting nut"
+          ],
+          "answer": "Adjusting nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "What is the name of part marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Cutter wheel",
+            "Adjusting screw",
+            "Guide rollers",
+            "Hand lever"
+          ],
+          "answer": "Cutter wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "Which valve is used to control flow and is only kept in either open or closed position?",
+          "image_url": null,
+          "options": [
+            "Gate valve",
+            "Globe valve",
+            "Needle valve",
+            "Non-return valve"
+          ],
+          "answer": "Gate valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "What is the angle of deviations provided on elbows and bends in pipe works?",
+          "image_url": null,
+          "options": [
+            "90° & 45°",
+            "30° & 60°",
+            "20° & 40°",
+            "60° & 45°"
+          ],
+          "answer": "90° & 45°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "What is the name of pipe line symbol?",
+          "image_url": null,
+          "options": [
+            "Socket",
+            "Plug or cap",
+            "Union screwed",
+            "Reducer concentric"
+          ],
+          "answer": "Reducer concentric",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "What is the range of external pipe threads cut by pipe dies?",
+          "image_url": null,
+          "options": [
+            "½ʺ to 4ʺ",
+            "¼ʺ to 4ʺ",
+            "1/8ʺ to 2ʺ",
+            "¼ʺ to 6ʺ"
+          ],
+          "answer": "¼ʺ to 4ʺ",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Drill jig, Aluminium and Power Transmission",
+      "quizWrap": [
+        {
+          "id": 160,
+          "question": "Which metal is extracted from bauxite ore?",
+          "image_url": null,
+          "options": [
+            "Zinc",
+            "Brass",
+            "Copper",
+            "Aluminium"
+          ],
+          "answer": "Aluminium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "Why aluminium is used widely in aircraft industries?",
+          "image_url": null,
+          "options": [
+            "Light weight",
+            "Hard and Brittle",
+            "High tensile strength",
+            "Low thermal conductivity"
+          ],
+          "answer": "Light weight",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "Name the type of belt fastener.",
+          "image_url": null,
+          "options": [
+            "Wire type belt fastener",
+            "Alligator type belt fastener",
+            "Jackson type belt fastener",
+            "Crescent plate belt fastener"
+          ],
+          "answer": "Crescent plate belt fastener",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the name of fixture?",
+          "image_url": null,
+          "options": [
+            "Plate fixture",
+            "Angel plate fixture",
+            "Indexing plate fixture",
+            "Modified angle plate fixture"
+          ],
+          "answer": "Modified angle plate fixture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "Why vertical belt drive is avoided in power transmission?",
+          "image_url": null,
+          "options": [
+            "Because of small wrapping of belt",
+            "Because of excessive contact",
+            "Because of gravitational pull and slippage",
+            "Because of increase in surface speed of pulleys"
+          ],
+          "answer": "Because of gravitational pull and slippage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "What is the cause for the belt whips extensively?",
+          "image_url": null,
+          "options": [
+            "Centre distance between the pulleys is more",
+            "Less tension",
+            "Over load",
+            "High starting torque"
+          ],
+          "answer": "Centre distance between the pulleys is more",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "What is the name of clamp?",
+          "image_url": null,
+          "options": [
+            "Cam clamp",
+            "Screw clamp",
+            "Wedge clamp",
+            "Toggle clamp"
+          ],
+          "answer": "Screw clamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "Which type of jig do not have base plate?",
+          "image_url": null,
+          "options": [
+            "Table jig",
+            "Plate jig",
+            "Template jig",
+            "Sandwich jig"
+          ],
+          "answer": "Template jig",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "Which is the important factor to determine the construction of fixture?",
+          "image_url": null,
+          "options": [
+            "Machining method",
+            "Location and clamping",
+            "Tool guiding and frame",
+            "Size of work piece and tool"
+          ],
+          "answer": "Machining method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "What is the colour of the aluminium metal?",
+          "image_url": null,
+          "options": [
+            "Yellow",
+            "Reddish",
+            "Whitish grey",
+            "Silvery white"
+          ],
+          "answer": "Whitish grey",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "How to adjust the tension of belt between two fixed pulleys?",
+          "image_url": null,
+          "options": [
+            "By sliding the pulley",
+            "By fixing idler pulley",
+            "By adjusting the length of belt",
+            "By adjusting the screw of pulley"
+          ],
+          "answer": "By fixing idler pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "Which device holds, supports, locates and also guide the cutting tool for operation?",
+          "image_url": null,
+          "options": [
+            "Jig",
+            "Fixture",
+            "Chuck",
+            "Machine vice"
+          ],
+          "answer": "Jig",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "What is the effect of excessive tension in belt drive?",
+          "image_url": null,
+          "options": [
+            "Speed increases",
+            "Speed reduces",
+            "Life of belt increases",
+            "Life of belt decreases"
+          ],
+          "answer": "Life of belt decreases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "How to reduce the slip in belt drive caused between the belt and pulley?",
+          "image_url": null,
+          "options": [
+            "By reducing the pulley ratio",
+            "By increasing the pulley ratio",
+            "By dressing the pulley",
+            "By applying hard coating on pulleys"
+          ],
+          "answer": "By reducing the pulley ratio",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What is the name of jig?",
+          "image_url": null,
+          "options": [
+            "Post jig",
+            "Solid jig",
+            "Channel jig",
+            "Trunnion jig"
+          ],
+          "answer": "Channel jig",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 175,
+          "question": "What is the name of fixture?",
+          "image_url": null,
+          "options": [
+            "Vice fixture",
+            "Solid fixture",
+            "Plate fixture",
+            "Indexing fixture"
+          ],
+          "answer": "Indexing fixture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the reason for standard brass is one type of brass and suitable for most engineering process?",
+          "image_url": null,
+          "options": [
+            "Suitable for hot working",
+            "Having most ductile property",
+            "Suitable for cold working",
+            "Having less ductile property"
+          ],
+          "answer": "Having less ductile property",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What is the name of part marked ‘x’ in the belt drive?",
+          "image_url": null,
+          "options": [
+            "Step pulley",
+            "Driver pulley",
+            "Driven pulley",
+            "Jockey pulley"
+          ],
+          "answer": "Jockey pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is the purpose of setting blocks used in the fixture?",
+          "image_url": null,
+          "options": [
+            "Position the balancing weight",
+            "Position the clamp and locators",
+            "Position the fixture on machine table",
+            "Position the fixture and work related to cutter"
+          ],
+          "answer": "Position the fixture and work related to cutter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the name of alloy consist copper and zinc?",
+          "image_url": null,
+          "options": [
+            "Aluminium",
+            "Gunmetal",
+            "Brass",
+            "Bronze"
+          ],
+          "answer": "Brass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "Why copper is extensively used in electrical cables and appliances?",
+          "image_url": null,
+          "options": [
+            "Ductile metal",
+            "Cheap in cost",
+            "Easy soldering",
+            "Good conductor"
+          ],
+          "answer": "Good conductor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "What is the name of belt fastener?",
+          "image_url": null,
+          "options": [
+            "Wire type",
+            "Lagrelle type",
+            "Alligator type",
+            "Crescent plate type"
+          ],
+          "answer": "Alligator type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "What is the name of metal alloy of lead, tin, copper and antimony?",
+          "image_url": null,
+          "options": [
+            "Bronze",
+            "Gilding metal",
+            "Babbitt metal",
+            "Leaded bronze"
+          ],
+          "answer": "Babbitt metal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the name of jig?",
+          "image_url": null,
+          "options": [
+            "Box jig",
+            "Post jig",
+            "Turn over jig",
+            "Sandwich jig"
+          ],
+          "answer": "Turn over jig",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "Which type of belt is used if the distance between the shafts are too short?",
+          "image_url": null,
+          "options": [
+            "V’ belt",
+            "Flat belt",
+            "Link belt",
+            "Ribbed belt"
+          ],
+          "answer": "V’ belt",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "'V' Belt",
+      "quizWrap": [
+        {
+          "id": 185,
+          "question": "Which coupling provides rigid connection between two shafts?",
+          "image_url": null,
+          "options": [
+            "Fast coupling",
+            "Clamp coupling",
+            "Safety coupling",
+            "Universal coupling"
+          ],
+          "answer": "Fast coupling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "Where universal coupling is used?",
+          "image_url": null,
+          "options": [
+            "Automobile vehicles",
+            "Textiles mills",
+            "Engineering machines",
+            "Large angle drive"
+          ],
+          "answer": "Automobile vehicles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "Why the face of pulley is “Crowned” in power transmission?",
+          "image_url": null,
+          "options": [
+            "Increase the tension",
+            "Decrease the tension",
+            "Keep the belt centralised",
+            "Allow the pulley free rotation"
+          ],
+          "answer": "Keep the belt centralised",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which belt slip less in power transmission?",
+          "image_url": null,
+          "options": [
+            "“V” belt",
+            "Flat belt",
+            "Link belt",
+            "Ribbed belt"
+          ],
+          "answer": "“V” belt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "What is the name of clutch?",
+          "image_url": null,
+          "options": [
+            "Air clutch",
+            "Cone clutch",
+            "Centrifugal clutch",
+            "Over riding clutch"
+          ],
+          "answer": "Centrifugal clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "What is the name of the part marked ‘x’ in gear?",
+          "image_url": null,
+          "options": [
+            "Pitch line",
+            "Dedendum",
+            "Addendum",
+            "Face width"
+          ],
+          "answer": "Face width",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the name of the coupling?",
+          "image_url": null,
+          "options": [
+            "Slip coupling",
+            "Plate coupling",
+            "Clamp coupling",
+            "Universal coupling"
+          ],
+          "answer": "Universal coupling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "Which type of drive is used for shortest distance and for large amount of power transmission?",
+          "image_url": null,
+          "options": [
+            "Belt drives",
+            "Gear drives",
+            "Rope drives",
+            "Chain drives"
+          ],
+          "answer": "Gear drives",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "What is the name of the part marked as ‘x’ of gear?",
+          "image_url": null,
+          "options": [
+            "Flank",
+            "Addendum",
+            "Face width",
+            "Root circle"
+          ],
+          "answer": "Addendum",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "Which type of belt drive, the driven shaft will rotate in opposite direction to driver shaft?",
+          "image_url": null,
+          "options": [
+            "Stepped drive",
+            "Open belt drive",
+            "Cross belt drive",
+            "Right angled belt drive"
+          ],
+          "answer": "Cross belt drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is the name of the coupling?",
+          "image_url": null,
+          "options": [
+            "Slip coupling",
+            "Plate coupling",
+            "Clamp coupling",
+            "Universal coupling"
+          ],
+          "answer": "Universal coupling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the name of pulley?",
+          "image_url": null,
+          "options": [
+            "Step pulley",
+            "Flat pulley",
+            "V groove pulley",
+            "Fast and loose pulley"
+          ],
+          "answer": "Flat pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Key",
+            "Shaft",
+            "Coupling",
+            "Bolt"
+          ],
+          "answer": "Key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "Which is the imaginary circle on two matting gears?",
+          "image_url": null,
+          "options": [
+            "Root circle",
+            "Pitch circle",
+            "Base circle",
+            "Addendum circle"
+          ],
+          "answer": "Pitch circle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the name of the clutch?",
+          "image_url": null,
+          "options": [
+            "Air clutch",
+            "Dog clutch",
+            "Cone clutch",
+            "Single plate clutch"
+          ],
+          "answer": "Dog clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 200,
+          "question": "Which gear is Symmetrical to each other and transmit motion at right angle?",
+          "image_url": null,
+          "options": [
+            "Spur gear",
+            "Mitre gear",
+            "Helical gear",
+            "Hypoid gear"
+          ],
+          "answer": "Mitre gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "Which pulley can transmit the power to shaft different heights and at varying distance?",
+          "image_url": null,
+          "options": [
+            "Flat pulleys",
+            "Rope pulleys",
+            "V groove pulleys",
+            "Fast and loose pulleys"
+          ],
+          "answer": "Rope pulleys",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "How to improve the gripping property of the dried belt?",
+          "image_url": null,
+          "options": [
+            "Jockey pulley",
+            "Apply powdered resin",
+            "Reduce the distance between pulleys",
+            "Increase the distance between pulleys"
+          ],
+          "answer": "Apply powdered resin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "What is the name of clutch?",
+          "image_url": null,
+          "options": [
+            "Air clutch",
+            "Multiplate",
+            "Cone clutch",
+            "Over riding clutch"
+          ],
+          "answer": "Air clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "What is the name of the part marked ‘x’ in fast and loose pulley assembly?",
+          "image_url": null,
+          "options": [
+            "Fast pulley",
+            "Loose pulley",
+            "Crown pulley",
+            "Flat drive pulley"
+          ],
+          "answer": "Crown pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "What is the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Fast pulley",
+            "Crown pulley",
+            "Loose pulley",
+            "Flat drive pulley"
+          ],
+          "answer": "Loose pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "What is the name of gear?",
+          "image_url": null,
+          "options": [
+            "Spur gear",
+            "Mitre gear",
+            "Bevel gear",
+            "Hypoid gear"
+          ],
+          "answer": "Spur gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Inner piece",
+            "Outer piece",
+            "Rubbing surface",
+            "Centrifugal weight"
+          ],
+          "answer": "Centrifugal weight",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "Which type of belt length cannot be altered and reused with fastener?",
+          "image_url": null,
+          "options": [
+            "‘V’ belt",
+            "Flat belt",
+            "Link belt",
+            "Ribbed belt"
+          ],
+          "answer": "‘V’ belt",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Helical gear and Fluid power",
+      "quizWrap": [
+        {
+          "id": 209,
+          "question": "Which is used to fit the blank with gear wheel while repairing broken gear tooth?",
+          "image_url": null,
+          "options": [
+            "Screw",
+            "Cylindrical pin",
+            "Bolt",
+            "Dowel pin"
+          ],
+          "answer": "Dowel pin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "How to evaluate the velocity ratio of worm gear?",
+          "image_url": null,
+          "options": [
+            "Number of turns of the worm to 1 turn of the worm wheel",
+            "Number of turns of the worm wheel to 1 turn of the worm",
+            "Number of starts on the worm",
+            "Number of teeth on the worm wheel"
+          ],
+          "answer": "Number of turns of the worm to 1 turn of the worm wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "How to rectify the end thrust in helical gears?",
+          "image_url": null,
+          "options": [
+            "By using bevel gear",
+            "By using triple helical gears",
+            "By using herring bone gears",
+            "By using single helical gears"
+          ],
+          "answer": "By using herring bone gears",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "What is the cause for rippling in gear tooth?",
+          "image_url": null,
+          "options": [
+            "Extreme tooth loads",
+            "Cyclic loads under high contact stresses",
+            "Overload which exceeds tensile strength",
+            "Surface irregularities, misalignment of gears"
+          ],
+          "answer": "Cyclic loads under high contact stresses",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "What is the value of bar in metric unit of pressure?",
+          "image_url": null,
+          "options": [
+            "1 Kg/mm²",
+            "1 Kg/cm²",
+            "1 Kg/m²",
+            "1 Kg/dm²"
+          ],
+          "answer": "1 Kg/cm²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "Which gears are used to transmit power between intersecting shafts at right angles?",
+          "image_url": null,
+          "options": [
+            "Bevel gears",
+            "Screw gears",
+            "Worm gears",
+            "Spur gears"
+          ],
+          "answer": "Bevel gears",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "How hydraulic transmission force is controlled?",
+          "image_url": null,
+          "options": [
+            "By air",
+            "By gears",
+            "By fluids",
+            "By electric"
+          ],
+          "answer": "By fluids",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "Which gears are used to transmit power between parallel shafts?",
+          "image_url": null,
+          "options": [
+            "Screw gears",
+            "Worm gears",
+            "Bevel gears",
+            "Spur gears"
+          ],
+          "answer": "Spur gears",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "What is the name of the gear?",
+          "image_url": null,
+          "options": [
+            "Mitre gear",
+            "Bevel gear",
+            "Hypoid gear",
+            "Worm shaft and worm gear"
+          ],
+          "answer": "Hypoid gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "Where helical gears are used?",
+          "image_url": null,
+          "options": [
+            "Lathe machine",
+            "Drilling machine",
+            "Grinding machine",
+            "Automobile vehicles"
+          ],
+          "answer": "Automobile vehicles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the unit of pressure in SI unit?",
+          "image_url": null,
+          "options": [
+            "Kilogram",
+            "pascal",
+            "pounds",
+            "meters"
+          ],
+          "answer": "pascal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "Which lubricating oil is used for lubricating industrial gears?",
+          "image_url": null,
+          "options": [
+            "Servo system",
+            "Servo mesh",
+            "Servo line",
+            "Servo spin"
+          ],
+          "answer": "Servo mesh",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "Which law states that the pressure exerted on a liquid is transmitted equally in all the directions?",
+          "image_url": null,
+          "options": [
+            "Boyleʹs Law",
+            "Pascalʹs Law",
+            "Hookʹs Law",
+            "Archimedes Principle"
+          ],
+          "answer": "Pascalʹs Law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "Which system gets compressed air as energy inputs?",
+          "image_url": null,
+          "options": [
+            "Hydraulic System",
+            "Pneumatic System",
+            "Electrical System",
+            "Mechanical System"
+          ],
+          "answer": "Pneumatic System",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "Name the wear and tear of gear tooth due to cyclic load under high contact stress.",
+          "image_url": null,
+          "options": [
+            "Crushing",
+            "Cold flow",
+            "Fatigue breakage",
+            "Rippling"
+          ],
+          "answer": "Rippling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "Where the worm and worm gears are used?",
+          "image_url": null,
+          "options": [
+            "Used in index head gear mechanism",
+            "Used in automotive differential gear boxes",
+            "Used in oil pumps",
+            "Used in centre lathe"
+          ],
+          "answer": "Used in index head gear mechanism",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 225,
+          "question": "Which actuation is under the applications of pneumatics?",
+          "image_url": null,
+          "options": [
+            "Drag",
+            "Push",
+            "Close",
+            "Open"
+          ],
+          "answer": "Push",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "Which energy is converted in hydraulic pump?",
+          "image_url": null,
+          "options": [
+            "Thermal energy to hydraulic energy",
+            "Electrical energy to hydraulic energy",
+            "Pneumatic energy to hydraulic energy",
+            "Mechanical energy to hydraulic energy"
+          ],
+          "answer": "Mechanical energy to hydraulic energy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "Identify the part marked ʹxʹ.",
+          "image_url": null,
+          "options": [
+            "Depth gauge",
+            "Template",
+            "Profile plate",
+            "Pitch gauge"
+          ],
+          "answer": "Template",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "What is pressure acting on piston 2, shown in figure?",
+          "image_url": null,
+          "options": [
+            "5 kg",
+            "7.5 Kg",
+            "10kg",
+            "12.5 kg"
+          ],
+          "answer": "10kg",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "Which gear run more silently?",
+          "image_url": null,
+          "options": [
+            "Spur gear",
+            "Mitre gear",
+            "Bevel gear",
+            "Helical gear"
+          ],
+          "answer": "Helical gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "Name the wear and tear of gear tooth due to extreme loads, notches.",
+          "image_url": null,
+          "options": [
+            "Fatigue breakage",
+            "Cold flow",
+            "Rippling",
+            "Crushing"
+          ],
+          "answer": "Fatigue breakage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "What is the name of the gear mechanism?",
+          "image_url": null,
+          "options": [
+            "Mitre gear",
+            "Bevel gear",
+            "Rack and pinion",
+            "Worm and worm gear"
+          ],
+          "answer": "Rack and pinion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "What is the marked as ‘X’ in gear?",
+          "image_url": null,
+          "options": [
+            "Root circle",
+            "Base circle",
+            "Pitch circle",
+            "Outside circle"
+          ],
+          "answer": "Pitch circle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "Name the wear and tear of gear tooth having surface irregularities.",
+          "image_url": null,
+          "options": [
+            "Cold flow",
+            "Fatigue breakage",
+            "Crushing",
+            "Rippling"
+          ],
+          "answer": "Crushing",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Pneumatic and Hydraulics components",
+      "quizWrap": [
+        {
+          "id": 234,
+          "question": "Which formula is used to calculate the pressure?",
+          "image_url": null,
+          "options": [
+            "Force + Area",
+            "Force/Area",
+            "Force-Area",
+            "Force x Area"
+          ],
+          "answer": "Force/Area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "Which valve protect against excessive pressure in hydraulic system?",
+          "image_url": null,
+          "options": [
+            "Gate valve",
+            "Globe valve",
+            "Relief valve",
+            "Non-return valve"
+          ],
+          "answer": "Relief valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "Which device in pneumatics is used for converting pressure energy of compressed air in to mechanical energy?",
+          "image_url": null,
+          "options": [
+            "Pneumatic actuators",
+            "Filter",
+            "Regulator",
+            "Cylinder"
+          ],
+          "answer": "Pneumatic actuators",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "Which formula is used to calculate force?",
+          "image_url": null,
+          "options": [
+            "Pressure ÷ Area",
+            "Pressure x Area",
+            "Pressure-Area",
+            "Pressure + Area"
+          ],
+          "answer": "Pressure x Area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "Why in hydraulic pump the filter is installed in suction line?",
+          "image_url": null,
+          "options": [
+            "Reduce the oil to enter",
+            "Preventing foreign matter",
+            "Reduce pressure in the pump",
+            "Increase the pressure in the pump"
+          ],
+          "answer": "Preventing foreign matter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "Which gauge indicates pressure valve above the atmospheric pressure?",
+          "image_url": null,
+          "options": [
+            "Pressure gauge",
+            "Temperature gauge",
+            "Receiver gauge",
+            "Precision gauge"
+          ],
+          "answer": "Pressure gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "Which valve is used for fine control of flow in pipe line?",
+          "image_url": null,
+          "options": [
+            "Gate valve",
+            "Globe valve",
+            "Needle valve",
+            "Non - return valve"
+          ],
+          "answer": "Needle valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the name of part marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Cylinder",
+            "Piston",
+            "Spring",
+            "Inlet port"
+          ],
+          "answer": "Spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "What is the purpose of direction control valve in hydraulic system?",
+          "image_url": null,
+          "options": [
+            "Open or close",
+            "Increase the pressure",
+            "Decrease the pressure",
+            "Control the valve"
+          ],
+          "answer": "Open or close",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "Which pressure value is read through pressure gauge?",
+          "image_url": null,
+          "options": [
+            "Gauge Pressure",
+            "Atmospheric Pressure",
+            "Vacuum Pressure",
+            "Absolute Pressure"
+          ],
+          "answer": "Gauge Pressure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "Which causes more than 90% of hydraulic system failure?",
+          "image_url": null,
+          "options": [
+            "Contamination of hydraulic fluid",
+            "Leak of valve",
+            "Pump",
+            "Electric power"
+          ],
+          "answer": "Contamination of hydraulic fluid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "Which valve is used to control the direction of the flow of fluid?",
+          "image_url": null,
+          "options": [
+            "Flow control valve",
+            "Non - return valve",
+            "Pressure control valve",
+            "Directional control valve"
+          ],
+          "answer": "Directional control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "What is the name of symbol used in hydraulic cylinder?",
+          "image_url": null,
+          "options": [
+            "Single acting load returns the piston",
+            "Single acting return piston",
+            "Double acting power stoke",
+            "Double acting with crushing"
+          ],
+          "answer": "Single acting load returns the piston",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "What is the name of the device used to remove dust, chips and other foreign particles from the fluid?",
+          "image_url": null,
+          "options": [
+            "Pressure regulating valve",
+            "Filter",
+            "Accumulator",
+            "Regulator"
+          ],
+          "answer": "Filter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the name of part marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Cylinder",
+            "Piston",
+            "Seal",
+            "Spring"
+          ],
+          "answer": "Piston",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "Which type of filter helps to protect the pump from fluid contaminations?",
+          "image_url": null,
+          "options": [
+            "Suction filter",
+            "Magnetic filter",
+            "Absorbent filter",
+            "Mechanical filter"
+          ],
+          "answer": "Suction filter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 250,
+          "question": "What is the name of the part marked as ʹXʹ in Hydraulic power System?",
+          "image_url": null,
+          "options": [
+            "Two piston valve",
+            "Double acting cylinder",
+            "Pump",
+            "Reservoir"
+          ],
+          "answer": "Double acting cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the name of part marked as ‘x’ in compressor?",
+          "image_url": null,
+          "options": [
+            "Relief valve",
+            "Thermometer",
+            "Shut-off valve",
+            "Pressure gauge"
+          ],
+          "answer": "Pressure gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "Which pressure value is measured with respect to perfect vacuum?",
+          "image_url": null,
+          "options": [
+            "Atmospheric Pressure",
+            "Absolute Pressure",
+            "Gauge Pressure",
+            "Vacuum Pressure"
+          ],
+          "answer": "Absolute Pressure",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Pneumatic and Hydraulics circuits",
+      "quizWrap": [
+        {
+          "id": 253,
+          "question": "What is the name of pneumatic valve symbol?",
+          "image_url": null,
+          "options": [
+            "Directional control valve",
+            "Roller valve",
+            "Pressure valve",
+            "Flow control valve"
+          ],
+          "answer": "Directional control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is the name of the symbol?",
+          "image_url": null,
+          "options": [
+            "Moving part of valve",
+            "Pressure relief valve",
+            "Double acting cylinder",
+            "Single acting cylinder with spring"
+          ],
+          "answer": "Single acting cylinder with spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "What is the name of valve?",
+          "image_url": null,
+          "options": [
+            "Flow control valve",
+            "Ball type check valve",
+            "Swing check valve",
+            "Pressure type valve"
+          ],
+          "answer": "Swing check valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "Which valve block flow in one direction and allow free flow in the other direction?",
+          "image_url": null,
+          "options": [
+            "Non- return valve",
+            "4/2 way Valve",
+            "Gate valve",
+            "Globe valve"
+          ],
+          "answer": "Non- return valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "What is the operating voltage of electro pneumatics?",
+          "image_url": null,
+          "options": [
+            "10V - 140V",
+            "12V-220V",
+            "15V - 200V",
+            "200V - 240V"
+          ],
+          "answer": "12V-220V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "Which valve is used for mechanical position to sense in machine automation system?",
+          "image_url": null,
+          "options": [
+            "Pressure relief valve",
+            "Roller valve",
+            "Flow control valve",
+            "Directional valve"
+          ],
+          "answer": "Roller valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "What is the name of the valve symbol?",
+          "image_url": null,
+          "options": [
+            "Directional control valve",
+            "Flow control valve",
+            "3/2 way valve",
+            "5/2 way valve"
+          ],
+          "answer": "3/2 way valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "Which valve is used to permit fluid flow in one direction and block flow in opposite direction?",
+          "image_url": null,
+          "options": [
+            "Check valve",
+            "Shuttle valve",
+            "Orifice check valve",
+            "Pressure relief valve"
+          ],
+          "answer": "Check valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "What is type of hydromotor?",
+          "image_url": null,
+          "options": [
+            "Gear type",
+            "Vane type",
+            "Piston type",
+            "Propeller type"
+          ],
+          "answer": "Gear type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "Which device enables different flow rate of oil?",
+          "image_url": null,
+          "options": [
+            "Throttle valve",
+            "Pressure valve",
+            "Orifice",
+            "Restriction flow"
+          ],
+          "answer": "Throttle valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "What is the name of valve?",
+          "image_url": null,
+          "options": [
+            "5 port 2 position valve",
+            "3 port 2 position valve",
+            "4 port 3 position valve",
+            "4 port 2 position valve"
+          ],
+          "answer": "5 port 2 position valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "Which valve is used as interface between the electrical and pneumatic system?",
+          "image_url": null,
+          "options": [
+            "Roller valve",
+            "Flow control valve",
+            "Solenoid valve",
+            "Pressure relief valve"
+          ],
+          "answer": "Solenoid valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "Which type of valve connections are opened or closed by means of spool slide?",
+          "image_url": null,
+          "options": [
+            "Check valve",
+            "Butterfly valve",
+            "Solenoid valve",
+            "Non-return valve"
+          ],
+          "answer": "Butterfly valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is the name of part marked as ʹXʹ in double acting cylinder?",
+          "image_url": null,
+          "options": [
+            "Guide ring",
+            "Piston rod",
+            "Lock nut",
+            "Cylinder cap"
+          ],
+          "answer": "Piston rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "Which energy is converted by hydro static pressure of the oil?",
+          "image_url": null,
+          "options": [
+            "Electrical energy",
+            "Mechanical energy",
+            "Pneumatic energy",
+            "Hydraulic energy"
+          ],
+          "answer": "Mechanical energy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "Name the position of electro pneumatic push button in change over condition.",
+          "image_url": null,
+          "options": [
+            "Vertical position",
+            "Normal position",
+            "Actuated position",
+            "Horizontal position"
+          ],
+          "answer": "Actuated position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "Name the part marked ʹxʹ in a relay.",
+          "image_url": null,
+          "options": [
+            "Return spring",
+            "Contact terminal",
+            "Coil core",
+            "Armature"
+          ],
+          "answer": "Armature",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "What happens, if voltage is applied to the coil of a relay in an electromagnetic switch?",
+          "image_url": null,
+          "options": [
+            "Armature start rotating",
+            "Intensity of current increase",
+            "Intensity of current decreases",
+            "Electro magnetic field created"
+          ],
+          "answer": "Electro magnetic field created",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "What is the name of valve symbol in hydraulic circuit?",
+          "image_url": null,
+          "options": [
+            "Non return valve",
+            "3/2 way valve",
+            "Roller valve",
+            "Pressure control valve"
+          ],
+          "answer": "Non return valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the cause for the armature attracted by the coil core in electro magnetic actuated switch?",
+          "image_url": null,
+          "options": [
+            "Electromagnet field produced in solenoid coil",
+            "Electromagnet field produced in relay coil",
+            "Electromagnet field produced in return spring",
+            "Electromagnet field produced in armature"
+          ],
+          "answer": "Electromagnet field produced in solenoid coil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "How the air flow in single solenoid valve shown?",
+          "image_url": null,
+          "options": [
+            "Port 1 to 2",
+            "Port 2 to 1",
+            "Port 1 to 3",
+            "Port 2 to 3"
+          ],
+          "answer": "Port 1 to 2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is the effect of the disc not seated to its position in pneumatic swing check valve?",
+          "image_url": null,
+          "options": [
+            "Regulate the flow rate",
+            "Air flow in reverse direction",
+            "Prevents the air flow in reverse direction",
+            "Controls the direction of flow"
+          ],
+          "answer": "Air flow in reverse direction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 275,
+          "question": "What is the air flow direction?",
+          "image_url": null,
+          "options": [
+            "No air flow",
+            "2 to 3",
+            "3 to 2",
+            "1"
+          ],
+          "answer": "2 to 3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is the closed port in symbol shown?",
+          "image_url": null,
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "How to reduce the flow air from the sketch shown?",
+          "image_url": null,
+          "options": [
+            "Applying more pressure",
+            "Applying less pressure",
+            "Less opening of needle",
+            "More opening of needle"
+          ],
+          "answer": "Less opening of needle",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Preventive maintenance",
+      "quizWrap": [
+        {
+          "id": 278,
+          "question": "Which document is used to record part no, name of the part, batch no and batch quantity?",
+          "image_url": null,
+          "options": [
+            "Batch processing record",
+            "Flow process chart",
+            "Bill of material",
+            "Production cycle time"
+          ],
+          "answer": "Batch processing record",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "What is the system of lubrication?",
+          "image_url": null,
+          "options": [
+            "Wick feed",
+            "Ring oiling",
+            "Splash system",
+            "Manual screw down system"
+          ],
+          "answer": "Ring oiling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "Which cutting fluid dissolve in water giving a milky white solution?",
+          "image_url": null,
+          "options": [
+            "Fatty oil",
+            "Straight mineral oil",
+            "Soluble oil",
+            "Blended oil"
+          ],
+          "answer": "Soluble oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "How the grease is lubricated in manual screw down greaser?",
+          "image_url": null,
+          "options": [
+            "Due to atmospheric pressure",
+            "Due to Liquidity of grease",
+            "By turning down in grease cup",
+            "By turning up the grease cup"
+          ],
+          "answer": "By turning down in grease cup",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the name of washer?",
+          "image_url": null,
+          "options": [
+            "Internal type washer",
+            "External type washer",
+            "Internal and External washer",
+            "Counter sunk washer"
+          ],
+          "answer": "Internal and External washer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What is the symbol marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Schedule for frequency other than above"
+          ],
+          "answer": "Monthly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "When the shaft is rotating at full speed a full ring of lubricating film is formed around the shaft. What is the effect film formed around the shaft?",
+          "image_url": null,
+          "options": [
+            "Increases the frictional resistance",
+            "Decreases the frictional resistance",
+            "Increases the speed of the shaft",
+            "Decreases the speed of the shaft"
+          ],
+          "answer": "Decreases the frictional resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which document is used to list of parts involved in manufacturing?",
+          "image_url": null,
+          "options": [
+            "Process chart",
+            "Job card",
+            "Bill of material",
+            "Estimation of work"
+          ],
+          "answer": "Bill of material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "Which cutting fluids are used in cutting thread on cast iron material?",
+          "image_url": null,
+          "options": [
+            "Land oil",
+            "Kerosene",
+            "Sulphurized oil",
+            "Soluble oil"
+          ],
+          "answer": "Sulphurized oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "Which format is used to program the frequency of maintenance schedules?",
+          "image_url": null,
+          "options": [
+            "Machinery and equipment format",
+            "Preventive maintenance format",
+            "Maintenance log format",
+            "Estimation format"
+          ],
+          "answer": "Preventive maintenance format",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "Which record is used to calculate the expenditure to be incurred on a particular job?",
+          "image_url": null,
+          "options": [
+            "Estimation record",
+            "Maintenance record",
+            "Inspection record",
+            "Productivity record"
+          ],
+          "answer": "Estimation record",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "Which cutting fluid is used for threading in general purpose steel?",
+          "image_url": null,
+          "options": [
+            "Soluble oil",
+            "Lard oil",
+            "Kerosene",
+            "Dry"
+          ],
+          "answer": "Lard oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "Name the format gives the list of parts involved in manufacturing of an assembly.",
+          "image_url": null,
+          "options": [
+            "Productivit",
+            "Flow process chart",
+            "Batch processing record",
+            "Bill of material"
+          ],
+          "answer": "Bill of material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "Which type of lock washer used with flat or oval type head screw?",
+          "image_url": null,
+          "options": [
+            "External type",
+            "Internal type",
+            "Counter sunk type",
+            "Internal and external type"
+          ],
+          "answer": "Counter sunk type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "Why the servo mesh oils are blended with lead and sulphur compounds?",
+          "image_url": null,
+          "options": [
+            "Resistance to deposit formation",
+            "Resistance to viscosity",
+            "Resistance to lubricity",
+            "Resistance to oiliness"
+          ],
+          "answer": "Resistance to deposit formation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is the name of symbol marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Scheduled for frequency other than above"
+          ],
+          "answer": "Scheduled for frequency other than above",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "Which is classified as hydrostatic lubrication?",
+          "image_url": null,
+          "options": [
+            "Fluidity of lubricate",
+            "Oiliness of lubricant",
+            "Thick film of lubricant",
+            "Thin film of lubricant"
+          ],
+          "answer": "Thick film of lubricant",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "Why the servo mesh oils are prepared as a gear oils?",
+          "image_url": null,
+          "options": [
+            "Resistant to deposit formation",
+            "Resistance to lubricity",
+            "Resistance to oiliness",
+            "Resistance to viscosity"
+          ],
+          "answer": "Resistant to deposit formation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "Which one indicates readily separate the water from oil?",
+          "image_url": null,
+          "options": [
+            "Viscosity",
+            "Oiliness",
+            "Emulsification",
+            "De-emulsification"
+          ],
+          "answer": "De-emulsification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "What is the name of lubrication system?",
+          "image_url": null,
+          "options": [
+            "Wick feed",
+            "Ring oiling",
+            "Gravity feed",
+            "Splash lubricating"
+          ],
+          "answer": "Splash lubricating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Which cutting fluid is used for heavy duty machine with less cutting speed?",
+          "image_url": null,
+          "options": [
+            "Synthetic fluid",
+            "Straight mineral oil",
+            "Fatty oil",
+            "Soluble oil"
+          ],
+          "answer": "Fatty oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "Which cutting oil is used in automatic lathes?",
+          "image_url": null,
+          "options": [
+            "Soluble oil",
+            "Fatty oil",
+            "Compounded (or) blended oil",
+            "Straight mineral oil"
+          ],
+          "answer": "Compounded (or) blended oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 300,
+          "question": "Name the time of a machine runs automatically without manual intervention.",
+          "image_url": null,
+          "options": [
+            "Over all cycle time",
+            "Machine cycle time",
+            "Auto cycle time",
+            "Total cycle time"
+          ],
+          "answer": "Auto cycle time",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "Which cutting fluid is used for turning copper?",
+          "image_url": null,
+          "options": [
+            "Kerosene",
+            "Mineral oil",
+            "Soluble oil",
+            "Lard oil"
+          ],
+          "answer": "Soluble oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "Which system the wick feed lubrication is categorized?",
+          "image_url": null,
+          "options": [
+            "Hand feed",
+            "Force feed",
+            "Splash feed",
+            "Gravity feed"
+          ],
+          "answer": "Gravity feed",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Lubrication and Foundation",
+      "quizWrap": [
+        {
+          "id": 303,
+          "question": "Why sprit level should be placed on bridge as shown?",
+          "image_url": null,
+          "options": [
+            "For easiness",
+            "Avoid any error in spirit level",
+            "Correct the floor level error",
+            "Inaccuracy of the scraped surface"
+          ],
+          "answer": "Inaccuracy of the scraped surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "What is the name of slinging block shown in figure?",
+          "image_url": null,
+          "options": [
+            "Eye hook",
+            "Eye hook with safety catch",
+            "Barrel hook",
+            "Swivel hook with spring safety hook"
+          ],
+          "answer": "Swivel hook with spring safety hook",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "What is the name of the crane?",
+          "image_url": null,
+          "options": [
+            "Gantry crane",
+            "Pillar jib crane",
+            "Travelling crane",
+            "Bracket jib crane"
+          ],
+          "answer": "Gantry crane",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "Why foundation bolts are essential to machines?",
+          "image_url": null,
+          "options": [
+            "Observe vibration",
+            "Hold machine firmly",
+            "Improve the production",
+            "Avoid shifting of machine"
+          ],
+          "answer": "Hold machine firmly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "What is the purpose of dynamo eye bolt?",
+          "image_url": null,
+          "options": [
+            "Lift vertical load",
+            "Lower horizontal load",
+            "Lead inclined load",
+            "Suspend radial load"
+          ],
+          "answer": "Lift vertical load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "Why packer are placed at the edges, while lifting the load with wire rope sling one should keep the packer at the edges of the lifting load?",
+          "image_url": null,
+          "options": [
+            "Lifting load will not damage",
+            "Lifting load will be at the enter",
+            "To maintain the centre of gravity",
+            "To protect the sling at the edges of the load"
+          ],
+          "answer": "To protect the sling at the edges of the load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "Which one consists of a bridge constructed from several griders supporting travelling hoist?",
+          "image_url": null,
+          "options": [
+            "Floor crane",
+            "Jib crane",
+            "Over head crane",
+            "Frame derrick crane"
+          ],
+          "answer": "Over head crane",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "What is the name of foundation bolt?",
+          "image_url": null,
+          "options": [
+            "Eye bolt",
+            "Bent bolt",
+            "Rawl bolt",
+            "Conical washer foundation bolt"
+          ],
+          "answer": "Conical washer foundation bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "What is the name of part marked ʹXʹ in single leg chain?",
+          "image_url": null,
+          "options": [
+            "Master link",
+            "Intermediate link",
+            "Joining link",
+            "Chain"
+          ],
+          "answer": "Joining link",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "How it is separated in thick film lubrication, two surfaces of bearing are completely separated by a fluid film?",
+          "image_url": null,
+          "options": [
+            "Because of resistance to wear",
+            "Because of prevents to adhesion",
+            "Because of heat carrying capacity",
+            "Because of viscosity to resistance"
+          ],
+          "answer": "Because of viscosity to resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "When pouring the lead, care should be taken, that no water is collected into the hole. If water is collected in the hole what is the effect?",
+          "image_url": null,
+          "options": [
+            "Blow hole will be formed",
+            "Lead will not solidify",
+            "Steam will generated",
+            "No effect"
+          ],
+          "answer": "Blow hole will be formed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "Which tool is used in inspection during the acceptance tests of new machines?",
+          "image_url": null,
+          "options": [
+            "Steel rule",
+            "Plumb bob",
+            "Try square",
+            "Test mandrels"
+          ],
+          "answer": "Test mandrels",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 315,
+          "question": "What is the property of lubricant that can withstand high pressure or load?",
+          "image_url": null,
+          "options": [
+            "Oiliness",
+            "Viscosity",
+            "Fire point",
+            "Flashpoint"
+          ],
+          "answer": "Viscosity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "Which wire rope strands are twisted in the same direction?",
+          "image_url": null,
+          "options": [
+            "Lang lay rope",
+            "Rigid lay rope",
+            "Regular lay rope",
+            "Combined lay rope"
+          ],
+          "answer": "Lang lay rope",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "What is the purpose of triangular frame base resting on ground in the frame of derrick lifting equipment?",
+          "image_url": null,
+          "options": [
+            "Prevent the vibration",
+            "Avoid slipping of load",
+            "Prevent imbalance of load",
+            "Prevent base from moving under load"
+          ],
+          "answer": "Prevent base from moving under load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the material of sling hooks?",
+          "image_url": null,
+          "options": [
+            "Low carbon steel",
+            "High carbon steel",
+            "High tensile steel",
+            "Medium carbon steel"
+          ],
+          "answer": "High tensile steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the property of the lubricant that the vapour is given off from the oil?",
+          "image_url": null,
+          "options": [
+            "Viscosity",
+            "Fire point",
+            "Pour point",
+            "Flash point"
+          ],
+          "answer": "Flash point",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "What is used for checking the horizontal and vertical levels of a machine?",
+          "image_url": null,
+          "options": [
+            "Mason level",
+            "Block spirit level",
+            "Simple spirit level",
+            "Precision spirit level"
+          ],
+          "answer": "Block spirit level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "What is the purpose of using lubricant?",
+          "image_url": null,
+          "options": [
+            "Increase friction",
+            "Reduce friction",
+            "Increase the loading capacity",
+            "Increase the speed of moving elements"
+          ],
+          "answer": "Reduce friction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "What is the operation performed before geometrical tests on machines?",
+          "image_url": null,
+          "options": [
+            "Erecting",
+            "Inspecting",
+            "Levelling",
+            "Grouting"
+          ],
+          "answer": "Levelling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "Which is the property of the oil catches fire and continues to be in flame?",
+          "image_url": null,
+          "options": [
+            "Flash point",
+            "Fire point",
+            "Pour point",
+            "Oiliness"
+          ],
+          "answer": "Fire point",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "What is the ratio of concrete mixture of cement, sand and stone for foundation?",
+          "image_url": null,
+          "options": [
+            "01:02:04",
+            "02:01:04",
+            "04:02:01",
+            "04:01:02"
+          ],
+          "answer": "01:02:04",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "What is the name of foundation bolts?",
+          "image_url": null,
+          "options": [
+            "Rag bolt",
+            "Bent bolt",
+            "Rawl bolt",
+            "Cotter bolt"
+          ],
+          "answer": "Rawl bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "Why the lifting pockets are provided with the equipment?",
+          "image_url": null,
+          "options": [
+            "Place the steel wedge",
+            "Provision for bolt and nut",
+            "Place the crowbar for lifting",
+            "Position the roller for moving"
+          ],
+          "answer": "Place the crowbar for lifting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "What is the purpose of rollers placed under the equipment?",
+          "image_url": null,
+          "options": [
+            "To move easily",
+            "To lift easily",
+            "To lower easily",
+            "To raise easily"
+          ],
+          "answer": "To move easily",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

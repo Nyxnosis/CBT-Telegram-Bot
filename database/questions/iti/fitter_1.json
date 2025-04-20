@@ -1,0 +1,5513 @@
+[
+    {
+      "module": "Safety and Trade tools",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "Which is the immediate life saving procedure?",
+          "image_url": null,
+          "options": [
+            "First Aid",
+            "Call a doctor",
+            "Intensive care",
+            "Medical treatment"
+          ],
+          "answer": "First Aid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "What is the name of part marked as ‘X’ in surface gauge?",
+          "image_url": null,
+          "options": [
+            "Nut",
+            "Snug",
+            "Spindle",
+            "Scriber"
+          ],
+          "answer": "Snug",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the advantage of waste disposal?",
+          "image_url": null,
+          "options": [
+            "Spent lot of energy and resources",
+            "Increase adverse impact on environment",
+            "Ensure workshop neat and tidy",
+            "Reduce economic efficiency"
+          ],
+          "answer": "Ensure workshop neat and tidy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which fire extinguisher filled with carbon tetra chloride and Bromochlorodifluoro methane (BCF)?",
+          "image_url": null,
+          "options": [
+            "Carbon dioxide",
+            "Halon extinguisher",
+            "Foam extinguisher",
+            "Dry powder extinguisher"
+          ],
+          "answer": "Halon extinguisher",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "Which one is the result of without following the 5ʹs techniques?",
+          "image_url": null,
+          "options": [
+            "To improve productivity",
+            "To improve operator efficiency",
+            "To reduce scrap rate",
+            "To lead dirty work place"
+          ],
+          "answer": "To lead dirty work place",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "Which chisel is used for cutting oil grooves?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Web chisel",
+            "Half round nose chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Half round nose chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What is the period referred as ʹgolden hoursʹ?",
+          "image_url": null,
+          "options": [
+            "First 30 minutes after incident",
+            "First 30 minutes",
+            "First 45 minutes of admission",
+            "First 60 minutes after treatment"
+          ],
+          "answer": "First 30 minutes after incident",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "What is the material to manufacture bench vice?",
+          "image_url": null,
+          "options": [
+            "Tool steel",
+            "High carbon steel",
+            "Medium carbon steel",
+            "Cast iron"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "Which one is comes under soft skills?",
+          "image_url": null,
+          "options": [
+            "Copy writing",
+            "Marketing",
+            "Team work",
+            "Budgeting"
+          ],
+          "answer": "Team work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What will be the effect if the person without wearing the given PPE in workshop?",
+          "image_url": null,
+          "options": [
+            "Affect due to fumes / gases / vapours",
+            "Affect due to falling and striking objects",
+            "Affect due to high noise level",
+            "Affect due to flying dust particles"
+          ],
+          "answer": "Affect due to falling and striking objects",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "Which part of the bevel protractor contact with the inclined surface while measuring?",
+          "image_url": null,
+          "options": [
+            "Dial",
+            "Disc",
+            "Blade",
+            "Stock"
+          ],
+          "answer": "Blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "Where will be the weight of the hammer stamped?",
+          "image_url": null,
+          "options": [
+            "Face",
+            "Pein",
+            "Cheek",
+            "Eye hole"
+          ],
+          "answer": "Cheek",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "Which vice is used for holding hollow cylindrical jobs?",
+          "image_url": null,
+          "options": [
+            "Pin vice",
+            "Pipe vice",
+            "Hand vice",
+            "Bench vice"
+          ],
+          "answer": "Pipe vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "Which one is measured in given figure?",
+          "image_url": null,
+          "options": [
+            "Check the flatness",
+            "Check the squareness",
+            "Marking lines 90°",
+            "The work piece at right angle"
+          ],
+          "answer": "Check the squareness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "Name the part of a hammer marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Face",
+            "Pein",
+            "Cheek",
+            "Eye hole"
+          ],
+          "answer": "Cheek",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "What is the colour code of bins for waste paper segregation?",
+          "image_url": null,
+          "options": [
+            "Red",
+            "Blue",
+            "Black",
+            "Green"
+          ],
+          "answer": "Blue",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What are the three factors causes fire?",
+          "image_url": null,
+          "options": [
+            "Fuel, Heat, Oxygen",
+            "Oxygen, Fuel, Nitrogen",
+            "Heat, Nitrogen, Oxygen",
+            "Fuel, Carbon-dioxide, Heat"
+          ],
+          "answer": "Fuel, Heat, Oxygen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "Which file has the parallel edges throughout the length?",
+          "image_url": null,
+          "options": [
+            "Hand file",
+            "Bastard file",
+            "Rasp cut file",
+            "Single cut file"
+          ],
+          "answer": "Hand file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "Which comes under mechanical occupational hazards?",
+          "image_url": null,
+          "options": [
+            "Noise",
+            "Toxic",
+            "Unskilled",
+            "Unguarded machinery"
+          ],
+          "answer": "Unguarded machinery",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "How to eliminate the accident in work place?",
+          "image_url": null,
+          "options": [
+            "Doing work in ancient way",
+            "Doing work in oneʹs own way",
+            "Using safety equipment",
+            "Observing safety rules in all aspect"
+          ],
+          "answer": "Observing safety rules in all aspect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "What is the class of fire caused by fire wood, paper, cloth?",
+          "image_url": null,
+          "options": [
+            "Class ‘A’ fire",
+            "Class ‘B’ fire",
+            "Class ‘C’ fire",
+            "Class ‘D’ fire"
+          ],
+          "answer": "Class ‘A’ fire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "What is the name of ‘V’ block?",
+          "image_url": null,
+          "options": [
+            "‘V’ grooved ‘V’ block",
+            "Single level single groove ‘V’ block",
+            "Double level single groove ‘V’ block",
+            "Single level double groove ‘V’ block"
+          ],
+          "answer": "Single level single groove ‘V’ block",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What is the use of bevel protractor?",
+          "image_url": null,
+          "options": [
+            "Check the length",
+            "Set the work piece",
+            "Measure the angle",
+            "Measure the depth"
+          ],
+          "answer": "Measure the angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "How the fire extinguisher are functioned to stop fire?",
+          "image_url": null,
+          "options": [
+            "Pull, Sweep, Aim, Squeeze",
+            "Pull, Aim, Squeeze, Sweep",
+            "Aim, Pull, Squeeze, Sweep",
+            "Aim, Squeeze, Pull, Sweep"
+          ],
+          "answer": "Pull, Aim, Squeeze, Sweep",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "Which fire extinguisher is used for flammable and running liquid fire?",
+          "image_url": null,
+          "options": [
+            "Foam extinguisher",
+            "Halon extinguisher",
+            "Dry powder extinguisher",
+            "Carbon dioxide (CO2) extinguisher"
+          ],
+          "answer": "Foam extinguisher",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 25,
+          "question": "How to rectify the digging of hammer while striking?",
+          "image_url": null,
+          "options": [
+            "Giving slight convexity on face",
+            "Giving slight convexity on cheek",
+            "Giving slight concavity on cheek",
+            "Giving slight concavity on face"
+          ],
+          "answer": "Giving slight convexity on face",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "What is the accuracy of a try square?",
+          "image_url": null,
+          "options": [
+            "0.02 mm per 10 mm length",
+            "0.004 mm per 10 mm length",
+            "0.002 mm per 10 mm length",
+            "0.001 mm per 10 mm length"
+          ],
+          "answer": "0.002 mm per 10 mm length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which is used to finish the resharpened divider point?",
+          "image_url": null,
+          "options": [
+            "File",
+            "Grinder",
+            "Scraper",
+            "Oil stone"
+          ],
+          "answer": "Oil stone",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "Which one is the personal safety?",
+          "image_url": null,
+          "options": [
+            "Keep the machine clean",
+            "Concentrate on your work",
+            "Keep the gang way and floor clean",
+            "Keep the tools at their proper place"
+          ],
+          "answer": "Concentrate on your work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "What “A” denotes in ABC of first aid?",
+          "image_url": null,
+          "options": [
+            "air route",
+            "Attention",
+            "Arresting",
+            "Atmosphere"
+          ],
+          "answer": "air route",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "Name the mandatory symbol.",
+          "image_url": null,
+          "options": [
+            "Stop",
+            "Give way",
+            "Guarded",
+            "Unguarded"
+          ],
+          "answer": "Stop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "Name the file.",
+          "image_url": null,
+          "options": [
+            "Barrot file",
+            "Riffler file",
+            "Crossing file",
+            "Mill saw file"
+          ],
+          "answer": "Riffler file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the name of the caliper having one leg with an adjustable divider point and other leg is bent?",
+          "image_url": null,
+          "options": [
+            "Jenny caliper",
+            "Inside caliper",
+            "Outside caliper",
+            "Spring joint caliper"
+          ],
+          "answer": "Jenny caliper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "Name the warning sign.",
+          "image_url": null,
+          "options": [
+            "School",
+            "Guarded",
+            "Unguarded",
+            "Pedestrian crossing"
+          ],
+          "answer": "Unguarded",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "Which punch is used for witness marks?",
+          "image_url": null,
+          "options": [
+            "Dot punch",
+            "Pin punch",
+            "Bell punch",
+            "Centre punch"
+          ],
+          "answer": "Dot punch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "What is the process of breaking down the materials into organic compounds and can be used as manure?",
+          "image_url": null,
+          "options": [
+            "Land fills",
+            "Recycling",
+            "Composting",
+            "Burning waste material"
+          ],
+          "answer": "Composting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "What is the accuracy of protractor head in combination set?",
+          "image_url": null,
+          "options": [
+            "1°",
+            "5°",
+            "5'",
+            "5ʺ"
+          ],
+          "answer": "1°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "What is the name of file?",
+          "image_url": null,
+          "options": [
+            "Rotary file",
+            "Tinkers file",
+            "Barrette file",
+            "Crossing file"
+          ],
+          "answer": "Rotary file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the accuracy of Vernier bevel protractor?",
+          "image_url": null,
+          "options": [
+            "1°",
+            "5°",
+            "5'",
+            "5ʺ"
+          ],
+          "answer": "5'",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "Why the narrow slots are provided in the ʺVʺ - groove of vee - block?",
+          "image_url": null,
+          "options": [
+            "For appearance",
+            "For grip",
+            "For hold mild steel plate",
+            "Clearance for drilling operation"
+          ],
+          "answer": "Clearance for drilling operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "Name the part of file marked as “X”.",
+          "image_url": null,
+          "options": [
+            "Heel",
+            "Tang",
+            "Ferrule",
+            "File length"
+          ],
+          "answer": "Heel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "Which chisel used for squaring materials at the corners, joints?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Diamond point chisel",
+            "Half round nose chisels"
+          ],
+          "answer": "Diamond point chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "Why chalk is applied on the face of the file?",
+          "image_url": null,
+          "options": [
+            "To reduce excessive pressure",
+            "To increase chip removed rate",
+            "To reduce penetration and pinning",
+            "To increase penetration and pinning"
+          ],
+          "answer": "To reduce penetration and pinning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the first step of avoiding accident in work place?",
+          "image_url": null,
+          "options": [
+            "By wearing safety equipment",
+            "Doing things in one’s own way",
+            "By observing safety precautions",
+            "Doing things with a highly skilled working practice"
+          ],
+          "answer": "By observing safety precautions",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What is the name of the vice?",
+          "image_url": null,
+          "options": [
+            "Pin vice",
+            "Pipe vice",
+            "Hand vice",
+            "Quick releasing vice"
+          ],
+          "answer": "Hand vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "What is the preventive action while using scriber to avoid accident?",
+          "image_url": null,
+          "options": [
+            "Made a scriber by very soft metal",
+            "Blunt the scriber point after use",
+            "Place a cork on the scriber point",
+            "Put the scriber in the shirt packet"
+          ],
+          "answer": "Place a cork on the scriber point",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "Which caliper is used to mark the centre of round bar?",
+          "image_url": null,
+          "options": [
+            "Jenny caliper",
+            "Inside caliper",
+            "Outside caliper",
+            "Firm joint caliper"
+          ],
+          "answer": "Jenny caliper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "Which file is used to make the job close to the finishing size?",
+          "image_url": null,
+          "options": [
+            "Single cut file",
+            "Curved cut file",
+            "Second cut file",
+            "Double cut file"
+          ],
+          "answer": "Second cut file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the name of vice?",
+          "image_url": null,
+          "options": [
+            "Pin vice",
+            "Pipe vice",
+            "Hand vice",
+            "Machine vice"
+          ],
+          "answer": "Pin vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "Which angle is represented by the symbol “g” on the cutting chisel?",
+          "image_url": null,
+          "options": [
+            "Rake angle",
+            "Wedge angle",
+            "Cutting angle",
+            "Clearance angle"
+          ],
+          "answer": "Rake angle",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Marking media and Engineering metal",
+      "quizWrap": [
+        {
+          "id": 50,
+          "question": "Which material is used to manufacture grade ‘A’ ‘V’ blocks?",
+          "image_url": null,
+          "options": [
+            "Tool steel",
+            "Carbon steel",
+            "High quality steel",
+            "Closely grained cast iron"
+          ],
+          "answer": "High quality steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What will be the effect if the temperature attains the fusibility temperature of the metal?",
+          "image_url": null,
+          "options": [
+            "Transformation in specific gravity",
+            "Transformation in weight",
+            "Transformation in shape",
+            "Transformation in pressure"
+          ],
+          "answer": "Transformation in shape",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "Name the property of metal to resist the effect of tensile forces without rupture.",
+          "image_url": null,
+          "options": [
+            "Ductility",
+            "Tenacity",
+            "Elasticity",
+            "Malleability"
+          ],
+          "answer": "Tenacity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "Which metal cutting saw is used for cutting different profiles?",
+          "image_url": null,
+          "options": [
+            "Power saw",
+            "Circular saw",
+            "Contour band saw",
+            "Horizontal band saw"
+          ],
+          "answer": "Contour band saw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "Which combination of metal is used to get desired properties of steel?",
+          "image_url": null,
+          "options": [
+            "Mixing proportion of silicon",
+            "Mixing proportion of carbon",
+            "Mixing proportion of manganese",
+            "Mixing proportion of chromium"
+          ],
+          "answer": "Mixing proportion of carbon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "What is the property of metal that permits no permanent distortion before breaking?",
+          "image_url": null,
+          "options": [
+            "Tenacity",
+            "Hardness",
+            "Brittleness",
+            "Toughness"
+          ],
+          "answer": "Brittleness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is reason behind a material is return to its original shape after the withdrawal of applied force?",
+          "image_url": null,
+          "options": [
+            "Due to plasticity of material",
+            "Due to elasticity of material",
+            "Due to toughness of material",
+            "Due to hardness of material"
+          ],
+          "answer": "Due to elasticity of material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "Which marking media is applied to rough forgings and castings?",
+          "image_url": null,
+          "options": [
+            "White wash",
+            "Prussian blue",
+            "Copper sulphate",
+            "Cellulose lacquer"
+          ],
+          "answer": "White wash",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "What is the reason for selecting wrought iron for manufacturing crane hooks?",
+          "image_url": null,
+          "options": [
+            "It is tough",
+            "It has tenacity",
+            "It is hard",
+            "It has machinability"
+          ],
+          "answer": "It is tough",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "Identify the type of “V” blocks.",
+          "image_url": null,
+          "options": [
+            "Single level single groove",
+            "Single level double groove",
+            "Double level single groove",
+            "Double level double groove"
+          ],
+          "answer": "Double level single groove",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "Name the property of metal which can be drawn into wire without rupture.",
+          "image_url": null,
+          "options": [
+            "Ductility",
+            "Tenacity",
+            "Elasticity",
+            "Malleability"
+          ],
+          "answer": "Ductility",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "Which of the following metal has a low specific gravity?",
+          "image_url": null,
+          "options": [
+            "Brass",
+            "Aluminium",
+            "Copper",
+            "Lead"
+          ],
+          "answer": "Aluminium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "What will happen if less than two teeth are in contact with the work while hacksawing?",
+          "image_url": null,
+          "options": [
+            "More heat generated",
+            "More wear in the blade",
+            "Breakage to the blade",
+            "Breakage to the job"
+          ],
+          "answer": "Breakage to the blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What reason behind the heavy ribs are provided underside of surface plate?",
+          "image_url": null,
+          "options": [
+            "For strength and rigidity of plate",
+            "For appearance and look of plate",
+            "For increase the weight of plate",
+            "For balancing the surface plate"
+          ],
+          "answer": "For strength and rigidity of plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "What is the name of parallel block?",
+          "image_url": null,
+          "options": [
+            "Solid parallel block",
+            "Tenon parallel block",
+            "Angular parallel block",
+            "Adjustable parallel block"
+          ],
+          "answer": "Adjustable parallel block",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "Why marking tables are made up of cast iron?",
+          "image_url": null,
+          "options": [
+            "Self lubricating",
+            "Make more rigidity",
+            "Maintain the accuracy",
+            "Prevent thermal expansion"
+          ],
+          "answer": "Self lubricating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "Which marking media provide clear lines on machine finished surfaces?",
+          "image_url": null,
+          "options": [
+            "White wash",
+            "Prussian blue",
+            "Copper sulphate",
+            "Cellulose lacquer"
+          ],
+          "answer": "Prussian blue",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "Which of the following metal is good conductor of heat and electricity?",
+          "image_url": null,
+          "options": [
+            "Cast iron",
+            "Mild steel",
+            "Copper",
+            "Wrought iron"
+          ],
+          "answer": "Copper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "Why surface plates are made of stress relieved good quality cast iron?",
+          "image_url": null,
+          "options": [
+            "To prevent corrosion",
+            "To prevent breaking",
+            "To prevent distortion",
+            "To prevent thermal expansion"
+          ],
+          "answer": "To prevent distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "What is the purpose of slots provided in the slotted angle plate?",
+          "image_url": null,
+          "options": [
+            "Job clamping",
+            "Easy handling",
+            "Reduce weight",
+            "Better appearance"
+          ],
+          "answer": "Job clamping",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "Name the property of metal that withstand shock or impact?",
+          "image_url": null,
+          "options": [
+            "Tenacity",
+            "Hardness",
+            "Brittleness",
+            "Toughness"
+          ],
+          "answer": "Toughness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "Which property of the metal is advantageous for extending its shape without rupture?",
+          "image_url": null,
+          "options": [
+            "Malleability",
+            "Hardness",
+            "Brittleness",
+            "Toughness"
+          ],
+          "answer": "Malleability",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "Name the property of metal, if it is attracted by magnet.",
+          "image_url": null,
+          "options": [
+            "Conductivity",
+            "Magnetic property",
+            "Fusibility",
+            "Specific gravity"
+          ],
+          "answer": "Magnetic property",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "How to rectify slip and misalignment in adjustable parallels while sliding one over the other?",
+          "image_url": null,
+          "options": [
+            "By bolt and nut assembly",
+            "By dovetail groove assembly",
+            "By combined flat and vee assembly",
+            "By tongue and groove assembly"
+          ],
+          "answer": "By tongue and groove assembly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "Which property of metal is beneficial for melting?",
+          "image_url": null,
+          "options": [
+            "Fusibility",
+            "Specific gravity",
+            "Conductivity",
+            "Structure"
+          ],
+          "answer": "Fusibility",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Precision instruments and Drilling process",
+      "quizWrap": [
+        {
+          "id": 75,
+          "question": "What is the reading of vernier bevel protractor?",
+          "image_url": null,
+          "options": [
+            "18° 50'",
+            "41° 50'",
+            "50° 50'",
+            "58° 50'"
+          ],
+          "answer": "41° 50'",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "What is the accuracy of vernier caliper?",
+          "image_url": null,
+          "options": [
+            "0.2mm",
+            "0.1mm",
+            "0.001mm",
+            "0.02mm"
+          ],
+          "answer": "0.02mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "What is the reading of vernier caliper with inch graduations?",
+          "image_url": null,
+          "options": [
+            "1.068ʺ",
+            "1.459ʺ",
+            "1.418ʺ",
+            "1.409ʺ"
+          ],
+          "answer": "1.459ʺ",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the reading of the outside micrometer 50 to 75mm?",
+          "image_url": null,
+          "options": [
+            "63.63mm",
+            "63.00mm",
+            "63.36mm",
+            "63.13mm"
+          ],
+          "answer": "63.63mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Which is an integral part of the stock in vernier bevel protractor?",
+          "image_url": null,
+          "options": [
+            "Disc",
+            "Dial",
+            "Blade",
+            "Main scale"
+          ],
+          "answer": "Dial",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "What is the reading of a vernier caliper?",
+          "image_url": null,
+          "options": [
+            "35.1mm",
+            "35.2mm",
+            "35.3mm",
+            "35.4mm"
+          ],
+          "answer": "35.4mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "What is the spindle movement of one division of thimble with spindle thread of 0.5mm pitch?",
+          "image_url": null,
+          "options": [
+            "0.01mm",
+            "0.10mm",
+            "1.00mm",
+            "10.0mm"
+          ],
+          "answer": "0.01mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "What is the accuracy of metric outside micrometer?",
+          "image_url": null,
+          "options": [
+            "0.01mm",
+            "0.001mm",
+            "0.02mm",
+            "0.002mm"
+          ],
+          "answer": "0.01mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "Which part of the vernier height gauge is an integral part of the main slide?",
+          "image_url": null,
+          "options": [
+            "Jaw",
+            "Base",
+            "Beam",
+            "Jaw clamp"
+          ],
+          "answer": "Jaw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "What is the name of part marked as ‘X’ in drilling machine?",
+          "image_url": null,
+          "options": [
+            "Drill chuck",
+            "Feed handle",
+            "Driving motor",
+            "Depth gauge and stop"
+          ],
+          "answer": "Drill chuck",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What operation is carried out in a gang drilling machine?",
+          "image_url": null,
+          "options": [
+            "Idle operation",
+            "Repeated operation of drilling",
+            "Continuous milling operation",
+            "Successive operation of drilling"
+          ],
+          "answer": "Successive operation of drilling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "Calculate the tap drill size for M10 x 1.25.",
+          "image_url": null,
+          "options": [
+            "8.8mm",
+            "8.7mm",
+            "8.75mm",
+            "8.65mm"
+          ],
+          "answer": "8.8mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "How the wide range of depth can be measured by depth micrometer?",
+          "image_url": null,
+          "options": [
+            "Lengthy sleeve",
+            "Lengthy spindle",
+            "Adjustable base",
+            "Equipped with a set of extension rods"
+          ],
+          "answer": "Equipped with a set of extension rods",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "Which situations zero setting of digital vernier caliper is necessary?",
+          "image_url": null,
+          "options": [
+            "While remove the battery from caliper",
+            "While off the vernier caliper",
+            "When jaws touch together",
+            "When jaws separate together"
+          ],
+          "answer": "When jaws touch together",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "What is the name of drilling machine?",
+          "image_url": null,
+          "options": [
+            "Pillar drilling machine",
+            "Gang drilling machine",
+            "Bench drilling machine",
+            "Radial drilling machine"
+          ],
+          "answer": "Pillar drilling machine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "Read the measurement in the dial caliper.",
+          "image_url": null,
+          "options": [
+            "24.2mm",
+            "24.8mm",
+            "25.2mm",
+            "26.2mm"
+          ],
+          "answer": "26.2mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "Which drilling machine, the spindle head is moved towards or away from the column?",
+          "image_url": null,
+          "options": [
+            "Pillar drilling machine",
+            "Gang drilling machine",
+            "Radial drilling machine",
+            "Sensitive bench drilling machine"
+          ],
+          "answer": "Radial drilling machine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "Which problem will occurred if tap drill size is more than that of the tap size?",
+          "image_url": null,
+          "options": [
+            "Tap will be broken suddenly",
+            "Tap will not entered the hole",
+            "Tapping operation will not be performed",
+            "Tap will be jammed inside the hole"
+          ],
+          "answer": "Tapping operation will not be performed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Spindle",
+            "Sleeve",
+            "Thimble",
+            "Spindle lock"
+          ],
+          "answer": "Thimble",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Beam",
+            "Main scale",
+            "Fine adjusting nut",
+            "Fine adjusting slide"
+          ],
+          "answer": "Fine adjusting slide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "How the problem of error in reading due to uniform pressure between the measuring surfaces is rectified in micrometer?",
+          "image_url": null,
+          "options": [
+            "Using ratchet stop",
+            "Using spindle",
+            "Using barrel / sleeve",
+            "Using thimble"
+          ],
+          "answer": "Using ratchet stop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "What will happen in drilling machine if spindle can rotate one direction only?",
+          "image_url": null,
+          "options": [
+            "Spot facing operation cannot be performed",
+            "Reaming operation cannot be performed",
+            "Tapping operation cannot be performed",
+            "Drilling operation cannot be performed"
+          ],
+          "answer": "Tapping operation cannot be performed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "Which part in drilling machine is to achieve different speed?",
+          "image_url": null,
+          "options": [
+            "Flat pulley",
+            "Jockey pulley",
+            "Stepped pulley",
+            "Fast and loose pulley"
+          ],
+          "answer": "Stepped pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "Name the part marked as ʹXʹ in vernier caliper.",
+          "image_url": null,
+          "options": [
+            "Beam",
+            "Fixed bar",
+            "Depth bar",
+            "Thumb lever"
+          ],
+          "answer": "Depth bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "Name the part marked as ʹXʹ.",
+          "image_url": null,
+          "options": [
+            "Anvil",
+            "Thimble",
+            "Spindle",
+            "Spindle lock"
+          ],
+          "answer": "Anvil",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Sheet metal",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "What is the name of stake?",
+          "image_url": null,
+          "options": [
+            "Horse",
+            "Bick iron",
+            "Funnel stake",
+            "Creasing iron"
+          ],
+          "answer": "Funnel stake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Which sheet metal is easiest to joint and solder?",
+          "image_url": null,
+          "options": [
+            "Tinned plate",
+            "Lead",
+            "Galvanised iron",
+            "Stainless sheet"
+          ],
+          "answer": "Tinned plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "Which metal is used to make radius gauge?",
+          "image_url": null,
+          "options": [
+            "Copper sheet",
+            "Aluminium",
+            "Hardened steel",
+            "Mild steel"
+          ],
+          "answer": "Hardened steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "Why burr form on the underside of the sheet metal while shearing?",
+          "image_url": null,
+          "options": [
+            "No clearance",
+            "Hardened metal",
+            "Increase in force",
+            "Excessive clearance"
+          ],
+          "answer": "Excessive clearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the use of groover in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Releasing of seam",
+            "Compress the seam",
+            "Closing of seam",
+            "Stress relieving during seam operation"
+          ],
+          "answer": "Closing of seam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "Which sheet metal is highly resistant to corrosion and abrasion?",
+          "image_url": null,
+          "options": [
+            "Copper",
+            "Black iron",
+            "Aluminium",
+            "Galvanised iron"
+          ],
+          "answer": "Aluminium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "Which sheet metal has better appearance than other metals?",
+          "image_url": null,
+          "options": [
+            "Black iron sheet",
+            "Aluminium sheet",
+            "Lead sheet",
+            "Copper sheet"
+          ],
+          "answer": "Copper sheet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "Which notch is cut at an angle of 45° to the corner of the sheet metal?",
+          "image_url": null,
+          "options": [
+            "Wire notch",
+            "Slant notch",
+            "Square notch",
+            "Straight notch"
+          ],
+          "answer": "Slant notch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "Which stake is used to form an arc of a circle bevelled along one side?",
+          "image_url": null,
+          "options": [
+            "Funnel stake",
+            "Hatchet stake",
+            "Half moon stake",
+            "Beak iron"
+          ],
+          "answer": "Half moon stake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "Which sheet metal withstand contact with water and exposure to weather?",
+          "image_url": null,
+          "options": [
+            "Black iron",
+            "Copper sheet",
+            "Stainless sheet",
+            "Galvanised iron"
+          ],
+          "answer": "Galvanised iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "What is the formula to calculate the size across flat to flat of regular hexagon?",
+          "image_url": null,
+          "options": [
+            "2a",
+            "√2a",
+            "√3a",
+            "3a"
+          ],
+          "answer": "√3a",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the name of supporting tool in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Funnel stake",
+            "Hatchet stake",
+            "Half moon stake",
+            "Round bottom stake"
+          ],
+          "answer": "Half moon stake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "Calculate the weight of steel plate having length of 2000 mm, width of 500 mm, thickness of 4 mm and density of 7.85 g/cm³.",
+          "image_url": null,
+          "options": [
+            "21.4 kg",
+            "31.4 kg",
+            "41.4 kg",
+            "50.4 kg"
+          ],
+          "answer": "31.4 kg",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the name of the joint in sheet metal?",
+          "image_url": null,
+          "options": [
+            "Grooved joint",
+            "Pane down joint",
+            "Knocked up joint",
+            "Double grooved joint"
+          ],
+          "answer": "Double grooved joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "How to rectified the wrinkles formed at the hemmed edges in sheet metal?",
+          "image_url": null,
+          "options": [
+            "Allowance will be 1 to 2 times the thickness",
+            "Allowance will not provided",
+            "Allowance will be 3 to 4 times the width",
+            "Allowance will be 3 to 4 times the thickness"
+          ],
+          "answer": "Allowance will be 3 to 4 times the thickness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the use of tinmanʹs ʹLʹ square in sheet metal?",
+          "image_url": null,
+          "options": [
+            "Check concentricity",
+            "Check cylindricity",
+            "Check perpendicularity",
+            "Check angularity"
+          ],
+          "answer": "Check perpendicularity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "Name the sheet metal operation.",
+          "image_url": null,
+          "options": [
+            "Grooving",
+            "Notching",
+            "Bending",
+            "Folding"
+          ],
+          "answer": "Grooving",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "How the problem of work hardness induced in cold rolled sheet is decreased?",
+          "image_url": null,
+          "options": [
+            "By quenching process",
+            "By tempering process",
+            "By annealing process",
+            "By hardening process"
+          ],
+          "answer": "By annealing process",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "Why acid tanks are made by lead sheets?",
+          "image_url": null,
+          "options": [
+            "Protect against corrosive",
+            "Protect against oxidation",
+            "Highly resistant to abrasion",
+            "Can be welded easily"
+          ],
+          "answer": "Protect against corrosive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "Which stake is used for turning up flanges on metal discs?",
+          "image_url": null,
+          "options": [
+            "Half - moon stake",
+            "Hatched stake",
+            "Funnel stake",
+            "Round bottom stake"
+          ],
+          "answer": "Half - moon stake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "Which shearing machine has advantage for single and continuous cutting action?",
+          "image_url": null,
+          "options": [
+            "Guillotine shears",
+            "Squaring shear",
+            "Bench shear",
+            "Hand lever shear"
+          ],
+          "answer": "Guillotine shears",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "What is the use of wing compass in sheet metal works?",
+          "image_url": null,
+          "options": [
+            "Fold the sheet metal",
+            "Stepping off distances",
+            "Draw parallel line",
+            "Draw perpendicular line"
+          ],
+          "answer": "Stepping off distances",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the use of stakes in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Rest of work",
+            "Supporting piece",
+            "Sharpening",
+            "Folding shapes"
+          ],
+          "answer": "Supporting piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the purpose of groover?",
+          "image_url": null,
+          "options": [
+            "Releasing of seam",
+            "Compress the seam",
+            "Closing and locking of seam",
+            "Stress relieving during seam operation"
+          ],
+          "answer": "Closing and locking of seam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "What is the name of supporting tool in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Hatchet stake",
+            "Funnel stake",
+            "Half moon stake",
+            "Round bottom stake"
+          ],
+          "answer": "Round bottom stake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 125,
+          "question": "Which metal is very soft and heavy in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Lead",
+            "Black iron",
+            "Aluminium",
+            "Copper sheet"
+          ],
+          "answer": "Lead",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "Which safety apparel is used to wear for handling thin sheets?",
+          "image_url": null,
+          "options": [
+            "Cap with sleeves",
+            "Apron",
+            "Hand gloves",
+            "Leg guards"
+          ],
+          "answer": "Hand gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "Which defect in sheet metal can be occurred if the bottom round stake is perfectly flat without chamfer?",
+          "image_url": null,
+          "options": [
+            "Spring back and wrinkling",
+            "Excessive thickening",
+            "Cracking and tearing",
+            "Excessive thinning"
+          ],
+          "answer": "Cracking and tearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What is the cause of using mallet as hammer for doing chipping and to drive nails?",
+          "image_url": null,
+          "options": [
+            "Give good striking and better grip",
+            "Mallet face damaged and break",
+            "Give good chipping and driving effect",
+            "Work piece damaged and break"
+          ],
+          "answer": "Mallet face damaged and break",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "How the problem of divider points getting softer due to sharpening by grinding wheel will be rectified?",
+          "image_url": null,
+          "options": [
+            "Sharpening by rubbing on the floor surface",
+            "Sharpening with an oil stone",
+            "Sharpening using rough every sheet",
+            "Sharpening by using file"
+          ],
+          "answer": "Sharpening with an oil stone",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What is the solution for errors arising out of parallax while using steel rule?",
+          "image_url": null,
+          "options": [
+            "Place eye on the job instead of steel rule",
+            "Place eye inclined at an angle to steel rule",
+            "Place eye vertically above steel rule",
+            "Place eye horizontally to the steel rule"
+          ],
+          "answer": "Place eye vertically above steel rule",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "What is the part marked as ‘X’ in the hand shearing machine?",
+          "image_url": null,
+          "options": [
+            "Clamp",
+            "Lever arm",
+            "Lower blade",
+            "Upper blade"
+          ],
+          "answer": "Upper blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "Name the joint made by fastening two edges of sheet metal together",
+          "image_url": null,
+          "options": [
+            "Hem",
+            "Seam",
+            "Notch",
+            "Groove"
+          ],
+          "answer": "Seam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "What is the name of tool used in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Divider firm joint",
+            "Trammel",
+            "Divider square",
+            "Wing compass"
+          ],
+          "answer": "Trammel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "What is the seam used in sheet metal joint for roofing and panelling?",
+          "image_url": null,
+          "options": [
+            "Lap seam",
+            "Double seam",
+            "Grooved seam",
+            "Double grooved seam"
+          ],
+          "answer": "Double grooved seam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the name of tool used to cut thicker sheets?",
+          "image_url": null,
+          "options": [
+            "Bend snips",
+            "Lever shears",
+            "Straight snips",
+            "Circle cutting machine"
+          ],
+          "answer": "Lever shears",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "Name the tool used to check the squareness of a sheet.",
+          "image_url": null,
+          "options": [
+            "Standard wire gauge",
+            "Steel rule",
+            "Radius gauge",
+            "Try square"
+          ],
+          "answer": "Try square",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What is the use of bent snips?",
+          "image_url": null,
+          "options": [
+            "Groove cut",
+            "Zigzag cut",
+            "Straight cut",
+            "Circular cut"
+          ],
+          "answer": "Circular cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the name of measuring tool used in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Template",
+            "Standard wire gauge",
+            "Radius gauge",
+            "Feeler gauge"
+          ],
+          "answer": "Standard wire gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "Name the zinc coated iron.",
+          "image_url": null,
+          "options": [
+            "Black iron",
+            "Tinned iron",
+            "Stainless steel",
+            "Galvanised iron"
+          ],
+          "answer": "Galvanised iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "Where the sprit level is attached in combination set?",
+          "image_url": null,
+          "options": [
+            "Protractor head",
+            "Centre head",
+            "Ruler",
+            "Blade"
+          ],
+          "answer": "Protractor head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "What is the reading accuracy of the steel rule?",
+          "image_url": null,
+          "options": [
+            "0.005mm",
+            "5.0mm",
+            "0.5mm",
+            "0.05mm"
+          ],
+          "answer": "0.5mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "Name the part of lever shear marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Base plate",
+            "Lever arm",
+            "Lower blade",
+            "Upper blade"
+          ],
+          "answer": "Lower blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "Which hammer is suitable for riveting?",
+          "image_url": null,
+          "options": [
+            "Plastic hammer",
+            "Ball pein hammer",
+            "Cross pein hammer",
+            "Straight pein hammer"
+          ],
+          "answer": "Ball pein hammer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the maximum cutting capacity of snip?",
+          "image_url": null,
+          "options": [
+            "1.2 mm thickness",
+            "2.0 mm thickness",
+            "2.5 mm thickness",
+            "3.0 mm thickness"
+          ],
+          "answer": "1.2 mm thickness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the name of warning sign?",
+          "image_url": null,
+          "options": [
+            "Risk of electric shock",
+            "Risk of fire",
+            "Risk of explosion",
+            "Risk of ionizing radiation"
+          ],
+          "answer": "Risk of fire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "Which tool used in sheet metal work to scribe a circle or arc with a large diameter?",
+          "image_url": null,
+          "options": [
+            "Spring compass",
+            "Trammel",
+            "Wing compass",
+            "Ordinary compass"
+          ],
+          "answer": "Trammel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "Name the tool used to make fluid tight joint in riveting?",
+          "image_url": null,
+          "options": [
+            "Drift",
+            "Rivet snap",
+            "Fullering tool",
+            "Caulking tool"
+          ],
+          "answer": "Fullering tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "What type of mallet used for hollowing panel beating?",
+          "image_url": null,
+          "options": [
+            "Brass mallets",
+            "Rubber mallets",
+            "Wooden mallet",
+            "Bossing mallets"
+          ],
+          "answer": "Bossing mallets",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "How many basic categories of safety signs are available?",
+          "image_url": null,
+          "options": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+          ],
+          "answer": "Four",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Soldering and Rivets",
+      "quizWrap": [
+        {
+          "id": 150,
+          "question": "What is the reason for faulty riveting?",
+          "image_url": null,
+          "options": [
+            "Burrs between plates",
+            "Too little allowance given",
+            "Improper joining of plates",
+            "Too much allowance given"
+          ],
+          "answer": "Improper joining of plates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the tool used to form the other end of rivet head?",
+          "image_url": null,
+          "options": [
+            "Dolly",
+            "Drift",
+            "Rivet set",
+            "Rivet snap"
+          ],
+          "answer": "Rivet snap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is the melting temperature range for soft soldering?",
+          "image_url": null,
+          "options": [
+            "420°C - 600°C",
+            "Above 600°C",
+            "Below 420°C",
+            "600°C - 800°C"
+          ],
+          "answer": "Below 420°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "Which flux is used for soldering tin sheets?",
+          "image_url": null,
+          "options": [
+            "Resin",
+            "Paste",
+            "Zinc chloride",
+            "Ammonium chloride"
+          ],
+          "answer": "Zinc chloride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is the name of tool is used to support the snap head rivet?",
+          "image_url": null,
+          "options": [
+            "Dolly",
+            "Drift",
+            "Rivet set",
+            "Rivet snap"
+          ],
+          "answer": "Dolly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "What is called joining two metal parts with third that has lower melting point?",
+          "image_url": null,
+          "options": [
+            "Soldering",
+            "Welding",
+            "Fastening",
+            "Wringing"
+          ],
+          "answer": "Soldering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "What is rivet interference?",
+          "image_url": null,
+          "options": [
+            "Thickness of sheet",
+            "Diameter of the rivet",
+            "Length to form the head",
+            "Total rivet length required for riveting"
+          ],
+          "answer": "Length to form the head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "Which spelter is used for gold ornaments brazing?",
+          "image_url": null,
+          "options": [
+            "Silver solder",
+            "Copper solder",
+            "Tin lead solder",
+            "Lead solder"
+          ],
+          "answer": "Silver solder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "Which rivets are used in light assembly work?",
+          "image_url": null,
+          "options": [
+            "Pan head rivet",
+            "Snap head rivet",
+            "Counter sunk rivet",
+            "Conical head rivet"
+          ],
+          "answer": "Conical head rivet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "What is the cause if melting point of the solder is higher than that of the materials being joined?",
+          "image_url": null,
+          "options": [
+            "Soldering will take more time",
+            "Soldering will be strong enough",
+            "Soldering will not be done",
+            "Soldering will be uniform width"
+          ],
+          "answer": "Soldering will not be done",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "Name the part marked as ‘X’ in a rivet?",
+          "image_url": null,
+          "options": [
+            "Tail",
+            "Body",
+            "Head",
+            "Diameter"
+          ],
+          "answer": "Body",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "Which is the operation of covering area of the metal with molten solder?",
+          "image_url": null,
+          "options": [
+            "Pickling",
+            "Swaging",
+            "Seaming",
+            "Tinning"
+          ],
+          "answer": "Tinning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "Which flux used for soldering steel?",
+          "image_url": null,
+          "options": [
+            "Ammonium chloride",
+            "Zinc chloride",
+            "Resin",
+            "Paste"
+          ],
+          "answer": "Ammonium chloride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "How the distance of first rivet is determined from the side edge?",
+          "image_url": null,
+          "options": [
+            "3 x dia of rivet",
+            "2 x dia of rivet",
+            "2.5 x dia of rivet",
+            "3.5 x dia of rivet"
+          ],
+          "answer": "2 x dia of rivet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "What is the tool marked as ‘X’ in riveting?",
+          "image_url": null,
+          "options": [
+            "Dolly",
+            "Rivet set",
+            "Fullering tool",
+            "Caulking tool"
+          ],
+          "answer": "Caulking tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "Which inorganic flux is used for soldering stainless steel metal?",
+          "image_url": null,
+          "options": [
+            "Muriatic acid",
+            "Sal - ammoniac",
+            "Killed spirits",
+            "Phosphoric acid"
+          ],
+          "answer": "Phosphoric acid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "What is the melting point of silver alloys used as spelter in brazing?",
+          "image_url": null,
+          "options": [
+            "200°C - 400°C",
+            "100°C - 200°C",
+            "600°C - 850°C",
+            "850°C - 1000°C"
+          ],
+          "answer": "600°C - 850°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "What is the fault in riveting?",
+          "image_url": null,
+          "options": [
+            "Burrs between plates",
+            "Rivet head not centered",
+            "Too much allowance given",
+            "Holes on the plate are not in line"
+          ],
+          "answer": "Holes on the plate are not in line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What is the purpose of drift in riveting operation?",
+          "image_url": null,
+          "options": [
+            "Position the rivet",
+            "Make metal to metal joint",
+            "Align the holes to be riveted",
+            "Prevent damage to rivet head"
+          ],
+          "answer": "Align the holes to be riveted",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "Where sweat soldering process is applied?",
+          "image_url": null,
+          "options": [
+            "Rework of ornaments",
+            "Electrical soldering work",
+            "Body repairing work shops",
+            "Joining of tool and tool bits"
+          ],
+          "answer": "Body repairing work shops",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the material of solder?",
+          "image_url": null,
+          "options": [
+            "Welding rod",
+            "Synthetic element",
+            "Pure metal or alloy",
+            "Non metallic element"
+          ],
+          "answer": "Pure metal or alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "What is the flux used for soldering in the form of powder and evaporates while heating?",
+          "image_url": null,
+          "options": [
+            "Resin",
+            "Zinc chloride",
+            "Hydrochloric acid",
+            "Ammonium chloride"
+          ],
+          "answer": "Ammonium chloride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "What will be the cause if handy soldering copper bit is used on light gauges of metal?",
+          "image_url": null,
+          "options": [
+            "Metal to be buckled",
+            "Metal to be sheared",
+            "Metal to be wrinkled",
+            "Metal to be springed back"
+          ],
+          "answer": "Metal to be buckled",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What is the material used to manufacture rivets?",
+          "image_url": null,
+          "options": [
+            "Rubber",
+            "Synthetic",
+            "Hardened steel",
+            "Mild steel"
+          ],
+          "answer": "Mild steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "Which type of solder is used for soldering brass, copper and jewellery?",
+          "image_url": null,
+          "options": [
+            "Common solder",
+            "Coarse solder",
+            "Fine solder",
+            "Extra fine solder"
+          ],
+          "answer": "Extra fine solder",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Arc welding and Gas welding",
+      "quizWrap": [
+        {
+          "id": 175,
+          "question": "What is the storing capacity of oxygen cylinder?",
+          "image_url": null,
+          "options": [
+            "7 m³",
+            "10 m³",
+            "14 m³",
+            "15 m³"
+          ],
+          "answer": "7 m³",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "Name the gas welding defect.",
+          "image_url": null,
+          "options": [
+            "Porosity",
+            "Lack of fusion",
+            "Oxidised weld",
+            "Incomplete penetration"
+          ],
+          "answer": "Lack of fusion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What is the effect of use matches to ignite the acetylene gas from the tip of the nozzle?",
+          "image_url": null,
+          "options": [
+            "Donʹt catch fire",
+            "More smoke",
+            "To burn hand",
+            "Explode suddenly"
+          ],
+          "answer": "To burn hand",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is the OCV for welding in step-down transformer which reduces the main supply voltage (220 or 440 volts)?",
+          "image_url": null,
+          "options": [
+            "40 and 100 volts",
+            "50 and 100 volts",
+            "30 and 20 volts",
+            "20 and 25 volts"
+          ],
+          "answer": "40 and 100 volts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "Which hand tool used to handle the hot metal in welding?",
+          "image_url": null,
+          "options": [
+            "Snips",
+            "Tongs",
+            "Shawel",
+            "Poker"
+          ],
+          "answer": "Tongs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "What is the defect caused by air mixed gas in CO₂ welding?",
+          "image_url": null,
+          "options": [
+            "Overlap and run out",
+            "Weak and porous weld",
+            "Incomplete penetration",
+            "Excess wide bead"
+          ],
+          "answer": "Weak and porous weld",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "Which arc welding machine can be used anywhere in the field work even away from electric lines?",
+          "image_url": null,
+          "options": [
+            "Rectifier set",
+            "Motor generator set",
+            "Engine generator set",
+            "AC welding transformer"
+          ],
+          "answer": "Engine generator set",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "How to prevent the danger of high pressure oxygen entering into the acetylene pipe line in gas welding?",
+          "image_url": null,
+          "options": [
+            "By using nozzle",
+            "By using an injector",
+            "By using an accumulator",
+            "By using blow pipe"
+          ],
+          "answer": "By using an injector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the angle to be maintained in the blow pipe and filler rod in the left ward welding technique?",
+          "image_url": null,
+          "options": [
+            "60° & 30°",
+            "50° & 40°",
+            "30° & 50°",
+            "60° & 40°"
+          ],
+          "answer": "60° & 30°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the name of hand tool used by a welder?",
+          "image_url": null,
+          "options": [
+            "Straight pein hammer",
+            "Ball - pein hammer",
+            "Chipping hammer",
+            "Cross - pein hammer"
+          ],
+          "answer": "Chipping hammer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "How much pressure is maintained in acetylene cylinder in HP welding?",
+          "image_url": null,
+          "options": [
+            "150kg/cm",
+            "15kg/cm",
+            "0.017kg/cm",
+            "120kg/cm"
+          ],
+          "answer": "15kg/cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "Which arc welding machine provides better heat distribution in the electrode and job?",
+          "image_url": null,
+          "options": [
+            "Rectifier set",
+            "Motor generator set",
+            "Welding transformer",
+            "Engine generator set"
+          ],
+          "answer": "Rectifier set",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is called the metal deposited during one pass?",
+          "image_url": null,
+          "options": [
+            "Backing run",
+            "Root run",
+            "Run",
+            "Sealing run"
+          ],
+          "answer": "Run",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which welding hand tool is used to hold and manipulate the electrode?",
+          "image_url": null,
+          "options": [
+            "Electrode holder",
+            "Earth clamp",
+            "Tongs",
+            "Spring loaded clamp"
+          ],
+          "answer": "Electrode holder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "Which is the welding machine designed to supply both A.C and D.C current for welding ferrous and non-ferrous metals using all types of electrode?",
+          "image_url": null,
+          "options": [
+            "Rectifier set",
+            "Transformer set",
+            "Motor generator set",
+            "Engine generator set"
+          ],
+          "answer": "Rectifier set",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "Which type defect can be rectify by increase the welding speed or change the angle electrode while joining the metal?",
+          "image_url": null,
+          "options": [
+            "Poor penetration and spatter",
+            "Excessive build up and under cut",
+            "Porosity and blow hole",
+            "Cracks and burn through"
+          ],
+          "answer": "Excessive build up and under cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the name of PPE?",
+          "image_url": null,
+          "options": [
+            "Portable screen",
+            "Chipping goggles",
+            "Welding hand screen",
+            "Welding helmet screen"
+          ],
+          "answer": "Welding hand screen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What will cause if the nozzle touches the molten pool?",
+          "image_url": null,
+          "options": [
+            "Spark",
+            "Smoke",
+            "Back fire",
+            "Flash back"
+          ],
+          "answer": "Back fire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "Identify the part marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Safety plug",
+            "Steel bottle",
+            "Valve spindle",
+            "Dissolved acetylene"
+          ],
+          "answer": "Safety plug",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "Name the joint in the arc welding.",
+          "image_url": null,
+          "options": [
+            "Flush corner joint",
+            "Single fillet lap joint",
+            "Half open corner joint",
+            "Full open corner joint"
+          ],
+          "answer": "Half open corner joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is the disadvantage of AC welding transformer?",
+          "image_url": null,
+          "options": [
+            "More initial cost",
+            "Not free from arc blow",
+            "More maintenance cost",
+            "Not suitable for welding non ferrous metal"
+          ],
+          "answer": "Not suitable for welding non ferrous metal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the name of distortion occurs in the weld direction?",
+          "image_url": null,
+          "options": [
+            "Angular distortion",
+            "Bending distortion",
+            "Longitudinal distortion",
+            "Transverse distortion"
+          ],
+          "answer": "Longitudinal distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is the name of the metal edge in an angle during welding and cutting operations?",
+          "image_url": null,
+          "options": [
+            "Kerf",
+            "Drag",
+            "Bevel",
+            "Gouging"
+          ],
+          "answer": "Bevel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "Why humming sound effects during arc welding?",
+          "image_url": null,
+          "options": [
+            "Long arc length",
+            "Speedy welding",
+            "Short arc welding",
+            "Normal arc length"
+          ],
+          "answer": "Long arc length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the function of AC welding transformer?",
+          "image_url": null,
+          "options": [
+            "It converts to low voltage high current ampere",
+            "It converts to high voltage and low current ampere",
+            "It converts to low voltage and low current ampere",
+            "It converts to high voltage and high current ampere"
+          ],
+          "answer": "It converts to low voltage high current ampere",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electrodes and Gas cutting",
+      "quizWrap": [
+        {
+          "id": 200,
+          "question": "What is the diameter of electrode for welding a plate having thickness over 1/2ʺ?",
+          "image_url": null,
+          "options": [
+            "1/8ʺ",
+            "3/16ʺ",
+            "1/4ʺ",
+            "5/16ʺ"
+          ],
+          "answer": "5/16ʺ",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "Which electrode is used to weld in all welding positions?",
+          "image_url": null,
+          "options": [
+            "Deep penetration electrodes",
+            "Low hydrogen electrode",
+            "Iron powder electrodes",
+            "Cutting and gauging electrodes"
+          ],
+          "answer": "Low hydrogen electrode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "What is the ampere range for Ø 1/16ʺ electrode in arc welding?",
+          "image_url": null,
+          "options": [
+            "40 - 125 amp",
+            "75 - 185 amp",
+            "20 - 40 amp",
+            "105 - 250 amp"
+          ],
+          "answer": "20 - 40 amp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "What is the name of electrode having coating factor 1.6 to 2.2?",
+          "image_url": null,
+          "options": [
+            "Light coated",
+            "Medium coated",
+            "Heavy coated",
+            "Super heavy coated"
+          ],
+          "answer": "Heavy coated",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "Which gas cutting machine is used to cut any shape for fabrication?",
+          "image_url": null,
+          "options": [
+            "Profile cutting machine",
+            "Pipe cutting machine",
+            "Circle cutting machine",
+            "Portable cutting machine"
+          ],
+          "answer": "Profile cutting machine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "Which type of filler rod is used in gas welding of stainless steel?",
+          "image_url": null,
+          "options": [
+            "Pure aluminium",
+            "Copper silver alloy",
+            "Columbium stainless steel",
+            "Copper coated mild steel"
+          ],
+          "answer": "Columbium stainless steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "Which factor determine the current setting during welding?",
+          "image_url": null,
+          "options": [
+            "Types of joint",
+            "Position of weld",
+            "Length of electrode",
+            "Diameter of electrode"
+          ],
+          "answer": "Diameter of electrode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "Which cutting machine used for bevelling of pipes?",
+          "image_url": null,
+          "options": [
+            "Straight cutting machine",
+            "Large circle cutting machine",
+            "Profile cutting machine",
+            "Pipe cutting machines"
+          ],
+          "answer": "Pipe cutting machines",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "Which internal defect in welding is invisible to naked eye?",
+          "image_url": null,
+          "options": [
+            "Spatter",
+            "Porosity",
+            "Undercut",
+            "Stray arc"
+          ],
+          "answer": "Porosity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "What is the inclination angle range for holding the electrode during arc welding?",
+          "image_url": null,
+          "options": [
+            "30° to 40°",
+            "50° to 60°",
+            "70° to 80°",
+            "90° to 100°"
+          ],
+          "answer": "70° to 80°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "What is the oxygen cylinder colour?",
+          "image_url": null,
+          "options": [
+            "Red",
+            "Blue",
+            "Black",
+            "Maroon"
+          ],
+          "answer": "Black",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What type of electrode suitable for welding mild steel?",
+          "image_url": null,
+          "options": [
+            "Medium coated rutile m.s electrode",
+            "Heavy coated low hydrogen m.s. electrode",
+            "Columbium based stabilised stainless steel electrode",
+            "Heavy coated bronze electrode"
+          ],
+          "answer": "Medium coated rutile m.s electrode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "What is the temperature range for heating moisture affected electrodes?",
+          "image_url": null,
+          "options": [
+            "190° - 210°C",
+            "70° - 110°C",
+            "110° 150°C",
+            "150° - 190°C"
+          ],
+          "answer": "110° 150°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "What is the purpose of cellulosic electrode in arc welding process?",
+          "image_url": null,
+          "options": [
+            "Very easy to remove the deposited slag",
+            "Used for high strength steel",
+            "It is used for low carbon steel",
+            "It is suitable for all position"
+          ],
+          "answer": "Very easy to remove the deposited slag",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "What type of plate edge preparation, produced by a gas cutting machine?",
+          "image_url": null,
+          "options": [
+            "Single bevel",
+            "Double bevel",
+            "Single bevel with root face",
+            "Double bevel with root face"
+          ],
+          "answer": "Single bevel with root face",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "What is the size of cutting nozzle for cutting mild steel plate having thickness 3 - 6 mm?",
+          "image_url": null,
+          "options": [
+            "0.8mm",
+            "1.2mm",
+            "1.6mm",
+            "2.0mm"
+          ],
+          "answer": "0.8mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the reason behind the cutting of non - ferrous metals impossible in oxy - acetylene gas cutting method?",
+          "image_url": null,
+          "options": [
+            "Oxidation not take place",
+            "Metal is more hard",
+            "Melting point is too high",
+            "Corrosion and erosion take place"
+          ],
+          "answer": "Oxidation not take place",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "Why the cylinder keys are not removed from the cylinder while welding?",
+          "image_url": null,
+          "options": [
+            "To prevent gas leak",
+            "To adjust the gas supply",
+            "To open and close frequently",
+            "To close quickly in case of fire"
+          ],
+          "answer": "To close quickly in case of fire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Handle",
+            "Mixing chamber",
+            "Oxygen control value",
+            "Acetylene control value"
+          ],
+          "answer": "Oxygen control value",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the remedy helps to insulate and protect the electrode flux when immersed in under water welding process?",
+          "image_url": null,
+          "options": [
+            "Copper polishing",
+            "Chrome plating",
+            "Nickel plating",
+            "Lacquer polishing"
+          ],
+          "answer": "Lacquer polishing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "What is the ignition temperature of steel for gas cutting?",
+          "image_url": null,
+          "options": [
+            "800°C - 825°C",
+            "825°C - 850°C",
+            "850°C - 875°C",
+            "875°C - 900°C"
+          ],
+          "answer": "875°C - 900°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "What is the cause of back fire in the gas cutting blow pipe?",
+          "image_url": null,
+          "options": [
+            "Excessive speed of cutting",
+            "Nozzle too close the workpiece",
+            "Nozzle too far the workpiece",
+            "Workpiece is too soft"
+          ],
+          "answer": "Nozzle too close the workpiece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "What is the equipment used to protect the body from flying spark during gas cutting?",
+          "image_url": null,
+          "options": [
+            "Leather cap",
+            "Leather apron",
+            "Leather shoes",
+            "Cutting goggles"
+          ],
+          "answer": "Leather apron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "How the problem of poor quality results in gouging while gas cutting is rectified?",
+          "image_url": null,
+          "options": [
+            "By using very high cutting speed",
+            "By using low preheat flame",
+            "By using optimum preheat flame",
+            "By using high cutting speed"
+          ],
+          "answer": "By using optimum preheat flame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is the name of part marked ʹxʹ in cutting torch?",
+          "image_url": null,
+          "options": [
+            "Oxygen valve",
+            "Acetylene valve",
+            "Oxygen pipe",
+            "Oxygen level"
+          ],
+          "answer": "Acetylene valve",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Drill and Threads",
+      "quizWrap": [
+        {
+          "id": 225,
+          "question": "What is the purpose of type “N” twist drills?",
+          "image_url": null,
+          "options": [
+            "Used for hard material",
+            "Used for brittle material",
+            "Used for soft and tough material",
+            "Used for normal low carbon steel"
+          ],
+          "answer": "Used for normal low carbon steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "Which cutting fluid used for drilling in cast iron?",
+          "image_url": null,
+          "options": [
+            "Dry air jet",
+            "Soluble oil",
+            "Mineral oil",
+            "Vegetable oil"
+          ],
+          "answer": "Dry air jet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the name of the part marked as ʹxʹ in drill sharpening?",
+          "image_url": null,
+          "options": [
+            "Grinding wheel",
+            "Drill bit",
+            "Tool rest",
+            "Wheel guard"
+          ],
+          "answer": "Tool rest",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "Which reamer will have a long taper lead?",
+          "image_url": null,
+          "options": [
+            "Hand reamer",
+            "Socket reamer",
+            "Machine reamer",
+            "Helical fluted reamer"
+          ],
+          "answer": "Socket reamer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "What is used to for rotating the die nut during reconditioning the damaged threads?",
+          "image_url": null,
+          "options": [
+            "Spanner",
+            "Die holder",
+            "Tap wrench",
+            "Allen key"
+          ],
+          "answer": "Spanner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "What is the defect of the drill shown in figure?",
+          "image_url": null,
+          "options": [
+            "Unequal angle",
+            "Unequal point thinning",
+            "Drill point not in centre",
+            "Unequal lip length"
+          ],
+          "answer": "Unequal angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "What is the name of given figure?",
+          "image_url": null,
+          "options": [
+            "Circular split die",
+            "Half die",
+            "Die nut",
+            "Adjustable screw plate die"
+          ],
+          "answer": "Circular split die",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "What is the name of part marked ’X’?",
+          "image_url": null,
+          "options": [
+            "Arbor",
+            "Drill chuck",
+            "Drill bit",
+            "Chuck key"
+          ],
+          "answer": "Arbor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "What will happen if the clearance angle of drill is more?",
+          "image_url": null,
+          "options": [
+            "Cutting edge will be blunt",
+            "Cutting edge will not be sharp",
+            "Cutting edge will become weak",
+            "Cutting edge will not cut material"
+          ],
+          "answer": "Cutting edge will become weak",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "What is the name of the angle in the drill bit marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Chisel angle",
+            "Rake angle",
+            "Point angle",
+            "Lip clearance angle"
+          ],
+          "answer": "Lip clearance angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "How the defects in damaged thread is repaired?",
+          "image_url": null,
+          "options": [
+            "By using die nut",
+            "By using button die",
+            "By using half die",
+            "By using circular split die"
+          ],
+          "answer": "By using die nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "Which type of screw threads are rounded at the crest and root?",
+          "image_url": null,
+          "options": [
+            "B.A thread",
+            "B.S.F thread",
+            "B.S.W thread",
+            "ACME thread"
+          ],
+          "answer": "B.S.W thread",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "What is the angle of counter sinking for riveting?",
+          "image_url": null,
+          "options": [
+            "75°",
+            "80°",
+            "90°",
+            "120°"
+          ],
+          "answer": "75°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "What is the drilling defect in the figure show?",
+          "image_url": null,
+          "options": [
+            "Unequal lip length",
+            "Unequal point thinning",
+            "Drill point not in the centre",
+            "Unequal flow of chips"
+          ],
+          "answer": "Drill point not in the centre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "What is the advantage of centre screw in die stock?",
+          "image_url": null,
+          "options": [
+            "To tighten the die",
+            "To adjust the depth of cut",
+            "To adjust the dia of internal thread",
+            "To adjust the dia of external thread"
+          ],
+          "answer": "To adjust the depth of cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What is the result of the drill feed rate is too high?",
+          "image_url": null,
+          "options": [
+            "High finish hole",
+            "Unequal flow of chips",
+            "Oversized hole",
+            "Overheated drill"
+          ],
+          "answer": "Overheated drill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the purpose of clearance angle in twist drill?",
+          "image_url": null,
+          "options": [
+            "Prevent rough holes",
+            "Prevent over size holes",
+            "Prevent unequal angle of cutting edges",
+            "Prevent friction of drill behind the cutting edges"
+          ],
+          "answer": "Prevent friction of drill behind the cutting edges",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "What is the name of the die?",
+          "image_url": null,
+          "options": [
+            "Split die",
+            "Half die",
+            "Solid die",
+            "Adjustable screw plate die"
+          ],
+          "answer": "Half die",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "What is the name of the angle marked ‘X’ in the reamer?",
+          "image_url": null,
+          "options": [
+            "Rake angle",
+            "Flute angle",
+            "Helix angle",
+            "Clearance angle"
+          ],
+          "answer": "Helix angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "Why hand reamers have uneven spacing of teeth?",
+          "image_url": null,
+          "options": [
+            "Reduce chattering",
+            "Remove more metals",
+            "Increase the efficiency",
+            "Increase the life of the tool"
+          ],
+          "answer": "Reduce chattering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "Calculate the RPM for a HSS drill, diameter is 24 mm and the cutting speed is 30 m/min.",
+          "image_url": null,
+          "options": [
+            "253rpm",
+            "423rpm",
+            "538rpm",
+            "398rpm"
+          ],
+          "answer": "398rpm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "What is the name of the gauge shown in figure?",
+          "image_url": null,
+          "options": [
+            "Standard wire gauge",
+            "Template",
+            "Drill angle gauge",
+            "Snap gauge"
+          ],
+          "answer": "Drill angle gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "Which decides the point angle of drill?",
+          "image_url": null,
+          "options": [
+            "Drill material",
+            "Job material",
+            "Cutting speed",
+            "Size of the drill"
+          ],
+          "answer": "Job material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "Name the part marked as ‘X’ in radial drilling machine.",
+          "image_url": null,
+          "options": [
+            "Base",
+            "Spindle",
+            "Radial arm",
+            "Spindle head"
+          ],
+          "answer": "Spindle head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "What is the name of the operation to enlarge the hole for given depth?",
+          "image_url": null,
+          "options": [
+            "Reaming",
+            "Spot facing",
+            "Counter boring",
+            "Counter sinking"
+          ],
+          "answer": "Counter boring",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Grinding and Gauges",
+      "quizWrap": [
+        {
+          "id": 250,
+          "question": "What is the name of tool?",
+          "image_url": null,
+          "options": [
+            "Stone dresser",
+            "Diamond dresser",
+            "Star wheels dresser",
+            "Abrasive stick dresser"
+          ],
+          "answer": "Star wheels dresser",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the use of thread ring gauge?",
+          "image_url": null,
+          "options": [
+            "To check accuracy of a external thread",
+            "To check accuracy of internal thread",
+            "To check accuracy of external taper",
+            "To check accuracy of internal taper"
+          ],
+          "answer": "To check accuracy of a external thread",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "Which machine, the star wheel dressers are used for dressing the grinding wheel?",
+          "image_url": null,
+          "options": [
+            "Cylindrical grinder",
+            "Surface grinder",
+            "Pedestal grinder",
+            "Centreless grinder"
+          ],
+          "answer": "Pedestal grinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "How to prevent the gauges rust and corrosion when it is to be stored for a longer period?",
+          "image_url": null,
+          "options": [
+            "By applying enamel coating",
+            "By coated with rust preventing oil",
+            "By applying thin oil film",
+            "By dipping in a molten plastic material"
+          ],
+          "answer": "By dipping in a molten plastic material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is the advantage of gauging of components?",
+          "image_url": null,
+          "options": [
+            "Skilled operator is required",
+            "Faster checking of the product",
+            "More dependable of machine",
+            "Slower checking of the product"
+          ],
+          "answer": "Faster checking of the product",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "What is the name of gauge?",
+          "image_url": null,
+          "options": [
+            "Pitch gauge",
+            "Angle gauge",
+            "Feeler gauge",
+            "Radius gauge"
+          ],
+          "answer": "Radius gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "What ‘A’ represents in grinding wheel specification 32A46H8V?",
+          "image_url": null,
+          "options": [
+            "Grade",
+            "Grain size",
+            "Type of bond",
+            "Type of abrasive"
+          ],
+          "answer": "Type of abrasive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "What is the name of the part marked as ʹxʹ in the figure?",
+          "image_url": null,
+          "options": [
+            "Dead center",
+            "Tool rest",
+            "Guide block",
+            "Wheel guard"
+          ],
+          "answer": "Guide block",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "What is the minimum dimension can measure with telescopic gauge?",
+          "image_url": null,
+          "options": [
+            "8.0 mm",
+            "12.7mm",
+            "19.0mm",
+            "150mm"
+          ],
+          "answer": "8.0 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "Which gauge is used to measure below 8 mm dimension?",
+          "image_url": null,
+          "options": [
+            "Telescopic gauge",
+            "Small hole gauge",
+            "Depth micrometer",
+            "Inside micrometer"
+          ],
+          "answer": "Small hole gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "What is the use of ʺGOʺ gauge in progressive plug gauge?",
+          "image_url": null,
+          "options": [
+            "Checks upper limit of the hole",
+            "Checks basic limit of the shaft",
+            "Checks lower limit of the hole",
+            "Checks mean value of the hole"
+          ],
+          "answer": "Checks lower limit of the hole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "Which gauge is used to check outside diameter of workpieces?",
+          "image_url": null,
+          "options": [
+            "Plug gauge",
+            "Progressive plug gauge",
+            "Taper plug gauge",
+            "Plain ring gauge"
+          ],
+          "answer": "Plain ring gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "What is the shape of the telescopic gauge?",
+          "image_url": null,
+          "options": [
+            "Round shape",
+            "Tʹ shape",
+            "Rectangular",
+            "Square"
+          ],
+          "answer": "Tʹ shape",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "What is the reason to preferred silicate bond than vitrified bond for grinding fine tools and cutters?",
+          "image_url": null,
+          "options": [
+            "High stock removal and loss heat generation",
+            "Milder cutting action and less harshness",
+            "Heavy duty and large diameter wheels",
+            "Small degree of flexibility and fine finish"
+          ],
+          "answer": "Milder cutting action and less harshness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "What is the use of the diamond dresses?",
+          "image_url": null,
+          "options": [
+            "Dressing and truing the grinding wheel",
+            "Balancing the grinding wheel",
+            "Holding the grinding wheel",
+            "Guarding the grinding wheel"
+          ],
+          "answer": "Dressing and truing the grinding wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the advantage of mass production?",
+          "image_url": null,
+          "options": [
+            "Initial expenditure is less",
+            "Gauges are not used",
+            "Jig and fixtures are not used",
+            "Spare parts can be quickly made available"
+          ],
+          "answer": "Spare parts can be quickly made available",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is the reason to provide annular groove on the knurled surface of plain ring gauge?",
+          "image_url": null,
+          "options": [
+            "To Identify ʺNO GOʺ gauge",
+            "To identify ʺGOʺ gauge",
+            "To give more grip to the gauge",
+            "To give appearance to the gauge"
+          ],
+          "answer": "To Identify ʺNO GOʺ gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "Which failure will occur if applying force while using snap gauge?",
+          "image_url": null,
+          "options": [
+            "Gauge to pass on under sized parts",
+            "Gauge to pass on over sized parts",
+            "Take more time to check the part",
+            "Handling gauge will be difficult"
+          ],
+          "answer": "Gauge to pass on over sized parts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "What is advantage of pedestal grinders over bench grinder?",
+          "image_url": null,
+          "options": [
+            "Light duty work",
+            "Heavy duty work",
+            "Series precision work",
+            "Precision work"
+          ],
+          "answer": "Heavy duty work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "Which indicates the strength of bond in grinding wheel?",
+          "image_url": null,
+          "options": [
+            "Grid",
+            "Grade",
+            "Structure",
+            "Grain size"
+          ],
+          "answer": "Grade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "Which type of bond used for speed wheels?",
+          "image_url": null,
+          "options": [
+            "Shellac bond",
+            "Silicate bond",
+            "Vitrified bond",
+            "Resinoid bond"
+          ],
+          "answer": "Resinoid bond",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "What is measured with telescopic gauge?",
+          "image_url": null,
+          "options": [
+            "Depth",
+            "External dimension",
+            "Angular dimension",
+            "Size of holes, slots and recesses"
+          ],
+          "answer": "Size of holes, slots and recesses",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the name of part marked as ‘X’ in telescopic gauge?",
+          "image_url": null,
+          "options": [
+            "Handle",
+            "Fixed leg",
+            "Plunger lock",
+            "Telescopic leg"
+          ],
+          "answer": "Plunger lock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What is the purpose of dressing the grinding wheel?",
+          "image_url": null,
+          "options": [
+            "Restore the correct cutting action of the wheel",
+            "Make it run concentric with the air",
+            "Align the wheel in the spindle",
+            "Remove cracks from the wheel"
+          ],
+          "answer": "Restore the correct cutting action of the wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is to be done after dressing the grinding wheel to run concentric?",
+          "image_url": null,
+          "options": [
+            "Truing",
+            "Glazing",
+            "Loading",
+            "Dressing"
+          ],
+          "answer": "Truing",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Interchangeability, Limits and Fits, Iron and Scraper",
+      "quizWrap": [
+        {
+          "id": 275,
+          "question": "What is the type of fit, if the maximum size hole is larger than minimum size of shaft?",
+          "image_url": null,
+          "options": [
+            "Shrinkage fit",
+            "Transition fit",
+            "Clearance fit",
+            "Interference fit"
+          ],
+          "answer": "Clearance fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is used to remove high slots on all flat and curved surfaces?",
+          "image_url": null,
+          "options": [
+            "File",
+            "Hacksaw",
+            "Chisel",
+            "Scraper"
+          ],
+          "answer": "Scraper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "Which metal is resistant to many types of acids?",
+          "image_url": null,
+          "options": [
+            "Tin",
+            "Nickel",
+            "Lead",
+            "Chromium"
+          ],
+          "answer": "Lead",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "Why lime stone serves as flux added to the ore in the blast furnace?",
+          "image_url": null,
+          "options": [
+            "To form molten slag",
+            "To supply the oxygen",
+            "To burn the carbon in coke",
+            "To increase the melting point of ore"
+          ],
+          "answer": "To form molten slag",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "Which cast iron has the ability to reduce vibration and tool chattering in machine tools?",
+          "image_url": null,
+          "options": [
+            "Grey cast iron",
+            "White cast iron",
+            "Nodular cast iron",
+            "Malleable cast iron"
+          ],
+          "answer": "Grey cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "Which metal is used to manufacture magnets, ball bearing and cutting tool?",
+          "image_url": null,
+          "options": [
+            "Cobalt",
+            "Cadmium",
+            "Vanadium",
+            "Molybdenum"
+          ],
+          "answer": "Cobalt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "What is the term of the algebraic difference between a size, to its corresponding basic size?",
+          "image_url": null,
+          "options": [
+            "Deviation",
+            "Upper deviation",
+            "Lower deviation",
+            "Actual deviation"
+          ],
+          "answer": "Deviation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the purpose of movable jaw in vernier height gauge?",
+          "image_url": null,
+          "options": [
+            "To hold the scriber",
+            "To hold adjusting screw",
+            "To hold locking screws",
+            "To hold vernier slide"
+          ],
+          "answer": "To hold the scriber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What is the upper limit of the component size",
+          "image_url": null,
+          "options": [
+            "0.005",
+            "0.008",
+            "19.995",
+            "20.008"
+          ],
+          "answer": "20.008",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "Which is grade of tolerance?",
+          "image_url": null,
+          "options": [
+            "Bilateral tolerance",
+            "Unilateral tolerance",
+            "Fundamental tolerance",
+            "Fundamental deviation"
+          ],
+          "answer": "Fundamental tolerance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which one is purest from of iron?",
+          "image_url": null,
+          "options": [
+            "Grey cast iron",
+            "Wrought iron",
+            "Pig iron",
+            "Cast iron"
+          ],
+          "answer": "Wrought iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "What is the lower limit of size, if dimension is stated as",
+          "image_url": null,
+          "options": [
+            "24.85mm",
+            "24.75mm",
+            "25.00mm",
+            "25.021mm"
+          ],
+          "answer": "25.00mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "What is the name the part marked as ʹxʹ in figure?",
+          "image_url": null,
+          "options": [
+            "Scriber blade",
+            "Beam",
+            "Base",
+            "Locking screws"
+          ],
+          "answer": "Scriber blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "What is the range of carbon content in cast iron alloy?",
+          "image_url": null,
+          "options": [
+            "2 to 4%",
+            "5 to 9%",
+            "6 to 9%",
+            "10 to 12%"
+          ],
+          "answer": "2 to 4%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "What is the term used for the relationship exists between two mating parts?",
+          "image_url": null,
+          "options": [
+            "Fit",
+            "Limit",
+            "Tolerance",
+            "Allowance"
+          ],
+          "answer": "Fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "What is the algebraic difference between the actual size and its corresponding basic size?",
+          "image_url": null,
+          "options": [
+            "Deviation",
+            "Tolerance",
+            "Actual deviation",
+            "Upper deviation"
+          ],
+          "answer": "Actual deviation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "What is the name of fit?",
+          "image_url": null,
+          "options": [
+            "Transition fit",
+            "Shrinkage fit",
+            "Clearance fit",
+            "Interference fit"
+          ],
+          "answer": "Interference fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "What is the difference between maximum limit of size and the minimum limit of size?",
+          "image_url": null,
+          "options": [
+            "Tolerance",
+            "Basic size",
+            "Limits of size",
+            "Upper deviation"
+          ],
+          "answer": "Tolerance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is the name of the part marked ‘X’ in blast furnace?",
+          "image_url": null,
+          "options": [
+            "Tuyeres",
+            "Molten slag",
+            "Molten iron",
+            "Tapping hole"
+          ],
+          "answer": "Tuyeres",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "How much copper contains in pyrites ore?",
+          "image_url": null,
+          "options": [
+            "0.15",
+            "0.32",
+            "0.5",
+            "0.45"
+          ],
+          "answer": "0.32",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "What is the name of the fit?",
+          "image_url": null,
+          "options": [
+            "Transition fit",
+            "Clearance fit",
+            "Shrinkage fit",
+            "Interference fit"
+          ],
+          "answer": "Clearance fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "What is the expression of 30H7/g6?",
+          "image_url": null,
+          "options": [
+            "Fit",
+            "Limits",
+            "Deviation",
+            "Tolerance"
+          ],
+          "answer": "Fit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which steel used for making cold chisels?",
+          "image_url": null,
+          "options": [
+            "Dead mild steel",
+            "Medium carbon steel",
+            "High carbon steel",
+            "Mild steel"
+          ],
+          "answer": "High carbon steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Which ore is used to extract zinc?",
+          "image_url": null,
+          "options": [
+            "Bauxite",
+            "Galena",
+            "Calamine",
+            "Cassiterite"
+          ],
+          "answer": "Calamine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "What is the maximum limit of size if the basic size of the hole is 25 mm and the deviation is ± 0.2mm?",
+          "image_url": null,
+          "options": [
+            "25.2mm",
+            "24.8mm",
+            "25.02mm",
+            "24.08mm"
+          ],
+          "answer": "25.2mm",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Vernier micrometer, Screw thread micrometer, Dial and Digital indicators",
+      "quizWrap": [
+        {
+          "id": 300,
+          "question": "What is the semi-permanent fastener used to hold plates and steel sections firmly?",
+          "image_url": null,
+          "options": [
+            "Bolt",
+            "Nut",
+            "Stud",
+            "Rivet"
+          ],
+          "answer": "Rivet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "Which instrument, the magnification of the small movement of the plunger or styles is converted into a rotary motion of the pointer on a circular scale?",
+          "image_url": null,
+          "options": [
+            "Dial test indicator",
+            "Screw thread micrometer",
+            "Inside micrometer",
+            "Flange micrometer"
+          ],
+          "answer": "Dial test indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "What is the advantage of adopting rack and pinion mechanism of plunger dial test indicator?",
+          "image_url": null,
+          "options": [
+            "Rotary motion convert into linear motion",
+            "Linear motion convert into rotary motion",
+            "Linear motion covert into angular motion",
+            "Angular motion convert into linear motion"
+          ],
+          "answer": "Linear motion convert into rotary motion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "Which comparator is used to measure accuracy up to 1 micron?",
+          "image_url": null,
+          "options": [
+            "Reel comparator",
+            "Pneumatic comparator",
+            "Electrical comparator",
+            "Optical comparator"
+          ],
+          "answer": "Optical comparator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "What is the reason the scale can be rotated by a ring bezel in dial test indicator?",
+          "image_url": null,
+          "options": [
+            "Repairing is easy",
+            "Maintenance is easy",
+            "Zero setting is easy",
+            "Assembling is easy"
+          ],
+          "answer": "Zero setting is easy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "What is the reason for calibrating the measuring instruments?",
+          "image_url": null,
+          "options": [
+            "Easy operation",
+            "Maintain the accuracy of the measuring device",
+            "Easy maintenance",
+            "Reduce product quality"
+          ],
+          "answer": "Maintain the accuracy of the measuring device",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "Which type of fasteners the components or the structures cannot be separated without damage?",
+          "image_url": null,
+          "options": [
+            "Temporary fasteners",
+            "Semi permanent fasteners",
+            "Permanent fasteners",
+            "Removable fasteners"
+          ],
+          "answer": "Permanent fasteners",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "What is the cause behind digital dial indicator is superior than the ordinary dial indicator?",
+          "image_url": null,
+          "options": [
+            "Overloading capacity is high",
+            "It will not affect environment condition",
+            "Can record and transmit the data",
+            "Effect of noise is less predominant"
+          ],
+          "answer": "Can record and transmit the data",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "Name the mechanism used for the magnification of the movement of the styles in lever dial test indicator.",
+          "image_url": null,
+          "options": [
+            "Rack and pinion",
+            "Worm and worm wheel",
+            "Lever and scroll",
+            "Pawl and ratchet"
+          ],
+          "answer": "Lever and scroll",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "What is the cause for the styles struck in the lever dial test indicator?",
+          "image_url": null,
+          "options": [
+            "Full pressure on the job",
+            "Not touched on the job",
+            "Due to overheat",
+            "Lack of lubrication"
+          ],
+          "answer": "Full pressure on the job",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "Which type of fasteners to join two or more components easily and can be dismantled without damaging?",
+          "image_url": null,
+          "options": [
+            "Semi permanent fasteners",
+            "Temporary fasteners",
+            "Permanent fasteners",
+            "Rigid fasteners"
+          ],
+          "answer": "Temporary fasteners",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "Name the comparator employs the principle of reflection of light rays.",
+          "image_url": null,
+          "options": [
+            "Pneumatic comparator",
+            "Reel comparator",
+            "Electrical comparator",
+            "Optical comparator"
+          ],
+          "answer": "Optical comparator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "Which situation vernier micrometer is preferred to take measurement instead of ordinary micrometer?",
+          "image_url": null,
+          "options": [
+            "Need an accuracy of ±0.02 mm",
+            "Need an accuracy of ± 0.001 mm",
+            "Need an accuracy of ± 0.0001 mm",
+            "Need an accuracy of ± 0.01 mm"
+          ],
+          "answer": "Need an accuracy of ± 0.001 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "How to judge which wire is the best wire in three wire method?",
+          "image_url": null,
+          "options": [
+            "By contact at the nearest to the effective diameter",
+            "By contact at the nearest to the roof diameter",
+            "By contact at the nearest to the crest diameter",
+            "By contact at the nearest to the core diameter"
+          ],
+          "answer": "By contact at the nearest to the effective diameter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "Which situation the temporary fasteners are preferred to joint two or more components together?",
+          "image_url": null,
+          "options": [
+            "Structural towers and AC duct",
+            "Ship building and bridge girders",
+            "Assembling of engine parts by bold and nut",
+            "Boilers and heavy pressure vessels"
+          ],
+          "answer": "Assembling of engine parts by bold and nut",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Lathe",
+      "quizWrap": [
+        {
+          "id": 315,
+          "question": "How the screw thread is formed on cylindrical or conical surface by using lathe?",
+          "image_url": null,
+          "options": [
+            "Helical form",
+            "Eccentrical form",
+            "Concave form",
+            "Convex form"
+          ],
+          "answer": "Helical form",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "What is the de-merit of 3 jaw chuck?",
+          "image_url": null,
+          "options": [
+            "Work can be set with ease",
+            "Internal and external jaws are available",
+            "Accuracy decreases",
+            "A wide range of cylindrical and hexagonal work can be held"
+          ],
+          "answer": "A wide range of cylindrical and hexagonal work can be held",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "Which is the vertical distance from crest to the root?",
+          "image_url": null,
+          "options": [
+            "Lead",
+            "Flank",
+            "Pitch",
+            "Depth"
+          ],
+          "answer": "Depth",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the name of lathe specification marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Length of the bed",
+            "Centre height of lathe",
+            "Length between centre",
+            "Diameter of work (Swing)"
+          ],
+          "answer": "Length between centre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the cause behind to manufacture lathe bed by cast iron?",
+          "image_url": null,
+          "options": [
+            "More ductile",
+            "Absorbs vibration",
+            "Resist corrosion",
+            "Less weight"
+          ],
+          "answer": "Absorbs vibration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "How to adjust the centre height of the cutting tool in lathe?",
+          "image_url": null,
+          "options": [
+            "By using shims",
+            "By using nuts",
+            "By using bolts",
+            "By using wedges"
+          ],
+          "answer": "By using shims",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "What operation is performed if the tailstock centre is offsetted from the head stock while working between centre?",
+          "image_url": null,
+          "options": [
+            "Parallel turning operation performed",
+            "Step turning operation performed",
+            "Threading operation performed",
+            "Taper turning operation performed"
+          ],
+          "answer": "Taper turning operation performed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "How to prevent the tool rubbing against the work surface in metal cutting process?",
+          "image_url": null,
+          "options": [
+            "Decrease lip angle",
+            "Increased rake angle",
+            "Increase clearance angle",
+            "Decrease tool wedge angle"
+          ],
+          "answer": "Increase clearance angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "What is the name of part marked ‘x’?",
+          "image_url": null,
+          "options": [
+            "Body",
+            "Back plate",
+            "External jaw",
+            "Crown wheel"
+          ],
+          "answer": "Crown wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "Which necessary safety step to be followed during working in lathe?",
+          "image_url": null,
+          "options": [
+            "Remove chips by bare hands",
+            "Switch off the machine before making any adjustment",
+            "Job to be clamped properly",
+            "Switch off coolant"
+          ],
+          "answer": "Switch off the machine before making any adjustment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "What safety precaution to be followed before switching off the lathe machine?",
+          "image_url": null,
+          "options": [
+            "Engage the automatic feeds",
+            "Release the brake",
+            "Engage the brake",
+            "Disengage the automatic feed"
+          ],
+          "answer": "Disengage the automatic feed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "Which type of thread is used in screw jack?",
+          "image_url": null,
+          "options": [
+            "Vee thread",
+            "Acme thread",
+            "Knuckle thread",
+            "Square thread"
+          ],
+          "answer": "Square thread",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "What is the shape of the knuckle thread?",
+          "image_url": null,
+          "options": [
+            "Square",
+            "Round",
+            "Saw tooth",
+            "Trapezoid"
+          ],
+          "answer": "Round",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 328,
+          "question": "Name the thread shown in figure.",
+          "image_url": null,
+          "options": [
+            "Worm thread",
+            "knuckle thread",
+            "Square thread",
+            "Buttress thread"
+          ],
+          "answer": "Buttress thread",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "What is the function of a lathe bed?",
+          "image_url": null,
+          "options": [
+            "To locate tool post",
+            "To locate tailstock spindle",
+            "To locate fixed units in accurate relationship to each other",
+            "To locate spindle motor"
+          ],
+          "answer": "To locate fixed units in accurate relationship to each other",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "What is the defect caused if the tool is not set to the correct centre height while facing?",
+          "image_url": null,
+          "options": [
+            "Convex face",
+            "Concave face",
+            "Pip left in the centre",
+            "Rough surface on the face"
+          ],
+          "answer": "Pip left in the centre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "What is the reason to prefer 4 jaw chuck instead of 3 jaw chuck?",
+          "image_url": null,
+          "options": [
+            "Only suitable for cylindrical jobs",
+            "Gives better gripping and accuracy",
+            "Less setting time and skill required",
+            "Only suitable for light weight jobs"
+          ],
+          "answer": "Gives better gripping and accuracy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "Which type of rake angle make slope from the front towards back of the tool?",
+          "image_url": null,
+          "options": [
+            "End rake angle",
+            "Side rake angle",
+            "Negative rake angle",
+            "Positive top rake angle"
+          ],
+          "answer": "Positive top rake angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "What is the name of the operation?",
+          "image_url": null,
+          "options": [
+            "Square shoulder",
+            "Filleted shoulder",
+            "Bevelled shoulder",
+            "Undercut shoulder"
+          ],
+          "answer": "Undercut shoulder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "What is the purpose of tail stock in lathe?",
+          "image_url": null,
+          "options": [
+            "To hold the job",
+            "To support the lengthy work",
+            "To hold the carrier",
+            "To accommodate the tool post"
+          ],
+          "answer": "To support the lengthy work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "What is the purpose of top slide in lathe?",
+          "image_url": null,
+          "options": [
+            "Supports tool post with cutting tool",
+            "Provides cross movement for the tool",
+            "To holds drill",
+            "To support the lengthy works"
+          ],
+          "answer": "Supports tool post with cutting tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "What is the name of the operation carried out in turning to remove burr and sharpness from the edge of component?",
+          "image_url": null,
+          "options": [
+            "Grooving",
+            "Chamfering",
+            "Step turning",
+            "Plain turning"
+          ],
+          "answer": "Chamfering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 337,
+          "question": "What is the unit of cutting speed in turning?",
+          "image_url": null,
+          "options": [
+            "mm/sec",
+            "m/sec",
+            "m/min",
+            "mm/min"
+          ],
+          "answer": "m/min",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "Name the property of lubricant, able to flow when poured.",
+          "image_url": null,
+          "options": [
+            "Flash point",
+            "Pour point",
+            "Fine point",
+            "Viscosity"
+          ],
+          "answer": "Pour point",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "Which type of oil is used for extreme cutting conditions of modern tools?",
+          "image_url": null,
+          "options": [
+            "Lard oil",
+            "Soluble mineral oil",
+            "Straight mineral oil",
+            "Sulphurized oil"
+          ],
+          "answer": "Sulphurized oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "How many speed will obtained from a 3 stepped cone pulley head stock of lathe with back gear arrangement?",
+          "image_url": null,
+          "options": [
+            "Obtain six speeds",
+            "Obtain three speeds",
+            "Obtain four speeds",
+            "Obtain two speeds"
+          ],
+          "answer": "Obtain six speeds",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "Which tool materials are manufactured by powder metallurgy technique?",
+          "image_url": null,
+          "options": [
+            "Carbides",
+            "High speed steel",
+            "High carbon steel",
+            "Medium carbon steel"
+          ],
+          "answer": "Carbides",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "What is the name of part marked ‘X’ in the lathe carriage?",
+          "image_url": null,
+          "options": [
+            "Tool post",
+            "Top slide",
+            "Cross slide",
+            "Saddle lock"
+          ],
+          "answer": "Top slide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "What is the advantage of a cutting fluid in turning operation?",
+          "image_url": null,
+          "options": [
+            "Will give poor surface finish",
+            "Increase the tool wear",
+            "Increase the corrosion rate",
+            "Cools the tool and workpiece"
+          ],
+          "answer": "Cools the tool and workpiece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "What is the change gear required to cut 3 mm pitch on a workpiece in a lathe having a lead screw of 6 mm pitch?",
+          "image_url": null,
+          "options": [
+            "Driver - 60 teeth, Driven - 120 teeth",
+            "Driver - 66 teeth, Driven - 44 teeth",
+            "Driver - 44 teeth, Driven - 66 teeth",
+            "Driver - 120 teeth, Driven - 60 teeth"
+          ],
+          "answer": "Driver - 60 teeth, Driven - 120 teeth",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "What is the de-merit of four jaw chuck?",
+          "image_url": null,
+          "options": [
+            "Jaws are reversible",
+            "Irregular shape job can be hold",
+            "Heavy cuts can be given",
+            "Small and finished work will be damaged"
+          ],
+          "answer": "Small and finished work will be damaged",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "How many types of bed ways are in centre lathe machine?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "5",
+            "4"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 347,
+          "question": "Name the gauge marked as ʹxʹ in figure.",
+          "image_url": null,
+          "options": [
+            "Feeler gauge",
+            "Centre gauge",
+            "Screw pitch gauge",
+            "Standard wire gauge"
+          ],
+          "answer": "Centre gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "What will be the effect, if the carriage is not locked while facing?",
+          "image_url": null,
+          "options": [
+            "Correct face",
+            "Convex face",
+            "Concave face",
+            "Pip left in the centre"
+          ],
+          "answer": "Convex face",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "Name the material for jaws of 3 jaw chuck.",
+          "image_url": null,
+          "options": [
+            "Low carbon steel",
+            "Medium carbon steel",
+            "Tool steel",
+            "High carbon steel"
+          ],
+          "answer": "High carbon steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 350,
+          "question": "What is the cause of drilled hole shifted from centre of the job in lathe?",
+          "image_url": null,
+          "options": [
+            "Misalignment between the head stock and tail stocks",
+            "Spindle feed is high",
+            "Feed is low",
+            "Blunt drill"
+          ],
+          "answer": "Misalignment between the head stock and tail stocks",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "Which angle of the tool prevents from getting jammed in the groove and causes breakage?",
+          "image_url": null,
+          "options": [
+            "Side rake angle",
+            "Side relief angle",
+            "Side clearance angle",
+            "Front clearance angle"
+          ],
+          "answer": "Side relief angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "What is the purpose of the worm and worm wheel?",
+          "image_url": null,
+          "options": [
+            "Power transmission with parallel shafts",
+            "Power transmission at right angles",
+            "Used in screw jack",
+            "Used in lathe cross slide"
+          ],
+          "answer": "Power transmission at right angles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 353,
+          "question": "Find out the spindle speed for turning dia 40 mm cast iron rod, if the cutting speed is 15 m/min.",
+          "image_url": null,
+          "options": [
+            "119.3 rpm",
+            "100.3 rpm",
+            "219.3 rpm",
+            "109.4rpm"
+          ],
+          "answer": "119.3 rpm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 354,
+          "question": "What is the defect a pip left in the centre of the job after facing?",
+          "image_url": null,
+          "options": [
+            "Tool not set to the correct centre height",
+            "Low speed",
+            "Low feed",
+            "Improper tool resharpening"
+          ],
+          "answer": "Tool not set to the correct centre height",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 355,
+          "question": "What is the advantage of cone pulley headstock?",
+          "image_url": null,
+          "options": [
+            "Can take up heavy load",
+            "More time to change spindle speeds",
+            "More no of spindle speeds",
+            "More noise"
+          ],
+          "answer": "Can take up heavy load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 356,
+          "question": "What type of cutting tool used in mass production?",
+          "image_url": null,
+          "options": [
+            "Solid tools",
+            "Brazed tools",
+            "Throw away type tools",
+            "Inserted bits with holders"
+          ],
+          "answer": "Throw away type tools",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 357,
+          "question": "What is the name of part marked as ‘X’ of three jaw chuck?",
+          "image_url": null,
+          "options": [
+            "Body",
+            "Back plate",
+            "Internal jaw",
+            "External jaw"
+          ],
+          "answer": "External jaw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 358,
+          "question": "What is placed between the chucks and the lathe bed to prevent damage while mounting and dismounting of chucks?",
+          "image_url": null,
+          "options": [
+            "Wooden cradle",
+            "Steel plate",
+            "Angle plate",
+            "Plywood"
+          ],
+          "answer": "Wooden cradle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 359,
+          "question": "What is the formula for gear ratio for thread cutting in lathe?",
+          "image_url": null,
+          "options": [
+            "DR/DN = TPI on head screw / TPI to be cut",
+            "DR/DN = TPI to be cut / TPI on head screw",
+            "DR/DN = TPI on head screw / TPI to be cut",
+            "DR/DN = TPI to be cut / TPI in head screw"
+          ],
+          "answer": "DR/DN = TPI on head screw / TPI to be cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 360,
+          "question": "What is the maximum swivelling angle of the compound rest in the lathe machine?",
+          "image_url": null,
+          "options": [
+            "90°",
+            "180°",
+            "220°",
+            "360°"
+          ],
+          "answer": "360°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 361,
+          "question": "What is the range of the approach angle of single point tool?",
+          "image_url": null,
+          "options": [
+            "10° to 40°",
+            "15° to 40°",
+            "25° to 40°",
+            "20° to 50°"
+          ],
+          "answer": "25° to 40°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 362,
+          "question": "What is the type of operation is carried out?",
+          "image_url": null,
+          "options": [
+            "Straight groove",
+            "Vee groove",
+            "Round groove",
+            "Square groove"
+          ],
+          "answer": "Vee groove",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 363,
+          "question": "Which part is mainly supporting the lengthy job in lathe machine?",
+          "image_url": null,
+          "options": [
+            "Face plate",
+            "Steady rest",
+            "Dog carrier",
+            "Dead centre"
+          ],
+          "answer": "Steady rest",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Maintenance and Assembling",
+      "quizWrap": [
+        {
+          "id": 364,
+          "question": "Identify the method of assembly technique.",
+          "image_url": null,
+          "options": [
+            "Dowelling",
+            "Pinning",
+            "Peening",
+            "Staking"
+          ],
+          "answer": "Dowelling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 365,
+          "question": "What is cost of operation of a component?",
+          "image_url": null,
+          "options": [
+            "Time for operation × machine running cost /hr",
+            "Setup time × machine running cost / hr",
+            "Inspection time × machine running cost / hr",
+            "Machine running cost /hr"
+          ],
+          "answer": "Time for operation × machine running cost /hr",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 366,
+          "question": "Which is the final step in overhauling process?",
+          "image_url": null,
+          "options": [
+            "Inspection",
+            "Repair",
+            "Dismantle",
+            "Testing"
+          ],
+          "answer": "Testing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 367,
+          "question": "What is called a set of references that are author may have cited or gained inspiration from whilst writing an article?",
+          "image_url": null,
+          "options": [
+            "Hand book",
+            "Reference table",
+            "Note book",
+            "Guide book"
+          ],
+          "answer": "Reference table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 368,
+          "question": "What is the use of dowel in assembly technique?",
+          "image_url": null,
+          "options": [
+            "Accurate positioning of two or more parts",
+            "Securing components together",
+            "Eliminate the need for drilling",
+            "Increase the efficiency of fit"
+          ],
+          "answer": "Accurate positioning of two or more parts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 369,
+          "question": "Which is used as vibration isolation material?",
+          "image_url": null,
+          "options": [
+            "Rubber",
+            "Plastic",
+            "Nylon",
+            "Brass"
+          ],
+          "answer": "Rubber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 370,
+          "question": "How the problem in the connecting rod when it is subjected to alternating load condition continuously is rectified?",
+          "image_url": null,
+          "options": [
+            "By using bolts with clearance hole",
+            "By using anti - fatigue bolt",
+            "By using body fit bolt",
+            "By using studs"
+          ],
+          "answer": "By using anti - fatigue bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 371,
+          "question": "Which bearing withstands load is parallel to its axis?",
+          "image_url": null,
+          "options": [
+            "Needle bearing",
+            "Thrust bearing",
+            "Plain bearing",
+            "Split bearing"
+          ],
+          "answer": "Thrust bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 372,
+          "question": "Which maintenance record mention the date of commissioning of machine?",
+          "image_url": null,
+          "options": [
+            "Inspection check list",
+            "Equipment record",
+            "Product manual",
+            "Servicing manual"
+          ],
+          "answer": "Equipment record",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 373,
+          "question": "Which is used for positioning of light load machines?",
+          "image_url": null,
+          "options": [
+            "Rope pulley block",
+            "Electric crane",
+            "Chain hoists",
+            "Overload crane"
+          ],
+          "answer": "Rope pulley block",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 374,
+          "question": "What is called collection of instruction?",
+          "image_url": null,
+          "options": [
+            "Reference table",
+            "Hand book",
+            "Guide book",
+            "Note book"
+          ],
+          "answer": "Hand book",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 375,
+          "question": "Why finding solution by using cost estimation on a particular job or process is complex one?",
+          "image_url": null,
+          "options": [
+            "Need lot of knowledge and detailed data",
+            "Need lot of money and consultancy support",
+            "Need lot of machinery and work space",
+            "Need lot of man power and maintenance"
+          ],
+          "answer": "Need lot of knowledge and detailed data",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 376,
+          "question": "Identify the type of bolt.",
+          "image_url": null,
+          "options": [
+            "Bolt with clearance hole",
+            "Body fit bolt",
+            "Anti-fatigue bolt",
+            "‘T’ bolt"
+          ],
+          "answer": "Bolt with clearance hole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 377,
+          "question": "What is used to perform levelling of the machines?",
+          "image_url": null,
+          "options": [
+            "Levelling wedges and shoes",
+            "Foundation bolts",
+            "Pipes",
+            "Rollers"
+          ],
+          "answer": "Levelling wedges and shoes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 378,
+          "question": "What is the first step of the autonomous maintenance?",
+          "image_url": null,
+          "options": [
+            "General inspection",
+            "Autonomous inspection",
+            "Initial cleaning",
+            "Autonomous management"
+          ],
+          "answer": "Initial cleaning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 379,
+          "question": "What is the percentage considered for packaging and handling cost calculation?",
+          "image_url": null,
+          "options": [
+            "3% of basic cost",
+            "1% of basic cost",
+            "2% of basic cost",
+            "5% of basic cost"
+          ],
+          "answer": "2% of basic cost",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 380,
+          "question": "What the solution for sealing between mating surfaces which are having poor surface finish?",
+          "image_url": null,
+          "options": [
+            "Using compressed cork gasket",
+            "Using grooved pin",
+            "Using PTFE cord sealing",
+            "Using metallic gasket"
+          ],
+          "answer": "Using compressed cork gasket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 381,
+          "question": "What is considered 5 to 15% of basic cost for cost of operation?",
+          "image_url": null,
+          "options": [
+            "Admin cost",
+            "Depreciation cost",
+            "Packaging & Handling cost",
+            "Profit"
+          ],
+          "answer": "Profit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 382,
+          "question": "Which belongs to Total Productive Maintenance?",
+          "image_url": null,
+          "options": [
+            "Supply defective goods to the customers",
+            "Unscheduled maintenance",
+            "Produces goods without increasing product quality",
+            "Reduces maintenance cost"
+          ],
+          "answer": "Reduces maintenance cost",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 383,
+          "question": "Which area is analysed by using OEE performance measurement tool?",
+          "image_url": null,
+          "options": [
+            "Indicate area of marketing development",
+            "Indicate area of vendor selection",
+            "Indicate area of employee development",
+            "Indicate area of process development"
+          ],
+          "answer": "Indicate area of process development",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 384,
+          "question": "What is the use of maintenance records analysis?",
+          "image_url": null,
+          "options": [
+            "Minimise the frequent break downs",
+            "Tool life monitoring",
+            "Operator efficiency",
+            "Set up time"
+          ],
+          "answer": "Minimise the frequent break downs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 385,
+          "question": "How the maintenance record given judgement about the frequency of preventive maintenance?",
+          "image_url": null,
+          "options": [
+            "By record and analyse rejection and rework",
+            "By record and analyse inventory and purchase",
+            "By record and analyse fault and rectification",
+            "By record and analyse quality and fit for use"
+          ],
+          "answer": "By record and analyse fault and rectification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 386,
+          "question": "Name the process, a comprehensive examination and restoration of a system.",
+          "image_url": null,
+          "options": [
+            "Testing",
+            "Repair",
+            "Overhauling",
+            "Reasserts"
+          ],
+          "answer": "Overhauling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 387,
+          "question": "What is the representation of the symbol in lubrication?",
+          "image_url": null,
+          "options": [
+            "Weekly lubrication",
+            "Daily lubrication",
+            "Monthly lubrication",
+            "Scheduled lubrication"
+          ],
+          "answer": "Weekly lubrication",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 388,
+          "question": "What is the availability percentage of the machine, available to run 20 hours but was only run for 15 hours?",
+          "image_url": null,
+          "options": [
+            "0.75",
+            "0.57",
+            "0.25",
+            "0.5"
+          ],
+          "answer": "0.75",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

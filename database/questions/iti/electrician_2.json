@@ -1,0 +1,5470 @@
+[
+    {
+      "module": "DC Generator",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "Calculate the emf generated in a 4 pole DC generator with simplex wave wound armature has 1020 conductors and driven at a speed of 1500 rpm, the flux / pole is 0.007 webers?",
+          "image_url": null,
+          "options": [
+            "178V",
+            "243V",
+            "357V",
+            "428V"
+          ],
+          "answer": "357V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "What is the effect on induced emf if the main field flux get distorted in DC generator?",
+          "image_url": null,
+          "options": [
+            "Induced emf increases",
+            "Induced emf decreases",
+            "No change in induced emf",
+            "Induced emf becomes zero"
+          ],
+          "answer": "Induced emf decreases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the effect if the shunt field resistance is above critical resistance value in a D.C generator?",
+          "image_url": null,
+          "options": [
+            "Output voltage is pulsating",
+            "Output voltage is above normal",
+            "Generator fails to build up voltage",
+            "Generator builds up voltage normally"
+          ],
+          "answer": "Generator fails to build up voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "What is the reason for DC generator fails to build up voltage?",
+          "image_url": null,
+          "options": [
+            "Loose brush contact",
+            "Armature resistance is more",
+            "Field resistance is above critical resistance",
+            "Prime mover is running at above rated speed"
+          ],
+          "answer": "Field resistance is above critical resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "Why DC generators are losing their residual magnetism?",
+          "image_url": null,
+          "options": [
+            "Heavy short circuit in load",
+            "Running without load continuously",
+            "Continuous running without break",
+            "Change of direction of rotation very often"
+          ],
+          "answer": "Change of direction of rotation very often",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "What is the name of the part of DC generator?",
+          "image_url": null,
+          "options": [
+            "Stator",
+            "pole core",
+            "pole shoes",
+            "Yoke (or) frame"
+          ],
+          "answer": "Yoke (or) frame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What is the purpose of pole shoe in DC generator?",
+          "image_url": null,
+          "options": [
+            "Reduce the air gap",
+            "Increase the field strength",
+            "Minimize the magnetic losses",
+            "Spread out flux uniformly in the air gap"
+          ],
+          "answer": "Spread out flux uniformly in the air gap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "What is the reason for heavy sparking at the commutator in DC generator?",
+          "image_url": null,
+          "options": [
+            "Excessive brush pressure",
+            "Defective bearing",
+            "Defective alignment",
+            "Weak field"
+          ],
+          "answer": "Excessive brush pressure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "Which voltage drop is indicated in the portion marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Full load voltage drop",
+            "armature voltage drop",
+            "armature reaction drop",
+            "Shunt field voltage drop"
+          ],
+          "answer": "armature reaction drop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What is the purpose of field coils in D.C generator?",
+          "image_url": null,
+          "options": [
+            "To increase the flux in air gap",
+            "To decrease the magnetizing current.",
+            "To magnetize the poles to produce coil flux",
+            "To increase the reluctance of magnetic path"
+          ],
+          "answer": "To magnetize the poles to produce coil flux",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What is the principle of D.C generator?",
+          "image_url": null,
+          "options": [
+            "Cork screw rule",
+            "Fleming's left hand rule",
+            "Fleming's right hand rule",
+            "Faraday's laws of electromagnetic induction"
+          ],
+          "answer": "Faraday's laws of electromagnetic induction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "Why the D.C generator should run in clockwise direction only?",
+          "image_url": null,
+          "options": [
+            "Protect brushes from damage",
+            "Protect the residual magnetism",
+            "Avoid short circuit in armature",
+            "Avoid over loading of generator"
+          ],
+          "answer": "Protect the residual magnetism",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "What is the name of generator?",
+          "image_url": null,
+          "options": [
+            "DC shunt generator",
+            "DC compound generator",
+            "DC series generator",
+            "Separately excited DC generator"
+          ],
+          "answer": "DC shunt generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What is the necessity of residual magnetism in a self excited DC generator?",
+          "image_url": null,
+          "options": [
+            "Build up the voltage",
+            "Reduce the field current",
+            "Reduce armature current",
+            "Maintain constant output voltage"
+          ],
+          "answer": "Build up the voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the name of generator, if its field is connected in parallel with armature?",
+          "image_url": null,
+          "options": [
+            "Shunt generator",
+            "Series generator",
+            "Compound generator",
+            "Self excited generator"
+          ],
+          "answer": "Shunt generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "Why the terminal voltage decreases if load increases in DC shunt generator?",
+          "image_url": null,
+          "options": [
+            "Because of armature reaction effect",
+            "Due to increased in armature resistance",
+            "Because of brush voltage drop decreases",
+            "Due to increased in shunt field inductance"
+          ],
+          "answer": "Because of armature reaction effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "Which type of DC generator is used for long distance distribution lines?",
+          "image_url": null,
+          "options": [
+            "shunt generator",
+            "series generator",
+            "differential compound generator",
+            "Cumulative compound generator"
+          ],
+          "answer": "Cumulative compound generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "What is the name of the part marked ‘X’ in DCgenerator?",
+          "image_url": null,
+          "options": [
+            "pole tip",
+            "pole coil",
+            "pole core",
+            "pole shoes"
+          ],
+          "answer": "pole shoes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "What is the function of split rings in a D.C generator?",
+          "image_url": null,
+          "options": [
+            "Supplies output continuously",
+            "Makes output in the uni direction",
+            "Makes output in the opposite direction",
+            "Collects the output from alternate conductors"
+          ],
+          "answer": "Makes output in the uni direction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "What is the name of D.C generator's field?",
+          "image_url": null,
+          "options": [
+            "Short shunt compound generator",
+            "Long shunt compound generator",
+            "differential compound generator",
+            "Cumulative compound generator"
+          ],
+          "answer": "Cumulative compound generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Which type of D.C generator is used for arc welding?",
+          "image_url": null,
+          "options": [
+            "shunt generator",
+            "series generator",
+            "differential compound generator",
+            "Cumulative compound generator"
+          ],
+          "answer": "differential compound generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "How the effect of armature reaction can be neutralized in large DC generators?",
+          "image_url": null,
+          "options": [
+            "Using compensating winding",
+            "Providing additional inter poles",
+            "Increasing brush contact resistance",
+            "Adding resistance wires with winding"
+          ],
+          "answer": "Using compensating winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What is the name of the part marked as ‘X’ in DC generator?",
+          "image_url": null,
+          "options": [
+            "armature core",
+            "brush",
+            "Commutator raiser",
+            "Commutator segment"
+          ],
+          "answer": "Commutator raiser",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "Which type of DC generator is suitable for parallel operation?",
+          "image_url": null,
+          "options": [
+            "Series generator",
+            "Shunt generator",
+            "Compound generator",
+            "Separately excited generator"
+          ],
+          "answer": "Shunt generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "What is the name of D.C generator?",
+          "image_url": null,
+          "options": [
+            "Differential long shunt compound",
+            "Differential short shunt compound",
+            "Cumulative long shunt compound",
+            "Cumulative short shunt compound"
+          ],
+          "answer": "Differential long shunt compound",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 25,
+          "question": "What is the function of split rings in DC generator?",
+          "image_url": null,
+          "options": [
+            "Maintain constant voltage",
+            "Collects the current unidirectionally",
+            "Reduces the voltage drop at brushes",
+            "Increases the terminal voltage than rated."
+          ],
+          "answer": "Collects the current unidirectionally",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "Calculate the induced emf of 4 pole dynamo having 1000 rpm lap wound and total number of conductors is 600, the flux / pole is 0.064 wb?",
+          "image_url": null,
+          "options": [
+            "160V",
+            "320V",
+            "480V",
+            "640V"
+          ],
+          "answer": "640V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which metal is used to make pole core of large DC generator machines?",
+          "image_url": null,
+          "options": [
+            "soft iron",
+            "cast iron",
+            "cast steel",
+            "stainless steel"
+          ],
+          "answer": "cast steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the effect of armature reaction in DC generator?",
+          "image_url": null,
+          "options": [
+            "Output voltage increases",
+            "Output voltage decreases",
+            "Output voltage is pulsating",
+            "Output voltage will become zero"
+          ],
+          "answer": "Output voltage decreases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "Why solid pole shoes are used in D.C generator?",
+          "image_url": null,
+          "options": [
+            "To reduce the copper loss",
+            "To increase the residual magnetism",
+            "To decrease the residual magnetism.",
+            "To reduce the reluctance of magnetic path"
+          ],
+          "answer": "To reduce the reluctance of magnetic path",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "Which method is used to improve the insulation resistance in DC generator?",
+          "image_url": null,
+          "options": [
+            "Replacing the brushes frequently",
+            "Heating the machine by running periodically",
+            "Cleaning the commutator segments regularly",
+            "Blowing hot air in to the machine during maintenance"
+          ],
+          "answer": "Blowing hot air in to the machine during maintenance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "Which metal is used to make large capacity DC generator yoke?",
+          "image_url": null,
+          "options": [
+            "cast iron",
+            "soft iron",
+            "Aluminum",
+            "Rolled Steel"
+          ],
+          "answer": "Rolled Steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "Which type of D.C Generator works in absence of residual magnetism?",
+          "image_url": null,
+          "options": [
+            "Shunt generator",
+            "Series generator",
+            "Compound generator",
+            "Separately excited generator"
+          ],
+          "answer": "Separately excited generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "How does the magnetic circuit complete through the yoke and poles in a generator?",
+          "image_url": null,
+          "options": [
+            "Field coils",
+            "Armature core",
+            "Laminated pole core",
+            "Winding conductors in armature"
+          ],
+          "answer": "Armature core",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "How many parallel paths in duplex lap winding of a 4 pole DC generator?",
+          "image_url": null,
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "answer": "8",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "Why the pole core stampings are laminated in DC generator?",
+          "image_url": null,
+          "options": [
+            "Reduce the friction loss",
+            "Reduce the windage loss",
+            "Reduce the hysteresis loss",
+            "Reduce the eddy current loss"
+          ],
+          "answer": "Reduce the eddy current loss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "How interpoles are connected in a DC generator?",
+          "image_url": null,
+          "options": [
+            "In series with armature",
+            "In parallel with armature",
+            "In series with shunt field",
+            "In parallel with shunt field"
+          ],
+          "answer": "In series with armature",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "Which material is used to make brush in generator?",
+          "image_url": null,
+          "options": [
+            "steel and graphite",
+            "Carbon and graphite",
+            "Cast iron and graphite",
+            "aluminum and graphite"
+          ],
+          "answer": "Carbon and graphite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the name of the DC generator?",
+          "image_url": null,
+          "options": [
+            "DC shunt generator",
+            "DC series generator",
+            "Short shunt compound Generator",
+            "Long shunt compound Generator"
+          ],
+          "answer": "Long shunt compound Generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "Which is the condition for maximum efficiency of a DC generator?",
+          "image_url": null,
+          "options": [
+            "Eddy current loss is equal to hysteresis loss",
+            "Variable losses is less than constant losses",
+            "Variable losses is more than constant losses",
+            "Variable losses is equal to constant losses"
+          ],
+          "answer": "Variable losses is equal to constant losses",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "Name the part of DC generator?",
+          "image_url": null,
+          "options": [
+            "Side end plates",
+            "Pole shoe lamination",
+            "Commutator segment",
+            "Armature core lamination"
+          ],
+          "answer": "Armature core lamination",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is the necessity of parallel operation of DC generator?",
+          "image_url": null,
+          "options": [
+            "To increase the load voltage",
+            "For continuity of service",
+            "To share the load voltage",
+            "To maintain constant output voltage"
+          ],
+          "answer": "For continuity of service",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "What is the effect in D.C generator, if it is kept ideal for long time?",
+          "image_url": null,
+          "options": [
+            "Field coil resistance increases",
+            "Armature resistance increases",
+            "Increase the armature reaction",
+            "Looses its residual magnetism"
+          ],
+          "answer": "Looses its residual magnetism",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "Which type of DC generator is used for electroplating process?",
+          "image_url": null,
+          "options": [
+            "shunt generator",
+            "series generator",
+            "differential compound generator",
+            "Cumulative compound generator"
+          ],
+          "answer": "shunt generator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What is the formula for shunt field current Rsh of a DC shunt generator if VT Terminal voltage Eg = generated Emf?",
+          "image_url": null,
+          "options": [
+            "Ish=VT/Rsh",
+            "Ish=Eg/Rsh",
+            "Ish = VT x Rsh",
+            "Ish = Eg x Rsh"
+          ],
+          "answer": "Ish=VT/Rsh",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "Why compensating winding is provided in large DC generators?",
+          "image_url": null,
+          "options": [
+            "Connect more loads",
+            "Reduce commutation effect",
+            "Neutralize armature reaction effect",
+            "Increase the efficiency of generator"
+          ],
+          "answer": "Neutralize armature reaction effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "Why armature resistance of a D.C generator is very low?",
+          "image_url": null,
+          "options": [
+            "Reduce armature current",
+            "Reduce armature voltage drop",
+            "Run armature with less weight",
+            "Reduce the temperature of armature"
+          ],
+          "answer": "Reduce armature voltage drop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is the purpose of compensating winding in DC generator?",
+          "image_url": null,
+          "options": [
+            "Minimizes rough commutation",
+            "Maintain constant output voltage",
+            "Neutralizes the demagnetizing effect",
+            "Decreases the excitation current of field coils"
+          ],
+          "answer": "Neutralizes the demagnetizing effect",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "DC Motor",
+      "quizWrap": [
+        {
+          "id": 48,
+          "question": "Why the holding coil of a 3 point starter is connected in series with shunt field?",
+          "image_url": null,
+          "options": [
+            "To limit the load current",
+            "To run motor at low voltage",
+            "To hold the handle plunger firmly",
+            "To protect the motor from high speed"
+          ],
+          "answer": "To protect the motor from high speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "Which speed control method of D.C series motor is used for electric train?",
+          "image_url": null,
+          "options": [
+            "Field diverter method",
+            "Field tapping method",
+            "Armature diverter method",
+            "Supply voltage control method"
+          ],
+          "answer": "Field diverter method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 50,
+          "question": "Which speed control method is used in food mixture motors?",
+          "image_url": null,
+          "options": [
+            "Voltage control method",
+            "Field diverter control method",
+            "Armature diverter method",
+            "Series field tapping method"
+          ],
+          "answer": "Series field tapping method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "Which type of DC armature winding the front pitch (YF) is greater than back pitch (YB)?",
+          "image_url": null,
+          "options": [
+            "Lap winding",
+            "Wave winding",
+            "Progressive winding",
+            "Retrogressive winding"
+          ],
+          "answer": "Retrogressive winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "Which insulating material used in winding is a highly non -hygroscopic and possess good electrical strength?",
+          "image_url": null,
+          "options": [
+            "Empire cloth",
+            "Triplex paper",
+            "Millinex paper",
+            "Leatheroid paper"
+          ],
+          "answer": "Millinex paper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "Why the direction of rotation is changed only by changing the armature current direction in a D.C compound motor?",
+          "image_url": null,
+          "options": [
+            "Maintain rated speed",
+            "Maintain motor characteristics",
+            "Avoid armature reaction effect",
+            "Prevent motor from over loading"
+          ],
+          "answer": "Maintain motor characteristics",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "How many parallel paths in duplex lap winding in the armature of 4 pole D.C Motor?",
+          "image_url": null,
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "Why series motor produce high torque and speed initially without load?",
+          "image_url": null,
+          "options": [
+            "Absence of back emf",
+            "Load current flows through field winding",
+            "Armature current and field current are same",
+            "Series field winding wound with thick wire"
+          ],
+          "answer": "Absence of back emf",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "Why shunt field coil is connected in series with holding coil in D.C three point starter?",
+          "image_url": null,
+          "options": [
+            "Increase the holding coil current",
+            "Decrease the holding coil current",
+            "Protect the shunt field from over current",
+            "Protect the motor in case of open in shunt field"
+          ],
+          "answer": "Protect the motor in case of open in shunt field",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the purpose of series resistor connected with holding coil in a D.C four point starter?",
+          "image_url": null,
+          "options": [
+            "Limit the current in holding coil",
+            "Increase the current in holding coil",
+            "Increase the voltage in holding coil",
+            "Decrease the voltage in holding coil"
+          ],
+          "answer": "Limit the current in holding coil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "Calculate the average pitch (YA) for retrogressive wave winding, if No. of armature conductor = 14 No. of slots = 7 No. of poles = 2",
+          "image_url": null,
+          "options": [
+            "4",
+            "6",
+            "8",
+            "14"
+          ],
+          "answer": "6",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "How No volt coil is connected in a three point starter with DC shunt motor?",
+          "image_url": null,
+          "options": [
+            "Directly connected to supply",
+            "Connected in series with armature",
+            "Connected in parallel with armature",
+            "Connected in series with shunt field"
+          ],
+          "answer": "Connected in series with shunt field",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "Which is used to increase the insulation property of the insulating material used in winding?",
+          "image_url": null,
+          "options": [
+            "Fibre",
+            "Cotton tape",
+            "Millinex paper",
+            "Varnish"
+          ],
+          "answer": "Varnish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What is the necessity of starter for D.C motor?",
+          "image_url": null,
+          "options": [
+            "Limit the field current",
+            "Limit the field voltage",
+            "Control the motor speed",
+            "Limit the armature current"
+          ],
+          "answer": "Limit the armature current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "What is the name of rule?",
+          "image_url": null,
+          "options": [
+            "Flemingʹs right hand rule",
+            "Palm rule",
+            "Flemingʹs left hand rule",
+            "Thumb rule"
+          ],
+          "answer": "Flemingʹs left hand rule",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "Which type of DC motor is used for sudden application of heavy loads?",
+          "image_url": null,
+          "options": [
+            "shunt motor",
+            "Series motor",
+            "differential compound motor",
+            "Cumulative compound motor"
+          ],
+          "answer": "Cumulative compound motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "Which instrument is used to measure armature winding resistance?",
+          "image_url": null,
+          "options": [
+            "Megger",
+            "multi meter",
+            "Series type Ohm meter",
+            "kelvin bridge"
+          ],
+          "answer": "kelvin bridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "Where D.C compound motors are preferred?",
+          "image_url": null,
+          "options": [
+            "Constant load requirements",
+            "Constant speed requirements",
+            "High starting torque requirements",
+            "Constant speed under varying load requirements"
+          ],
+          "answer": "Constant speed under varying load requirements",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "What is the term name that the end lead of coil 1 is connected to the beginning lead of the adjust coil 2 through commutator?",
+          "image_url": null,
+          "options": [
+            "Simplex lap winding",
+            "Duplex lap winding",
+            "Simplex wave winding",
+            "Duplex wave winding"
+          ],
+          "answer": "Simplex lap winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "Which type of D.C motor is used for constant speed drives?",
+          "image_url": null,
+          "options": [
+            "DC series motor",
+            "DC shunt motor",
+            "Differential long shunt compound motor",
+            "Differential short shunt compound motor"
+          ],
+          "answer": "DC shunt motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "What is the effect in a D.C shunt motor, if its supply terminals are interchanged?",
+          "image_url": null,
+          "options": [
+            "Runs in slow speed",
+            "Runs in high speed",
+            "Runs in the same direction",
+            "Runs in the reverse direction"
+          ],
+          "answer": "Runs in the same direction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "What is the name of test?",
+          "image_url": null,
+          "options": [
+            "Test for Grounded coil",
+            "Test for Shorted coil",
+            "Test for open coil",
+            "Drop test"
+          ],
+          "answer": "Test for Grounded coil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "Why the newly rewound armature must be preheated before varnishing?",
+          "image_url": null,
+          "options": [
+            "Drive out the moisture from it",
+            "Help for quick drying of varnish",
+            "Make easy to penetrate varnish inside",
+            "Maintain uniform spreading of varnishing"
+          ],
+          "answer": "Drive out the moisture from it",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "How to obtain opposite polarity in adjacent poles of a 4 pole DC motor?",
+          "image_url": null,
+          "options": [
+            "Varying the number of turns in coil",
+            "Making series connection of coils",
+            "Making parallel connection of coils",
+            "Making current flow in different direction"
+          ],
+          "answer": "Making current flow in different direction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "Which winding fault is determined by the test?",
+          "image_url": null,
+          "options": [
+            "Open coil fault",
+            "Short coil fault",
+            "Grounded coil fault",
+            "Grounded core fault"
+          ],
+          "answer": "Open coil fault",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "What is the name of the speed control method of DC motor?",
+          "image_url": null,
+          "options": [
+            "Field diverter method",
+            "Field tapping method",
+            "Voltage control method",
+            "Armature diverter method"
+          ],
+          "answer": "Armature diverter method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What reduces the cross sectional area of ​​core material for VA rating?",
+          "image_url": null,
+          "options": [
+            "Dynamo sheet",
+            "Low alloy sheet",
+            "high alloy sheet",
+            "normal steel sheet"
+          ],
+          "answer": "high alloy sheet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 75,
+          "question": "What is the effect, if a four point starter resistance is cutoff during running?",
+          "image_url": null,
+          "options": [
+            "Motor stopped",
+            "Runs at slow speed",
+            "Runs at very high speed",
+            "Runs at reverse direction"
+          ],
+          "answer": "Runs at slow speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "What is the purpose of NVC connected in series with the field in 3 point starter?",
+          "image_url": null,
+          "options": [
+            "To improve the torque",
+            "Reduce the field current",
+            "To decrease the back emf",
+            "To prevent increase in speed"
+          ],
+          "answer": "To prevent increase in speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "Which insulating material belongs to class ‘B’ insulation?",
+          "image_url": null,
+          "options": [
+            "cotton",
+            "bamboo",
+            "fiber glass",
+            "leatheroid paper"
+          ],
+          "answer": "fiber glass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the operation in the rewinding process?",
+          "image_url": null,
+          "options": [
+            "Cleaning of slots",
+            "Removing winding",
+            "Removing wedges",
+            "Cutting of winding wire"
+          ],
+          "answer": "Removing wedges",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Why commutators are sparking heavily?",
+          "image_url": null,
+          "options": [
+            "Incorrect brush position",
+            "Incorrect field connection",
+            "Incorrect direction of rotation",
+            "Incorrect armature connection"
+          ],
+          "answer": "Incorrect brush position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "Name the type of DC motor.",
+          "image_url": null,
+          "options": [
+            "shunt motor",
+            "Series motor",
+            "Long shunt compound motor",
+            "Short shunt compound motor"
+          ],
+          "answer": "Short shunt compound motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "Which speed control system provides a smooth variation of speed from zero to above normal?",
+          "image_url": null,
+          "options": [
+            "Field control",
+            "Armature control",
+            "Field diverter control",
+            "Ward-Leonard system control"
+          ],
+          "answer": "Ward-Leonard system control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "Which rule determines the direction of current in D.C motor?",
+          "image_url": null,
+          "options": [
+            "Right hand grip rule",
+            "Right hand palm rule",
+            "Fleming's left hand rule",
+            "Fleming's right hand rule"
+          ],
+          "answer": "Fleming's right hand rule",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What is the reason for reduction in speed of a D.C shunt motor from no load to full load?",
+          "image_url": null,
+          "options": [
+            "Shunt field current increases",
+            "Shunt field current decreases",
+            "Armature voltage drop increases",
+            "Armature voltage drop decreases"
+          ],
+          "answer": "Armature voltage drop increases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "Which is the most effective method of balancing armature?",
+          "image_url": null,
+          "options": [
+            "Static balancing",
+            "Dynamic balancing",
+            "Attached with counter balancing",
+            "Plugged with lead weight balancing"
+          ],
+          "answer": "Dynamic balancing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "Which type of armature winding is illustrated?",
+          "image_url": null,
+          "options": [
+            "Duplex lap winding",
+            "Triplex wind lapping",
+            "Simplex winding lapping",
+            "Quadruplex lap winding"
+          ],
+          "answer": "Duplex lap winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "What is the name of winding, if coil pitch is less than pole pitch?",
+          "image_url": null,
+          "options": [
+            "full pitch winding",
+            "half pitch winding",
+            "long chorded winding",
+            "Short chord winding"
+          ],
+          "answer": "Short chord winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "Which speed control method is applied to obtain both below normal and above normal speed in DC motor?",
+          "image_url": null,
+          "options": [
+            "Field control method",
+            "Armature control method",
+            "Tapped field speed control",
+            "Ward Leonard speed control"
+          ],
+          "answer": "Ward Leonard speed control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "Why carbon composition brush requires in the armature circuit to operate the D.C motor?",
+          "image_url": null,
+          "options": [
+            "Increases the starting torque",
+            "Protects from armature reaction",
+            "Protects armature from over loading",
+            "Reduces the spark in the commutator segment"
+          ],
+          "answer": "Reduces the spark in the commutator segment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "Which rule is applied to identify the direction of flux in DC motor?",
+          "image_url": null,
+          "options": [
+            "Cork's screw rule",
+            "Right hand grip rule",
+            "Fleming's left hand rule",
+            "Fleming's right hand rule"
+          ],
+          "answer": "Fleming's left hand rule",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "What is the name of D.C motor?",
+          "image_url": null,
+          "options": [
+            "DC shunt motor",
+            "DC series motor",
+            "DC differential compound motor",
+            "D.C cumulative compound motor"
+          ],
+          "answer": "DC shunt motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "Which method of speed control gives below the rated speed in DC series motor?",
+          "image_url": null,
+          "options": [
+            "Field diverter method",
+            "Tapped field method",
+            "Voltage control method",
+            "Armature diverter method"
+          ],
+          "answer": "Armature diverter method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "What is the name of speed control method?",
+          "image_url": null,
+          "options": [
+            "Field control method",
+            "Armature control method",
+            "Field tapping control method",
+            "Field diverter control method"
+          ],
+          "answer": "Armature control method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "Which speed control methods offers below normal speed in DC shunt motor?",
+          "image_url": null,
+          "options": [
+            "Field control method",
+            "Voltage control method",
+            "Armature control method",
+            "Ward Leonard system of speed control"
+          ],
+          "answer": "Armature control method",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "AC Three Phase Motor",
+      "quizWrap": [
+        {
+          "id": 94,
+          "question": "Which operation the control circuit is used?",
+          "image_url": null,
+          "options": [
+            "Remote control",
+            "inches",
+            "Sequential control",
+            "Forward and reverse"
+          ],
+          "answer": "inches",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the speed control method of 3 phase induction motor?",
+          "image_url": null,
+          "options": [
+            "Cascade operation method",
+            "rotor rheostat control method",
+            "Changing applied voltage method",
+            "Injecting emf in rotor circuit method"
+          ],
+          "answer": "Cascade operation method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "What are the two functional circuits incorporated with a three phase motor starter?",
+          "image_url": null,
+          "options": [
+            "Open circuit and short circuit",
+            "Closed circuit and open circuit",
+            "Short circuit and closed circuit",
+            "Control circuit and power circuit"
+          ],
+          "answer": "Control circuit and power circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "What is the full form of RPM?",
+          "image_url": null,
+          "options": [
+            "Rotation Per Minute",
+            "Rotation Per Motion",
+            "Revolution Per Minute",
+            "Rounding Per Minute"
+          ],
+          "answer": "Revolution Per Minute",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "Calculate the number of coils /phase/ pole for a 3 phase double layer distributed winding for a motor having 36 slots, 36 coils and 4 poles.",
+          "image_url": null,
+          "options": [
+            "3 coils/phase/ pole",
+            "6 coils/phase/pole",
+            "9 coils/phase/pole",
+            "12 coils/phase/pole"
+          ],
+          "answer": "3 coils/phase/ pole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "Why the rotor bars are mounted in a slightly skewed position in 3 phase motor?",
+          "image_url": null,
+          "options": [
+            "Generate maximum flux",
+            "Reduce the stray losses",
+            "Maintain the rotor speed constant",
+            "Produce more uniform rotor field and torque"
+          ],
+          "answer": "Produce more uniform rotor field and torque",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 100,
+          "question": "Which method is applied to control the speed of 3 phase squirrel cage induction motor from its rotor side?",
+          "image_url": null,
+          "options": [
+            "Cascade operation",
+            "Changing applied voltage",
+            "Changing applied frequency",
+            "Changing the number of poles"
+          ],
+          "answer": "Cascade operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Name the part marked as ‘X’ of the winding machine?",
+          "image_url": null,
+          "options": [
+            "Mandrel",
+            "wire feed",
+            "wire guides",
+            "Spool carrier"
+          ],
+          "answer": "Mandrel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "Which loss is determined by no load test of 3 phase induction motor?",
+          "image_url": null,
+          "options": [
+            "iron loss",
+            "copper loss",
+            "Friction loss",
+            "Windage loss"
+          ],
+          "answer": "iron loss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "Which method of speed control is only applicable for 3 phase slipring induction motor?",
+          "image_url": null,
+          "options": [
+            "Cascade operation method",
+            "rotor rheostat speed control",
+            "Changing the applied frequency method",
+            "Changing the number of stator poles method"
+          ],
+          "answer": "rotor rheostat speed control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the total electrical degrees of a 4 pole AC machine?",
+          "image_url": null,
+          "options": [
+            "180°",
+            "360°",
+            "720°",
+            "1080°"
+          ],
+          "answer": "720°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "Which type of insulating material is selected for binding the coils and over hangs?",
+          "image_url": null,
+          "options": [
+            "cotton sleeves",
+            "empire sleeves",
+            "Terylene thread",
+            "fiber glass tape"
+          ],
+          "answer": "Terylene thread",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "Which is the cause for the 3 phase motor starter with single phase preventer trips frequently?",
+          "image_url": null,
+          "options": [
+            "Incorrect fuse ratings",
+            "Unbalanced line voltage",
+            "Incorrect settings of OLR",
+            "Improper phase sequence"
+          ],
+          "answer": "Incorrect settings of OLR",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "Where the panel boards are used?",
+          "image_url": null,
+          "options": [
+            "industrial motor drives",
+            "Domestic wiring circuits",
+            "3 phase domestic wiring",
+            "Load distribution for AC & DC supply"
+          ],
+          "answer": "3 phase domestic wiring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the name of 3 phase motor winding, if the coil pitch is less than pole pitch?",
+          "image_url": null,
+          "options": [
+            "Full pitch winding",
+            "Whole coil winding",
+            "Long chorded winding",
+            "Short chorded winding"
+          ],
+          "answer": "Short chorded winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "What is effect of A.C induction motor if rotor bar is in open circuit?",
+          "image_url": null,
+          "options": [
+            "Vibration of shaft",
+            "Motor will not start",
+            "Runs in slow speed",
+            "Over heating of motor"
+          ],
+          "answer": "Over heating of motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "Determine the torque in newton metres produced by a 7.5 HP squirrel cage motor rotating at 1440 rpm?",
+          "image_url": null,
+          "options": [
+            "21.63 Nm",
+            "24.4 Nm",
+            "33.05 Nm",
+            "36.6 Nm"
+          ],
+          "answer": "36.6 Nm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the cause for vibration in motor?",
+          "image_url": null,
+          "options": [
+            "Grounded winding",
+            "Low voltage",
+            "Open circuited winding",
+            "Loose foundation"
+          ],
+          "answer": "Loose foundation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the defect, if starter with single phasing preventer does not switch ‘ON’?",
+          "image_url": null,
+          "options": [
+            "Improper phase sequence",
+            "Fluctuations in line voltage",
+            "Loose contact in supply lines",
+            "Wrong terminal connections at motor"
+          ],
+          "answer": "Improper phase sequence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "Why slip ring induction motor is fitted with wound rotor?",
+          "image_url": null,
+          "options": [
+            "To reduce the slip",
+            "To control the speed",
+            "To reduce the losses",
+            "To get high starting and running torque"
+          ],
+          "answer": "To get high starting and running torque",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "What is the reason for frequent blowing of fuse after motor running some time?",
+          "image_url": null,
+          "options": [
+            "Improper earthing",
+            "Over loading of motor",
+            "Heavy voltage fluctuation",
+            "Poor insulation in winding"
+          ],
+          "answer": "Poor insulation in winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the name of the starter symbol?",
+          "image_url": null,
+          "options": [
+            "star delta starter",
+            "Rheostatic starter",
+            "Direct on-line starter",
+            "autotransformer starter"
+          ],
+          "answer": "star delta starter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "What refers coil in AC winding?",
+          "image_url": null,
+          "options": [
+            "Number of turns connected in series",
+            "Number of turns connected in parallel",
+            "Number of turns under two similar poles",
+            "Number of turns under two dissimilar poles"
+          ],
+          "answer": "Number of turns connected in series",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "What happens to the rotor of a 3 phase induction motor if its speed attains to synchronous speed?",
+          "image_url": null,
+          "options": [
+            "Rotor speed reduces",
+            "Rotor speed increases",
+            "Rotor speed remains same",
+            "Rotor bars get damaged"
+          ],
+          "answer": "Rotor bars get damaged",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What is the name of AC coil winding?",
+          "image_url": null,
+          "options": [
+            "half coil winding",
+            "Whole coil winding",
+            "Single layer winding",
+            "Double layer winding"
+          ],
+          "answer": "Whole coil winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "Which is the main property of leatheroid paper insulation?",
+          "image_url": null,
+          "options": [
+            "Non moisturized material",
+            "Highly non-hygroscopic",
+            "Very good for class F insulation",
+            "Better ageing and dielectric strength"
+          ],
+          "answer": "Better ageing and dielectric strength",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "Calculate the phase displacement in terms of slots for a 3 phase, 36 slots, 12 coils, 4 pole stator winding?",
+          "image_url": null,
+          "options": [
+            "3 slots",
+            "4 slots",
+            "6 slots",
+            "8 slots"
+          ],
+          "answer": "6 slots",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "What is the name of test?",
+          "image_url": null,
+          "options": [
+            "No load test",
+            "Short circuit test",
+            "Unbalanced current test",
+            "Polarity test"
+          ],
+          "answer": "Unbalanced current test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the name of the diagram used for 3phase motor winding?",
+          "image_url": null,
+          "options": [
+            "ring diagram",
+            "development chart",
+            "Coil connection diagram",
+            "End connection diagram"
+          ],
+          "answer": "ring diagram",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the name of the winding?",
+          "image_url": null,
+          "options": [
+            "skew winding",
+            "skein winding",
+            "involute coil winding",
+            "diamond coil winding"
+          ],
+          "answer": "skew winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "Which test in winding is illustrated?",
+          "image_url": null,
+          "options": [
+            "Polarity test",
+            "ground test",
+            "Continuity test",
+            "short circuit test"
+          ],
+          "answer": "Polarity test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 125,
+          "question": "What happens to a 3 phase induction motor, if one phase fails during starting?",
+          "image_url": null,
+          "options": [
+            "Motor runs and stop immediately",
+            "Motor runs in slow speed continuously",
+            "Motor runs and draws more current",
+            "Motor continues to run with irregular speed"
+          ],
+          "answer": "Motor runs and stop immediately",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "Which type of starter is used for 3 phase slip ring induction motor?",
+          "image_url": null,
+          "options": [
+            "Auto transformer starter",
+            "Star - Delta starter",
+            "Rotor resistance starter",
+            "Direction line starter"
+          ],
+          "answer": "Rotor resistance starter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "Which test in winding is essential before giving supply?",
+          "image_url": null,
+          "options": [
+            "ground test",
+            "Polarity test",
+            "open circuit test",
+            "short circuit test"
+          ],
+          "answer": "Polarity test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What is the effect of motor, if the rotor windings in slipring induction motor is open circuited at starting?",
+          "image_url": null,
+          "options": [
+            "Will not run",
+            "Runs at slow speed",
+            "Runs at very high speed",
+            "Runs but not able to pull load"
+          ],
+          "answer": "Will not run",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "Which type of AC winding the number of coil/pole/phase is more than one at different pitches?",
+          "image_url": null,
+          "options": [
+            "Involute coil winding",
+            "Diamond coil winding",
+            "Flat loop over lapped winding",
+            "Flat loop non-over lapped winding"
+          ],
+          "answer": "Flat loop non-over lapped winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What is the purpose of using thermal cutout in addition to fuse in A.C motor circuit?",
+          "image_url": null,
+          "options": [
+            "Protect from heavy load",
+            "Protect against high voltage",
+            "Allow for continuous overloading",
+            "Protect against dead short circuit"
+          ],
+          "answer": "Allow for continuous overloading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "Which device is used to test stator winding short and open fault?",
+          "image_url": null,
+          "options": [
+            "Tong Tester",
+            "Internal Growler",
+            "External Growler",
+            "digital multimeter"
+          ],
+          "answer": "Internal Growler",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "What is the fuse rate to run a 10 HP three phase induction motor at full load?",
+          "image_url": null,
+          "options": [
+            "10A",
+            "15 A",
+            "25A",
+            "30A"
+          ],
+          "answer": "25A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "Which speed is called as synchronous speed in 3 phase induction motor?",
+          "image_url": null,
+          "options": [
+            "No load speed",
+            "Full load speed",
+            "Rotating magnetic field speed",
+            "Relative speed between stator and rotor"
+          ],
+          "answer": "Rotating magnetic field speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "Which type of AC motor winding having the number of coil/pole/phase is more than one arranged in different slots?",
+          "image_url": null,
+          "options": [
+            "Basket winding",
+            "Concentric winding",
+            "Distributed winding",
+            "Concentrated winding"
+          ],
+          "answer": "Distributed winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the name of the starter symbol?",
+          "image_url": null,
+          "options": [
+            "D.O.L starter",
+            "auto transformer starter",
+            "Automatic star/delta starter",
+            "Semi automatic star/delta starter"
+          ],
+          "answer": "auto transformer starter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is the type of rewinding process?",
+          "image_url": null,
+          "options": [
+            "hand winding",
+            "skein winding",
+            "Former winding",
+            "machine winding"
+          ],
+          "answer": "hand winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What happens to a 3 phase induction motor if one phase fails during running?",
+          "image_url": null,
+          "options": [
+            "Motor runs normally",
+            "Motor stop instantaneously",
+            "Motor runs slowly, finally it burns",
+            "Motor runs with irregular speed"
+          ],
+          "answer": "Motor runs slowly, finally it burns",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the starting current of an A.C 3 phase induction motor?",
+          "image_url": null,
+          "options": [
+            "1 to 2 times of full load current",
+            "2 to 3 times of full load current",
+            "4 to 5 times of full load current",
+            "5 to 6 times of full load current"
+          ],
+          "answer": "5 to 6 times of full load current",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "AC Single Phase Motor",
+      "quizWrap": [
+        {
+          "id": 139,
+          "question": "How the radio interference can be suppressed in centrifugal switch method of speed control of universal motor?",
+          "image_url": null,
+          "options": [
+            "By connecting capacitor across centrifugal switch",
+            "By connecting capacitor in series with centrifugal switch",
+            "By adding compensating winding with armature",
+            "By connecting an inductor in series with centrifugal switch"
+          ],
+          "answer": "By connecting capacitor across centrifugal switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the working principle of split phase motor?",
+          "image_url": null,
+          "options": [
+            "Lenz's law",
+            "Joule's law",
+            "Faraday's laws of electrolysis",
+            "Faraday's laws of electromagnetic induction"
+          ],
+          "answer": "Lenz's law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "Which type of motor is used for small table fan?",
+          "image_url": null,
+          "options": [
+            "Universal motor",
+            "Shaded pole motor",
+            "Repulsion motor",
+            "Capacitor start capacitor run motor"
+          ],
+          "answer": "Shaded pole motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "What is the name of fault if a stator winding comes into contact with a stator core?",
+          "image_url": null,
+          "options": [
+            "Short circuit",
+            "Open circuit",
+            "Ground",
+            "Leakage"
+          ],
+          "answer": "Ground",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the working principle of single phase induction motor?",
+          "image_url": null,
+          "options": [
+            "Lenz's law",
+            "Joule's law",
+            "Faraday's laws of electrolysis",
+            "Faraday's laws of electromagnetic induction"
+          ],
+          "answer": "Lenz's law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the name of AC single phase motor?",
+          "image_url": null,
+          "options": [
+            "Permanent magnet stepper motor",
+            "Reluctance motor",
+            "Hysteresis motor",
+            "Hybrid stepper motor"
+          ],
+          "answer": "Reluctance motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the input current of a 2hp single phase motor, 240V at 70 percentage efficiency and 0.8 power factor?",
+          "image_url": null,
+          "options": [
+            "6.95 Amp",
+            "11 amp",
+            "13.52 Amp",
+            "17.68 Amp"
+          ],
+          "answer": "11 amp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "Which motor is having half coil winding?",
+          "image_url": null,
+          "options": [
+            "mixer",
+            "Grinder",
+            "ceiling fan",
+            "washing machine"
+          ],
+          "answer": "ceiling fan",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "What is the name of AC single phase motor?",
+          "image_url": null,
+          "options": [
+            "Universal motor",
+            "Permanent capacitor motor",
+            "Shaded pole motor",
+            "Repulsion motor"
+          ],
+          "answer": "Repulsion motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "Which type of motor is used for vacuum cleaner?",
+          "image_url": null,
+          "options": [
+            "Shaded pole motor",
+            "Universal motor",
+            "Repulsion motor",
+            "Capacitor start motor"
+          ],
+          "answer": "Universal motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "How many windings are there in a split phase motor stator?",
+          "image_url": null,
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "answer": "Two",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 150,
+          "question": "Which single phase motor has squirrel cage rotor?",
+          "image_url": null,
+          "options": [
+            "Split phase motor",
+            "Repulsion motor",
+            "Universal motor",
+            "Compensated repulsion motor"
+          ],
+          "answer": "Split phase motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the effect if the centrifugal switch is not disconnected after the motor starts?",
+          "image_url": null,
+          "options": [
+            "Motor will run normally",
+            "Motor will stop immediately",
+            "Starting winding will burn out",
+            "Motor will run very slow speed"
+          ],
+          "answer": "Starting winding will burn out",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "Which type of single phase motor is used for hard disk drives?",
+          "image_url": null,
+          "options": [
+            "stepper motor",
+            "repulsion motor",
+            "Hysteresis motor",
+            "Reluctance motor"
+          ],
+          "answer": "stepper motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "What is the name of speed control method of AC single phase motor?",
+          "image_url": null,
+          "options": [
+            "Centrifugal switch method",
+            "Voltage control method",
+            "Tapped field method",
+            "Field diverter method"
+          ],
+          "answer": "Tapped field method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is the name of single phase motor?",
+          "image_url": null,
+          "options": [
+            "permanent capacitor motor",
+            "Induction start capacitor run motor",
+            "Capacitor start capacitor run motor",
+            "Capacitor start induction run motor"
+          ],
+          "answer": "permanent capacitor motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "Which type of winding wire is used for rewinding submersible pumps?",
+          "image_url": null,
+          "options": [
+            "PVC covered copper wire",
+            "Super enamelled copper wire",
+            "Single cotton covered copper wire",
+            "Double cotton covered copper wire"
+          ],
+          "answer": "PVC covered copper wire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "Why a capacitor is connected across centrifugal switch in the centrifugal switch speed control method?",
+          "image_url": null,
+          "options": [
+            "To maintain constant speed",
+            "To protect from over loading",
+            "To improve the power factor",
+            "To reduce the sparks in contacts"
+          ],
+          "answer": "To reduce the sparks in contacts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "What is the name of winding?",
+          "image_url": null,
+          "options": [
+            "Mesh shaped coil winding",
+            "Diamond mesh shaped coil winding",
+            "Concentric winding",
+            "Basket winding"
+          ],
+          "answer": "Concentric winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "Why the hysteresis motor is suitable for sound recording instruments?",
+          "image_url": null,
+          "options": [
+            "Small in size",
+            "high efficiency",
+            "Noiseless operation",
+            "Less error operation"
+          ],
+          "answer": "Noiseless operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "How the direction of rotation of repulsion motors is to be reversed?",
+          "image_url": null,
+          "options": [
+            "By shifting the brush-axis",
+            "By interchanging the supply terminals",
+            "By changing the main winding terminals",
+            "By changing the compensating winding terminals"
+          ],
+          "answer": "By shifting the brush-axis",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "What is the effect, if some slots in a split phase motor left out without winding after completion of concentric winding?",
+          "image_url": null,
+          "options": [
+            "Works normally",
+            "Reduction in speed",
+            "Reduction in torque",
+            "Runs with very high speed"
+          ],
+          "answer": "Works normally",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "Which type of single phase motor is illustrated?",
+          "image_url": null,
+          "options": [
+            "universal motor",
+            "permanent capacitor motor",
+            "Capacitor start induction run motor",
+            "Capacitor start capacitor run motor"
+          ],
+          "answer": "Capacitor start capacitor run motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "What is the name of part marked as ʹxʹ of hysteresis motor?",
+          "image_url": null,
+          "options": [
+            "Stater winding",
+            "Hard steel rotor",
+            "Laminated iron stator",
+            "Shading coil"
+          ],
+          "answer": "Shading coil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the relation between running winding and starting winding of a single phase induction motor with respect to resistance?",
+          "image_url": null,
+          "options": [
+            "Both resistances will be equal",
+            "Running winding is less, starting winding more",
+            "Running winding is more, starting winding less",
+            "Running winding is less, starting winding infinity"
+          ],
+          "answer": "Running winding is less, starting winding more",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Alternator, Synchronous Motor & MG Set",
+      "quizWrap": [
+        {
+          "id": 164,
+          "question": "What is the name of the equipment that provides D.C to the rotor of alternator?",
+          "image_url": null,
+          "options": [
+            "Exciter",
+            "inverter",
+            "converter",
+            "synchronizer"
+          ],
+          "answer": "Exciter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "Calculate the coil span for a full pitch winding having 36 stator slots with 4 poles.",
+          "image_url": null,
+          "options": [
+            "1-Nov",
+            "1-Sep",
+            "1-Oct",
+            "1-Aug"
+          ],
+          "answer": "1-Oct",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "What condition the two lamps become bright and one lamp dark during paralleling of two alternators?",
+          "image_url": null,
+          "options": [
+            "Terminal voltages are equal",
+            "Voltages and frequencies are equal",
+            "Voltages and phase sequence are equal",
+            "Both the alternators receive same frequency"
+          ],
+          "answer": "Voltages and frequencies are equal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "Calculate the pitch factor (KP) for a winding having 36 stator slots 4 pole with angle (α) is 30° in alternator.",
+          "image_url": null,
+          "options": [
+            "0.942",
+            "0.965",
+            "0.978",
+            "0.985"
+          ],
+          "answer": "0.965",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What causes the terminal voltage of an alternator reduces, if the load increases?",
+          "image_url": null,
+          "options": [
+            "Field resistance",
+            "Armature reaction",
+            "Inductive reactance",
+            "Armature resistance"
+          ],
+          "answer": "Armature resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "What is the function of inverter?",
+          "image_url": null,
+          "options": [
+            "Convert A.C to D.C",
+            "Convert D.C to A.C",
+            "Smoothening A.C sine wave",
+            "Convert pulsating DC into pure DC"
+          ],
+          "answer": "Convert D.C to A.C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the formula to calculate emf equation of an alternator?",
+          "image_url": null,
+          "options": [
+            "E = 4.44 Kd Kc T ɸm",
+            "E = 2.22 Kd Kc Fɸm",
+            "E = 4.44 Kd Kc FT ɸm",
+            "E = 1.11 Kd Kc F ɸm"
+          ],
+          "answer": "E = 4.44 Kd Kc FT ɸm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "What is the use of synchroscope?",
+          "image_url": null,
+          "options": [
+            "Adjust the output voltage",
+            "Adjust the phase sequence",
+            "Adjust the supply frequency",
+            "Indicate the correct instant for paralleling"
+          ],
+          "answer": "Indicate the correct instant for paralleling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "How to compensate de-magnetizing effect due to armature reaction in an alternator?",
+          "image_url": null,
+          "options": [
+            "Reducing the speed of alternator",
+            "Reducing field excitation current",
+            "Increasing field excitation current",
+            "Increasing the speed of alternator"
+          ],
+          "answer": "Increasing field excitation current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What is the type of alternator?",
+          "image_url": null,
+          "options": [
+            "brushless alternator",
+            "Three phase alternator",
+            "single phase alternator",
+            "Salient pole type alternator"
+          ],
+          "answer": "brushless alternator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What is the name of curve of synchronous motor?",
+          "image_url": null,
+          "options": [
+            "Vʹ curve",
+            "Inverse ʹVʹ curve",
+            "No load characteristics",
+            "Load characteristics"
+          ],
+          "answer": "Inverse ʹVʹ curve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 175,
+          "question": "Which application requires only DC?",
+          "image_url": null,
+          "options": [
+            "Electroplating",
+            "Stepping up of voltage",
+            "Operating induction motor",
+            "operating repulsion motor"
+          ],
+          "answer": "Electroplating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the advantage of using rotating field type alternator?",
+          "image_url": null,
+          "options": [
+            "Easy to locate the faults in the field",
+            "Easy to connect the load with alternator",
+            "Easy to dissipate the heat during running",
+            "Two slip rings only required irrespective of No. of phases"
+          ],
+          "answer": "Two slip rings only required irrespective of No. of phases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "Which formula is used to calculate EMF/phase in an ideal alternator?",
+          "image_url": null,
+          "options": [
+            "",
+            "",
+            "E = 2.22 ᵩ FT",
+            "E = 4.44 ᵩ FT"
+          ],
+          "answer": "E = 4.44 ᵩ FT",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is the supply frequency of an alternator having 6 poles runs at 1000 rpm?",
+          "image_url": null,
+          "options": [
+            "25Hz",
+            "40Hz",
+            "50Hz",
+            "60Hz"
+          ],
+          "answer": "50Hz",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "Why D.C supply is necessary for synchronous motor operation?",
+          "image_url": null,
+          "options": [
+            "Reduce the losses",
+            "Start the motor initially",
+            "Run the motor with overload",
+            "Run the motor at synchronous speed"
+          ],
+          "answer": "Run the motor at synchronous speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "Calculate the speed in r.p.s of the 2 pole, 50Hz alternator?",
+          "image_url": null,
+          "options": [
+            "50 rps",
+            "100 rps",
+            "1500 rps",
+            "3000 rps"
+          ],
+          "answer": "50 rps",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "What is the effect in increasing the field excitation current in alternator?",
+          "image_url": null,
+          "options": [
+            "Prevents demagnetizing",
+            "Over voltage protection",
+            "Dead short circuit protection",
+            "Alternator will be over loaded"
+          ],
+          "answer": "Prevents demagnetizing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "What is the name of parallel operation of alternator?",
+          "image_url": null,
+          "options": [
+            "Moving iron type synchroscope",
+            "Western type synchroscope",
+            "Dark lamp method",
+            "Dark & Bright lamp method"
+          ],
+          "answer": "Western type synchroscope",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "Why the LED’s are avoided as converters in rectifier diodes?",
+          "image_url": null,
+          "options": [
+            "Heavily doped device",
+            "Very low power device",
+            "Designed for light emitting",
+            "Very sensitive to temperature"
+          ],
+          "answer": "Very low power device",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the name of instrument used to measure the insulation resistance of an alternator?",
+          "image_url": null,
+          "options": [
+            "Multimeter",
+            "Shunt type ohmmeter",
+            "Series type ohmmeter",
+            "Megger"
+          ],
+          "answer": "Megger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "Which rule is used to find the direction of induced emf in an alternator?",
+          "image_url": null,
+          "options": [
+            "Cork screw rule",
+            "Right hand palm rule",
+            "Fleming's left hand rule",
+            "Fleming's right hand rule"
+          ],
+          "answer": "Fleming's right hand rule",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "Why exciter is essential to run a synchronous motor?",
+          "image_url": null,
+          "options": [
+            "Carry more load in motor",
+            "Improve the power factor",
+            "Reduce the losses in motor",
+            "Run the motor at synchronous speed"
+          ],
+          "answer": "Run the motor at synchronous speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the effect of armature reaction at zero leading power factor in an alternator?",
+          "image_url": null,
+          "options": [
+            "No effect",
+            "Cross magnetising",
+            "Demagnetising",
+            "Magnetising"
+          ],
+          "answer": "Magnetising",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which converter is having high efficiency?",
+          "image_url": null,
+          "options": [
+            "SCR converter",
+            "Rotary converter",
+            "Motor generator set",
+            "Mercury arc rectifier"
+          ],
+          "answer": "SCR converter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "What is the purpose of damper winding in alternator?",
+          "image_url": null,
+          "options": [
+            "Reduces the copper loss",
+            "Reduces windage losses",
+            "Reduces the hunting effect",
+            "Improves the voltage regulation"
+          ],
+          "answer": "Reduces the hunting effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "How alternators are rated?",
+          "image_url": null,
+          "options": [
+            "KVA",
+            "KW",
+            "MW",
+            "KV"
+          ],
+          "answer": "KVA",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "Which is represented by ʹVʹ curve of synchronous motor?",
+          "image_url": null,
+          "options": [
+            "Field current and power factor relation",
+            "Applied voltage and load current relation",
+            "Load current and power factor relation",
+            "Armature current and Field current relation"
+          ],
+          "answer": "Armature current and Field current relation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "Which is the main application of synchronous motor?",
+          "image_url": null,
+          "options": [
+            "elevators",
+            "Paper rolling mills",
+            "AC to DC converter",
+            "Power factor correction device"
+          ],
+          "answer": "Power factor correction device",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "What is the cause for hunting effect in alternators?",
+          "image_url": null,
+          "options": [
+            "Due to overload",
+            "Running without load",
+            "Running with fluctuation of speed",
+            "Due to continuous fluctuation in load"
+          ],
+          "answer": "Due to continuous fluctuation in load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "What is the function of the part marked as ‘X’ of the rotary converter?",
+          "image_url": null,
+          "options": [
+            "Converts AC to DC",
+            "Reduces voltage drop",
+            "Helps to deliver without noise",
+            "Collects the delivered direct current"
+          ],
+          "answer": "Collects the delivered direct current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "Which acts as both inverter and converter?",
+          "image_url": null,
+          "options": [
+            "metal rectifier",
+            "Mercury arc rectifier",
+            "semi conductor diode",
+            "Synchronous converter"
+          ],
+          "answer": "Synchronous converter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the application of synchronous motor?",
+          "image_url": null,
+          "options": [
+            "In conveyers",
+            "In crane",
+            "In elevator",
+            "As power factor corrector"
+          ],
+          "answer": "As power factor corrector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is the name of the converter?",
+          "image_url": null,
+          "options": [
+            "metal rectifier",
+            "rotary converter",
+            "Mercury arc rectifier",
+            "Motor-Generator set"
+          ],
+          "answer": "rotary converter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "What is the name of the converter?",
+          "image_url": null,
+          "options": [
+            "metal rectifier",
+            "rotary converter",
+            "Mercury arc rectifier",
+            "Silicon controlled rectifier"
+          ],
+          "answer": "Silicon controlled rectifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "Which condition is to be satisfied before parallel operation of alternators?",
+          "image_url": null,
+          "options": [
+            "Rating must be same",
+            "Phase sequence must be same",
+            "rotor impedance must be same",
+            "Stator impedance must be same"
+          ],
+          "answer": "Phase sequence must be same",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 200,
+          "question": "What is the speed of an alternator connected with a supply frequency of 50 Hz at rated voltage having 4 poles?",
+          "image_url": null,
+          "options": [
+            "1000rpm",
+            "1500rpm",
+            "3000rpm",
+            "4500rpm"
+          ],
+          "answer": "1500rpm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "Calculate the speed of an alternator having 2 poles at a frequency of 50 Hz.",
+          "image_url": null,
+          "options": [
+            "1500rpm",
+            "2500rpm",
+            "3000rpm",
+            "6000rpm"
+          ],
+          "answer": "3000rpm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "What condition the lamps become dark in dark lamp method of parallel operation of two alternators?",
+          "image_url": null,
+          "options": [
+            "Terminal voltages are equal",
+            "Voltage and frequency are equal",
+            "Voltage and power rating are equal",
+            "Frequency are same in both alternator"
+          ],
+          "answer": "Voltage and frequency are equal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "What is the name of the part of alternator?",
+          "image_url": null,
+          "options": [
+            "Stator",
+            "Exciter",
+            "Salient pole rotor",
+            "Smooth cylindrical rotor"
+          ],
+          "answer": "Salient pole rotor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "How the synchronous motor is used as a synchronous condenser?",
+          "image_url": null,
+          "options": [
+            "Varying the motor load",
+            "Varying the rotor excitation",
+            "Varying stator voltage in motor",
+            "Varying stator current in motor"
+          ],
+          "answer": "Varying the rotor excitation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "Which converting device can be over loaded?",
+          "image_url": null,
+          "options": [
+            "Rectifier unit",
+            "rotary converter",
+            "motor generator set",
+            "Mercury arc rectifier"
+          ],
+          "answer": "Rectifier unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "What is the advantage of motor generator set?",
+          "image_url": null,
+          "options": [
+            "Noiseless",
+            "High efficiency",
+            "Low maintenance required",
+            "DC output voltage can be easily controlled"
+          ],
+          "answer": "DC output voltage can be easily controlled",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "How synchronous motor works as a power factor corrector?",
+          "image_url": null,
+          "options": [
+            "Varying the line voltage",
+            "Varying the field excitation",
+            "Increasing the speed of motor",
+            "Decreasing the speed of motor"
+          ],
+          "answer": "Varying the field excitation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "Why the synchronous motor fails to run at synchronous speed?",
+          "image_url": null,
+          "options": [
+            "Insufficient excitation",
+            "Defective pony motor",
+            "Open in damper winding",
+            "Short in damper winding"
+          ],
+          "answer": "Insufficient excitation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "What is the purpose of using damper winding in AC generator?",
+          "image_url": null,
+          "options": [
+            "Prevents heating",
+            "Reduces copper loss",
+            "Reduces windage loss",
+            "Prevents the hunting effect"
+          ],
+          "answer": "Prevents the hunting effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "Which test is conducted in an alternator?",
+          "image_url": null,
+          "options": [
+            "Continuity test on field winding",
+            "Continuity test on main winding",
+            "Insulation test between main winding and Frame",
+            "Insulation test between field winding and Frame"
+          ],
+          "answer": "Continuity test on field winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "Which material is used for damper winding?",
+          "image_url": null,
+          "options": [
+            "Bronze bar",
+            "Aluminium bar",
+            "Brass bar",
+            "Copper bar"
+          ],
+          "answer": "Copper bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "Calculate the voltage regulation in percentage if the load is removed from an alternator, the voltage rises from 480V to 660V.",
+          "image_url": null,
+          "options": [
+            "0.272",
+            "0.325",
+            "0.375",
+            "0.385"
+          ],
+          "answer": "0.375",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electronics Practice",
+      "quizWrap": [
+        {
+          "id": 213,
+          "question": "Which amplifier is based on the output?",
+          "image_url": null,
+          "options": [
+            "Small signal amplifier",
+            "Common base amplifier",
+            "R - C coupled amplifier",
+            "Voltage amplifier"
+          ],
+          "answer": "Voltage amplifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "How the decimal number can be converted into binary number?",
+          "image_url": null,
+          "options": [
+            "Divide decimal by 4",
+            "Multiplying decimal by 4",
+            "Dividing decimal by 2",
+            "Multiplying decimals 2"
+          ],
+          "answer": "Dividing decimal by 2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "What is the name of the device symbol?",
+          "image_url": null,
+          "options": [
+            "SCR",
+            "IGBT",
+            "DIAC",
+            "TRIAC"
+          ],
+          "answer": "DIAC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "Which type of diode is used for voltage regulated power supply?",
+          "image_url": null,
+          "options": [
+            "Crystal diode",
+            "Zener diode",
+            "Tunnel diode",
+            "Light emitting diode"
+          ],
+          "answer": "Zener diode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "Which is a passive component?",
+          "image_url": null,
+          "options": [
+            "Diak",
+            "Diode",
+            "Transistor",
+            "Capacitor"
+          ],
+          "answer": "Capacitor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "Why most of semi conductor devices are made by silicon compared to germanium?",
+          "image_url": null,
+          "options": [
+            "High barrier voltage",
+            "High resistance range",
+            "High thermal conductivity",
+            "High current carrying capacity"
+          ],
+          "answer": "High barrier voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the type of amplifier circuit?",
+          "image_url": null,
+          "options": [
+            "Common base amplifier",
+            "Common emitter amplifier",
+            "Class B push pull amplifier",
+            "Common collector amplifier"
+          ],
+          "answer": "Common collector amplifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "Which logic gate refers to the truth table?",
+          "image_url": null,
+          "options": [
+            "AND",
+            "NOT",
+            "NOR",
+            "NAND"
+          ],
+          "answer": "NOR",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "Which quantity can be measured by CRO?",
+          "image_url": null,
+          "options": [
+            "Frequency",
+            "Inductance",
+            "Resistance",
+            "power factor"
+          ],
+          "answer": "Frequency",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "Which circuit is essential to maintain oscillations or waves in an oscillator circuit?",
+          "image_url": null,
+          "options": [
+            "Rectifier with filter",
+            "voltage multiplier",
+            "Negative feed back",
+            "Positive feed back"
+          ],
+          "answer": "Positive feed back",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "What defect will occur in the radio, if the pulsations are not removed from the input of the rectifier?",
+          "image_url": null,
+          "options": [
+            "Improper tuning",
+            "No response",
+            "Humming sound",
+            "Works with low volume"
+          ],
+          "answer": "Humming sound",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is the name of amplifier?",
+          "image_url": null,
+          "options": [
+            "Current amplifier",
+            "Voltage amplifier",
+            "Power amplifier",
+            "Small signal amplifier"
+          ],
+          "answer": "Power amplifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 225,
+          "question": "Which device has very high input impedance, low noise output, good linearity and low inter electrode capacity?",
+          "image_url": null,
+          "options": [
+            "NPN transistor",
+            "PNP transistor",
+            "Field effect transistor",
+            "Uni junction transistor"
+          ],
+          "answer": "Field effect transistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the name of resistor?",
+          "image_url": null,
+          "options": [
+            "Wire wound fixed resistor",
+            "Carbon resistor",
+            "Trimmer resistor",
+            "Wire wound variable resistor"
+          ],
+          "answer": "Wire wound variable resistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the full form of PCB?",
+          "image_url": null,
+          "options": [
+            "Prevent Circuit Breaker",
+            "Printed Circuit Board",
+            "Power Circuit Breaker",
+            "Panel Control Board"
+          ],
+          "answer": "Printed Circuit Board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "What is the name of amplifier?",
+          "image_url": null,
+          "options": [
+            "Common emitter amplifier",
+            "Class B push pull amplifier",
+            "Common collector amplifier",
+            "Class AB push pull amplifier"
+          ],
+          "answer": "Class B push pull amplifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "What is the main function of Uni Junction Transistor (UJT)?",
+          "image_url": null,
+          "options": [
+            "Relaxation oscillator",
+            "broadcast transmitter",
+            "Loud speaker amplifier",
+            "Microphone input device"
+          ],
+          "answer": "Relaxation oscillator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "Which type of biasing is required to a NPN transistor for amplification?",
+          "image_url": null,
+          "options": [
+            "Base ground, emitter and collector positive",
+            "Base negative, emitter positive and collector negative",
+            "Base positive, emitter negative and collector positive",
+            "Base positive, emitter negative and collector negative"
+          ],
+          "answer": "Base positive, emitter negative and collector positive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "What is the purpose of using binary coded decimal (BCD) system in digital circuits?",
+          "image_url": null,
+          "options": [
+            "Storing the data inputs",
+            "Control the binary system",
+            "Interface to binary system",
+            "Segregating the input parameters"
+          ],
+          "answer": "Storing the data inputs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "Which letter indicates the compound material cadmium sulphide?",
+          "image_url": null,
+          "options": [
+            "‘A’",
+            "‘B’",
+            "C'",
+            "R'"
+          ],
+          "answer": "R'",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "What is the output voltage in the full wave rectifier circuit?",
+          "image_url": null,
+          "options": [
+            "No output",
+            "rated output",
+            "Half the rated output",
+            "Double the rated output"
+          ],
+          "answer": "No output",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "How the gate terminal of N channel JFET biased?",
+          "image_url": null,
+          "options": [
+            "Gates are reverse biased",
+            "Gates are forward biased",
+            "Gates are forward biased with drain",
+            "Gates are reverse biased with source"
+          ],
+          "answer": "Gates are reverse biased with source",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "Which is the demerit of IGBT?",
+          "image_url": null,
+          "options": [
+            "Static charge problem",
+            "On-state losses are reduce",
+            "Flat temperature co-efficient",
+            "High switching frequency"
+          ],
+          "answer": "Static charge problem",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the minimum and maximum value of resistor with four colour bands, red, violet, orange and gold respectively?",
+          "image_url": null,
+          "options": [
+            "23750Ω - 26250Ω",
+            "24700Ω - 27300Ω",
+            "25650Ω - 28350Ω",
+            "22400Ω - 33600Ω"
+          ],
+          "answer": "25650Ω - 28350Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "Which resistor determines the voltage gain in a common emitter amplifier?",
+          "image_url": null,
+          "options": [
+            "R₁",
+            "R₂",
+            "RL",
+            "Re"
+          ],
+          "answer": "RL",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "What is the function of a transistor if emitter to base and collector to base are forward biased?",
+          "image_url": null,
+          "options": [
+            "Acts as an amplifier",
+            "Acts as an oscillator",
+            "Acts as an open circuit",
+            "Acts as a closed switch"
+          ],
+          "answer": "Acts as a closed switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "Which doping material is used to make P-type semi conductor?",
+          "image_url": null,
+          "options": [
+            "boron",
+            "Arsenic",
+            "Antimony",
+            "phosphorus"
+          ],
+          "answer": "boron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What is the characteristic property of base material in a transistor?",
+          "image_url": null,
+          "options": [
+            "Lightly doped and very thin",
+            "Heavily doped and very thin",
+            "Lightly doped and very large",
+            "Heavily doped and very large"
+          ],
+          "answer": "Lightly doped and very thin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the use of voltage dependent resistor?",
+          "image_url": null,
+          "options": [
+            "For temperature compensator",
+            "For voltage measurement",
+            "For under voltage protection",
+            "For over voltage protection"
+          ],
+          "answer": "For over voltage protection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "Which is an active component?",
+          "image_url": null,
+          "options": [
+            "Inductor",
+            "Resistor",
+            "Capacitor",
+            "Transistor"
+          ],
+          "answer": "Transistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "What is the output DC voltage in half wave rectifier, if the input AC voltage is 24 volt?",
+          "image_url": null,
+          "options": [
+            "24 volt",
+            "12 volt",
+            "9.6 volts",
+            "10.8 volts"
+          ],
+          "answer": "10.8 volts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "Which electronic circuit produces signal waves or pulses without an input?",
+          "image_url": null,
+          "options": [
+            "Detector",
+            "amplifier",
+            "Oscillator",
+            "Modulator"
+          ],
+          "answer": "Oscillator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "Which oscillator provides high accurate stable frequency?",
+          "image_url": null,
+          "options": [
+            "hartley oscillator",
+            "colpitts oscillator",
+            "Quartz crystal oscillator",
+            "R.C phase shift oscillator"
+          ],
+          "answer": "hartley oscillator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "Why negative feedback is required in amplifier circuits?",
+          "image_url": null,
+          "options": [
+            "To reduce the distortion",
+            "To increase the amplification factor",
+            "To increase the output voltage gain",
+            "To increase the output current gain"
+          ],
+          "answer": "To reduce the distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "What is the main application of a Field Effect Transistor (FET)?",
+          "image_url": null,
+          "options": [
+            "voltage control device",
+            "Current control device",
+            "positive feedback device",
+            "Low input impedance device"
+          ],
+          "answer": "voltage control device",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the peak voltage of 220V rms AC voltage?",
+          "image_url": null,
+          "options": [
+            "310.02V",
+            "311.17V",
+            "312.25V",
+            "315.20V"
+          ],
+          "answer": "311.17V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "What is the type of function in the transistor circuit?",
+          "image_url": null,
+          "options": [
+            "Switching",
+            "Oscillation",
+            "Modulation",
+            "amplification"
+          ],
+          "answer": "Switching",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 250,
+          "question": "What is the total turn-on time (ton) while transistor makes a transition from V₂ to V₁?",
+          "image_url": null,
+          "options": [
+            "ton = tr - ts",
+            "ton = tr - td",
+            "ton = td + tr",
+            "ton=tr+td+ts"
+          ],
+          "answer": "ton = td + tr",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the name of gate symbol?",
+          "image_url": null,
+          "options": [
+            "NOR gate",
+            "OR gate",
+            "AND gate",
+            "NOT gate"
+          ],
+          "answer": "NOT gate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "What is the name of regulator circuit?",
+          "image_url": null,
+          "options": [
+            "Adjustable regulator",
+            "Fixed output voltage regulator",
+            "Variable output voltage regulator",
+            "Basic positive regulator"
+          ],
+          "answer": "Variable output voltage regulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "Which multi vibrator produces a repetitive pulse wave form output?",
+          "image_url": null,
+          "options": [
+            "Astable multi vibrator",
+            "Bistable multi vibrator",
+            "One shot multi vibrator",
+            "Monostable multi vibrator"
+          ],
+          "answer": "Astable multi vibrator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "Which is the main application of SCR?",
+          "image_url": null,
+          "options": [
+            "amplifier",
+            "Oscillators",
+            "Multi vibrators",
+            "Speed ​​control of motors"
+          ],
+          "answer": "Speed ​​control of motors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "Why the collector region is physically made larger than emitter region in a transistor?",
+          "image_url": null,
+          "options": [
+            "It has to dissipate more heat",
+            "Output taken from collector terminal",
+            "Base collector region is reverse biased",
+            "Collector region always operate with high voltage"
+          ],
+          "answer": "It has to dissipate more heat",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "Which device is made up of using the methods of point contact, grown, diffusion and alloy junctions?",
+          "image_url": null,
+          "options": [
+            "Inductor",
+            "Resistor",
+            "Capacitor",
+            "Transistor"
+          ],
+          "answer": "Transistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "What is the name of symbol?",
+          "image_url": null,
+          "options": [
+            "Silicon controlled rectifier",
+            "Nʹ channel FET",
+            "Triac",
+            "Diac"
+          ],
+          "answer": "Nʹ channel FET",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "How the input impedance of CRO can be increased?",
+          "image_url": null,
+          "options": [
+            "By adding resistance to CRO probe",
+            "By adding resistance to trigger level circuit",
+            "By increasing time/base attenuator switch position",
+            "By increasing volts/cm attenuator switch position"
+          ],
+          "answer": "By adding resistance to CRO probe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "What is the power gain of CE amplifier with a voltage gain of 66 and β (Beta) of the transistor is 100?",
+          "image_url": null,
+          "options": [
+            "1.5",
+            "166",
+            "0.66",
+            "6600"
+          ],
+          "answer": "6600",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "What is the frequency of the displayed signal on CRO screen covered by 5 division with a time base setting of 0.2 micro seconds?",
+          "image_url": null,
+          "options": [
+            "1.0 KHz",
+            "10.0 KHz",
+            "100.0 KHz",
+            "1000.0KHz"
+          ],
+          "answer": "1000.0KHz",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "Which Resistor is used to measure light intensity?",
+          "image_url": null,
+          "options": [
+            "VDR",
+            "NTC",
+            "PTC",
+            "LDR"
+          ],
+          "answer": "LDR",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Control Panel Wiring and Circuit Breakers & Relays",
+      "quizWrap": [
+        {
+          "id": 262,
+          "question": "Which switch with an actuator is operated by the motion of a machine or part of an object?",
+          "image_url": null,
+          "options": [
+            "Limit switch",
+            "Toggle switch",
+            "Isolating switch",
+            "Push button switch"
+          ],
+          "answer": "Limit switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "What is the name of circuit diagram?",
+          "image_url": null,
+          "options": [
+            "Control circuit of auto star delta starter",
+            "Power circuit of auto star delta starter",
+            "Control circuit of semi auto star delta starter",
+            "Power circuit of semi auto star delta starter"
+          ],
+          "answer": "Control circuit of semi auto star delta starter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "Which device detects a physical quantity?",
+          "image_url": null,
+          "options": [
+            "Relay",
+            "Circuit breaker",
+            "Sensors",
+            "Starter"
+          ],
+          "answer": "Sensors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the function of relay to the breaking operation of circuit breaker in control circuit?",
+          "image_url": null,
+          "options": [
+            "Sensing the fault quantities",
+            "Analyzing the condition of breaker",
+            "Controlling the Speed in case of fault",
+            "Interpreting the fault situation to operate breaker"
+          ],
+          "answer": "Interpreting the fault situation to operate breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "Which type of relay is used in both A.C and D.C supply?",
+          "image_url": null,
+          "options": [
+            "reed relay",
+            "impulse relay",
+            "thermal relay",
+            "Clapper-type armature relay"
+          ],
+          "answer": "impulse relay",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "What is the name of the accessory used in control panel wiring?",
+          "image_url": null,
+          "options": [
+            "Wire ferrules",
+            "wire sleeves",
+            "Nylon cable ties",
+            "Cable binding strap"
+          ],
+          "answer": "Cable binding strap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "Which supply indicates by the color of conductor exhibited on Red, Blue and Black?",
+          "image_url": null,
+          "options": [
+            "Supply DC 3 wire system",
+            "Single phase AC system",
+            "Supply AC system 3 phase",
+            "Apparatus AC system 3 phase"
+          ],
+          "answer": "Supply DC 3 wire system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "What is the name of the accessory used in control panel wiring?",
+          "image_url": null,
+          "options": [
+            "lugs",
+            "Thimble",
+            "grommet",
+            "terminal connector"
+          ],
+          "answer": "grommet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "What is the name of the device marked as ‘X’ in the circuit?",
+          "image_url": null,
+          "options": [
+            "Contactor",
+            "No voltage coil",
+            "stop button",
+            "overload relay trip"
+          ],
+          "answer": "overload relay trip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "Where heavy and rare operated devices are fixed in the cabinet of control panel?",
+          "image_url": null,
+          "options": [
+            "On the top",
+            "Anywhere",
+            "In middle position",
+            "On the bottom"
+          ],
+          "answer": "On the bottom",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the reason for providing two separate Earthing in panel board?",
+          "image_url": null,
+          "options": [
+            "Panel board is made in metal box",
+            "Control the stray field in the panel",
+            "Reduce the voltage drop in panel board",
+            "Ensure one earthing in case of other failure"
+          ],
+          "answer": "Ensure one earthing in case of other failure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "Which device is avoided in the panel board assembly?",
+          "image_url": null,
+          "options": [
+            "sensors",
+            "indicating lamp",
+            "Isolating switch",
+            "push button switch"
+          ],
+          "answer": "sensors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What happens, if time delay relay of a auto star delta starter still in closed condition after starting?",
+          "image_url": null,
+          "options": [
+            "Starts and stop",
+            "Runs normally",
+            "Runs in star only",
+            "Runs in delta only"
+          ],
+          "answer": "Runs in delta only",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 275,
+          "question": "What is the purpose of external source for passive sensors?",
+          "image_url": null,
+          "options": [
+            "To generate voltage",
+            "To generate heat",
+            "To generate light",
+            "To generate signal"
+          ],
+          "answer": "To generate signal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is the criteria to select the contactor?",
+          "image_url": null,
+          "options": [
+            "Type of supply",
+            "Type of load connected",
+            "Supply voltage and load",
+            "Place of use of the contactor"
+          ],
+          "answer": "Supply voltage and load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "What is the purpose of control transformer used in control panel wiring?",
+          "image_url": null,
+          "options": [
+            "To maintain constant terminal voltage",
+            "To supply the power to the auxiliary circuits",
+            "To control the supply voltage to the contactor",
+            "To protect the control elements from over voltage fault"
+          ],
+          "answer": "To supply the power to the auxiliary circuits",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "Which device protects from overload and short circuit in a panel board?",
+          "image_url": null,
+          "options": [
+            "Isolating switch",
+            "time delay relay",
+            "thermal overload relay",
+            "miniature circuit breaker"
+          ],
+          "answer": "miniature circuit breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "Which is the standard duty cycle code of the contactor for starting and stopping the AC resistive and inductive load?",
+          "image_url": null,
+          "options": [
+            "AC₁",
+            "AC₂",
+            "AC₃",
+            "AC₄"
+          ],
+          "answer": "AC₂",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "What is the name of part marked as ʺXʺ in industrial agitator system?",
+          "image_url": null,
+          "options": [
+            "Discharge pump",
+            "Agitator tank",
+            "Feed pump",
+            "Agitator motor"
+          ],
+          "answer": "Agitator motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "Which gas is used in SF₆ circuit breaker?",
+          "image_url": null,
+          "options": [
+            "Acetylene",
+            "Sulphur dioxide",
+            "Sulphur hexafluoride",
+            "Carbon dioxide"
+          ],
+          "answer": "Sulphur hexafluoride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the defect in a oil circuit breaker if the oil heats up excessively?",
+          "image_url": null,
+          "options": [
+            "Line voltage is too high",
+            "Excessive load",
+            "Poor dielectric strength",
+            "Defective tripping mechanism"
+          ],
+          "answer": "Poor dielectric strength",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What is the name of circuit breaker?",
+          "image_url": null,
+          "options": [
+            "oil circuit breaker",
+            "air blast circuit breaker",
+            "vacuum circuit breaker",
+            "Air break circuit breaker"
+          ],
+          "answer": "air blast circuit breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "What is the purpose of thermal over load relay in control panel?",
+          "image_url": null,
+          "options": [
+            "Switching ON/OFF the circuit",
+            "Protect the circuit from earth fault",
+            "Control the circuit based on time delay",
+            "Protect the motor from over heating and loading"
+          ],
+          "answer": "Protect the motor from over heating and loading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which device prevents flare out of stripped and stranded cables in the panel board?",
+          "image_url": null,
+          "options": [
+            "Sleeves",
+            "Wire ferrules",
+            "Lugs and thimbles",
+            "Cable binding straps and button"
+          ],
+          "answer": "Lugs and thimbles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "How the control circuit voltage and power in a contactor are to be selected?",
+          "image_url": null,
+          "options": [
+            "As per rated current",
+            "As per supply voltage",
+            "As per no volt coil rating",
+            "As per the type of supply"
+          ],
+          "answer": "As per no volt coil rating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "What is the defect in an air circuit breaker, if trips intermittently on loading?",
+          "image_url": null,
+          "options": [
+            "Incorrect setting of relay",
+            "Excessive heat",
+            "Insufficient air pressure",
+            "Line voltage is too high"
+          ],
+          "answer": "Incorrect setting of relay",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "Which circuit breaker is installed along with wiring circuit against leakage current protection?",
+          "image_url": null,
+          "options": [
+            "ocb",
+            "mcb",
+            "ELCB",
+            "MCCB"
+          ],
+          "answer": "ELCB",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "What is the name of control circuit?",
+          "image_url": null,
+          "options": [
+            "ON remote control circuit",
+            "Jog control using a relay",
+            "Inching control circuit with push motor",
+            "Jogging control circuit with selector switch"
+          ],
+          "answer": "Jogging control circuit with selector switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "Which DC load is represented by the DC4 standard duty cycle of contactors?",
+          "image_url": null,
+          "options": [
+            "Resistive loads except motor loads",
+            "Starting and stopping of shunt motor",
+            "Starting and stopping of series motor",
+            "Starting and stopping with inching and braking"
+          ],
+          "answer": "Starting and stopping of series motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "What is the pick-up voltage in a over voltage relay indicated?",
+          "image_url": null,
+          "options": [
+            "Working voltage of relay",
+            "Maximum voltage rating of relay",
+            "Minimum voltage rating of relay",
+            "Minimum voltage to start the relay"
+          ],
+          "answer": "Minimum voltage to start the relay",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "What is the effect, if the test button marked as ‘X’ is closed permanently in ELCB?",
+          "image_url": null,
+          "options": [
+            "Circuit trips intermittently",
+            "Circuit functions normally",
+            "Circuit switch off completely",
+            "Circuit will not trip on leakage"
+          ],
+          "answer": "Circuit switch off completely",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "Which circuit breaker is used as a switch and protective device in the domestic wiring circuit?",
+          "image_url": null,
+          "options": [
+            "air circuit breaker",
+            "miniature circuit breaker",
+            "Molded case circuit breaker",
+            "Earth leakage circuit breaker"
+          ],
+          "answer": "miniature circuit breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "What is the purpose of trip coil used in circuit breakers?",
+          "image_url": null,
+          "options": [
+            "Easy operation",
+            "Remote operation",
+            "Accurate operation",
+            "Emergency operation"
+          ],
+          "answer": "Remote operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "How to protect the cable from insects and rats into the panel?",
+          "image_url": null,
+          "options": [
+            "By using sleeve",
+            "By using Grommets",
+            "By using cable binding straps",
+            "By providing nylon cable ties"
+          ],
+          "answer": "By using Grommets",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "What is the use of PVC channel in a control panel wiring?",
+          "image_url": null,
+          "options": [
+            "mounting mcb",
+            "mounting relays",
+            "Path way for electrical wiring and protection",
+            "Mounting double deck terminal contactor"
+          ],
+          "answer": "Path way for electrical wiring and protection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which type of load is protected by ‘G’ series MCB?",
+          "image_url": null,
+          "options": [
+            "Ovens",
+            "Geysers",
+            "air conditioners",
+            "General lighting systems"
+          ],
+          "answer": "air conditioners",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Why the motor is not changing the direction, if reverse push button is pressed in forward and reverse control star delta starter?",
+          "image_url": null,
+          "options": [
+            "No volt coil is not energized",
+            "Fault in forward contactor",
+            "Due to interlock in reverse contactor",
+            "No voltage exist in reverse contactor"
+          ],
+          "answer": "Due to interlock in reverse contactor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "Which accessory is used to mount MCB,OLR in the panel board without using screws?",
+          "image_url": null,
+          "options": [
+            "DIN Rail",
+            "G. channel",
+            "Grommets",
+            "PVC channel"
+          ],
+          "answer": "DIN Rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 300,
+          "question": "What is the part name of contactor?",
+          "image_url": null,
+          "options": [
+            "Contact support",
+            "Protective housing",
+            "Magnetic coil",
+            "Support for the yoke"
+          ],
+          "answer": "Protective housing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "What is the function of Buchholz relay in power transformer?",
+          "image_url": null,
+          "options": [
+            "Over load and short circuit protection",
+            "Over voltage and earth fault protection",
+            "Open circuit and earth fault protection",
+            "Open circuit and over voltage protection"
+          ],
+          "answer": "Over load and short circuit protection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "Why power and control wirings run in separate race ways?",
+          "image_url": null,
+          "options": [
+            "To reduce heat",
+            "To reduce the radio interference",
+            "To increase the insulation resistance",
+            "To increase the current carrying capacity"
+          ],
+          "answer": "To reduce the radio interference",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "What is the name of the device marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "stop button",
+            "start button",
+            "Main contact",
+            "Auxiliary contact"
+          ],
+          "answer": "Auxiliary contact",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "How the contacts in a contactor can be engaged for working?",
+          "image_url": null,
+          "options": [
+            "By manual operation",
+            "By mechanical settings",
+            "By operating electromagnet to change the position",
+            "By using bimetallic strip to change the position"
+          ],
+          "answer": "By operating electromagnet to change the position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "Which device controls the operations in sequential control systems?",
+          "image_url": null,
+          "options": [
+            "timer",
+            "relays",
+            "Contactor",
+            "control transformer"
+          ],
+          "answer": "timer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "Which cable ties are used to bunch the wires?",
+          "image_url": null,
+          "options": [
+            "silk ties",
+            "P.V.C ties",
+            "nylon ties",
+            "cotton ties"
+          ],
+          "answer": "nylon ties",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "Which circuit, the limit switches are used?",
+          "image_url": null,
+          "options": [
+            "lift circuits",
+            "street lighting",
+            "motor control circuits",
+            "Domestic power circuits"
+          ],
+          "answer": "lift circuits",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "How the rupturing capacity of circuit breaker is rated?",
+          "image_url": null,
+          "options": [
+            "KV",
+            "KW",
+            "MVA",
+            "KVAR"
+          ],
+          "answer": "MVA",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "What is the fault in the DOL starter if the no volt coil is operating but motor fails to start?",
+          "image_url": null,
+          "options": [
+            "Mechanical obstruction for the moving parts",
+            "No supply to starter",
+            "Incorrect setting of over load relay",
+            "Broken shading coil"
+          ],
+          "answer": "Mechanical obstruction for the moving parts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "What happened if the load increased beyond the rated level in transmission system?",
+          "image_url": null,
+          "options": [
+            "Over loads the line",
+            "Increases the voltage in the line",
+            "Decreases the current in the line",
+            "No effect works normally"
+          ],
+          "answer": "Over loads the line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "What is the name contactor marked as ʹxʹ of auto star delta starter?",
+          "image_url": null,
+          "options": [
+            "Main contactor",
+            "Star contactor",
+            "Delta contactor",
+            "Timer"
+          ],
+          "answer": "Star contactor",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "AC  DC Motor Devices",
+      "quizWrap": [
+        {
+          "id": 312,
+          "question": "What is the function of power controller in drive circuits?",
+          "image_url": null,
+          "options": [
+            "It sounds an alarm in no load conditions",
+            "It detects the overloading condition of motor.",
+            "It reduces motor current during transient operation.",
+            "It maintains the torque at low voltage conditions"
+          ],
+          "answer": "It detects the overloading condition of motor.",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "How the constant torque can be obtained from armature and field controlled drives?",
+          "image_url": null,
+          "options": [
+            "By reducing the field current",
+            "By increasing the field current",
+            "By reducing the armature current",
+            "By controlling the armature voltage"
+          ],
+          "answer": "By controlling the armature voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "What is the purpose of JOG key in control panel of D.C drive?",
+          "image_url": null,
+          "options": [
+            "Stop the motor",
+            "Restart the motor",
+            "Inching operation",
+            "Reverse the direction of motor"
+          ],
+          "answer": "Inching operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 315,
+          "question": "What is the main use of A.C drive?",
+          "image_url": null,
+          "options": [
+            "High starting torque",
+            "group drive motors",
+            "Control stepless speed in motors",
+            "Interlocking system in industries"
+          ],
+          "answer": "Control stepless speed in motors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "What is the function of Field Supply Unit (FSU) in DC drive?",
+          "image_url": null,
+          "options": [
+            "Produces required firing current to the firing circuit",
+            "Provides variable voltage to the field winding of motor",
+            "Provides a constant voltage to the field winding of motor",
+            "Provides a constant voltage to the armature of the motor"
+          ],
+          "answer": "Provides a constant voltage to the field winding of motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "Why the A.C drives are better suited for high speed operation?",
+          "image_url": null,
+          "options": [
+            "High starting torque",
+            "robust in construction",
+            "Having lighter gauge winding",
+            "No brushes and commutation"
+          ],
+          "answer": "No brushes and commutation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the full form of B.O.P in D.C drive?",
+          "image_url": null,
+          "options": [
+            "Bridge Operation Panel",
+            "Basic Operational Panel",
+            "Basic Operation Program",
+            "Bridge Operator Program"
+          ],
+          "answer": "Basic Operational Panel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the full form of VVVFD?",
+          "image_url": null,
+          "options": [
+            "Variable Voltage Variable Frequency Drive",
+            "Value Variable Voltage and Frequency Drive",
+            "Voltage Value Variable Frequency Drive",
+            "Variable Value Voltage Frequency Drive"
+          ],
+          "answer": "Variable Voltage Variable Frequency Drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "What is the name of the component marked as ‘X’ in the block diagram of AC drive?",
+          "image_url": null,
+          "options": [
+            "Rectifier",
+            "D.C bus",
+            "inverter",
+            "AC motor"
+          ],
+          "answer": "D.C bus",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "Which type of machine in industries is provided with multi motor electric drive?",
+          "image_url": null,
+          "options": [
+            "rolling machine",
+            "Air Compressor",
+            "shearing machine",
+            "Heavy duty electric drilling machine"
+          ],
+          "answer": "rolling machine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "What is the disadvantage of DC drive?",
+          "image_url": null,
+          "options": [
+            "Not suitable for high speed operation",
+            "More complex with a single power conversion",
+            "More expensive than AC drive for high capacity motor",
+            "Installation of DC drives is more complicated"
+          ],
+          "answer": "Not suitable for high speed operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "Which is the classification of drive according to dynamics and transients?",
+          "image_url": null,
+          "options": [
+            "Short time duty drive",
+            "Intermittent duty drive",
+            "automatic control drive",
+            "Variable position control drive"
+          ],
+          "answer": "Variable position control drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "What is the name of circuit diagram?",
+          "image_url": null,
+          "options": [
+            "Speed control of universal motor",
+            "Speed control of permanent capacitor motor",
+            "Speed control of repulsion motor",
+            "Speed control of shaded pole motor"
+          ],
+          "answer": "Speed control of universal motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "Which type of sensing unit employed in drive system?",
+          "image_url": null,
+          "options": [
+            "opto coupler",
+            "speed sensing",
+            "photo voltaic cell",
+            "Resistance temperature detector"
+          ],
+          "answer": "speed sensing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "Which device controls the speed of A.C motor in A.C drive?",
+          "image_url": null,
+          "options": [
+            "Field supply unit (FSU)",
+            "COMMS technology box",
+            "Speed ​​feedback technology box",
+            "Microprocessor based electronic device"
+          ],
+          "answer": "Microprocessor based electronic device",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "Which is proportional to the torque in D.C motor?",
+          "image_url": null,
+          "options": [
+            "Back e.m.f",
+            "Field current",
+            "terminal voltage",
+            "armature current"
+          ],
+          "answer": "armature current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 328,
+          "question": "Which control system is used for Eddy current drives?",
+          "image_url": null,
+          "options": [
+            "Slip controller",
+            "Rectifier controller",
+            "ac voltage controller",
+            "DC chopper controller"
+          ],
+          "answer": "Slip controller",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "What is the name of connection diagram?",
+          "image_url": null,
+          "options": [
+            "Inverter circuit",
+            "AC drive with motor",
+            "DC drive with motor",
+            "UPS circuit"
+          ],
+          "answer": "AC drive with motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "Which is the application of single quadrant loads operating in first quadrant in drives?",
+          "image_url": null,
+          "options": [
+            "Hoists",
+            "Elevators",
+            "Conveyors",
+            "Centrifugal pumps"
+          ],
+          "answer": "Centrifugal pumps",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "What is the part name of DC drive marked as ʹXʺ?",
+          "image_url": null,
+          "options": [
+            "Terminal cover",
+            "Blank cover",
+            "Main drive assembly",
+            "Gland plate"
+          ],
+          "answer": "Main drive assembly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "What is the reason of using shielded cable for connecting low level signal circuits in DC drives?",
+          "image_url": null,
+          "options": [
+            "Easy for connection",
+            "Good appearance",
+            "Protects from mechanical injuries",
+            "Eliminates the electrical interference"
+          ],
+          "answer": "Eliminates the electrical interference",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "What is the purpose of LCD on basic operator panel in D.C drive?",
+          "image_url": null,
+          "options": [
+            "Indicate the fault",
+            "Display the speed",
+            "Monitor the parameter",
+            "Display availability of supply"
+          ],
+          "answer": "Monitor the parameter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "Which drive is classified according to mode of operation?",
+          "image_url": null,
+          "options": [
+            "group drive",
+            "manual drive",
+            "individual drive",
+            "continuous duty drive"
+          ],
+          "answer": "continuous duty drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "What is the name of the characteristic curve in D.C drive?",
+          "image_url": null,
+          "options": [
+            "Speed ​​Vs torque characteristic",
+            "Torque Vs field current characteristic",
+            "Speed ​​Vs armature current characteristic",
+            "Field current vs armature current characteristic"
+          ],
+          "answer": "Speed ​​Vs torque characteristic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "What is electric drive?",
+          "image_url": null,
+          "options": [
+            "A device used as prime mover for generator",
+            "A device converts A.C to D.C supply",
+            "An electro mechanical device for controlling motor",
+            "A machine converts mechanical energy into electrical."
+          ],
+          "answer": "An electro mechanical device for controlling motor",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Inverter  UPS & Electric Vehicle Charging",
+      "quizWrap": [
+        {
+          "id": 337,
+          "question": "Which instrument is used to check short circuit faults in electronic circuit in voltage stabilizer?",
+          "image_url": null,
+          "options": [
+            "ammeter",
+            "voltmeter",
+            "Ohmmeter",
+            "multi meter"
+          ],
+          "answer": "multi meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "Which is the cause for the fault if the output voltage of UPS is higher than normal?",
+          "image_url": null,
+          "options": [
+            "Battery get short circuited",
+            "Defective feedback circuit",
+            "Input voltage is very high",
+            "Relay points are joined together"
+          ],
+          "answer": "Defective feedback circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "What is the term name that exchanging a discharged battery for a fully charged one omitting the charging session waiting time?",
+          "image_url": null,
+          "options": [
+            "Slow charging",
+            "Fast charging",
+            "Battery swapping",
+            "Battery replacement"
+          ],
+          "answer": "Battery swapping",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "What is the full form of PWM?",
+          "image_url": null,
+          "options": [
+            "Pulse Wide Modulation",
+            "Pulse Width Modulation",
+            "Phase Wide Modulation",
+            "Phase Width Modulation"
+          ],
+          "answer": "Pulse Width Modulation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "What is the type of A.C voltage stabilizer?",
+          "image_url": null,
+          "options": [
+            "servo voltage stabilizer",
+            "automatic voltage stabilizer",
+            "Manual stepped voltage stabilizer",
+            "Constant voltage transformer stabilizer"
+          ],
+          "answer": "Manual stepped voltage stabilizer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "Which feedback network is used for automatic voltage stabilizer?",
+          "image_url": null,
+          "options": [
+            "Current divider network",
+            "Voltage divider network",
+            "Tapped transformer network",
+            "Resistance temperature detector network"
+          ],
+          "answer": "Voltage divider network",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "Which is frequency converter?",
+          "image_url": null,
+          "options": [
+            "Rectifiers",
+            "DC choppers",
+            "Cycloconverters",
+            "D.C to A.C converters"
+          ],
+          "answer": "Cycloconverters",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "What is the minimum permissible single phase working voltage, if the declared voltage is 240V as per ISI?",
+          "image_url": null,
+          "options": [
+            "233V",
+            "228V",
+            "216V",
+            "211V"
+          ],
+          "answer": "228V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "Which transformer is used in stepped voltage stabilizer?",
+          "image_url": null,
+          "options": [
+            "Stepup transformer",
+            "Isolation transformer",
+            "Air core transformer",
+            "Auto transformer"
+          ],
+          "answer": "Auto transformer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "Which type of electric vehicle charging is contact less?",
+          "image_url": null,
+          "options": [
+            "Fast AC charging",
+            "DC charging",
+            "Transmit electricity through the air",
+            "Slow AC Charging"
+          ],
+          "answer": "Transmit electricity through the air",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 347,
+          "question": "Which electronic circuit is used in a automatic voltage stabilizer to produce constant output voltage?",
+          "image_url": null,
+          "options": [
+            "Rectifier circuit",
+            "Amplifier circuit",
+            "Oscillator circuit",
+            "Feedback circuit"
+          ],
+          "answer": "Feedback circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "How the hard sulphation defect in secondary cell can be prevented?",
+          "image_url": null,
+          "options": [
+            "Provide trickle charging",
+            "Provide freshening charge",
+            "Provide constant current charging",
+            "Provide constant potential method charging"
+          ],
+          "answer": "Provide trickle charging",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "What is the reason for tripping the UPS with full load?",
+          "image_url": null,
+          "options": [
+            "Main supply failure",
+            "Incorrect over load settings",
+            "Battery charger input fuse blown out",
+            "Loose connection in battery terminal"
+          ],
+          "answer": "Incorrect over load settings",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 350,
+          "question": "Which is the application of automatic stepped voltage stabilizer?",
+          "image_url": null,
+          "options": [
+            "Geyser",
+            "Grinder",
+            "Television",
+            "pump motor"
+          ],
+          "answer": "Television",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "What is the purpose of output transformer in inverters?",
+          "image_url": null,
+          "options": [
+            "Step up input AC",
+            "Step down input AC",
+            "Step up AC from amplifier",
+            "Step down AC from amplifier"
+          ],
+          "answer": "Step up AC from amplifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "Which term refers that the mass of a substance liberated from an electrolyte by one coulomb of electricity?",
+          "image_url": null,
+          "options": [
+            "electrolysis",
+            "electroplating",
+            "electrocopying",
+            "electro chemical equivalent"
+          ],
+          "answer": "electro chemical equivalent",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 353,
+          "question": "Which battery is kept in the AC room along with inverter?",
+          "image_url": null,
+          "options": [
+            "Automobile batteries",
+            "Industrial lead acid batteries",
+            "Sealed maintenance free batteries",
+            "Nickel cadmium batteries"
+          ],
+          "answer": "Sealed maintenance free batteries",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 354,
+          "question": "Which is the function of an inverter?",
+          "image_url": null,
+          "options": [
+            "Converts A.C voltage into D.C voltage",
+            "Converts D.C voltage into A.C voltage",
+            "Converts D.C voltage into higher D.C voltage",
+            "Converts A.C voltage into higher A.C voltage"
+          ],
+          "answer": "Converts D.C voltage into A.C voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 355,
+          "question": "What is the reason for having low back up time in UPS?",
+          "image_url": null,
+          "options": [
+            "Fault in inverter circuit",
+            "Battery is short circuited",
+            "Mains earthing is not proper",
+            "Ampere hour (A.H) capacity of battery is not sufficient"
+          ],
+          "answer": "Ampere hour (A.H) capacity of battery is not sufficient",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 356,
+          "question": "What are the important stages in a simple inverter?",
+          "image_url": null,
+          "options": [
+            "Oscillator and rectifier stages",
+            "Oscillator and amplifier stages",
+            "Amplifier and transformer output stages",
+            "Oscillator, amplifier and transformer output stages"
+          ],
+          "answer": "Oscillator, amplifier and transformer output stages",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 357,
+          "question": "How the backup time of UPS can be increased?",
+          "image_url": null,
+          "options": [
+            "Increase the VA rating of UPS",
+            "Increase the AH capacity of battery",
+            "Decrease the AH capacity of battery",
+            "Maintain battery terminal voltage always 90% of rating"
+          ],
+          "answer": "Increase the AH capacity of battery",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 358,
+          "question": "What is the fault if the output frequency is high in an inverter?",
+          "image_url": null,
+          "options": [
+            "Short circuited transformer",
+            "Low battery",
+            "Defective oscillator",
+            "Faulty power transistor"
+          ],
+          "answer": "Defective oscillator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 359,
+          "question": "What is the name of stabilizer?",
+          "image_url": null,
+          "options": [
+            "Stepped voltage stabilizer - automatic",
+            "Stepped voltage stabilizer manual",
+            "Constant voltage transformer",
+            "Servo voltage stabilizer"
+          ],
+          "answer": "Servo voltage stabilizer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 360,
+          "question": "Calculate the voltage and ampere/hour, if four cells rated as 1.5 V and 8 A.H are in parallel?",
+          "image_url": null,
+          "options": [
+            "6 V and 24 AH",
+            "3 V and 16 AH",
+            "4.5 V and 8 AH",
+            "1.5 V and 32 AH"
+          ],
+          "answer": "1.5 V and 32 AH",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 361,
+          "question": "What is the function of emergency lamp in the industry?",
+          "image_url": null,
+          "options": [
+            "Provides light in the work place",
+            "Provides light in the admin block",
+            "To provide illumination to path ways and exit",
+            "Provides supply to lift"
+          ],
+          "answer": "To provide illumination to path ways and exit",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Power Generation, Transmission and Distribution",
+      "quizWrap": [
+        {
+          "id": 362,
+          "question": "Which turbine is used for high head in hydro power plant?",
+          "image_url": null,
+          "options": [
+            "Francis turbines",
+            "Impulse turbines",
+            "Kapton turbines",
+            "Reaction turbines"
+          ],
+          "answer": "Impulse turbines",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 363,
+          "question": "What is the insulation resistance between any two conductors in a medium voltage domestic installation as per IE rules?",
+          "image_url": null,
+          "options": [
+            "Infinity",
+            "More than one mega ohm",
+            "More than two mega ohms",
+            "More than three mega ohms"
+          ],
+          "answer": "More than one mega ohm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 364,
+          "question": "Which electric lines connect the substation to distributors in distribution system?",
+          "image_url": null,
+          "options": [
+            "feeders",
+            "Distributors",
+            "service lines",
+            "Service Mains"
+          ],
+          "answer": "feeders",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 365,
+          "question": "What is the major disadvantage of wind power generation?",
+          "image_url": null,
+          "options": [
+            "Pollution effect is more",
+            "Requires high technology",
+            "Plant installation more complicated",
+            "Wind power is not constant and steady"
+          ],
+          "answer": "Wind power is not constant and steady",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 366,
+          "question": "Which is the conventional power generation?",
+          "image_url": null,
+          "options": [
+            "Wind power generation",
+            "Tidal power generation",
+            "Solar power generation",
+            "thermal power generation"
+          ],
+          "answer": "thermal power generation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 367,
+          "question": "What is the name of line insulator?",
+          "image_url": null,
+          "options": [
+            "Pin type insulator",
+            "Disc type insulator",
+            "Shackle type insulator",
+            "Suspension type insulator"
+          ],
+          "answer": "Suspension type insulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 368,
+          "question": "What is the advantage of overhead lines compared to underground cable?",
+          "image_url": null,
+          "options": [
+            "Public safety is more",
+            "Faults can be located easily",
+            "No interference with the communication lines",
+            "Not liable to the hazards from lightning discharges"
+          ],
+          "answer": "Faults can be located easily",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 369,
+          "question": "Which is the permissible load for lighting subcircuit in domestic wiring as per IE rules?",
+          "image_url": null,
+          "options": [
+            "800W",
+            "1200W",
+            "2400W",
+            "3000W"
+          ],
+          "answer": "800W",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 370,
+          "question": "What is the name of substation that all equipment of substation is installed with in the station building?",
+          "image_url": null,
+          "options": [
+            "Outdoor sub station",
+            "Indoor substation",
+            "Under ground substation",
+            "Pole mounted substation"
+          ],
+          "answer": "Indoor substation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 371,
+          "question": "What is the type of over head line joint?",
+          "image_url": null,
+          "options": [
+            "Twisted joint",
+            "Straight sleeve joint",
+            "Compression joint for ACSR",
+            "Straight joint through connectors"
+          ],
+          "answer": "Compression joint for ACSR",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 372,
+          "question": "What is the cause for the defect if phase to ground fault on the transmission line?",
+          "image_url": null,
+          "options": [
+            "Components failure",
+            "Insulation failure",
+            "Human error",
+            "Fuse failure"
+          ],
+          "answer": "Insulation failure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 373,
+          "question": "What is the name of power generated from coal?",
+          "image_url": null,
+          "options": [
+            "Solar",
+            "Hydro",
+            "Thermal",
+            "Tidal"
+          ],
+          "answer": "Thermal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 374,
+          "question": "What is the advantage of AC power transmission?",
+          "image_url": null,
+          "options": [
+            "Corona loss negligible",
+            "Stress on transmission lines is minimum",
+            "Low voltage drop in transmission lines",
+            "Voltages can be stepped up and stepped down easily"
+          ],
+          "answer": "Voltages can be stepped up and stepped down easily",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 375,
+          "question": "What is the name of conductor used on overhead lines?",
+          "image_url": null,
+          "options": [
+            "ACSR",
+            "Aluminum",
+            "galvanized iron",
+            "hard drawn copper"
+          ],
+          "answer": "ACSR",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 376,
+          "question": "What is the name of part marked as ʹXʺ of hydro power plant?",
+          "image_url": null,
+          "options": [
+            "Penstock",
+            "Turbine",
+            "Intake",
+            "Control gate"
+          ],
+          "answer": "Penstock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 377,
+          "question": "What is the reason for the conductor cross- sectional area can fully utilised on transmission of DC as compared to AC?",
+          "image_url": null,
+          "options": [
+            "No heat loss",
+            "No skin effect",
+            "No power loss",
+            "No corona loss"
+          ],
+          "answer": "No skin effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 378,
+          "question": "Which type of line insulator is used for terminating on corner post?",
+          "image_url": null,
+          "options": [
+            "Pin insulator",
+            "strain insulator",
+            "Shackle insulator",
+            "Suspension insulator"
+          ],
+          "answer": "Shackle insulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 379,
+          "question": "Which material is used in solar cell?",
+          "image_url": null,
+          "options": [
+            "Silicon",
+            "Copper",
+            "Antimony",
+            "phosphorus"
+          ],
+          "answer": "Silicon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 380,
+          "question": "Which fuel is available in plenty in India for power generation?",
+          "image_url": null,
+          "options": [
+            "Coal",
+            "Diesel",
+            "gas oil",
+            "gasoline"
+          ],
+          "answer": "Coal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 381,
+          "question": "Which type of line insulator is used at the dead ends of the H.T overhead lines?",
+          "image_url": null,
+          "options": [
+            "Pin insulator",
+            "Disc insulator",
+            "stay insulator",
+            "Post insulator"
+          ],
+          "answer": "Disc insulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 382,
+          "question": "Why the disc pin insulators outer surface is made by glazing and bent the sides inward?",
+          "image_url": null,
+          "options": [
+            "To withstand high voltage",
+            "Not to attract birds to sit on it",
+            "To offer high mechanical strength",
+            "Disables continuous water flow in rainy season"
+          ],
+          "answer": "Disables continuous water flow in rainy season",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 383,
+          "question": "What is the advantage of pressurized water reactor (PWR)?",
+          "image_url": null,
+          "options": [
+            "No heat loss",
+            "High thermal efficiency",
+            "It has high power density",
+            "Metal surface temperature is lower"
+          ],
+          "answer": "It has high power density",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 384,
+          "question": "What is the main purpose of cross arm used in electric poles?",
+          "image_url": null,
+          "options": [
+            "Supporting the line conductors",
+            "Holding the insulators on overhead line",
+            "Avoids short circuit between conductors",
+            "Reduces conductor sag between supports"
+          ],
+          "answer": "Holding the insulators on overhead line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 385,
+          "question": "What is the purpose of cross-arm in O.H lines?",
+          "image_url": null,
+          "options": [
+            "Provide more support to the O.H pole",
+            "Protect from short between conductors",
+            "Reduce the sag of the lines between poles",
+            "Holding the insulators where the conductors are fastened"
+          ],
+          "answer": "Holding the insulators where the conductors are fastened",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 386,
+          "question": "What is the reason of keeping binding wire gap too close and very tight in pin insulator?",
+          "image_url": null,
+          "options": [
+            "Avoid sparking",
+            "Avoid corrosion",
+            "Avoid oxide formation",
+            "Avoid atmospheric pressure"
+          ],
+          "answer": "Avoid sparking",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

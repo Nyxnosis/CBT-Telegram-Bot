@@ -1,0 +1,5172 @@
+[
+    {
+      "module": "Safety",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "What is the designation of 420 x 594 mm size paper as per BIS?",
+          "image_url": null,
+          "options": [
+            "A1",
+            "A2",
+            "A3",
+            "A4"
+          ],
+          "answer": "A2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "How occupational disease caused in industrial environment?",
+          "image_url": null,
+          "options": [
+            "Negligence",
+            "Lack of knowledge",
+            "Improper handling of machines",
+            "Persons exposed to substance or process"
+          ],
+          "answer": "Persons exposed to substance or process",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the angle between the stock / head and blade in T- square?",
+          "image_url": null,
+          "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+          ],
+          "answer": "90°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "What is designation of drawing sheet used in 700 x 500 x 15 mm size drawing board?",
+          "image_url": null,
+          "options": [
+            "A₀",
+            "A₁",
+            "A₂",
+            "A₃"
+          ],
+          "answer": "A₂",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "Which is the most accepted method of avoiding accident?",
+          "image_url": null,
+          "options": [
+            "Wearing safety equipment",
+            "Doing things in one’s own way",
+            "Performing with highly skilled working practice",
+            "Observing safety precautions related to job, machine and working place"
+          ],
+          "answer": "Observing safety precautions related to job, machine and working place",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "What is the term of the outermost layer of earth?",
+          "image_url": null,
+          "options": [
+            "Lithosphere",
+            "Atmosphere",
+            "Hydrosphere",
+            "Thermosphere"
+          ],
+          "answer": "Lithosphere",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What is Class D fire?",
+          "image_url": null,
+          "options": [
+            "Oil and fats",
+            "Flammable liquids",
+            "Combustible metals",
+            "Energized electrical equipment"
+          ],
+          "answer": "Combustible metals",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "What is the duty of draughtsman?",
+          "image_url": null,
+          "options": [
+            "Electrical installation",
+            "Draw maps, By CAD",
+            "Software installation",
+            "Mechanical works"
+          ],
+          "answer": "Draw maps, By CAD",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "What is ABC of first aid?",
+          "image_url": null,
+          "options": [
+            "Aid, Break, Control",
+            "Avoid, Bleeding, Control",
+            "Airway, Breathing, Circulation",
+            "Accident, Bleeding, Circulation"
+          ],
+          "answer": "Airway, Breathing, Circulation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What is the use of given instrument?",
+          "image_url": null,
+          "options": [
+            "Draw the engineering drawing",
+            "Measurement of height",
+            "Design the drawing",
+            "Draw the curve"
+          ],
+          "answer": "Draw the engineering drawing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What does the symbol refer?",
+          "image_url": null,
+          "options": [
+            "Ordinary solid",
+            "Flammable liquids",
+            "Energized electrical equipment",
+            "Oils and Fats"
+          ],
+          "answer": "Energized electrical equipment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "Which body is propagating crafts man training scheme?",
+          "image_url": null,
+          "options": [
+            "MSEB",
+            "NCVT",
+            "JEE",
+            "NEET"
+          ],
+          "answer": "NCVT",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "What is the name of artery?",
+          "image_url": null,
+          "options": [
+            "Facial",
+            "Cardio",
+            "Brachial",
+            "Temporal"
+          ],
+          "answer": "Cardio",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What is the name of part labelled as X?",
+          "image_url": null,
+          "options": [
+            "Plug",
+            "Fuse head",
+            "Base charge",
+            "Priming charge"
+          ],
+          "answer": "Priming charge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the part marked as X?",
+          "image_url": null,
+          "options": [
+            "Screw",
+            "Head",
+            "Blade",
+            "Linkage"
+          ],
+          "answer": "Head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "What does the symbol refer?",
+          "image_url": null,
+          "options": [
+            "Physical hazard",
+            "Biological hazard",
+            "Ergonomic hazard",
+            "Noise and vibration"
+          ],
+          "answer": "Noise and vibration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What is the first aid to be given to stop the bleeding of the victim?",
+          "image_url": null,
+          "options": [
+            "Applying ointment",
+            "Keep the injured portion upward",
+            "Covering the wound portion by dressing",
+            "Applying pressure over the injured portion"
+          ],
+          "answer": "Applying pressure over the injured portion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "What is professional knowledge?",
+          "image_url": null,
+          "options": [
+            "Theory knowledge",
+            "Efficiency",
+            "Trade practical skill",
+            "Social knowledge"
+          ],
+          "answer": "Theory knowledge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "What is the percentage of oxygen in atmospheric gases?",
+          "image_url": null,
+          "options": [
+            "0.7803",
+            "0.2099",
+            "0.1588",
+            "0.1241"
+          ],
+          "answer": "0.2099",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "What is the maximum degree can be measured in circular protractor?",
+          "image_url": null,
+          "options": [
+            "360°",
+            "270°",
+            "180°",
+            "390°"
+          ],
+          "answer": "360°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "What is the name of drawing instrument?",
+          "image_url": null,
+          "options": [
+            "45° set square",
+            "Scale",
+            "Compass",
+            "Protector"
+          ],
+          "answer": "Protector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "What is the part of a circle bounded by two radii on its arc?",
+          "image_url": null,
+          "options": [
+            "Circle",
+            "Sector",
+            "Segment",
+            "Semi-circle"
+          ],
+          "answer": "Sector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What the arrow head X denotes?",
+          "image_url": null,
+          "options": [
+            "Battens",
+            "Strips",
+            "Ebony edge",
+            "Holder"
+          ],
+          "answer": "Ebony edge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "What is professional skill?",
+          "image_url": null,
+          "options": [
+            "Theory knowledge",
+            "Efficiency",
+            "Trade practical skill",
+            "Social knowledge"
+          ],
+          "answer": "Trade practical skill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "What immediate action to be taken if a person get electric shock?",
+          "image_url": null,
+          "options": [
+            "Report to your authority",
+            "Call for the doctor for medical treatment",
+            "Call other persons for help to rescue true victim",
+            "Switch ‘OFF’ the power supply"
+          ],
+          "answer": "Switch ‘OFF’ the power supply",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Basic Engineering Drawing",
+      "quizWrap": [
+        {
+          "id": 25,
+          "question": "What is the name of the symbol?",
+          "image_url": null,
+          "options": [
+            "Cutting",
+            "Embankment",
+            "Culvert",
+            "Bridge"
+          ],
+          "answer": "Embankment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "Which BIS code is recommended for practice in Engineering drawing?",
+          "image_url": null,
+          "options": [
+            "IS 9069-2001",
+            "IS 11662-1983",
+            "IS 696 - 1972 & IS 10714 - 2001",
+            "IS 10711-1986"
+          ],
+          "answer": "IS 696 - 1972 & IS 10714 - 2001",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "What is the description of G1 in centre line?",
+          "image_url": null,
+          "options": [
+            "Chain thin",
+            "Dashed thin",
+            "Dashed thick",
+            "Continuous thick"
+          ],
+          "answer": "Chain thin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the given scale?",
+          "image_url": null,
+          "options": [
+            "Plain scale",
+            "Comparative scale",
+            "Diagonal scale",
+            "Vernier scale"
+          ],
+          "answer": "Comparative scale",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "What is the name of the dimensioning arrangement?",
+          "image_url": null,
+          "options": [
+            "Chain dimensioning",
+            "Parallel dimensioning",
+            "Aligned dimensioning",
+            "Unidirectional dimensioning"
+          ],
+          "answer": "Aligned dimensioning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "What is the given architectural symbol denotes?",
+          "image_url": null,
+          "options": [
+            "Sink",
+            "Wash basin",
+            "Toilet",
+            "Bath tub"
+          ],
+          "answer": "Toilet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "What is the name of stone dressing finish?",
+          "image_url": null,
+          "options": [
+            "Boasted finish",
+            "Hammer finish",
+            "Reticulated finish",
+            "Polished finish"
+          ],
+          "answer": "Reticulated finish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "Which is the object for given symbol?",
+          "image_url": null,
+          "options": [
+            "Rolling shutter internal",
+            "Sliding door internal",
+            "Sliding door external",
+            "Rolling shutter external"
+          ],
+          "answer": "Rolling shutter external",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "Name the process of removing about 20 cm depth of soil to a certain area for manufacturing of brick?",
+          "image_url": null,
+          "options": [
+            "Unsoiling",
+            "Tempering",
+            "Blending",
+            "Cleaning"
+          ],
+          "answer": "Unsoiling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "Which lime is used for construction of masonry?",
+          "image_url": null,
+          "options": [
+            "Class D",
+            "Class C",
+            "Class B",
+            "Class A"
+          ],
+          "answer": "Class B",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "Which is the test done using vicat apparatus?",
+          "image_url": null,
+          "options": [
+            "Fineness test",
+            "Compressive strength test",
+            "Soundness test",
+            "Tensile strength test"
+          ],
+          "answer": "Soundness test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "What is the scale used generally in MAPS?",
+          "image_url": null,
+          "options": [
+            "1:10⁸",
+            "1:10⁷",
+            "1:10⁶",
+            "1:10⁵"
+          ],
+          "answer": "1:10⁶",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "Which test is conducted to know the classification of lime?",
+          "image_url": null,
+          "options": [
+            "Ball test",
+            "Visual test",
+            "Impurity test",
+            "Workability test"
+          ],
+          "answer": "Ball test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the factor 1:1 represents?",
+          "image_url": null,
+          "options": [
+            "Enlarging scale",
+            "Reducing scale",
+            "Full scale",
+            "Chord scale"
+          ],
+          "answer": "Full scale",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "What is the concept in perspective view to create shortening effect of length due to distance?",
+          "image_url": null,
+          "options": [
+            "Focus",
+            "Vanishing point",
+            "Eccentricity",
+            "Station point"
+          ],
+          "answer": "Vanishing point",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "Which quadrilateral has all the sides are equal and angles are not at right angles?",
+          "image_url": null,
+          "options": [
+            "Rhombus",
+            "Trapezoid",
+            "Rectangle",
+            "Rhomboid"
+          ],
+          "answer": "Rhombus",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "How many vertical folds come under A0 size trimmed drawing sheet?",
+          "image_url": null,
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "6",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "How many grades the ordinary port land cement is available as per IS specification?",
+          "image_url": null,
+          "options": [
+            "2 grades",
+            "3 grades",
+            "4 grades",
+            "5 grades"
+          ],
+          "answer": "3 grades",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the classification of marble?",
+          "image_url": null,
+          "options": [
+            "Metamorphic rock",
+            "Foliated rock",
+            "Sedimentary rock",
+            "Igneous rock"
+          ],
+          "answer": "Metamorphic rock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What is known as the capacity of material to permit water to pass through it under pressure?",
+          "image_url": null,
+          "options": [
+            "Durability",
+            "Permeability",
+            "Porosity",
+            "Ductility"
+          ],
+          "answer": "Permeability",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "What is the name of line given below?",
+          "image_url": null,
+          "options": [
+            "Perpendicular line",
+            "Curved line",
+            "Inclined line",
+            "Parallel line"
+          ],
+          "answer": "Parallel line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "What is the name of given diagram?",
+          "image_url": null,
+          "options": [
+            "Trapezoid",
+            "Rhombus",
+            "Trapezium",
+            "Parallelogram"
+          ],
+          "answer": "Trapezium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "Which BIS code no is recommended for folding of drawing sheets?",
+          "image_url": null,
+          "options": [
+            "IS 11664-1989",
+            "IS 11664-1987",
+            "IS 11664-1986",
+            "IS 11664 - 1981"
+          ],
+          "answer": "IS 11664-1986",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the name of given scale?",
+          "image_url": null,
+          "options": [
+            "Plain",
+            "Comparative",
+            "Vernier",
+            "Diagonal"
+          ],
+          "answer": "Diagonal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "What is the R.F, if an actual length of distance 5 m represented by 25 mm length?",
+          "image_url": null,
+          "options": [
+            "34:20:00",
+            "04:20",
+            "01:20",
+            "1:2"
+          ],
+          "answer": "04:20",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 50,
+          "question": "What is the name of triangle consist three unequal sides and angles?",
+          "image_url": null,
+          "options": [
+            "Scalene triangle",
+            "Isosceles triangle",
+            "Equilateral triangle",
+            "Right angled triangle"
+          ],
+          "answer": "Scalene triangle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What is the name of the scale that is denoted by 5 : 1?",
+          "image_url": null,
+          "options": [
+            "Full scale",
+            "Plain scale",
+            "Reduced scale",
+            "Enlarged scale"
+          ],
+          "answer": "Enlarged scale",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "What is the process in manufacturing of bricks if the clay is made lose and any ingredient to be added to it?",
+          "image_url": null,
+          "options": [
+            "Weathering",
+            "Cleaning",
+            "Tempering",
+            "Blending"
+          ],
+          "answer": "Blending",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "What is the name of dressing of stone?",
+          "image_url": null,
+          "options": [
+            "Dragged finish",
+            "Furrowed finish",
+            "Reticulated finish",
+            "Hammer dressed finish"
+          ],
+          "answer": "Furrowed finish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "How to draw right side view beside the elevation in 1st angle projection?",
+          "image_url": null,
+          "options": [
+            "Above",
+            "Below",
+            "To the right of",
+            "To the left of"
+          ],
+          "answer": "To the left of",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "Which rock has main content of calcium carbonate?",
+          "image_url": null,
+          "options": [
+            "Argillaceous rocks",
+            "Siliceous rocks",
+            "Foliated rocks",
+            "Calcareous rocks"
+          ],
+          "answer": "Calcareous rocks",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the name given to the view with 3 different axes?",
+          "image_url": null,
+          "options": [
+            "1 - Dimensional",
+            "2 - Dimensional",
+            "3 - Dimensional",
+            "4 - Dimensional"
+          ],
+          "answer": "3 - Dimensional",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the name of given diagram?",
+          "image_url": null,
+          "options": [
+            "Square",
+            "Rectangle",
+            "Trapezoid",
+            "Rhombus"
+          ],
+          "answer": "Rhombus",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "What is the material for given symbol?",
+          "image_url": null,
+          "options": [
+            "Stone",
+            "Partition block",
+            "Cone",
+            "Brick"
+          ],
+          "answer": "Partition block",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "What is the size / Height in mm for sub - titles of drawing?",
+          "image_url": null,
+          "options": [
+            "3 - 5",
+            "6 - 8",
+            "9 - 10",
+            "11 - 12"
+          ],
+          "answer": "3 - 5",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "Which cement is more suitable for the construction of chemical plant and furnace?",
+          "image_url": null,
+          "options": [
+            "Expanding cement",
+            "High alumina cement",
+            "Extra rapid hardening cement",
+            "Hydrophobic cement"
+          ],
+          "answer": "High alumina cement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What is recommended slumps of concrete for road construction?",
+          "image_url": null,
+          "options": [
+            "40 to 50",
+            "70 to 80",
+            "30 to 40",
+            "20 to 40"
+          ],
+          "answer": "20 to 40",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "What is the name of scale?",
+          "image_url": null,
+          "options": [
+            "Plain scale",
+            "Vernier scale",
+            "Diagonal scale",
+            "Comparative scale"
+          ],
+          "answer": "Vernier scale",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What is the projection if the receding lines are drawn to ½ scale?",
+          "image_url": null,
+          "options": [
+            "Cavalier projection",
+            "Cabinet projection",
+            "Clinographic projection",
+            "Axonometric projection"
+          ],
+          "answer": "Cabinet projection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "What is the quality of good bricks water absorption for I class bricks?",
+          "image_url": null,
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "answer": "",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "What is the name of projection having projector from object parallel to each other and Incline to the plane?",
+          "image_url": null,
+          "options": [
+            "Isometric projection",
+            "Oblique projection",
+            "Orthographic projection",
+            "Isometric view"
+          ],
+          "answer": "Oblique projection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "How the dimensions can be read in aligned system of dimension technique?",
+          "image_url": null,
+          "options": [
+            "Left hand edge of drawing sheet",
+            "Right hand edge of drawing sheet",
+            "Top to bottom",
+            "Bottom to top"
+          ],
+          "answer": "Right hand edge of drawing sheet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "What is the name of view having 2 axes known as drawing?",
+          "image_url": null,
+          "options": [
+            "2 - Dimensional",
+            "1 - Dimensional",
+            "3 - Dimensional",
+            "4 - Dimensional"
+          ],
+          "answer": "2 - Dimensional",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "Which scale is used to construct angles in absence of a protractor?",
+          "image_url": null,
+          "options": [
+            "Diagonal scale",
+            "Comparative scale",
+            "Chord scale",
+            "Plain scale"
+          ],
+          "answer": "Chord scale",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "Where the plan is placed in third angle projection?",
+          "image_url": null,
+          "options": [
+            "Below elevation",
+            "Above elevation",
+            "Left of elevation",
+            "Right of elevation"
+          ],
+          "answer": "Above elevation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "What is the description of E1 hidden outlines?",
+          "image_url": null,
+          "options": [
+            "Dashed thin",
+            "Chain thin",
+            "Dashed thick",
+            "Chain thick"
+          ],
+          "answer": "Dashed thick",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "What is the given architectural symbol denotes?",
+          "image_url": null,
+          "options": [
+            "Gas stoves",
+            "Closet",
+            "Shower",
+            "Circular dining"
+          ],
+          "answer": "Circular dining",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the percentage gypsum added in manufacture of cement?",
+          "image_url": null,
+          "options": [
+            "7 - 10%",
+            "5 - 7 %",
+            "3-4%",
+            "1 - 2 %"
+          ],
+          "answer": "3-4%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "What is the name of scale used in Isometric projection?",
+          "image_url": null,
+          "options": [
+            "True scale",
+            "Isometric scale",
+            "Vernier scale",
+            "Chord scale"
+          ],
+          "answer": "Isometric scale",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What is the classification of igneous rock?",
+          "image_url": null,
+          "options": [
+            "Geological",
+            "Physical",
+            "Chemical",
+            "Practical"
+          ],
+          "answer": "Geological",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Masonry",
+      "quizWrap": [
+        {
+          "id": 75,
+          "question": "What is the name of masonry?",
+          "image_url": null,
+          "options": [
+            "Dry rubble masonry",
+            "Random rubble masonry",
+            "Coursed rubble masonry",
+            "Coursed rubble masonry 1st sort"
+          ],
+          "answer": "Random rubble masonry",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "What is the name of brick?",
+          "image_url": null,
+          "options": [
+            "King closer",
+            "Bevelled bat",
+            "Queen closer",
+            "Mitred closer"
+          ],
+          "answer": "King closer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "What is the name of stone joint?",
+          "image_url": null,
+          "options": [
+            "Lap joint",
+            "Butt joint",
+            "Tabled joint",
+            "Tongue and groove joint"
+          ],
+          "answer": "Tabled joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the name of tool used for setting angle in brick masonry?",
+          "image_url": null,
+          "options": [
+            "Bevel",
+            "Plumb rule",
+            "Masons square",
+            "1 meter U folded rule"
+          ],
+          "answer": "Bevel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "What is the name of wall built around a flat roof act as protective wall?",
+          "image_url": null,
+          "options": [
+            "Coping",
+            "Parapet",
+            "Roof",
+            "Lintel"
+          ],
+          "answer": "Parapet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "Which process of drying timber or removing moisture or sap, present in freshly felled timber?",
+          "image_url": null,
+          "options": [
+            "Raping",
+            "Boiling",
+            "Seasoning",
+            "Kilning"
+          ],
+          "answer": "Seasoning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "Which stone joint is used in arch work?",
+          "image_url": null,
+          "options": [
+            "Butt joint",
+            "Table joint",
+            "Rebated joint",
+            "Joggled joint"
+          ],
+          "answer": "Rebated joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "Which type of paint is applied for iron work under water?",
+          "image_url": null,
+          "options": [
+            "Asbestos paint",
+            "Cellulose paint",
+            "Aluminium paint",
+            "Bituminous paint"
+          ],
+          "answer": "Bituminous paint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What for the corrugated sheet form of steel in mostly used?",
+          "image_url": null,
+          "options": [
+            "Structural work",
+            "Roof covering",
+            "Grillwork",
+            "Reinforce cement concrete"
+          ],
+          "answer": "Roof covering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "What is marked as X in brickwork?",
+          "image_url": null,
+          "options": [
+            "Cornice brick",
+            "Bullnose brick",
+            "Cant brick",
+            "Round ended brick"
+          ],
+          "answer": "Cornice brick",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the part marked as X?",
+          "image_url": null,
+          "options": [
+            "Corbel",
+            "Blocking course",
+            "String course",
+            "Frieze course"
+          ],
+          "answer": "Frieze course",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "What is the name covering of bricks, stone or concrete placed on the exposed top of external wall to prevent seepage?",
+          "image_url": null,
+          "options": [
+            "Parapet",
+            "Coping",
+            "Lintel",
+            "Roobing"
+          ],
+          "answer": "Coping",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "What is the name of form labelled as X in bricks masonry?",
+          "image_url": null,
+          "options": [
+            "Header",
+            "Quoin closer",
+            "Queen closer",
+            "Quoin stretcher"
+          ],
+          "answer": "Queen closer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "What is the proportion of cement water proofers for water tanks in paste form?",
+          "image_url": null,
+          "options": [
+            "1 to 10",
+            "11 to 15",
+            "16 to 20",
+            "21 to 25"
+          ],
+          "answer": "1 to 10",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "What is the stone joint used in stone masonry?",
+          "image_url": null,
+          "options": [
+            "Plugged joint",
+            "Rusticated joint",
+            "Tabled joint",
+            "Butt joint"
+          ],
+          "answer": "Rusticated joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "What is the process of removing moisture present in freshly felled timber?",
+          "image_url": null,
+          "options": [
+            "Hardening",
+            "Stiffing",
+            "Sapping",
+            "Seasoning"
+          ],
+          "answer": "Seasoning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "What is marked as X in masonry?",
+          "image_url": null,
+          "options": [
+            "Stretcher",
+            "Bed joint",
+            "Quoin closer",
+            "Quoin"
+          ],
+          "answer": "Bed joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "What is the part marked as X?",
+          "image_url": null,
+          "options": [
+            "Blocking course",
+            "Cornice",
+            "Cortel",
+            "Lintel"
+          ],
+          "answer": "Blocking course",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "What is the process of surface smoothened by rubbing with sand paper or pumice stone for varnishing?",
+          "image_url": null,
+          "options": [
+            "Application of surface",
+            "Preparation of surface",
+            "Cleaning of surface",
+            "Finishing of surface"
+          ],
+          "answer": "Preparation of surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the stone masonry?",
+          "image_url": null,
+          "options": [
+            "Coursed rubble masonry",
+            "Coursed rubble masonry 1st sort",
+            "Coursed rubble masonry 2nd sort",
+            "Coursed rubble masonry 3rd sort"
+          ],
+          "answer": "Coursed rubble masonry 3rd sort",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the name of the wall?",
+          "image_url": null,
+          "options": [
+            "Stone facing with brick backing",
+            "Ashlar facing with rubble backing",
+            "Brick facing with concrete backing",
+            "Facing of brick works and backing of ashlar masonry"
+          ],
+          "answer": "Ashlar facing with rubble backing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "What is the name of the part labelled as X?",
+          "image_url": null,
+          "options": [
+            "Pith",
+            "Bast",
+            "Sap wood",
+            "Heart wood"
+          ],
+          "answer": "Pith",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "Which rigid board is known as pressed board?",
+          "image_url": null,
+          "options": [
+            "Plywood board",
+            "Compreg board",
+            "Fibre board",
+            "Laminated board"
+          ],
+          "answer": "Fibre board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "What is the part marked as X?",
+          "image_url": null,
+          "options": [
+            "Queen closer",
+            "Stretcher",
+            "Header",
+            "Quoin"
+          ],
+          "answer": "Stretcher",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "Which is the market form of timber with parallel sides having thickness less than 50 mm and its width exceed 50 mm?",
+          "image_url": null,
+          "options": [
+            "Plank",
+            "Pole",
+            "Deal",
+            "Baulk"
+          ],
+          "answer": "Plank",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Foundation",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "What is the recommended super imposed load in Kg/m² for heavy Workshop and factories?",
+          "image_url": null,
+          "options": [
+            "500",
+            "550",
+            "650",
+            "750"
+          ],
+          "answer": "750",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Which method of soil exploration is suitable to find the depth of bed rock or stratum?",
+          "image_url": null,
+          "options": [
+            "Sub surface sounding method",
+            "Geophysical method",
+            "Wash boring method",
+            "Anger boring method"
+          ],
+          "answer": "Sub surface sounding method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "What is the minimum distance between building and a tree?",
+          "image_url": null,
+          "options": [
+            "8m",
+            "6m",
+            "5m",
+            "4m"
+          ],
+          "answer": "8m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "What is the Rankine formula to determine the ultimate bearing capacity of soil?",
+          "image_url": null,
+          "options": [
+            "\\( r_0 \\frac{\\left(1+\\operatorname{Sin} \\theta \\mathrm{i})^2\\right.}{\\left(1-\\operatorname{Sin} \\theta \\mathrm{i})^2\\right.} \\)",
+            "\\( r_0 \\frac{(1-\\operatorname{Sin} \\theta)}{(1+\\operatorname{Sin} \\theta)} \\)",
+            "\\( \\left(\\frac{(1-\\operatorname{Sin} \\theta)^2}{(1+\\operatorname{Sin} \\theta)^2}\\right) r_o \\)",
+            "\\( \\left(\\frac{(1+\\operatorname{Sin} \\theta)}{(1-\\operatorname{Sin} \\theta)}\\right) r_o\\)"
+          ],
+          "answer": "\\( r_0 \\frac{\\left(1+\\operatorname{Sin} \\theta \\mathrm{i})^2\\right.}{\\left(1-\\operatorname{Sin} \\theta \\mathrm{i})^2\\right.} \\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the cause of unequal settlement of sub soil in foundation?",
+          "image_url": null,
+          "options": [
+            "Eccentricity of the load",
+            "Lateral pressure",
+            "Atmosphere action",
+            "Horizontal movement"
+          ],
+          "answer": "Eccentricity of the load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "What is the footing for heavy loaded column that require greater spread?",
+          "image_url": null,
+          "options": [
+            "Wall footing",
+            "Sloped footing",
+            "Spread footing",
+            "Stepped footing"
+          ],
+          "answer": "Stepped footing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "Which foundation is preferred, if heavy inflow seepage and not possible to excavate the trenches and keep them dry?",
+          "image_url": null,
+          "options": [
+            "Raft foundation",
+            "Pile foundation",
+            "Grillage foundation",
+            "Cantilever foundation"
+          ],
+          "answer": "Pile foundation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "Which method determining bearing capacity of soil by Rankines formula?",
+          "image_url": null,
+          "options": [
+            "Method of dropping a weight",
+            "Method of loading",
+            "Arithmetical method",
+            "Analytical method"
+          ],
+          "answer": "Analytical method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the name of the foundation that is due to heavy inflow seepage and not possible to excavate the trenches and keep them dry?",
+          "image_url": null,
+          "options": [
+            "Pile foundation",
+            "Raft foundation",
+            "Spread foundation",
+            "Shallow foundation"
+          ],
+          "answer": "Pile foundation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "What is the name of the piles that are driven at an inclination to resist large horizontal or inclined forces?",
+          "image_url": null,
+          "options": [
+            "Batter piles",
+            "Sheet piles",
+            "Anchor piles",
+            "Fender piles"
+          ],
+          "answer": "Batter piles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "Which method of soil exploration is suitable for a depth of 3m?",
+          "image_url": null,
+          "options": [
+            "Open excavation",
+            "Probing",
+            "Wash boring",
+            "Auger boring"
+          ],
+          "answer": "Probing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is known as a structure that is sunk through water / ground to exclude water during the process of excavation of foundation?",
+          "image_url": null,
+          "options": [
+            "Cofferdam",
+            "Under reamed pile foundation",
+            "Caisson",
+            "Strip / Pad foundation"
+          ],
+          "answer": "Caisson",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the formula to find safe bearing capacity of soil?",
+          "image_url": null,
+          "options": [
+            "Ultimate bearing capacity ÷ Factor of safety",
+            "F.O.S / U.B.C",
+            "\\( {\\left[\\frac{\\mathrm{UBC}}{\\mathrm{FOS}}\\right]^2} \\)",
+            "\\( {\\left[\\frac{\\mathrm{FOS}}{\\mathrm{UBC}}\\right]^2}\\)"
+          ],
+          "answer": "Ultimate bearing capacity ÷ Factor of safety",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the purpose of sufficient depth and Wide base to the foundation?",
+          "image_url": null,
+          "options": [
+            "Grouting",
+            "Atmospheric action",
+            "Horizontal movement",
+            "Lateral pressure on the super structure"
+          ],
+          "answer": "Lateral pressure on the super structure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "What is the weight range of dry earth in Kg/m³?",
+          "image_url": null,
+          "options": [
+            "1000 - 1200",
+            "1200 - 1300",
+            "1300 - 1400",
+            "1410 - 1840"
+          ],
+          "answer": "1410 - 1840",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "Which piles are driven at angle to resist the large horizontal / inclined forces?",
+          "image_url": null,
+          "options": [
+            "Batter pile",
+            "Anchor pile",
+            "Uplift pile",
+            "Compaction pile"
+          ],
+          "answer": "Batter pile",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "Which type of foundation is recommended for black cotton soil?",
+          "image_url": null,
+          "options": [
+            "Raft foundation",
+            "Strap foundation",
+            "Spread footing foundation",
+            "Stepped footing foundation"
+          ],
+          "answer": "Raft foundation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "What is the machine foundation bolt?",
+          "image_url": null,
+          "options": [
+            "Eye bolt",
+            "Rag bolt",
+            "Lewis bolt",
+            "Cotter bolt"
+          ],
+          "answer": "Rag bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What is Rₒ in the formula for determining UBC of soil?",
+          "image_url": null,
+          "options": [
+            "Factor of safety",
+            "Density of soil at depth D",
+            "Ultimate load on unit area",
+            "Resistance of soil / unit area"
+          ],
+          "answer": "Density of soil at depth D",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "Which foundation is suitable, if no firm bearing strata exists at reasonable depth and the loading is uneven?",
+          "image_url": null,
+          "options": [
+            "Raft foundation",
+            "Grillage foundation",
+            "Combined footing foundation",
+            "Pile foundation"
+          ],
+          "answer": "Pile foundation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "What is the general value of factor of safety range to find B C of soil?",
+          "image_url": null,
+          "options": [
+            "0.25 - 0.40",
+            "0.40 - 0.80",
+            "0.80 - 1.00",
+            "2 - 3"
+          ],
+          "answer": "2 - 3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "Which is suitable depth open excavation method of site exploration is suitable?",
+          "image_url": null,
+          "options": [
+            "1.5m",
+            "2.5m",
+            "3.0m",
+            "3.5m"
+          ],
+          "answer": "1.5m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "Which method of Soil exploration is essential to test soil for the construction of Dam/Engineering structures?",
+          "image_url": null,
+          "options": [
+            "Sub surface sounding method",
+            "Geophysical method",
+            "Deep boring method",
+            "Wash boring method"
+          ],
+          "answer": "Deep boring method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the name of foundation?",
+          "image_url": null,
+          "options": [
+            "Wall footing",
+            "Strap footing",
+            "Rectangular footing",
+            "Single footing"
+          ],
+          "answer": "Rectangular footing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "What is the weight range of sand (dry) in Kg/m³?",
+          "image_url": null,
+          "options": [
+            "1000 to 1500",
+            "1540 to 1600",
+            "1600 to 1700",
+            "1700 to 1800"
+          ],
+          "answer": "1540 to 1600",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Temporary Structure & Treatment",
+      "quizWrap": [
+        {
+          "id": 125,
+          "question": "What is the height of ceiling in heat insulation?",
+          "image_url": null,
+          "options": [
+            "1 to 1.3M above the occupants",
+            "2 to 2.3M above the occupants",
+            "1 to 1.3M below the occupants",
+            "2 to 2.3M below the occupants"
+          ],
+          "answer": "1 to 1.3M above the occupants",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Dead shore",
+            "Needle",
+            "Floor support",
+            "Braces"
+          ],
+          "answer": "Needle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "What is the defect in formation of bubbles on painted surface due to water vapour?",
+          "image_url": null,
+          "options": [
+            "Fading",
+            "Bloom",
+            "Blistering",
+            "Flashing"
+          ],
+          "answer": "Blistering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What is called the laying of reflective tiles on open terrace?",
+          "image_url": null,
+          "options": [
+            "Shading",
+            "High ceiling",
+            "Proper orientation",
+            "Insulating the roof"
+          ],
+          "answer": "Insulating the roof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "What is the defect in painting that loose small portion due to poor adhesion?",
+          "image_url": null,
+          "options": [
+            "Flaking",
+            "Flashing",
+            "Blistering",
+            "Sagging"
+          ],
+          "answer": "Flaking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What is the approximate depth of vertical sheeting adopted in timbering in soft ground?",
+          "image_url": null,
+          "options": [
+            "10m",
+            "12m",
+            "15m",
+            "17m"
+          ],
+          "answer": "10m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "What is the name of damp proofing method?",
+          "image_url": null,
+          "options": [
+            "Treatment to basement",
+            "Treatment to external walls",
+            "Treatment to sloping ground",
+            "Treatment to expansion joint in flat roof"
+          ],
+          "answer": "Treatment to external walls",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "Which scaffold is suitable; if the construction work is to be carried out for upper floors?",
+          "image_url": null,
+          "options": [
+            "Single scaffolding",
+            "Independent scaffolding",
+            "Suspended scaffolding",
+            "Needle scaffold"
+          ],
+          "answer": "Needle scaffold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Sole plate",
+            "Hoop iron",
+            "Rakers",
+            "Wall plate"
+          ],
+          "answer": "Sole plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Brick jelly",
+            "Hot bitumen coating",
+            "Lime mortar",
+            "Mind puskas"
+          ],
+          "answer": "Hot bitumen coating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Lime concrete",
+            "D.P.C.",
+            "Drip",
+            "RCC slab"
+          ],
+          "answer": "D.P.C.",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is the structural member that should be constructed with fire resistant material and well separated from heat of the building?",
+          "image_url": null,
+          "options": [
+            "Wall openings",
+            "Floors and roofs",
+            "Walls and columns",
+            "Building fire escape element"
+          ],
+          "answer": "Building fire escape element",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What is the shore having the distance between the parallel walls is 9 m to 12 m?",
+          "image_url": null,
+          "options": [
+            "Raking shores",
+            "Single flying shores",
+            "Double flying shore",
+            "Dead or vertical shore"
+          ],
+          "answer": "Double flying shore",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "How to rectify if settlement of existing foundation has taken place?",
+          "image_url": null,
+          "options": [
+            "By timbering",
+            "Under pinning",
+            "Single scaffolding",
+            "Independent scaffolding"
+          ],
+          "answer": "Under pinning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Poling board",
+            "Wallings",
+            "Strut",
+            "Sheeting"
+          ],
+          "answer": "Poling board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the term that the horizontal members are parallel to the wall in scaffolding?",
+          "image_url": null,
+          "options": [
+            "Putlog",
+            "Ledgers",
+            "Transom",
+            "Guard rail"
+          ],
+          "answer": "Ledgers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "What is the treatment to protect the building against termites to remove stumps, roots, logs and waste?",
+          "image_url": null,
+          "options": [
+            "Soil treatment",
+            "Structural treatment",
+            "Pre construction treatment",
+            "Post construction treatment"
+          ],
+          "answer": "Pre construction treatment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "What is the defect in painting seen as glossy patches?",
+          "image_url": null,
+          "options": [
+            "Blistering",
+            "Flashing",
+            "Sagging",
+            "Fading"
+          ],
+          "answer": "Flashing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the stage of anti termite treatment done before laying the floor entire levelled surfaces are treated at rate of 5 litre of emulsion/m²?",
+          "image_url": null,
+          "options": [
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4"
+          ],
+          "answer": "Stage 3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the depth of trench while box sheeting carried out in timbering in loose soil?",
+          "image_url": null,
+          "options": [
+            "4m",
+            "5m",
+            "5.5m",
+            "6m"
+          ],
+          "answer": "4m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Crib support",
+            "Jack",
+            "Needle beam",
+            "Bearing plate"
+          ],
+          "answer": "Needle beam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "What is the material used for quick setting highly elastic and superior work?",
+          "image_url": null,
+          "options": [
+            "Barium plaster",
+            "Acoustic plaster",
+            "Gypsum plaster",
+            "Granite silicon plaster"
+          ],
+          "answer": "Granite silicon plaster",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "Which shoring is suitable, if the lower part of wall has become defective?",
+          "image_url": null,
+          "options": [
+            "Flying shore (Single)",
+            "Flying shore (Double)",
+            "Dead shore",
+            "Raking shore"
+          ],
+          "answer": "Dead shore",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Needle beam",
+            "Crib support",
+            "Bearing plate",
+            "Jack"
+          ],
+          "answer": "Crib support",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "What is the cement ratio used in guniting method of DPC?",
+          "image_url": null,
+          "options": [
+            "1 : 2",
+            "1 : 3",
+            "1:4",
+            "1:5"
+          ],
+          "answer": "1 : 3",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Arches and Lintel",
+      "quizWrap": [
+        {
+          "id": 150,
+          "question": "What is minimum range on wall provided for timber lintel bearing?",
+          "image_url": null,
+          "options": [
+            "5 - 8 cm",
+            "8 - 13 cm",
+            "15 - 20 cm",
+            "25 - 30 cm"
+          ],
+          "answer": "15 - 20 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the term generally used for the work such as arches and domes?",
+          "image_url": null,
+          "options": [
+            "Moulds",
+            "Stripping",
+            "Centering",
+            "Form work"
+          ],
+          "answer": "Centering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is the name of member, in centering of arches, a thick wooden plank shaped to the curvature of arch and it is supported by props?",
+          "image_url": null,
+          "options": [
+            "Ribs",
+            "Laggings",
+            "Turning piece",
+            "Brace"
+          ],
+          "answer": "Turning piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Braces",
+            "Strut",
+            "Ribs",
+            "Ties"
+          ],
+          "answer": "Ties",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is the name of Arch?",
+          "image_url": null,
+          "options": [
+            "Horse shoe arch",
+            "Drop arch",
+            "Venetian arch",
+            "Bullʹs eye arch"
+          ],
+          "answer": "Horse shoe arch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "How many centres are in tudor arches?",
+          "image_url": null,
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "Which arches is also called as lancet arches?",
+          "image_url": null,
+          "options": [
+            "Semi elliptical arches",
+            "Venetian elliptical arches",
+            "Relieving arches",
+            "Pointed arches"
+          ],
+          "answer": "Pointed arches",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "What is the centre to centre distance of stirrups at end in R.C.C Lintel?",
+          "image_url": null,
+          "options": [
+            "10cm",
+            "15cm",
+            "18cm",
+            "22cm"
+          ],
+          "answer": "18cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "What is the name of lintel?",
+          "image_url": null,
+          "options": [
+            "Brick lintel",
+            "Stone lintel",
+            "Wooden lintel",
+            "Reinforced brick lintel"
+          ],
+          "answer": "Stone lintel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "What is the arch constructed over a wooden joist or flat arch?",
+          "image_url": null,
+          "options": [
+            "Stilted arch",
+            "Pointed arch",
+            "Relieving arch",
+            "Horse shoe arch"
+          ],
+          "answer": "Relieving arch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "What is ratio of CC used in RCC lintel?",
+          "image_url": null,
+          "options": [
+            "01:02:05",
+            "01:02:04",
+            "01:03:06",
+            "01:04:06"
+          ],
+          "answer": "01:02:04",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "what is the name of distance the lintel inserted in the supporting wall?",
+          "image_url": null,
+          "options": [
+            "Bearing of lintel",
+            "Span of lintel",
+            "Depth of lintel",
+            "Thickness of lintel"
+          ],
+          "answer": "Bearing of lintel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Key",
+            "Voussoirs",
+            "Extrados",
+            "Soffit"
+          ],
+          "answer": "Key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Boards",
+            "Prop",
+            "Turning piece",
+            "Arch"
+          ],
+          "answer": "Turning piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "What is the name of clear distance between vertical supports?",
+          "image_url": null,
+          "options": [
+            "Rise",
+            "Span",
+            "Depth",
+            "Pier"
+          ],
+          "answer": "Span",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "What is the minimum period for the removal of props to beams for a span of 6 m in formwork?",
+          "image_url": null,
+          "options": [
+            "15 Days",
+            "17 Days",
+            "21 Days",
+            "25 Days"
+          ],
+          "answer": "21 Days",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "What is the term for perpendicular distance between intrados and extrados?",
+          "image_url": null,
+          "options": [
+            "Key",
+            "Pier",
+            "Rise",
+            "Depth"
+          ],
+          "answer": "Depth",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "What is the name of the arch?",
+          "image_url": null,
+          "options": [
+            "Ogee arch",
+            "Tudor arch",
+            "Pointed arch",
+            "Florentine arch"
+          ],
+          "answer": "Tudor arch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What is the name of intermediate support of arch?",
+          "image_url": null,
+          "options": [
+            "Key",
+            "Pier",
+            "Span",
+            "Crown"
+          ],
+          "answer": "Pier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "What is the lintel?",
+          "image_url": null,
+          "options": [
+            "Brick lintel",
+            "Steel lintel",
+            "Stone lintel",
+            "Reinforced cement concrete lintel"
+          ],
+          "answer": "Reinforced cement concrete lintel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Brace",
+            "Laggings",
+            "Ribs",
+            "Strut"
+          ],
+          "answer": "Ribs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "What is the name of member that supports the boards in the centering of arches?",
+          "image_url": null,
+          "options": [
+            "Turning piece",
+            "Props",
+            "Ribs",
+            "Laggings"
+          ],
+          "answer": "Props",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "What is the name of the part marked as X?",
+          "image_url": null,
+          "options": [
+            "Soffit",
+            "Intrados",
+            "Extrados",
+            "Rise"
+          ],
+          "answer": "Soffit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What is the name of Arch?",
+          "image_url": null,
+          "options": [
+            "Semi - Elliptical Arch",
+            "Bullʹs eye arch",
+            "Pointed Arch",
+            "Venetian Arch"
+          ],
+          "answer": "Venetian Arch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What is the cause of lintel failure?",
+          "image_url": null,
+          "options": [
+            "Remove the lintel",
+            "Vertical cracks in the masonry",
+            "Increase span of lintel",
+            "Plaster masonry"
+          ],
+          "answer": "Vertical cracks in the masonry",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Carpentry Joints",
+      "quizWrap": [
+        {
+          "id": 175,
+          "question": "What is the term referred as fixing of small timber battens to timber walls with laths and boards are nailed to it?",
+          "image_url": null,
+          "options": [
+            "Rebating",
+            "Studding",
+            "Mitering",
+            "Grooving"
+          ],
+          "answer": "Studding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the maximum range of distance between vertical channels?",
+          "image_url": null,
+          "options": [
+            "60 - 80 mm",
+            "80 - 100 mm",
+            "100 - 120mm",
+            "120 - 140 mm"
+          ],
+          "answer": "100 - 120mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What is size of window shutter in window designation “12 WT 12”?",
+          "image_url": null,
+          "options": [
+            "1200 x 600mm",
+            "560 x 1100mm",
+            "1100 x 460mm",
+            "560 x 1200mm"
+          ],
+          "answer": "560 x 1100mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is name of window built in the sloping side of the pitched of roof?",
+          "image_url": null,
+          "options": [
+            "Skylight window",
+            "Bay window",
+            "Dormer window",
+            "Corner window"
+          ],
+          "answer": "Dormer window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the name of carpentry joints?",
+          "image_url": null,
+          "options": [
+            "Butt joint",
+            "Splayed joint",
+            "Rebated joint",
+            "Fished joint"
+          ],
+          "answer": "Splayed joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "What is the thumb rule for breadth of window?",
+          "image_url": null,
+          "options": [
+            "1/5 (Width of room + Height of room)",
+            "1/8 (Width of room + Height of room)",
+            "1/10 (Width of room + Height of room)",
+            "1/12 (Width of room + Height of room)"
+          ],
+          "answer": "1/8 (Width of room + Height of room)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "Which window is provided near the top of main roof?",
+          "image_url": null,
+          "options": [
+            "Panelled Window",
+            "Casement Window",
+            "Clerestory Window",
+            "Table Window"
+          ],
+          "answer": "Clerestory Window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "Which is used to subdivide a door or window with a vertical member of a frame?",
+          "image_url": null,
+          "options": [
+            "Mullion",
+            "Transom",
+            "Style",
+            "Lock rail"
+          ],
+          "answer": "Mullion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the name of window meant for out flow of hot air from building?",
+          "image_url": null,
+          "options": [
+            "Glazed window",
+            "Ventilator",
+            "Venetian window",
+            "Dormer window"
+          ],
+          "answer": "Ventilator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the ventilator provided in continuation of Door/Window at its top?",
+          "image_url": null,
+          "options": [
+            "Fanlight",
+            "Sky light",
+            "Dormer Window",
+            "Corner Window"
+          ],
+          "answer": "Fanlight",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "What is the name of window which projects out from wall surface?",
+          "image_url": null,
+          "options": [
+            "Bay window",
+            "Glazed window",
+            "Corner window",
+            "Dormer window"
+          ],
+          "answer": "Bay window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "What is the name of joint?",
+          "image_url": null,
+          "options": [
+            "Lapped joint",
+            "Fished joint",
+            "Scarfed joint",
+            "Tabled joint"
+          ],
+          "answer": "Lapped joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the name of carpentry joint?",
+          "image_url": null,
+          "options": [
+            "Angle halved joint",
+            "Tee-halved joint",
+            "Dovetail halved joint",
+            "Bevel halved joint"
+          ],
+          "answer": "Tee-halved joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which type of windows are controlled by pulling metal weight?",
+          "image_url": null,
+          "options": [
+            "Double Hung Pivoted Window",
+            "Casement Window",
+            "Bay Window",
+            "Clerestory Window"
+          ],
+          "answer": "Double Hung Pivoted Window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "What is the name of carpentry joint?",
+          "image_url": null,
+          "options": [
+            "Shouldered housed joint",
+            "Housed joint",
+            "Mitred rebated joint",
+            "Dovetailed housed joint"
+          ],
+          "answer": "Dovetailed housed joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "What is the name of window?",
+          "image_url": null,
+          "options": [
+            "Corner window",
+            "Skylight window",
+            "Bay window",
+            "Louvered window"
+          ],
+          "answer": "Skylight window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the name of carpentry joint?",
+          "image_url": null,
+          "options": [
+            "Matched and Beaded joint",
+            "Matched and V jointed joint",
+            "Dowelled joint",
+            "Ploughed and Tongued joint"
+          ],
+          "answer": "Matched and V jointed joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What is the name of Door?",
+          "image_url": null,
+          "options": [
+            "Hallow core door",
+            "Wire gauged door",
+            "Louvered door",
+            "Glazed & Panel door"
+          ],
+          "answer": "Louvered door",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "Which window is provided on sloping roof?",
+          "image_url": null,
+          "options": [
+            "Table Window",
+            "Lantern Window",
+            "Dormer Window",
+            "Clerestory Window"
+          ],
+          "answer": "Dormer Window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "What is the name of carpentry joint?",
+          "image_url": null,
+          "options": [
+            "Oblique - Tenon joint",
+            "Birds mouth joint",
+            "Housed joint",
+            "Mitred and Rebated joint"
+          ],
+          "answer": "Oblique - Tenon joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is the process of sinking the edge of one piece of timber to another by cutting grooves across its grains?",
+          "image_url": null,
+          "options": [
+            "Housing",
+            "Moulding",
+            "Planning",
+            "Chamfering"
+          ],
+          "answer": "Housing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Bottom rail",
+            "Top rail",
+            "Lock rail",
+            "Frame"
+          ],
+          "answer": "Lock rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is the size of opening for designation “6 WS 12”?",
+          "image_url": null,
+          "options": [
+            "600 x 1200",
+            "1200 x 1000",
+            "1200 x 1200",
+            "1000 x 1000"
+          ],
+          "answer": "600 x 1200",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "What is a depression / recess inside the doorframe to receive the shutter?",
+          "image_url": null,
+          "options": [
+            "Mullion",
+            "Transom",
+            "Rebate",
+            "Sill"
+          ],
+          "answer": "Rebate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the name of carpentry joint?",
+          "image_url": null,
+          "options": [
+            "Rebated and filleted joint",
+            "Rebated joint",
+            "Rebated Tongued and grooved joint",
+            "Tongued and grooved joint"
+          ],
+          "answer": "Rebated Tongued and grooved joint",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Floor & Roof",
+      "quizWrap": [
+        {
+          "id": 200,
+          "question": "Which system of reinforcement is preferred in R.C.C upper floor for ordinary loading condition?",
+          "image_url": null,
+          "options": [
+            "One way",
+            "4 way",
+            "2 way",
+            "Combined 2 and 4 way"
+          ],
+          "answer": "2 way",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "Name the roof truss.",
+          "image_url": null,
+          "options": [
+            "North light roof truss",
+            "Simple fink truss",
+            "Compound fink truss",
+            "House steel truss"
+          ],
+          "answer": "North light roof truss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "What is the centre-to-centre distance of rafters in Bengal Terrace roof?",
+          "image_url": null,
+          "options": [
+            "20cm",
+            "30cm",
+            "40cm",
+            "50cm"
+          ],
+          "answer": "30cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "What is the name of supporting tiles and battens for single roof?",
+          "image_url": null,
+          "options": [
+            "Purlin",
+            "Common rafter",
+            "Truss",
+            "Principle rafter"
+          ],
+          "answer": "Common rafter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Baffle",
+            "Curtain wall",
+            "Main wall",
+            "Sleeper wall"
+          ],
+          "answer": "Sleeper wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "What is the name of roof?",
+          "image_url": null,
+          "options": [
+            "Mansard roof",
+            "Gambrel roof",
+            "Hipped roof",
+            "Gabled roof"
+          ],
+          "answer": "Mansard roof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "What is the ratio of cement mortar for pointing in flagstone laying?",
+          "image_url": null,
+          "options": [
+            "1:2",
+            "1:3",
+            "1:4",
+            "1:5"
+          ],
+          "answer": "1:3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "What is the name of floor?",
+          "image_url": null,
+          "options": [
+            "Marble floor",
+            "Muram floor",
+            "Mosaic floor",
+            "Solid ground floor"
+          ],
+          "answer": "Solid ground floor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "What is the slope usually given on R.C.C flat roof?",
+          "image_url": null,
+          "options": [
+            "1 in 15",
+            "1 in 20",
+            "1 in 60",
+            "1 in 130"
+          ],
+          "answer": "1 in 60",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "What is the brick size used in Madras terrace roof?",
+          "image_url": null,
+          "options": [
+            "10 x 60 x 20 cms",
+            "12 x 65 x 20 cms",
+            "18 x 80 x 25 cms",
+            "15 x 75 x 25 cms"
+          ],
+          "answer": "15 x 75 x 25 cms",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "What is a rafter provided at junction of two slopes?",
+          "image_url": null,
+          "options": [
+            "Jack rafter",
+            "Common rafter",
+            "Hip rafter",
+            "Principle rafter"
+          ],
+          "answer": "Hip rafter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Lime concrete filling",
+            "Cement concrete filling",
+            "Sand filling",
+            "Earth filling"
+          ],
+          "answer": "Lime concrete filling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "Which truss consists of thin timber section at its top chord curved?",
+          "image_url": null,
+          "options": [
+            "Truncated truss",
+            "Bow string truss",
+            "Belfast truss",
+            "Mansard roof truss"
+          ],
+          "answer": "Belfast truss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "Which truss suitable for span of 18 meter?",
+          "image_url": null,
+          "options": [
+            "King post truss",
+            "Queen post truss",
+            "Combination of king post and Queen post truss",
+            "Truncated truss"
+          ],
+          "answer": "Combination of king post and Queen post truss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "What is the Brick Bat concrete thickness generally adopted for Madras terrace roof?",
+          "image_url": null,
+          "options": [
+            "125mm",
+            "100mm",
+            "75mm",
+            "60mm"
+          ],
+          "answer": "75mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "What is the name of layer marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Compacted earth filling",
+            "Sand filling",
+            "Lean concrete",
+            "Cement concrete"
+          ],
+          "answer": "Cement concrete",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the name of roof?",
+          "image_url": null,
+          "options": [
+            "Barrel vault shell roof",
+            "Bowstring steel roof",
+            "Steel frame dome",
+            "Belfast roof"
+          ],
+          "answer": "Steel frame dome",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "Which truss consists of wooden member and steel or wrought iron member?",
+          "image_url": null,
+          "options": [
+            "Truncated truss",
+            "Composite truss",
+            "Compound truss",
+            "King and queen post truss"
+          ],
+          "answer": "Composite truss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "What is the proportion of lean cement concrete used in cement concrete floor?",
+          "image_url": null,
+          "options": [
+            "01:01:02",
+            "1:1½: 3",
+            "01:02:04",
+            "01:03:06"
+          ],
+          "answer": "01:03:06",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "Which roof has slope only one side?",
+          "image_url": null,
+          "options": [
+            "Jack Arch flat roof",
+            "Brick concrete terrace roof",
+            "Bengal terrace roof",
+            "Lean to roof"
+          ],
+          "answer": "Lean to roof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Hip",
+            "Fascia board",
+            "Eaves",
+            "Soffit"
+          ],
+          "answer": "Fascia board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "How much surface slope is provided in Bengal Terrace roof?",
+          "image_url": null,
+          "options": [
+            "5 to 7 cm",
+            "8 to 10 cm",
+            "13 to 15 cm",
+            "18 to 20 cm"
+          ],
+          "answer": "13 to 15 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "What is the name of tile shown in figure?",
+          "image_url": null,
+          "options": [
+            "Allahabad tile",
+            "Country tile",
+            "Pan tile",
+            "Mangalore tile"
+          ],
+          "answer": "Mangalore tile",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "What is the edge of roof running between the eaves and ridge?",
+          "image_url": null,
+          "options": [
+            "Verge",
+            "Cleat",
+            "Template",
+            "Purlin"
+          ],
+          "answer": "Verge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "Which flat roof is provided with tie rod?",
+          "image_url": null,
+          "options": [
+            "R.C.C floor",
+            "Bengal terrace",
+            "Madras terrace",
+            "Jack arch floor"
+          ],
+          "answer": "Jack arch floor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 225,
+          "question": "What is the span for provision of herringbone strutting in single joist timber floor?",
+          "image_url": null,
+          "options": [
+            "1.0m",
+            "1.5m",
+            "2.0m",
+            "2.4m"
+          ],
+          "answer": "2.4m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Dormer",
+            "Fascia",
+            "Stepped flashing",
+            "Soffit"
+          ],
+          "answer": "Stepped flashing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the centre-to-centre distance of joist in Brick concrete terrace roof?",
+          "image_url": null,
+          "options": [
+            "30cm",
+            "45cm",
+            "60cm",
+            "75cm"
+          ],
+          "answer": "30cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "Which is a form of disintegrated rock as building material?",
+          "image_url": null,
+          "options": [
+            "Flagstone",
+            "Muram",
+            "Mosaic",
+            "Granolithic"
+          ],
+          "answer": "Muram",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "What is the maximum slope given to the flat roof?",
+          "image_url": null,
+          "options": [
+            "5°",
+            "6°",
+            "8°",
+            "10°"
+          ],
+          "answer": "10°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "2 layers of plain cement concrete",
+            "2 layers of B.J.C",
+            "2 courses of brick",
+            "Two courses of tiles"
+          ],
+          "answer": "Two courses of tiles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "What is the disadvantage of wooden roof?",
+          "image_url": null,
+          "options": [
+            "It remains cool in Winter",
+            "It is very costly",
+            "It catches fire easily",
+            "It is made using local agricultural produce"
+          ],
+          "answer": "It catches fire easily",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "What is the name of vertical distance between top of Ridge piece and Wall plate?",
+          "image_url": null,
+          "options": [
+            "Rise",
+            "Ridge",
+            "Rafter",
+            "Batten"
+          ],
+          "answer": "Rise",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "Which rafter support extend from eaves to ridge?",
+          "image_url": null,
+          "options": [
+            "Valley rafter",
+            "Ridge rafter",
+            "Common rafter",
+            "Principle rafter"
+          ],
+          "answer": "Common rafter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "What is the slope of flat roof for drainage purpose?",
+          "image_url": null,
+          "options": [
+            "01:10",
+            "01:20",
+            "01:50",
+            "02:40"
+          ],
+          "answer": "02:40",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Collar",
+            "Tie beam",
+            "Straining beam",
+            "Straining sill"
+          ],
+          "answer": "Collar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "King post",
+            "Strut",
+            "Purlin",
+            "Principal rafter"
+          ],
+          "answer": "Principal rafter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Ceiling joist",
+            "Wall plate",
+            "Common rafter",
+            "Herring Bone strutting"
+          ],
+          "answer": "Herring Bone strutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "What is the name of roof?",
+          "image_url": null,
+          "options": [
+            "Mansard roof",
+            "Deck roof",
+            "Gambrel roof",
+            "Gable roof"
+          ],
+          "answer": "Deck roof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "How many days are recommended to set the concrete generally in Madras Terrace roof?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What is the rise range in Jack floor?",
+          "image_url": null,
+          "options": [
+            "25 to 30 cm",
+            "20 to 25 cm",
+            "10 to 20 cm",
+            "30 to 35 cm"
+          ],
+          "answer": "10 to 20 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the maximum span for single joist timber floor?",
+          "image_url": null,
+          "options": [
+            "2.5m",
+            "3.0m",
+            "3.6m",
+            "4.0m"
+          ],
+          "answer": "3.6m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Hip",
+            "Valley",
+            "Ridge",
+            "Wall plate"
+          ],
+          "answer": "Ridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "Which floor is convenient to carryout plumbing and electrical installation without affecting the appearance?",
+          "image_url": null,
+          "options": [
+            "Rib floor",
+            "R.C.C floor",
+            "Timber floor",
+            "Jack arch floor"
+          ],
+          "answer": "Rib floor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "What is the centre-to-centre distance of battens in Bengal Terrace roof?",
+          "image_url": null,
+          "options": [
+            "15cm",
+            "20cm",
+            "25cm",
+            "30cm"
+          ],
+          "answer": "15cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is the name of roof?",
+          "image_url": null,
+          "options": [
+            "Truncated roof",
+            "Belfast roof",
+            "North light roof",
+            "Bowstring steel roof"
+          ],
+          "answer": "North light roof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Collar",
+            "Purlin",
+            "Tie beam",
+            "Wall plate"
+          ],
+          "answer": "Collar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Straining beam",
+            "Tie rod",
+            "Collar",
+            "Strut"
+          ],
+          "answer": "Tie rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the name of part marked as X?",
+          "image_url": null,
+          "options": [
+            "Wall plate",
+            "Bridging joist",
+            "Common rafter",
+            "Floor boards"
+          ],
+          "answer": "Wall plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "Which floor is applied with a thin coat of cement-cow-dung?",
+          "image_url": null,
+          "options": [
+            "Muram Floor",
+            "Linoleum Floor",
+            "Mud Floor",
+            "Asphalt Floor"
+          ],
+          "answer": "Mud Floor",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Vertical Movement",
+      "quizWrap": [
+        {
+          "id": 250,
+          "question": "What is the number of steps required if the Height of floor is 3.0 m assume the rise is 15 cm for a single flight?",
+          "image_url": null,
+          "options": [
+            "21",
+            "20",
+            "19",
+            "18"
+          ],
+          "answer": "19",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is an ordinary step of rectangular shape in plan?",
+          "image_url": null,
+          "options": [
+            "Flier",
+            "Going",
+            "Tread",
+            "Riser"
+          ],
+          "answer": "Flier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "What is the combined framework of handrail and baluster in a stair?",
+          "image_url": null,
+          "options": [
+            "Balustrade",
+            "Stair",
+            "Landing",
+            "Stringer"
+          ],
+          "answer": "Balustrade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "What is the stairs flight having an opening between two flights?",
+          "image_url": null,
+          "options": [
+            "Half turn stair",
+            "Geometrical stair",
+            "Open Newel stair",
+            "Three quarter turn stair"
+          ],
+          "answer": "Open Newel stair",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is the name of stair?",
+          "image_url": null,
+          "options": [
+            "Circular stair",
+            "Bifurcated stair",
+            "Geometrical stair",
+            "Doglegged stair"
+          ],
+          "answer": "Geometrical stair",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "Which door is suitable for lift in residential building?",
+          "image_url": null,
+          "options": [
+            "Compact door",
+            "Collapsible door",
+            "Sliding door",
+            "Shutter door"
+          ],
+          "answer": "Collapsible door",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "What is one end or both ends corners cut in plan of a step?",
+          "image_url": null,
+          "options": [
+            "Commode",
+            "Splayed",
+            "Bull nose",
+            "Dancing step"
+          ],
+          "answer": "Splayed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "What is a stair if its flights run opposite direction and there is no space between the flights?",
+          "image_url": null,
+          "options": [
+            "Open Newel stair",
+            "Geometrical stair",
+            "Three-quarter turn stair",
+            "Doglegged stair"
+          ],
+          "answer": "Doglegged stair",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "Which lift is provided in apartment and High rise Building and Offices?",
+          "image_url": null,
+          "options": [
+            "Passenger lift",
+            "Car lift",
+            "Freight lift",
+            "Goods lift"
+          ],
+          "answer": "Passenger lift",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "Which type of escalator is commonly used?",
+          "image_url": null,
+          "options": [
+            "Cleat type",
+            "Spiral type",
+            "Belt type",
+            "Step type"
+          ],
+          "answer": "Step type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "What is the name of moving stair?",
+          "image_url": null,
+          "options": [
+            "Lift",
+            "Ladder",
+            "Escalator",
+            "Elevator"
+          ],
+          "answer": "Escalator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "What is the name of part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Tread",
+            "Riser",
+            "Stringer",
+            "Going"
+          ],
+          "answer": "Stringer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "What is the minimum width of ramp for hospital ?",
+          "image_url": null,
+          "options": [
+            "2.25m",
+            "2.10m",
+            "3.10m",
+            "2.50m"
+          ],
+          "answer": "2.25m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "What is the name of given figure?",
+          "image_url": null,
+          "options": [
+            "Ladder",
+            "Elevator",
+            "Lift",
+            "Escalator"
+          ],
+          "answer": "Escalator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "What is the minimum and maximum slope to the ramps?",
+          "image_url": null,
+          "options": [
+            "1:20; 1:20",
+            "1:10, 1:15",
+            "1:15, 1:30",
+            "1:15, 1:10"
+          ],
+          "answer": "1:10, 1:15",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the number of treads if the height of floor is 3.8 m and assume rise is 14 cm for double flight?",
+          "image_url": null,
+          "options": [
+            "23",
+            "24",
+            "25",
+            "26"
+          ],
+          "answer": "25",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is a stair turning through one right angle?",
+          "image_url": null,
+          "options": [
+            "Quarter turn stair",
+            "Half turn stair",
+            "Three quarter stair",
+            "Geometrical stair"
+          ],
+          "answer": "Quarter turn stair",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "What is the name of part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Going",
+            "Baluster",
+            "Handrail",
+            "Newel post"
+          ],
+          "answer": "Newel post",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "What is the minimum thickness range of stringer used in wooden stair?",
+          "image_url": null,
+          "options": [
+            "30 to 50 mm",
+            "50 to 70 mm",
+            "70 to 80 mm",
+            "80 to 90 mm"
+          ],
+          "answer": "30 to 50 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "What is the name of vertical transportation?",
+          "image_url": null,
+          "options": [
+            "Lift",
+            "Stair",
+            "Escalator",
+            "Ramp"
+          ],
+          "answer": "Lift",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "Which vertical transportation is suitable for large number of people?",
+          "image_url": null,
+          "options": [
+            "Stairs",
+            "Ramp",
+            "Escalator",
+            "Lift"
+          ],
+          "answer": "Ramp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "What is the remedial action, Incase of power failure of lift?",
+          "image_url": null,
+          "options": [
+            "Rescue the people in side the lift",
+            "Call the mechanic",
+            "Call the electrician",
+            "Call the civil engineer"
+          ],
+          "answer": "Rescue the people in side the lift",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the Height of riser in a stair?",
+          "image_url": null,
+          "options": [
+            "\\( frac{\\text { Total Height of floor }}{\\text { Number of riser }} /)",
+            "(Number of riser - 1)²",
+            "(Number of riser - 2)",
+            "Number of riser - 3"
+          ],
+          "answer": "\\( frac{\\text { Total Height of floor }}{\\text { Number of riser }} /)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What is the other name of the lift?",
+          "image_url": null,
+          "options": [
+            "Elevator",
+            "Stair",
+            "Ladder",
+            "Escalator"
+          ],
+          "answer": "Elevator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is the inclination of Escalator?",
+          "image_url": null,
+          "options": [
+            "45°",
+            "40°",
+            "35°",
+            "30°"
+          ],
+          "answer": "30°",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electrical Wiring",
+      "quizWrap": [
+        {
+          "id": 275,
+          "question": "What is the use of tool?",
+          "image_url": null,
+          "options": [
+            "Holding the hot substances",
+            "Calling and twisting wires",
+            "Extracting nails from wood",
+            "Loosening and tightening of bolls and nuts"
+          ],
+          "answer": "Extracting nails from wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is the unit of electrical resistance?",
+          "image_url": null,
+          "options": [
+            "volt",
+            "Om",
+            "watts",
+            "amperes"
+          ],
+          "answer": "Om",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "What is the purpose of switch in electrical circuit?",
+          "image_url": null,
+          "options": [
+            "Regulate the rated supply voltage",
+            "control the amount of current through load",
+            "Start (or) stop the flow of current",
+            "Provide the path for the current to flow"
+          ],
+          "answer": "Start (or) stop the flow of current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "Which instrument is used to test the new wiring installation?",
+          "image_url": null,
+          "options": [
+            "Multimeter",
+            "Ohmmeter",
+            "Voltmeter",
+            "Megger"
+          ],
+          "answer": "Megger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "What is the maximum permissible load for a light and fan sub circuit as per IE rules?",
+          "image_url": null,
+          "options": [
+            "800 watt",
+            "1500 watt",
+            "2000 watts",
+            "3000 watts"
+          ],
+          "answer": "800 watt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Rawl plug tool",
+            "Diagonal cutting plier",
+            "Wire striper",
+            "Crimping tool"
+          ],
+          "answer": "Rawl plug tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "What effect of electric current is applied in ceiling fan?",
+          "image_url": null,
+          "options": [
+            "Heating effect",
+            "Chemical effect",
+            "Magnetic effect",
+            "Gas ionization effect"
+          ],
+          "answer": "Magnetic effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "Which is a temporary wiring?",
+          "image_url": null,
+          "options": [
+            "Casing and capping wiring",
+            "CTS/TRS wiring",
+            "Cleat wiring",
+            "Lead sheathed wiring"
+          ],
+          "answer": "Cleat wiring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "Which is a conductor of electricity?",
+          "image_url": null,
+          "options": [
+            "Mica",
+            "Copper",
+            "Air",
+            "Glass"
+          ],
+          "answer": "Copper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "Which instrument is used to measure electric current?",
+          "image_url": null,
+          "options": [
+            "Ammeter",
+            "Voltmeter",
+            "Wattmeter",
+            "Ohm meter"
+          ],
+          "answer": "Ammeter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "What is the name of tool?",
+          "image_url": null,
+          "options": [
+            "Wire Stripper",
+            "Crimping tool",
+            "Combination pliers",
+            "Diagonal cutting plier"
+          ],
+          "answer": "Combination pliers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "What is the name of diagram?",
+          "image_url": null,
+          "options": [
+            "Layout diagram",
+            "Installation diagram",
+            "Circuit diagram",
+            "Wiring diagram"
+          ],
+          "answer": "Layout diagram",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "What is the road safety Sign?",
+          "image_url": null,
+          "options": [
+            "Mandatory sign",
+            "Cautionary sign",
+            "Informatory sign",
+            "Prohibition sign"
+          ],
+          "answer": "Mandatory sign",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "What is the indication of neon polarity indicator used for checking AC supply?",
+          "image_url": null,
+          "options": [
+            "Both electrodes will glow",
+            "Only one electrode will glow",
+            "Both electrodes will be flickering",
+            "One electrode will glow and another will be flickering"
+          ],
+          "answer": "Both electrodes will glow",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "How many electrons are there in the third shell of copper atom?",
+          "image_url": null,
+          "options": [
+            "8",
+            "13",
+            "18",
+            "29"
+          ],
+          "answer": "18",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Surveying - I",
+      "quizWrap": [
+        {
+          "id": 290,
+          "question": "What is the name of the setting out the work on the ground?",
+          "image_url": null,
+          "options": [
+            "Location survey",
+            "Preliminary survey",
+            "Topographical survey",
+            "Engineering survey"
+          ],
+          "answer": "Location survey",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "What is the name of the instrument?",
+          "image_url": null,
+          "options": [
+            "Clinometer",
+            "Abney level",
+            "Dumpy level",
+            "Telescopic alidade"
+          ],
+          "answer": "Telescopic alidade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "What is the lateral surface distance measured from the chain to object?",
+          "image_url": null,
+          "options": [
+            "Off set",
+            "Long off set",
+            "Short off set",
+            "Oblique off set"
+          ],
+          "answer": "Off set",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is the length of one link in metric chain?",
+          "image_url": null,
+          "options": [
+            "10cm",
+            "15cm",
+            "20cm",
+            "25cm"
+          ],
+          "answer": "20cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "What is the name of instrument used in plane table survey?",
+          "image_url": null,
+          "options": [
+            "Spirit level",
+            "Trough compass",
+            "Telescopic alidade",
+            "Plumb bob"
+          ],
+          "answer": "Trough compass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "What is the included angle of line AB = N 20° 30ʹ E & line AC= N85° 30ʹ E?",
+          "image_url": null,
+          "options": [
+            "60° 00'",
+            "62° 00'",
+            "65° 00'",
+            "67° 00'"
+          ],
+          "answer": "65° 00'",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "Which method of plane table survey the figure represents?",
+          "image_url": null,
+          "options": [
+            "Resection",
+            "Traversing",
+            "Radiation",
+            "Intersection"
+          ],
+          "answer": "Radiation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "What is back bearing of AB if fore bearing of AB = N 32° 30ʹ E?",
+          "image_url": null,
+          "options": [
+            "N 32° 30′ W",
+            "S 32° 30' W",
+            "N 32° 30′ S",
+            "S 32° 30' E"
+          ],
+          "answer": "S 32° 30' W",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "What is the name of the equipment?",
+          "image_url": null,
+          "options": [
+            "Steel rod",
+            "Wooden peg",
+            "Offset rod",
+            "Ranging rod"
+          ],
+          "answer": "Offset rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "How the chain is adjusted if the chain is found to increase in length than the standard length?",
+          "image_url": null,
+          "options": [
+            "By removing some of the rings",
+            "By straightening the bent of links",
+            "By adjusting the links at the handle",
+            "By inserting the new rings as required"
+          ],
+          "answer": "By removing some of the rings",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 300,
+          "question": "What is the method of survey?",
+          "image_url": null,
+          "options": [
+            "Radiation",
+            "Resection",
+            "Traversing",
+            "Intersection"
+          ],
+          "answer": "Resection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "What is the name of method used in plane table survey similar to that of compass survey or theodolite?",
+          "image_url": null,
+          "options": [
+            "Radiation",
+            "Resection",
+            "Traversing",
+            "Intersection"
+          ],
+          "answer": "Traversing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "What is the name of the error that the fittings of table and tripod being loose?",
+          "image_url": null,
+          "options": [
+            "Errors of manipulation",
+            "Errors of sighting",
+            "Errors of instrumental",
+            "Errors of plotting"
+          ],
+          "answer": "Errors of instrumental",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "What is the line that lies on a level surface and is normal to plumb line at all points?",
+          "image_url": null,
+          "options": [
+            "Level line",
+            "Vertical line",
+            "Datum line",
+            "Horizontal line"
+          ],
+          "answer": "Level line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "What is the type of compass as per the system of graduation made?",
+          "image_url": null,
+          "options": [
+            "Magnetic compass",
+            "Trough compass",
+            "Prismatic compass",
+            "Surveyor’s compass"
+          ],
+          "answer": "Prismatic compass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "Convert W.C.Bearing to quadrantal bearing?",
+          "image_url": null,
+          "options": [
+            "RB= N 12° 30′ E",
+            "RB = S 19° 30' E",
+            "RB = S 30° 30′ W",
+            "RB = N 70° 30' W"
+          ],
+          "answer": "RB = S 19° 30' E",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "What is name of the level which does not required any protection from the sun?",
+          "image_url": null,
+          "options": [
+            "Auto level",
+            "Tilting level",
+            "Dumpy level",
+            "Wye (y) level"
+          ],
+          "answer": "Auto level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "What is the name of the process of putting the plane table with some fixed direction so that the line representing a particular direction on the plan is parallel to the direction on the ground?",
+          "image_url": null,
+          "options": [
+            "Centring the plane table",
+            "Orienting the plane table",
+            "Orienting by back sighting",
+            "Orienting by magnetic needle"
+          ],
+          "answer": "Orienting the plane table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "What is the name of method?",
+          "image_url": null,
+          "options": [
+            "Two point problem",
+            "Three point problem",
+            "Tracing paper method",
+            "Graphical method"
+          ],
+          "answer": "Two point problem",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "What is the colour of road metalled bridge?",
+          "image_url": null,
+          "options": [
+            "Burnt sienna",
+            "Burnt timber",
+            "Crimson Lake",
+            "Prussian blue"
+          ],
+          "answer": "Burnt sienna",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "What is the term for error that occur due to faulty adjustments of device such as chain may be too long or too short?",
+          "image_url": null,
+          "options": [
+            "Natural error",
+            "Personal error",
+            "Artificial error",
+            "Instrumental error"
+          ],
+          "answer": "Instrumental error",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "What is the surface that is normal to the direction of gravity at all points?",
+          "image_url": null,
+          "options": [
+            "Levelling",
+            "Horizontal surface",
+            "Horizontal line",
+            "Level surface"
+          ],
+          "answer": "Level surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "What is the name of method in which tracing paper is used over the drawing sheet to solve the problems?",
+          "image_url": null,
+          "options": [
+            "Bessel’s method",
+            "Traversing method",
+            "Trial and error method",
+            "Tracing paper method"
+          ],
+          "answer": "Tracing paper method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "What is the limit of error in 20m chain as per IS?",
+          "image_url": null,
+          "options": [
+            "±3 mm",
+            "±5mm",
+            "±6mm",
+            "±8 mm"
+          ],
+          "answer": "±5mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "What is the method referred in chain surveying?",
+          "image_url": null,
+          "options": [
+            "Inter section method",
+            "Trilateration method",
+            "Triangular method",
+            "Polar co-ordinate method"
+          ],
+          "answer": "Polar co-ordinate method",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Surveying - II",
+      "quizWrap": [
+        {
+          "id": 315,
+          "question": "What is the process if the difference of level between two points is determined by setting the levelling instrument midway between the point?",
+          "image_url": null,
+          "options": [
+            "Simple levelling",
+            "Profile levelling",
+            "Differential levelling",
+            "Reciprocal levelling"
+          ],
+          "answer": "Simple levelling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "Which method is adopted while the instrument in improper adjustment to establish the intermediate point?",
+          "image_url": null,
+          "options": [
+            "Back sight",
+            "Fore sight",
+            "Single sighting",
+            "Double sighting"
+          ],
+          "answer": "Double sighting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "Which situation fore sight and back sight reading should be entered in the same horizontal line in level book?",
+          "image_url": null,
+          "options": [
+            "Change point",
+            "Back sight",
+            "Intermediate sight",
+            "Rise & Ball"
+          ],
+          "answer": "Change point",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the deflection angle that the angle measured in clockwise direction?",
+          "image_url": null,
+          "options": [
+            "Left deflection angle",
+            "Right deflection angle",
+            "Vertical deflection angle",
+            "Horizontal deflection angle"
+          ],
+          "answer": "Right deflection angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the name of the levelling instrument?",
+          "image_url": null,
+          "options": [
+            "Dumpy level",
+            "Wye (y) level",
+            "Tilting level",
+            "Auto level"
+          ],
+          "answer": "Auto level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "Which method measuring horizontal angle as an average of 3 or 4 consecutive measurement of angle?",
+          "image_url": null,
+          "options": [
+            "Reiteration",
+            "Repetition",
+            "Traversing",
+            "Transiting"
+          ],
+          "answer": "Repetition",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "What is the adjustment done to place the vertical axis exactly over the station?",
+          "image_url": null,
+          "options": [
+            "Setting up",
+            "Centering",
+            "Levelling up",
+            "Focusing"
+          ],
+          "answer": "Centering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "What is the major disadvantage of open traverse?",
+          "image_url": null,
+          "options": [
+            "There is no check on summation of angles",
+            "Check both linear and angular measurement",
+            "Traverse are terminate at the same point",
+            "Mathematically closed and geometrically opened"
+          ],
+          "answer": "There is no check on summation of angles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "How to calculate the RL having height of instrument is 98.717 and IS reading 1.238?",
+          "image_url": null,
+          "options": [
+            "99.955",
+            "98.717",
+            "98.177",
+            "97.479"
+          ],
+          "answer": "97.479",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "What is the name of the imaginary line of constant elevation on the ground surface?",
+          "image_url": null,
+          "options": [
+            "Relief",
+            "Contour line",
+            "Contouring line",
+            "Contour interval"
+          ],
+          "answer": "Contour line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "What method of contour is suitable for contouring in hilly areas?",
+          "image_url": null,
+          "options": [
+            "By square method",
+            "By cross section method",
+            "By tachometry method",
+            "By levelling method"
+          ],
+          "answer": "By tachometry method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "What is the term for rotating the telescope in horizontal plane about its vertical axis?",
+          "image_url": null,
+          "options": [
+            "Centering",
+            "Revolution",
+            "Swing",
+            "Sighting"
+          ],
+          "answer": "Swing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "What does the figure refers? +B23",
+          "image_url": null,
+          "options": [
+            "Latitude",
+            "Departure",
+            "WCB",
+            "RB"
+          ],
+          "answer": "Departure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 328,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Level tube",
+            "Metal case",
+            "Bubble tube axis",
+            "Top of Telescopic axis"
+          ],
+          "answer": "Bubble tube axis",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "What is the method in prolonging line?",
+          "image_url": null,
+          "options": [
+            "Prolonging line by first method",
+            "Prolonging line by second method",
+            "Prolonging line by third method",
+            "Prolonging line by fourth method"
+          ],
+          "answer": "Prolonging line by third method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "What is the technical term for the process of bring the vertical axis of theodolite immediately over a mark or station point?",
+          "image_url": null,
+          "options": [
+            "Centering",
+            "Traversing",
+            "Non - Traversing",
+            "Collimation"
+          ],
+          "answer": "Centering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "What is the name of departure of line measured towards right ward?",
+          "image_url": null,
+          "options": [
+            "Easting",
+            "Northing",
+            "Westing",
+            "Southing"
+          ],
+          "answer": "Easting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "What is the name of the level that does not require any protection from the sun?",
+          "image_url": null,
+          "options": [
+            "Titling level",
+            "Auto level",
+            "Dumpy level",
+            "Wye (y) level"
+          ],
+          "answer": "Auto level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "What will be the difference of level A and B if the B.S is 3.560m and F.S is 2.860m?",
+          "image_url": null,
+          "options": [
+            "1.700 m",
+            "1.600 m",
+            "1.500 m",
+            "0.700m"
+          ],
+          "answer": "0.700m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "What is the name of level designated as self aligning level?",
+          "image_url": null,
+          "options": [
+            "Tilting level",
+            "Auto level",
+            "Dumpy level",
+            "Wye (Y) level"
+          ],
+          "answer": "Auto level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "What is the name of difference in reduced level between successive contours?",
+          "image_url": null,
+          "options": [
+            "Contour line",
+            "Contour interval",
+            "Relief",
+            "Levelling"
+          ],
+          "answer": "Contour interval",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "What dimensions are drawn in a plan of contour?",
+          "image_url": null,
+          "options": [
+            "Vertical dimension",
+            "Horizontal dimension",
+            "Inclined dimension",
+            "Parallel dimension"
+          ],
+          "answer": "Horizontal dimension",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 337,
+          "question": "What is name of the component?",
+          "image_url": null,
+          "options": [
+            "Telescope",
+            "Dumpy level",
+            "Wye(Y) level",
+            "Cooke’s level"
+          ],
+          "answer": "Telescope",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "What is the purpose of using theodolite primarily?",
+          "image_url": null,
+          "options": [
+            "To measure vertical angle only",
+            "To measure inclined angle only",
+            "To measure horizontal angle only",
+            "To measure horizontal vertical angles"
+          ],
+          "answer": "To measure horizontal vertical angles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "What is referred to smallest measureable unit in theodolite?",
+          "image_url": null,
+          "options": [
+            "Double sighting",
+            "Least count",
+            "Swing",
+            "Contouring"
+          ],
+          "answer": "Least count",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "Which column is used, the first entry in the level book page?",
+          "image_url": null,
+          "options": [
+            "Fore sight",
+            "Back sight",
+            "Intermediate sight",
+            "Height of instrument"
+          ],
+          "answer": "Back sight",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "What is the height of collimation shown in figure with R.L 100.00 and B.S taken from A is 2.850 m?",
+          "image_url": null,
+          "options": [
+            "100.52",
+            "100.85",
+            "102.85",
+            "103"
+          ],
+          "answer": "102.85",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "What is the name of latitude of a line measured towards upward?",
+          "image_url": null,
+          "options": [
+            "Easting",
+            "Northing",
+            "Westing",
+            "Southing"
+          ],
+          "answer": "Northing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "What is the name of centre line layout of highway on the ground?",
+          "image_url": null,
+          "options": [
+            "Road length",
+            "Road alignment",
+            "Terrain",
+            "Map"
+          ],
+          "answer": "Road alignment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "What is the message to indicate the movement of left arm over 90°?",
+          "image_url": null,
+          "options": [
+            "Return to arm",
+            "Establish the position",
+            "Move my right",
+            "Move my left"
+          ],
+          "answer": "Move my right",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "How to calculate height of collimation?",
+          "image_url": null,
+          "options": [
+            "RL of BM - Rise",
+            "RL of BM + Back sight reading",
+            "RL of BM - Fore sight reading",
+            "RL of BM + Intermediate reading"
+          ],
+          "answer": "RL of BM + Back sight reading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "Which method errors due to eccentricity of the spindles are eliminated by reading both the vernier of the theodolite?",
+          "image_url": null,
+          "options": [
+            "Ordinary method",
+            "Repetition method",
+            "Recitation method",
+            "Compound method"
+          ],
+          "answer": "Ordinary method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 347,
+          "question": "What bench mark is established for short duration such as at the end of a days work?",
+          "image_url": null,
+          "options": [
+            "Arbitrary bench mark",
+            "Temporary bench mark",
+            "Permanent bench mark",
+            "GTS bench mark"
+          ],
+          "answer": "Temporary bench mark",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "What is the least count of theodolite instrument?",
+          "image_url": null,
+          "options": [
+            "20' 20'",
+            "20' 10'",
+            "0' 20'",
+            "20' 5'"
+          ],
+          "answer": "0' 20'",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "What is the name of test?",
+          "image_url": null,
+          "options": [
+            "Collimation test",
+            "Plate level test",
+            "Vertical arc test",
+            "Spire test"
+          ],
+          "answer": "Spire test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 350,
+          "question": "What is the name of traversing that is used for running survey lines of a closed or open survey?",
+          "image_url": null,
+          "options": [
+            "Chain surveying",
+            "Compass surveying",
+            "Theodolite surveying",
+            "Plane table surveying"
+          ],
+          "answer": "Plane table surveying",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "What method of contour is suitable for small and low undulating area?",
+          "image_url": null,
+          "options": [
+            "By square method",
+            "By cross section method",
+            "By tachometry method",
+            "By levelling method"
+          ],
+          "answer": "By square method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "What is the name of the levelling instrument?",
+          "image_url": null,
+          "options": [
+            "Dumpy level",
+            "Wye (Y) level",
+            "Tilting level",
+            "Auto level"
+          ],
+          "answer": "Dumpy level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 353,
+          "question": "Which quadrant Latitude + Northing and Departure - Westing of line lies?",
+          "image_url": null,
+          "options": [
+            "Quadrant I",
+            "Quadrant II",
+            "Quadrant III",
+            "Quadrant IV"
+          ],
+          "answer": "Quadrant IV",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 354,
+          "question": "What is the one main scale division of vernier theodolite?",
+          "image_url": null,
+          "options": [
+            "15'- 0'",
+            "20'- 0'",
+            "22'- 0ʺ",
+            "25'- 0ʺ"
+          ],
+          "answer": "20'- 0'",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 355,
+          "question": "What is the formula for correction to latitude by Bowditchʹs method?",
+          "image_url": null,
+          "options": [
+            "\\( =\\text { Total error in latitude } \\times \\text { (Length of that traverse line) / (Total length of traverse) } \\)",
+            "\\( =\\text { Total error in departure } \\times \\text { (Length of that traverse line) / (Total length of traverse) } \\)",
+            "\\( =\\text { Total error in latitude } \\times \\text { ( latitude of that traverse line) / (Arithmetic sum of latitude) } \\)",
+            "\\( =\\text { Total error in departure } x \\text { (departure of that traverse line) / (Arithmetic sum of latitude) }\\)"
+          ],
+          "answer": "\\( =\\text { Total error in latitude } \\times \\text { (Length of that traverse line) / (Total length of traverse) } \\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 356,
+          "question": "How to calculate true difference of level?",
+          "image_url": null,
+          "options": [
+            "0.625",
+            "0.6025",
+            "0.605",
+            "0.6"
+          ],
+          "answer": "0.6025",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 357,
+          "question": "What is the method of precisely the horizontal angle from a single station point can be measured?",
+          "image_url": null,
+          "options": [
+            "Reiteration method",
+            "Recipetation method",
+            "Radial method",
+            "Offset method"
+          ],
+          "answer": "Reiteration method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 358,
+          "question": "What is the test carried in theodolite to make the plate bubbles centre to run if the vertical axis is truly vertical?",
+          "image_url": null,
+          "options": [
+            "Spine test",
+            "Plate level test",
+            "Collimation test",
+            "Bubble tube adjustment"
+          ],
+          "answer": "Plate level test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 359,
+          "question": "What measurement are plotted to a plan or a map?",
+          "image_url": null,
+          "options": [
+            "Linear measurement",
+            "Angular measurement",
+            "Vertical measurement",
+            "Linear and angular measurement"
+          ],
+          "answer": "Linear and angular measurement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 360,
+          "question": "What does the figure refers?",
+          "image_url": null,
+          "options": [
+            "Collimation test",
+            "Plate level test",
+            "Collimation in azimuth test",
+            "Cross - Hair test"
+          ],
+          "answer": "Collimation in azimuth test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 361,
+          "question": "Which column is used the last entry in the level book page at end of survey?",
+          "image_url": null,
+          "options": [
+            "Fore sight",
+            "Back sight",
+            "Intermediate sight",
+            "Height of instrument"
+          ],
+          "answer": "Fore sight",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 362,
+          "question": "Which method followed to connect a bench mark to the starting point of the alignment of any project?",
+          "image_url": null,
+          "options": [
+            "Fly levelling",
+            "Check levelling",
+            "Barometric levelling",
+            "Profile levelling"
+          ],
+          "answer": "Fly levelling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 363,
+          "question": "Which method of levelling the relative heights of points are bound out by some direct observation?",
+          "image_url": null,
+          "options": [
+            "Check levelling",
+            "Direct levelling",
+            "Indirect levelling",
+            "Fly levelling"
+          ],
+          "answer": "Direct levelling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 364,
+          "question": "What levelling is called as in direct levelling?",
+          "image_url": null,
+          "options": [
+            "Plane table levelling",
+            "Trigonometric levelling",
+            "Reciprocal levelling",
+            "Simple levelling"
+          ],
+          "answer": "Trigonometric levelling",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,6707 @@
+[
+    {
+      "module": "Safety, Hand tools and Timber",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "What is the name of part marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Pein",
+            "Face",
+            "Cheek",
+            "Wedge"
+          ],
+          "answer": "Pein",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "Which is an element of house keeping?",
+          "image_url": null,
+          "options": [
+            "Improper store",
+            "Clean flooring",
+            "Improper maintenance",
+            "Dim lighting"
+          ],
+          "answer": "Clean flooring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "How many inches make one feet in steel rule?",
+          "image_url": null,
+          "options": [
+            "10 inches",
+            "12 inches",
+            "14 inches",
+            "16 inches"
+          ],
+          "answer": "12 inches",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which insect attack standing trees?",
+          "image_url": null,
+          "options": [
+            "Termite",
+            "White ants",
+            "Pin hole borers",
+            "Powder post beetles"
+          ],
+          "answer": "Pin hole borers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "What is the extinguisher media used on class ʺAʺ fire?",
+          "image_url": null,
+          "options": [
+            "Water",
+            "Foam",
+            "Halon",
+            "Dry powder"
+          ],
+          "answer": "Water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "What is the use of bevel edge firmer chisel?",
+          "image_url": null,
+          "options": [
+            "Cleaning of grooves section",
+            "Cleaning of inside circular section",
+            "Heavy work such as mortising",
+            "Cleaning up corner and joints"
+          ],
+          "answer": "Cleaning up corner and joints",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What is the safety precaution observed in a carpentry workshop?",
+          "image_url": null,
+          "options": [
+            "Wear loose clothing",
+            "Secure the work piece rigidly before cutting",
+            "Hold sharpening tools in hand loosely",
+            "Avoid safety goggles"
+          ],
+          "answer": "Secure the work piece rigidly before cutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "Which chisel is used for general chiselling purposes?",
+          "image_url": null,
+          "options": [
+            "Paring chisel",
+            "Socket firmer chisel",
+            "Bench firmer chisel",
+            "Socket mortise chisel"
+          ],
+          "answer": "Bench firmer chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "What is the Name of part marked as ʺXʺ in adjustable metal jack plane?",
+          "image_url": null,
+          "options": [
+            "Knob",
+            "Boby",
+            "Cap iron",
+            "Cutting iron"
+          ],
+          "answer": "Cutting iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What is the part marked as ‘X’ in portable power planing machine?",
+          "image_url": null,
+          "options": [
+            "Front shoe",
+            "Rear shoe",
+            "Lock knob",
+            "Trigger switch"
+          ],
+          "answer": "Rear shoe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What is the name of PPE?",
+          "image_url": null,
+          "options": [
+            "Apron",
+            "Helmet",
+            "Gloves",
+            "Goggles"
+          ],
+          "answer": "Apron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "Which part of wood protects from external destroying agencies?",
+          "image_url": null,
+          "options": [
+            "Pith",
+            "Bark",
+            "Annular ring",
+            "Medullary rays"
+          ],
+          "answer": "Bark",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "What is the tool used for measuring the thickness of metal sheet?",
+          "image_url": null,
+          "options": [
+            "Steel rule",
+            "Try square",
+            "Marking gauge",
+            "Standard wire gauge"
+          ],
+          "answer": "Standard wire gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What is the reason of smear oil and wax on the sole of the plane?",
+          "image_url": null,
+          "options": [
+            "To be rust free",
+            "To shine",
+            "Good appearance",
+            "Reduces friction and makes planning easier"
+          ],
+          "answer": "Reduces friction and makes planning easier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the safety precaution to be observed while working in portable power planner?",
+          "image_url": null,
+          "options": [
+            "Make sure the cutter bolts are tightened",
+            "Never lubricate the machine",
+            "Apply proper tension to cutter",
+            "Blade free of gum and edge"
+          ],
+          "answer": "Make sure the cutter bolts are tightened",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "What is the tool used to check the surface and squareness of edge?",
+          "image_url": null,
+          "options": [
+            "Try square",
+            "Bevel square",
+            "Plumb bob",
+            "Standard wire gauge"
+          ],
+          "answer": "Try square",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What is the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Sap wood",
+            "Heartwood",
+            "Bark",
+            "Pith"
+          ],
+          "answer": "Sap wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "Which plane is used for planning the job to size quickly and truly?",
+          "image_url": null,
+          "options": [
+            "Jack plane",
+            "Toothing plane",
+            "Furnishing plane",
+            "Smoothing plane"
+          ],
+          "answer": "Jack plane",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "What is the name of saw?",
+          "image_url": null,
+          "options": [
+            "Fret saw",
+            "Coping saw",
+            "Nest of saw",
+            "Compass saw"
+          ],
+          "answer": "Compass saw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "What is the benefit of breast drilling machine?",
+          "image_url": null,
+          "options": [
+            "Deep holes",
+            "Very small diameter holes",
+            "Small diameter holes",
+            "Large diameter holes"
+          ],
+          "answer": "Large diameter holes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "What is the name of wood working plane?",
+          "image_url": null,
+          "options": [
+            "Rebate plane",
+            "Compass plane",
+            "Convex plane",
+            "Hollow plane"
+          ],
+          "answer": "Rebate plane",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "Which type of wood has broad leaves?",
+          "image_url": null,
+          "options": [
+            "Sap wood",
+            "Soft wood",
+            "Thin wood",
+            "Hard wood"
+          ],
+          "answer": "Hard wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What is the safety precaution to be observed while working with hammer?",
+          "image_url": null,
+          "options": [
+            "Check the eye hole depth",
+            "Check the head size and shape",
+            "Check the head and handle length",
+            "Check the head and handle for any cracks"
+          ],
+          "answer": "Check the head and handle for any cracks",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "What is the part name of ʺXʺ in hand drill machine?",
+          "image_url": null,
+          "options": [
+            "Handle",
+            "Frame",
+            "Adjustable chuck",
+            "Bevel pinion"
+          ],
+          "answer": "Bevel pinion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "Why the work piece is clamped while sawing with portable power circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Quick sawing",
+            "Prevent work piece movement",
+            "Protect from wear",
+            "Prevent from vibration"
+          ],
+          "answer": "Prevent from vibration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 25,
+          "question": "What is the name of fully developed wood that surrounds the pith?",
+          "image_url": null,
+          "options": [
+            "Sap wood",
+            "Soft wood",
+            "Heartwood",
+            "Light wood"
+          ],
+          "answer": "Heartwood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "Which timber is closely grained, hard and durable?",
+          "image_url": null,
+          "options": [
+            "Kail",
+            "Chair",
+            "Teak",
+            "Deodar"
+          ],
+          "answer": "Kail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "What is the part marked as “x” in bow saw?",
+          "image_url": null,
+          "options": [
+            "Bar",
+            "Lever",
+            "Frame",
+            "String"
+          ],
+          "answer": "String",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the name of chisel?",
+          "image_url": null,
+          "options": [
+            "Paring chisel",
+            "Socket firmer chisel",
+            "Bevel edge firmer chisel",
+            "Registered firmer chisel"
+          ],
+          "answer": "Paring chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "Which knot is used for the final appearance?",
+          "image_url": null,
+          "options": [
+            "Loose knot",
+            "Dead knot",
+            "Live knot",
+            "Spike knot"
+          ],
+          "answer": "Live knot",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "Which fire extinguisher is used for class ʺBʺ fire?",
+          "image_url": null,
+          "options": [
+            "Foam extinguisher",
+            "Halon extinguisher",
+            "Carbon dioxide extinguisher",
+            "Cooling with water extinguisher"
+          ],
+          "answer": "Foam extinguisher",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "Which part is fixed inside the ferrule in bench firmer chisel?",
+          "image_url": null,
+          "options": [
+            "Tang",
+            "Neck",
+            "Shoulder",
+            "Blade"
+          ],
+          "answer": "Tang",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the speciality of tack hammer?",
+          "image_url": null,
+          "options": [
+            "More weight",
+            "Slight magnetic",
+            "More finishing",
+            "More use"
+          ],
+          "answer": "Slight magnetic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "Which tool is used for testing the flatness of job?",
+          "image_url": null,
+          "options": [
+            "Steel rule",
+            "Bevel square",
+            "Plumb bob",
+            "Winding strips"
+          ],
+          "answer": "Winding strips",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "What is the safety precaution to be observed while working in portable drilling machine?",
+          "image_url": null,
+          "options": [
+            "Use proper drill bit",
+            "Use proper lubrication",
+            "Use the trigger switch",
+            "Switch off to make adjustments"
+          ],
+          "answer": "Switch off to make adjustments",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "Why the wooden blockʹs are used inside the saws of carpenter vice?",
+          "image_url": null,
+          "options": [
+            "Prevent from wear",
+            "Prevent from vibration",
+            "To provide grip",
+            "Protect work from damage"
+          ],
+          "answer": "Protect work from damage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "What is the use of trying plane?",
+          "image_url": null,
+          "options": [
+            "Planning grooves surface",
+            "Planning rebate surface",
+            "Planning rough gloving surface",
+            "Planning true and straight surface"
+          ],
+          "answer": "Planning true and straight surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "What is the name of wood working plane?",
+          "image_url": null,
+          "options": [
+            "Router plane",
+            "Plough plane",
+            "Toothing plane",
+            "Finishing plane"
+          ],
+          "answer": "Finishing plane",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the name of holding device?",
+          "image_url": null,
+          "options": [
+            "Shooting board",
+            "Planning troughs",
+            "Bench hold fast",
+            "The cleat"
+          ],
+          "answer": "Bench hold fast",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "What is the advantage of portable power planing machine?",
+          "image_url": null,
+          "options": [
+            "Smooth corner surface",
+            "Smooth curved edge",
+            "Rough gluing surface",
+            "Smooth surface of wood"
+          ],
+          "answer": "Smooth surface of wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "What is the part marked as “x”?",
+          "image_url": null,
+          "options": [
+            "Wedge",
+            "Cap iron",
+            "Cutting iron",
+            "Wooden stock"
+          ],
+          "answer": "Wooden stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "Which material is used to make a ripsaw blade?",
+          "image_url": null,
+          "options": [
+            "Steel",
+            "Thin spring steel",
+            "Forged carbon steel",
+            "Forged tool steel"
+          ],
+          "answer": "Thin spring steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "What is the name of supporting tool?",
+          "image_url": null,
+          "options": [
+            "Bench stop",
+            "Bench hook",
+            "Planning trough",
+            "Shooting board"
+          ],
+          "answer": "Bench hook",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the name of vice?",
+          "image_url": null,
+          "options": [
+            "Saw vice",
+            "Bench vice",
+            "Hand vice",
+            "Quick release vice"
+          ],
+          "answer": "Saw vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "Which saw is used for cutting grooves and rebate?",
+          "image_url": null,
+          "options": [
+            "Portable electric circular saw",
+            "Portable electric jig saw",
+            "Portable electric chain saw",
+            "Vertical band saw"
+          ],
+          "answer": "Portable electric circular saw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "Which gauge stem is long?",
+          "image_url": null,
+          "options": [
+            "Butt gauge",
+            "Panel gauge",
+            "Cutting gauge",
+            "Marking gauge"
+          ],
+          "answer": "Panel gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "What is used for sawing across the grains of timber?",
+          "image_url": null,
+          "options": [
+            "Rip saw",
+            "Tenon saw",
+            "Dovetail saw",
+            "Cross cut saw"
+          ],
+          "answer": "Cross cut saw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is the advantage of plough plane?",
+          "image_url": null,
+          "options": [
+            "Planning for rebate",
+            "Planning for grooves",
+            "Planning for surface",
+            "Planning for smoothing"
+          ],
+          "answer": "Planning for grooves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the immediate action taken in case of severe bleeding?",
+          "image_url": null,
+          "options": [
+            "Call the doctor",
+            "Call the ambulance",
+            "Apply pressure near wound to stop bleeding",
+            "Lie down the rest"
+          ],
+          "answer": "Apply pressure near wound to stop bleeding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "What is the name of hammer?",
+          "image_url": null,
+          "options": [
+            "Ball peen hammer",
+            "Cross peen hammer",
+            "Claw hammer",
+            "Straight peen hammer"
+          ],
+          "answer": "Claw hammer",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Types of joints",
+      "quizWrap": [
+        {
+          "id": 50,
+          "question": "Which is the property for good timber?",
+          "image_url": null,
+          "options": [
+            "Fine texture",
+            "",
+            "Cross grain",
+            "Light in colour"
+          ],
+          "answer": "Fine texture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What is the name of joint?",
+          "image_url": null,
+          "options": [
+            "Single dovetail",
+            "Common dovetail",
+            "Lapped dovetail",
+            "Secret dovetail"
+          ],
+          "answer": "Lapped dovetail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "What is the use of white arsenic preservative?",
+          "image_url": null,
+          "options": [
+            "Very effective against termites",
+            "Easy evaporate quickly",
+            "Less effective against termites",
+            "Use less quantity of timber"
+          ],
+          "answer": "Very effective against termites",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "What is the use of lengthening joints?",
+          "image_url": null,
+          "options": [
+            "Tool handle",
+            "Packing cases",
+            "Railways sleeper",
+            "Building work"
+          ],
+          "answer": "Building work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "Which type of preservative is easy to handle?",
+          "image_url": null,
+          "options": [
+            "White arsenic",
+            "Charging",
+            "Sheathing",
+            "Zinc chloride"
+          ],
+          "answer": "Zinc chloride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "Which category of joints is used for windows and doors?",
+          "image_url": null,
+          "options": [
+            "Box joints",
+            "Framing joints",
+            "Circular joints",
+            "Lengthening joint"
+          ],
+          "answer": "Framing joints",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the name of lengthening joint?",
+          "image_url": null,
+          "options": [
+            "End half lap joint",
+            "End over lap joint",
+            "End bevel lap joint",
+            "Screw half lap joint"
+          ],
+          "answer": "End over lap joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the advantage of creosote oil preservative?",
+          "image_url": null,
+          "options": [
+            "Easy to apply",
+            "Easy to handling",
+            "Easy to working",
+            "Easy to evaporate"
+          ],
+          "answer": "Easy to apply",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "How to calculate the joining length in lengthening joint?",
+          "image_url": null,
+          "options": [
+            "1-2 times of thickness",
+            "2-3 times of thickness",
+            "4-5 times of thickness",
+            "6-7 times of thickness"
+          ],
+          "answer": "4-5 times of thickness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "Why common dovetail joint is used for making boxes?",
+          "image_url": null,
+          "options": [
+            "Strong joint",
+            "Easy make",
+            "Easy transport",
+            "Large size"
+          ],
+          "answer": "Strong joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "How to prevent wharf piles attack the bottom of boats?",
+          "image_url": null,
+          "options": [
+            "Covering with copper sheets",
+            "Covering with steel sheets",
+            "Covering with mild steel sheets",
+            "Covering with carbon steel sheets"
+          ],
+          "answer": "Covering with copper sheets",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What is the name of joint?",
+          "image_url": null,
+          "options": [
+            "Single dovetail joint",
+            "Common dovetail joint",
+            "Lapped dovetail joint",
+            "Secret dovetail joint"
+          ],
+          "answer": "Common dovetail joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "What is the advantage of seasoning of timber?",
+          "image_url": null,
+          "options": [
+            "Improve volume and weight",
+            "Improve colour and smell",
+            "Improve strength and hardness",
+            "Improve sound and grain"
+          ],
+          "answer": "Improve strength and hardness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What is the use of table scarf joint?",
+          "image_url": null,
+          "options": [
+            "Increasing length",
+            "Increasing width",
+            "Increasing thickness",
+            "Increasing volume"
+          ],
+          "answer": "Increasing length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "Which tree contain whitish yellow colour property?",
+          "image_url": null,
+          "options": [
+            "Ash",
+            "Babul",
+            "Kauil",
+            "Bamboo"
+          ],
+          "answer": "Ash",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "Which tree grow out ward?",
+          "image_url": null,
+          "options": [
+            "Teak",
+            "Silver wood",
+            "Mango",
+            "Maruthu"
+          ],
+          "answer": "Teak",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "What is reason for different shape of grain in a timber?",
+          "image_url": null,
+          "options": [
+            "Quality of the cells",
+            "Thickness of the cells",
+            "Structure of the cells",
+            "Direction of the cells"
+          ],
+          "answer": "Direction of the cells",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "What is the name of joint?",
+          "image_url": null,
+          "options": [
+            "End over lap joint",
+            "End half lap joint",
+            "Mitre scarf joint",
+            "Table scarf joint"
+          ],
+          "answer": "End half lap joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "What is the use of secret dove tail joint?",
+          "image_url": null,
+          "options": [
+            "Tool handle",
+            "Packing cases",
+            "Jewel boxes",
+            "Railway sleeper"
+          ],
+          "answer": "Jewel boxes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "What is the reason of uneven texture in a timber?",
+          "image_url": null,
+          "options": [
+            "Types of cells",
+            "Cells structure",
+            "Cells thickness",
+            "Cells size and quality"
+          ],
+          "answer": "Cells size and quality",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "What is the name of seasoning?",
+          "image_url": null,
+          "options": [
+            "Air seasoning",
+            "Kiln seasoning",
+            "Water seasoning",
+            "Steam seasoning"
+          ],
+          "answer": "Air seasoning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "What is the part marked as “x” in kiln seasoning?",
+          "image_url": null,
+          "options": [
+            "Fan",
+            "Trolley",
+            "Brick wall",
+            "Heating pipe"
+          ],
+          "answer": "Brick wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the purpose of the seasoning of timber?",
+          "image_url": null,
+          "options": [
+            "Remove the moisture",
+            "Remove the strength",
+            "Remove the colour",
+            "Remove the smell"
+          ],
+          "answer": "Remove the moisture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "What is the name of joint?",
+          "image_url": null,
+          "options": [
+            "Simple butt joint",
+            "Dowel pin joint",
+            "Rebated joint",
+            "Tongue and Grooved joint"
+          ],
+          "answer": "Simple butt joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "Which wood consists ivory colour property?",
+          "image_url": null,
+          "options": [
+            "Ash",
+            "Silver",
+            "Kauil",
+            "Chir"
+          ],
+          "answer": "Silver",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 75,
+          "question": "Which glue is strong bond and water proof?",
+          "image_url": null,
+          "options": [
+            "Animal Glue",
+            "Casein Glue",
+            "Resin Glue",
+            "Blood albumen Glue"
+          ],
+          "answer": "Blood albumen Glue",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "Which type of joint is tongue and groove joint?",
+          "image_url": null,
+          "options": [
+            "Lengthening",
+            "Broadening",
+            "Thicknessing",
+            "Angling"
+          ],
+          "answer": "Broadening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "How to calculate the thickness of socket in a bridle joint?",
+          "image_url": null,
+          "options": [
+            "1/3rd thickness of stock",
+            "2/3rd thickness of stock",
+            "1/4th thickness of stock",
+            "Full thickness of stock"
+          ],
+          "answer": "1/3rd thickness of stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the projected height of dowel pin after inserting in a dowel pin joint?",
+          "image_url": null,
+          "options": [
+            "Full height upwards",
+            "3/4th height upwards",
+            "1/2th height upwards",
+            "1/4th height upwards"
+          ],
+          "answer": "1/2th height upwards",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Which is an oil preservative?",
+          "image_url": null,
+          "options": [
+            "Tar",
+            "White arsenic",
+            "Sodium fluoride",
+            "Zinc chloride"
+          ],
+          "answer": "Tar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "What prevents the dust and smoke during reheating the animal glue?",
+          "image_url": null,
+          "options": [
+            "Glue pot opened",
+            "Glue pot covered",
+            "Dry glue pot",
+            "Wet glue pot"
+          ],
+          "answer": "Glue pot covered",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "What will happen while reheating animal glue?",
+          "image_url": null,
+          "options": [
+            "Losses strength",
+            "Increase strength",
+            "Increase quantity",
+            "Decrease quantity"
+          ],
+          "answer": "Losses strength",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "Which wood consists sweet smell property?",
+          "image_url": null,
+          "options": [
+            "Mango",
+            "Babul",
+            "Sandal",
+            "Shisham"
+          ],
+          "answer": "Sandal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "Which is mechanical preservative?",
+          "image_url": null,
+          "options": [
+            "Zinc chloride",
+            "Sheathing",
+            "White arsenic",
+            "Water solution"
+          ],
+          "answer": "Sheathing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "What is the marking for angle?",
+          "image_url": null,
+          "options": [
+            "Mitre angle",
+            "Bevel angle",
+            "Teeth angle",
+            "Dovetail angle"
+          ],
+          "answer": "Dovetail angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the advantage of adhesive?",
+          "image_url": null,
+          "options": [
+            "Improving the hardness",
+            "Improving the volume",
+            "Improving the weight",
+            "Improving the strength in joint"
+          ],
+          "answer": "Improving the strength in joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "What is the purpose of haunch in mortise and tenon joint?",
+          "image_url": null,
+          "options": [
+            "For strength",
+            "For finishing",
+            "For prevent rail twisting",
+            "Supporting joint"
+          ],
+          "answer": "For prevent rail twisting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "Why the planks ends are set according to annual rings?",
+          "image_url": null,
+          "options": [
+            "Quick sawing",
+            "Quick marking",
+            "Quick chiselling",
+            "Good appearance"
+          ],
+          "answer": "Good appearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "What is the selection for lengthening joint?",
+          "image_url": null,
+          "options": [
+            "Support the loads",
+            "Size of wood",
+            "Types of timber",
+            "Fine texture timber"
+          ],
+          "answer": "Support the loads",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "Which joint is used for building beams?",
+          "image_url": null,
+          "options": [
+            "Lengthening joint",
+            "Widening joint",
+            "Framing joint",
+            "Box joint"
+          ],
+          "answer": "Lengthening joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "What is the use of kiln seasoning?",
+          "image_url": null,
+          "options": [
+            "Average seasoned timber",
+            "Common seasoned timber",
+            "Well seasoned timber",
+            "Moderate seasoned timber"
+          ],
+          "answer": "Well seasoned timber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "Which type of joint is used for fixing shelves?",
+          "image_url": null,
+          "options": [
+            "Housing joint",
+            "Scarf joint",
+            "Bridle joint",
+            "Halving joint"
+          ],
+          "answer": "Housing joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "Which wood is used for timber work?",
+          "image_url": null,
+          "options": [
+            "Seasoning wood",
+            "Moisture wood",
+            "Shrinkage wood",
+            "Defect wood"
+          ],
+          "answer": "Seasoning wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "Which tool is used for making groove in a tongue and grooved joint?",
+          "image_url": null,
+          "options": [
+            "Jointer plane",
+            "Smoothing plane",
+            "Plough plane",
+            "Rebate plane"
+          ],
+          "answer": "Plough plane",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the reason of fitting the loose tongue glued in the grooves of the tongued joint?",
+          "image_url": null,
+          "options": [
+            "Good appearance",
+            "Easy to dismantle",
+            "Prevent cracks",
+            "Increase the strength"
+          ],
+          "answer": "Increase the strength",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the use of zinc chloride preservative?",
+          "image_url": null,
+          "options": [
+            "Good appearance",
+            "Improve volume",
+            "Maintain the shape",
+            "Excellent for use against fungi"
+          ],
+          "answer": "Excellent for use against fungi",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "Why the preservative applied on the wood?",
+          "image_url": null,
+          "options": [
+            "Prolong life of wood",
+            "To increase the weight",
+            "To provide good finish",
+            "Good appearance"
+          ],
+          "answer": "Prolong life of wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "Which is the property for sports goods and wooden floors?",
+          "image_url": null,
+          "options": [
+            "Elasticity",
+            "Toughness",
+            "Fire resistance",
+            "Weather resistance"
+          ],
+          "answer": "Elasticity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "Which glue is prepared from curds of skimmed milk?",
+          "image_url": null,
+          "options": [
+            "Animal glue",
+            "Casein glue",
+            "Resin glue",
+            "Vegetable glue"
+          ],
+          "answer": "Casein glue",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "Which joint is used for the corners of picture frames?",
+          "image_url": null,
+          "options": [
+            "Mitre joints",
+            "Halving joints",
+            "Circular joints",
+            "Dowel joints"
+          ],
+          "answer": "Mitre joints",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Simple furniture making",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "Which board is used for rail, buses and lorry body buildings?",
+          "image_url": null,
+          "options": [
+            "Hard board",
+            "Block board",
+            "Laminated board",
+            "Insulation board"
+          ],
+          "answer": "Block board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Which method of sawing is done very quickly?",
+          "image_url": null,
+          "options": [
+            "Box sawing",
+            "Radial sawing",
+            "Quarter sawing",
+            "Tangential sawing"
+          ],
+          "answer": "Tangential sawing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "What is the name of board?",
+          "image_url": null,
+          "options": [
+            "Hard board",
+            "Block board",
+            "Particle board",
+            "Insulation board"
+          ],
+          "answer": "Block board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "What is the advantage of MDF board?",
+          "image_url": null,
+          "options": [
+            "Quick drying",
+            "Less moisture",
+            "Easy to bend",
+            "Easy to finish"
+          ],
+          "answer": "Easy to finish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "Which joint is strength in small table top rail?",
+          "image_url": null,
+          "options": [
+            "Hunched mortise and tenon joint",
+            "Half lap joint",
+            "Bridle joint",
+            "Scarf joint"
+          ],
+          "answer": "Hunched mortise and tenon joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "Which name of lock is used in carpentry work?",
+          "image_url": null,
+          "options": [
+            "Rim lock",
+            "Mortise lock",
+            "Case and fastener lock",
+            "Cylinder rim night latch lock"
+          ],
+          "answer": "Cylinder rim night latch lock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "Which material is used to make hard board?",
+          "image_url": null,
+          "options": [
+            "Shavings and wood chips",
+            "Thin sheet wood",
+            "Bulk wood",
+            "Breaking wood chips"
+          ],
+          "answer": "Breaking wood chips",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "Which is the suitable abrasive used in disc sander machine?",
+          "image_url": null,
+          "options": [
+            "Size of disc",
+            "Gauge of abrasive",
+            "Thickness of abrasive",
+            "Correct grade and type"
+          ],
+          "answer": "Correct grade and type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the name of lock?",
+          "image_url": null,
+          "options": [
+            "Rim lock",
+            "Pad lock",
+            "Mortise lock",
+            "Cylinder lock"
+          ],
+          "answer": "Rim lock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "What is the precaution while sanding to prevent the burning of work?",
+          "image_url": null,
+          "options": [
+            "Remove the dust",
+            "Remove the tool",
+            "Remove the PPE",
+            "Remove the bush stick"
+          ],
+          "answer": "Remove the dust",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "What is the characteristic of wood for furniture work (Packing cases)?",
+          "image_url": null,
+          "options": [
+            "More vibration",
+            "Medullary rays clear",
+            "Medullary ray very near",
+            "Loading and unloading element"
+          ],
+          "answer": "Loading and unloading element",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the name of board?",
+          "image_url": null,
+          "options": [
+            "Chip board",
+            "Particle board",
+            "Insulation board",
+            "Laminated board"
+          ],
+          "answer": "Laminated board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the name of sawing method?",
+          "image_url": null,
+          "options": [
+            "Live sawing",
+            "Back sawing",
+            "Radial sawing",
+            "Tangential sawing"
+          ],
+          "answer": "Radial sawing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the name of portable power machine?",
+          "image_url": null,
+          "options": [
+            "Jig saw",
+            "Disc sander",
+            "Router",
+            "Circular saw"
+          ],
+          "answer": "Disc sander",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "Which timber is used for manufacture of boiling water proof ply wood?",
+          "image_url": null,
+          "options": [
+            "Teak, maple and sissoo",
+            "Sal, babul and kail",
+            "Chir, deodar and palm",
+            "Bamboo, coconut and lingo stone"
+          ],
+          "answer": "Teak, maple and sissoo",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "Which can be easily worked and bent for shapes and designs?",
+          "image_url": null,
+          "options": [
+            "Plywood",
+            "Block board",
+            "Radial cut board",
+            "Laminated board"
+          ],
+          "answer": "Plywood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "Which veneer has fine decorative effects for attractive appearance?",
+          "image_url": null,
+          "options": [
+            "Top veneer",
+            "Core veneer",
+            "Back veneer",
+            "Bottom veneer"
+          ],
+          "answer": "Top veneer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "Which is the minimum number of ply in plywood?",
+          "image_url": null,
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What is the name of sawing method?",
+          "image_url": null,
+          "options": [
+            "Back sawing",
+            "Live sawing",
+            "Radial sawing",
+            "Quarter sawing"
+          ],
+          "answer": "Back sawing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "What is the material used in manufacture of spanner?",
+          "image_url": null,
+          "options": [
+            "Mild steel",
+            "Drop forged steel",
+            "High carbon steel",
+            "Low carbon steel"
+          ],
+          "answer": "Drop forged steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Rail",
+            "Panel",
+            "Head",
+            "Frame"
+          ],
+          "answer": "Rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "Why the head is square shape in square headed bolt?",
+          "image_url": null,
+          "options": [
+            "For easy fitting",
+            "Provide positive grip",
+            "Provide good appearance",
+            "Prevents turning of bolt"
+          ],
+          "answer": "Prevents turning of bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "Which part is the area of shutter is closed between the rails?",
+          "image_url": null,
+          "options": [
+            "Panel",
+            "Mullion",
+            "Sash",
+            "Transom"
+          ],
+          "answer": "Panel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the width and thickness for stool legs?",
+          "image_url": null,
+          "options": [
+            "50mm x 50mm",
+            "65mm x 65mm",
+            "70mm x 70mm",
+            "80mm x 80mm"
+          ],
+          "answer": "50mm x 50mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "What is the benefit of conversion timber?",
+          "image_url": null,
+          "options": [
+            "Minimize shrinkage",
+            "More shrinkage",
+            "More damage",
+            "More cost"
+          ],
+          "answer": "Minimize shrinkage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 125,
+          "question": "What is the use of doorframe?",
+          "image_url": null,
+          "options": [
+            "To fix the shutter",
+            "To fix window shutter",
+            "To fix protection bar",
+            "To fix the grill"
+          ],
+          "answer": "To fix the shutter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "Which screw is used for the general screwing purpose?",
+          "image_url": null,
+          "options": [
+            "Round head",
+            "Oval head",
+            "Raised head",
+            "Counter sunk flat head"
+          ],
+          "answer": "Counter sunk flat head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "Where is the use of executive table furniture?",
+          "image_url": null,
+          "options": [
+            "Library",
+            "Class room",
+            "Office room",
+            "Living room"
+          ],
+          "answer": "Office room",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What is the hinge used for automatically closed door?",
+          "image_url": null,
+          "options": [
+            "Butt hinge",
+            "Strap hinge",
+            "Spring hinge",
+            "Garnet hinge"
+          ],
+          "answer": "Spring hinge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "Which material is used to cover the screw head the stool?",
+          "image_url": null,
+          "options": [
+            "Putty",
+            "Stain",
+            "Wood chips",
+            "Wooden peg"
+          ],
+          "answer": "Putty",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "Which bottom rail size is used for stool?",
+          "image_url": null,
+          "options": [
+            "50mm x 30mm",
+            "60mm x 30mm",
+            "70mm x 30mm",
+            "80mm x 30mm"
+          ],
+          "answer": "50mm x 30mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "What is the use of rebate made in door frame?",
+          "image_url": null,
+          "options": [
+            "Appearance",
+            "Avoid terminals",
+            "Quick opening",
+            "Receive the door shutter"
+          ],
+          "answer": "Receive the door shutter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "What is the advantage of butt hinge?",
+          "image_url": null,
+          "options": [
+            "Cheap and durable",
+            "Effect good comfort",
+            "Greater holding power",
+            "High rusting power"
+          ],
+          "answer": "Cheap and durable",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "Why the neck is square in hook bolt?",
+          "image_url": null,
+          "options": [
+            "For inserting nut",
+            "Prevents rotation of bolt",
+            "For beauty",
+            "For getting load"
+          ],
+          "answer": "Prevents rotation of bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "Why wire mesh panels is used in door?",
+          "image_url": null,
+          "options": [
+            "Economical",
+            "Easy to assemble",
+            "Provide good appearance",
+            "Check the entry of mosquitoes"
+          ],
+          "answer": "Check the entry of mosquitoes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the advantage of wooden partition?",
+          "image_url": null,
+          "options": [
+            "Quick constructed",
+            "Fire resisting property",
+            "Prevent the terminals",
+            "Prevent the decay"
+          ],
+          "answer": "Quick constructed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is the part marked as “x” in plywood?",
+          "image_url": null,
+          "options": [
+            "Glue",
+            "Core",
+            "Face ply",
+            "Cross bands"
+          ],
+          "answer": "Cross bands",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What is the name of hinge?",
+          "image_url": null,
+          "options": [
+            "Strap hinge",
+            "Butt hinge",
+            "Rising butt hinge",
+            "Parliament hinge"
+          ],
+          "answer": "Parliament hinge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the purpose of laminated board?",
+          "image_url": null,
+          "options": [
+            "Roofing work",
+            "Packing work",
+            "Structural work",
+            "High class furniture"
+          ],
+          "answer": "High class furniture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "Which joint is used for small table bottom rail?",
+          "image_url": null,
+          "options": [
+            "Hunched mortise and tenon",
+            "Single mortise and tenon",
+            "Double mortise and tenon",
+            "Stub mortise and tenon"
+          ],
+          "answer": "Stub mortise and tenon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the material used for making wire nail?",
+          "image_url": null,
+          "options": [
+            "Steel",
+            "Mild steel",
+            "High carbon steel",
+            "High speed steel"
+          ],
+          "answer": "Mild steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "What is the name of the upper most horizontal part of door frame?",
+          "image_url": null,
+          "options": [
+            "Stile",
+            "Head",
+            "Panel",
+            "Revel"
+          ],
+          "answer": "Head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "What is the effect of too much pressure in portable power disc sander machine?",
+          "image_url": null,
+          "options": [
+            "Burn the wood",
+            "Wear the wood",
+            "Crack the wood",
+            "Check the wood"
+          ],
+          "answer": "Burn the wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "Which operation is to be performed after the planning to make a stool?",
+          "image_url": null,
+          "options": [
+            "Sawing",
+            "Marking",
+            "Tenoning",
+            "Drilling"
+          ],
+          "answer": "Marking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the name of the lower most horizontal part of common partition frame?",
+          "image_url": null,
+          "options": [
+            "Sill",
+            "Stubs",
+            "Door head",
+            "Door posts"
+          ],
+          "answer": "Sill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the required property of wood to make computer furniture?",
+          "image_url": null,
+          "options": [
+            "Distance medullary rays",
+            "Distance annual rays",
+            "Distance grain",
+            "Better insulating"
+          ],
+          "answer": "Better insulating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "What is the name of screw driver?",
+          "image_url": null,
+          "options": [
+            "Phillips head",
+            "Standard",
+            "Small sturdy",
+            "Off set"
+          ],
+          "answer": "Small sturdy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "How to prevent buckling of plywood while storing?",
+          "image_url": null,
+          "options": [
+            "Apply thin coat of polish on the surface",
+            "Keep plywood storing on the edges",
+            "Apply thin coat of wax on the surface",
+            "Keep the plywood flat with weight over it"
+          ],
+          "answer": "Keep the plywood flat with weight over it",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "What is the name of part marked as ’X’?",
+          "image_url": null,
+          "options": [
+            "Panel",
+            "Top rail",
+            "Lock rail",
+            "Bottom rail"
+          ],
+          "answer": "Lock rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "What is the reason for plywood used in the construction of aircraft?",
+          "image_url": null,
+          "options": [
+            "Strength, durability and lightness",
+            "Cost of the plywood are also too high",
+            "Less attract by insects and fungus",
+            "Less receiving of preservatives"
+          ],
+          "answer": "Strength, durability and lightness",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Carving and Wood finishing",
+      "quizWrap": [
+        {
+          "id": 150,
+          "question": "What is the Name of part marked as ʺXʺ?",
+          "image_url": null,
+          "options": [
+            "Switch",
+            "Brush",
+            "Frame",
+            "Clamp screw"
+          ],
+          "answer": "Brush",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "Which material is used in oil stain mixture?",
+          "image_url": null,
+          "options": [
+            "Benzene",
+            "Coconut oil",
+            "Thick oil",
+            "Shellac"
+          ],
+          "answer": "Benzene",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "Why wood is used for ornamentation?",
+          "image_url": null,
+          "options": [
+            "Strength for work",
+            "Life for work",
+            "Cost of work",
+            "Beautify the work"
+          ],
+          "answer": "Beautify the work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "Why special cost is included for estimation of floral carving work?",
+          "image_url": null,
+          "options": [
+            "Oiling and staining",
+            "Scarfing and stopping",
+            "Puttying and sanking",
+            "Waxing and polishing"
+          ],
+          "answer": "Waxing and polishing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is to be avoided while varnishing?",
+          "image_url": null,
+          "options": [
+            "Closed the grain",
+            "Along the surface",
+            "Straight the grain",
+            "Forming of air bubbles"
+          ],
+          "answer": "Forming of air bubbles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "What is to be avoided while painting?",
+          "image_url": null,
+          "options": [
+            "Dry surface",
+            "Priming surface",
+            "Sanding surface",
+            "Wet surface"
+          ],
+          "answer": "Wet surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "What is the benefit of the stain?",
+          "image_url": null,
+          "options": [
+            "Cover screw head and gags",
+            "Cover the cracks and splits",
+            "Avoid the check and warp",
+            "New furniture match existing furniture"
+          ],
+          "answer": "New furniture match existing furniture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "Who relies chiefly on figure, grain colour of timber?",
+          "image_url": null,
+          "options": [
+            "Good designer",
+            "Hard worker",
+            "Unskilled person",
+            "Special man for works"
+          ],
+          "answer": "Good designer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "What is the wood selected for the ornamentation work?",
+          "image_url": null,
+          "options": [
+            "Hard wood",
+            "Twisted timber",
+            "Used knot timber",
+            "Natural grain of figured timber"
+          ],
+          "answer": "Natural grain of figured timber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "What is the application of hand scraper?",
+          "image_url": null,
+          "options": [
+            "Marking the work",
+            "Parting the work",
+            "Sharpen the cutting edge",
+            "Scrape all the wood surface"
+          ],
+          "answer": "Scrape all the wood surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "Which property of wood selected for carving work?",
+          "image_url": null,
+          "options": [
+            "Twisted and tends",
+            "More flexible",
+            "More weight",
+            "Fine texture and natural grains"
+          ],
+          "answer": "Fine texture and natural grains",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "When is sand paper is used?",
+          "image_url": null,
+          "options": [
+            "Removed the dust",
+            "Removed the burr",
+            "Finish the wood edge",
+            "Instead of finish"
+          ],
+          "answer": "Finish the wood edge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "What is the advantage of the stain?",
+          "image_url": null,
+          "options": [
+            "Uniform colour",
+            "Life of wood",
+            "Effective against termites",
+            "Good appearance"
+          ],
+          "answer": "Uniform colour",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the material used to prepare the polishing pad?",
+          "image_url": null,
+          "options": [
+            "Cotton and wet cloth",
+            "Memory foam",
+            "Polyurethane foam",
+            "Cotton and cotton cloth"
+          ],
+          "answer": "Cotton and cotton cloth",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "Which is the composition of white lead and zinc mixed with linseed oil?",
+          "image_url": null,
+          "options": [
+            "Paint",
+            "Stain",
+            "Polish",
+            "Varnish"
+          ],
+          "answer": "Paint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "What is the name of first coat in painting?",
+          "image_url": null,
+          "options": [
+            "Priming",
+            "Gluing",
+            "Polishing",
+            "Varnishing"
+          ],
+          "answer": "Priming",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "Which material is used for removal of old polish?",
+          "image_url": null,
+          "options": [
+            "Wax",
+            "Shellac",
+            "Gum mastic",
+            "White sprit"
+          ],
+          "answer": "White sprit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "What is the recipe of good quality polish?",
+          "image_url": null,
+          "options": [
+            "Wax and chalk powder",
+            "White lead and zinc",
+            "Linseed oil and turpentine",
+            "Shellac, gum mastic and gum sandarac"
+          ],
+          "answer": "Shellac, gum mastic and gum sandarac",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What is the percentage estimate of over head cost?",
+          "image_url": null,
+          "options": [
+            "0.01",
+            "0.02",
+            "0.03",
+            "0.04"
+          ],
+          "answer": "0.01",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "Which material is to be avoided while finishing?",
+          "image_url": null,
+          "options": [
+            "Dry pad",
+            "Wet pad",
+            "Cotton cloth",
+            "White cloth"
+          ],
+          "answer": "Wet pad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the name of portable electric machine?",
+          "image_url": null,
+          "options": [
+            "Router",
+            "Jig saw",
+            "Belt sander",
+            "Circular hand saw"
+          ],
+          "answer": "Router",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "Which method forms special works in furniture?",
+          "image_url": null,
+          "options": [
+            "Marking",
+            "Joining",
+            "Gluing",
+            "Polishing"
+          ],
+          "answer": "Polishing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "What is the operation done on wood surface?",
+          "image_url": null,
+          "options": [
+            "Applying coconut oil",
+            "Applying putty",
+            "Applying stain",
+            "Applying polish"
+          ],
+          "answer": "Applying polish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What is the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Flat scraper",
+            "Hand scraper",
+            "Spock shave",
+            "Cabinet scraper"
+          ],
+          "answer": "Cabinet scraper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What is the purpose of estimation process?",
+          "image_url": null,
+          "options": [
+            "Increase Production",
+            "Reduce Material cost",
+            "Reduce man power",
+            "To manage Business"
+          ],
+          "answer": "To manage Business",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 175,
+          "question": "Where is polish avoided?",
+          "image_url": null,
+          "options": [
+            "Smooth surface",
+            "Rough surface",
+            "Planning surface",
+            "Fin surface"
+          ],
+          "answer": "Rough surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the use of carving tool?",
+          "image_url": null,
+          "options": [
+            "To make smooth surface",
+            "To make perfect joint",
+            "To finish the edges",
+            "To beautify the work"
+          ],
+          "answer": "To beautify the work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "How many days are required for good quality of polish after preparation of mixtures?",
+          "image_url": null,
+          "options": [
+            "5 days",
+            "10 days",
+            "15 days",
+            "20 days"
+          ],
+          "answer": "15 days",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "How many hours is allowed to dry the first coat of paint?",
+          "image_url": null,
+          "options": [
+            "24 hours",
+            "48 hours",
+            "72 hours",
+            "96 hours"
+          ],
+          "answer": "48 hours",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the method of attractive items used in door frame and door shutters?",
+          "image_url": null,
+          "options": [
+            "Nailing",
+            "Screwing",
+            "Carving",
+            "Sanding"
+          ],
+          "answer": "Carving",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "What is the reason for carving knife slips?",
+          "image_url": null,
+          "options": [
+            "Correct position",
+            "Hold the chisel",
+            "Proper cutting edge",
+            "Incorrect position"
+          ],
+          "answer": "Incorrect position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "What is preparation of putty?",
+          "image_url": null,
+          "options": [
+            "Resin and common wax",
+            "Gum mastic and gum benzoin",
+            "Gum sandarac and spirit",
+            "Lead and zinc"
+          ],
+          "answer": "Resin and common wax",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "What is the percentage of profit to estimate the prime cost?",
+          "image_url": null,
+          "options": [
+            "0.1",
+            "0.2",
+            "0.3",
+            "0.4"
+          ],
+          "answer": "0.2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the indicated by sand paper as per colour?",
+          "image_url": null,
+          "options": [
+            "Yellowish sandy",
+            "Green",
+            "Reddish",
+            "Black"
+          ],
+          "answer": "Yellowish sandy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the name of covering all gap in the wood?",
+          "image_url": null,
+          "options": [
+            "Rubbing",
+            "Planning",
+            "Sanding",
+            "Puttying"
+          ],
+          "answer": "Puttying",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "Which is chisel used for carving work?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Firmer chisel",
+            "Mortise chisel",
+            "Straight and bend chisel"
+          ],
+          "answer": "Straight and bend chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "What is the result of applying the polish?",
+          "image_url": null,
+          "options": [
+            "Rub surface finish",
+            "Less salvage value",
+            "Better insulating properties",
+            "Fine glossy finish"
+          ],
+          "answer": "Fine glossy finish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the movement for the polish second coat?",
+          "image_url": null,
+          "options": [
+            "Way the cross of grain",
+            "From the straight",
+            "Along the grain",
+            "Circular motion"
+          ],
+          "answer": "Circular motion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Where is the carving work done in wooden door?",
+          "image_url": null,
+          "options": [
+            "Surface only",
+            "Edge only",
+            "End only",
+            "Oblique only"
+          ],
+          "answer": "Surface only",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "What is the application of sand paper?",
+          "image_url": null,
+          "options": [
+            "Sharpening of wood chisel",
+            "Removed the rusting",
+            "Prevent them rusting",
+            "Last smoothing the surface"
+          ],
+          "answer": "Last smoothing the surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "What is the benefit of wooden putty?",
+          "image_url": null,
+          "options": [
+            "Cover screw heads",
+            "Good appearance",
+            "Work is uniform strength",
+            "Greater holding power"
+          ],
+          "answer": "Cover screw heads",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the estimate wages of carpenter for one hour?",
+          "image_url": null,
+          "options": [
+            "Rs.50",
+            "Rs.100",
+            "Rs.15",
+            "Rs.200B"
+          ],
+          "answer": "Rs.100",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What is to be avoided while sanding?",
+          "image_url": null,
+          "options": [
+            "Along the grain",
+            "Closed the grain",
+            "Straight the grain",
+            "Across the grain"
+          ],
+          "answer": "Across the grain",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "What is the name of sander machine?",
+          "image_url": null,
+          "options": [
+            "Belt sander",
+            "Power sander",
+            "Disc sander",
+            "Orbital sander"
+          ],
+          "answer": "Belt sander",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "What is produced by the orbital sander machine?",
+          "image_url": null,
+          "options": [
+            "Tenon surface",
+            "Bevel surface",
+            "Grooved surface",
+            "Flat and curved surface"
+          ],
+          "answer": "Flat and curved surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is the definition of ornamentation?",
+          "image_url": null,
+          "options": [
+            "Uniform colour",
+            "Good quality",
+            "Good finishing",
+            "Decoration of wood article"
+          ],
+          "answer": "Decoration of wood article",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the application of wood finishes?",
+          "image_url": null,
+          "options": [
+            "Putty",
+            "Filler",
+            "Polish",
+            "Galvanized"
+          ],
+          "answer": "Polish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "Which material is used for paint to be thinned?",
+          "image_url": null,
+          "options": [
+            "Thick oil",
+            "Coconut oil",
+            "Turpentine oil",
+            "Benzene oil"
+          ],
+          "answer": "Turpentine oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "Which carving is made of straight lines and areas of circles?",
+          "image_url": null,
+          "options": [
+            "Matching",
+            "Punching",
+            "Chip carving",
+            "Relief carving"
+          ],
+          "answer": "Chip carving",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the advantage of portable electric router machine?",
+          "image_url": null,
+          "options": [
+            "Smoothing surface of work",
+            "Chiselling purpose",
+            "Large straight holes",
+            "Used for moulding and grooving"
+          ],
+          "answer": "Used for moulding and grooving",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Wood sawing machine",
+      "quizWrap": [
+        {
+          "id": 200,
+          "question": "How to avoid wobbling and twisting in the cut of band saw machine?",
+          "image_url": null,
+          "options": [
+            "Using throat plate",
+            "Using upper wheel",
+            "Using thrust wheels",
+            "Using guide post Jaws"
+          ],
+          "answer": "Using guide post Jaws",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "What is the use of horizontal band saw machine?",
+          "image_url": null,
+          "options": [
+            "Sawing size timber",
+            "Sawing curve and mitre",
+            "Sawing large diameter logs",
+            "Sawing small diameter logs"
+          ],
+          "answer": "Sawing large diameter logs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "Which part is used to support the work while sawing in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Table",
+            "Upper wheel",
+            "Lower wheel",
+            "Saw straining wheel"
+          ],
+          "answer": "Table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "How to maintain the vertical band saw machine after the work?",
+          "image_url": null,
+          "options": [
+            "Check the wheels",
+            "Sharpen the blade",
+            "Clean and lubricate",
+            "Check the guide post"
+          ],
+          "answer": "Clean and lubricate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "What is the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Table",
+            "Guard",
+            "Saw guide",
+            "Saw straining wheel"
+          ],
+          "answer": "Saw guide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "What is the use of vertical band saw machine?",
+          "image_url": null,
+          "options": [
+            "Sawing size timber",
+            "Sawing zigzag cutting",
+            "Sawing keyhole cutting",
+            "Sawing large diameter log"
+          ],
+          "answer": "Sawing size timber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "Which determines the size of circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Small diameter the circular blade",
+            "Medium diameter the circular blade",
+            "Minimum diameter the circular blade",
+            "Maximum diameter the circular blade"
+          ],
+          "answer": "Maximum diameter the circular blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "Which is the fitted to wheels for smooth running in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Ball bearing",
+            "Split bearing",
+            "Solid bearing",
+            "Bush bearing"
+          ],
+          "answer": "Ball bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "How to maintain the band saw blade before sawing on the machine?",
+          "image_url": null,
+          "options": [
+            "Sharp the blade using file",
+            "Properly adjust the tension",
+            "Properly adjusted ripping fence",
+            "Setting the teeth using saw set"
+          ],
+          "answer": "Properly adjust the tension",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "How to prevent the blade from stripping in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Fitting the rubber tyre",
+            "Cover with strong guards",
+            "Fit the rubber gasket",
+            "Fit with metal washer"
+          ],
+          "answer": "Fitting the rubber tyre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "Which wood is to be avoided in sawing work?",
+          "image_url": null,
+          "options": [
+            "Live knot and straight grain wood",
+            "Loose knot , Warps and nail wood",
+            "Well seasoned wood",
+            "Well texture wood"
+          ],
+          "answer": "Loose knot , Warps and nail wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What is the function of saw blade in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Running over two vertical wheels",
+            "Running over two inclined wheels",
+            "Running over two vertical spur gear",
+            "Running over two vertical “Vee” pulley"
+          ],
+          "answer": "Running over two vertical wheels",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "Which symptom indicates a crack in the band saw blade?",
+          "image_url": null,
+          "options": [
+            "Loosening of blade tension",
+            "Reduction of RPM",
+            "Unequal running of madine",
+            "Click noise"
+          ],
+          "answer": "Click noise",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "What is the advantage of ripping fence in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Accurate repacking and grooving",
+            "Accurate ripping and cross cutting",
+            "Accurate mitre and inclined cutting",
+            "Accurate zig-zag and key hole cutting"
+          ],
+          "answer": "Accurate ripping and cross cutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "Which saw used for accurate dimensioning?",
+          "image_url": null,
+          "options": [
+            "Hollow ground saw",
+            "Taper saw",
+            "Plate saw",
+            "Swage saw"
+          ],
+          "answer": "Hollow ground saw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "How to maintain the band saw machine blade after the work?",
+          "image_url": null,
+          "options": [
+            "Filing of the teeth",
+            "Setting of the teeth",
+            "Sharpening of the teeth",
+            "Releasing tension and safe"
+          ],
+          "answer": "Releasing tension and safe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the material used to manufacture band saw machine frame?",
+          "image_url": null,
+          "options": [
+            "Steel",
+            "Cast iron",
+            "Mild steel",
+            "Forged steel"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "Which part of the circular saw machine is used for guiding the stock?",
+          "image_url": null,
+          "options": [
+            "Table",
+            "Saw guard",
+            "Ripping fence",
+            "Extension guard"
+          ],
+          "answer": "Ripping fence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "How the work is fed for curve cutting in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Very low and evenly",
+            "Very high and evenly",
+            "High and evenly",
+            "Slowly and evenly"
+          ],
+          "answer": "Slowly and evenly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "Which type of sawing operations carried out with mitre gauge?",
+          "image_url": null,
+          "options": [
+            "Free hand sawing",
+            "Curve cutting",
+            "Cutting circles",
+            "Cross cutting"
+          ],
+          "answer": "Cross cutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "What is the safety precaution observed in working circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Maintain the angle of teeth",
+            "Maintain the size of blade",
+            "Maintain the pitch of blade",
+            "Check the blade is properly fitted and tightened to arbor"
+          ],
+          "answer": "Check the blade is properly fitted and tightened to arbor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "Which part is used for cross cutting in vertical band saw machine?",
+          "image_url": null,
+          "options": [
+            "Butt gauge",
+            "Wire gauge",
+            "Mitre gauge",
+            "Panel gauge"
+          ],
+          "answer": "Mitre gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "Which part of the band saw machine prevents damage of teeth while breaking?",
+          "image_url": null,
+          "options": [
+            "Saw guide",
+            "Upper guide",
+            "Throat plate",
+            "Ripping fence"
+          ],
+          "answer": "Throat plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "Which is the adjustment for height of saw guide post above the job in band saw machine?",
+          "image_url": null,
+          "options": [
+            "10mm",
+            "20mm",
+            "30mm",
+            "40mm"
+          ],
+          "answer": "20mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is the distance to be maintained by the observer from the band saw machine?",
+          "image_url": null,
+          "options": [
+            "1 meter",
+            "2 meters",
+            "3 meters",
+            "4 meters"
+          ],
+          "answer": "1 meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 225,
+          "question": "Which protective device safe guard the fingers from saw blade and wood scales?",
+          "image_url": null,
+          "options": [
+            "Helmet",
+            "Gloves",
+            "Industrial safety boot",
+            "Apron"
+          ],
+          "answer": "Gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the name of operation in circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Ripping",
+            "Rebating",
+            "Tenoning",
+            "Grooving"
+          ],
+          "answer": "Rebating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the part marked as ʺXʺ in sawing?",
+          "image_url": null,
+          "options": [
+            "Ripping fence",
+            "Mitre gauge",
+            "Bevel gauge",
+            "Butt gauge"
+          ],
+          "answer": "Mitre gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "Which determines the size of band saw machine?",
+          "image_url": null,
+          "options": [
+            "Width of the wheels",
+            "Diameter of the wheels",
+            "Thickness of the wheels",
+            "Length of the guide post"
+          ],
+          "answer": "Diameter of the wheels",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "Which lubricating material used for bearing collars in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Wax",
+            "Neaks - toot oil",
+            "Olive oil",
+            "Grease"
+          ],
+          "answer": "Grease",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "What is the remedy of click noise while working on the band saw machine?",
+          "image_url": null,
+          "options": [
+            "Remove the wood",
+            "Releasing the tension",
+            "Switch off the machine",
+            "Adjust the ripping fence"
+          ],
+          "answer": "Switch off the machine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "Which stock is used for sawing in circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Flat stock",
+            "Twisted stock",
+            "Bowing stock",
+            "Cupping stock"
+          ],
+          "answer": "Flat stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "Which tool is used for support of sawing in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Iron bar",
+            "Push stick",
+            "Cork block",
+            "Wooden rule"
+          ],
+          "answer": "Push stick",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "What is the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Saw",
+            "Table",
+            "Fence",
+            "Guide post"
+          ],
+          "answer": "Fence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "Which part of band saw machine to be lubricated?",
+          "image_url": null,
+          "options": [
+            "Spring loaded lifting wheel",
+            "Throat plate",
+            "Saw straining wheel",
+            "Sliding parts"
+          ],
+          "answer": "Sliding parts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "What is the feed of band saw machine while moving the stock?",
+          "image_url": null,
+          "options": [
+            "Faster",
+            "Zig - Zag",
+            "Inclined",
+            "Slowly"
+          ],
+          "answer": "Slowly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the safety precaution observed while working in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Check the guard",
+            "Clean the blade",
+            "Check the blade teeth",
+            "Switch off to make any adjustments"
+          ],
+          "answer": "Switch off to make any adjustments",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "Which part is adjusted according to the thickness of stock for sawing in band saw?",
+          "image_url": null,
+          "options": [
+            "Guide post",
+            "Saw guides",
+            "Throat plate",
+            "Thrust wheels"
+          ],
+          "answer": "Guide post",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "Which part is tilted and lowered at an angle 45° in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Table",
+            "Upper guide",
+            "Lower wheel",
+            "Upper wheel"
+          ],
+          "answer": "Table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "What is the PPE used to protect the falling timber in circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Safety shoes",
+            "Safety sandals",
+            "Safety slipper",
+            "Safety canvas"
+          ],
+          "answer": "Safety shoes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What is the benefit of mitre gauge in cross cutting?",
+          "image_url": null,
+          "options": [
+            "Support of the blade",
+            "Marking the work piece",
+            "Measuring the work piece",
+            "Guide and hold work piece"
+          ],
+          "answer": "Guide and hold work piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Fence",
+            "Saw blade",
+            "Crown guard",
+            "Extension guard"
+          ],
+          "answer": "Fence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "Why band saw machine frame firm fixed on floor?",
+          "image_url": null,
+          "options": [
+            "Avoid noise",
+            "Avoid jumping",
+            "Avoid sound",
+            "Avoid vibration"
+          ],
+          "answer": "Avoid vibration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "What is the prevention taken while working with a circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Avoid lubrication",
+            "Proper saw blade",
+            "Use the knot timber",
+            "Never stand directly in the line with blade"
+          ],
+          "answer": "Never stand directly in the line with blade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "Which sawing operation used for removing the corners of square stock?",
+          "image_url": null,
+          "options": [
+            "Cross cutting",
+            "Curve cutting",
+            "Cutting circle",
+            "Bevel and chamfer cutting"
+          ],
+          "answer": "Bevel and chamfer cutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is the operation for circular saw machine?",
+          "image_url": null,
+          "options": [
+            "Ripping",
+            "Grooving",
+            "Mitre cutting",
+            "Bevel cutting"
+          ],
+          "answer": "Grooving",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "How to maintain the band saw wheels before switching on the machine?",
+          "image_url": null,
+          "options": [
+            "Clean the rust",
+            "Clean the dust",
+            "Check the alignment",
+            "Guards must be closed"
+          ],
+          "answer": "Guards must be closed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "Which PPE is used for handling the job while working in band saw machine?",
+          "image_url": null,
+          "options": [
+            "Gloves",
+            "Hand screen",
+            "Welding helmet",
+            "Leg guards"
+          ],
+          "answer": "Gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the name of machine used for cutting, bevels, rebates, grooves and tenons?",
+          "image_url": null,
+          "options": [
+            "Mortising",
+            "Band saw",
+            "Circular saw",
+            "Turning lathe"
+          ],
+          "answer": "Circular saw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "What is the distance of the fingers from the blade while working on band saw?",
+          "image_url": null,
+          "options": [
+            "60mm",
+            "65mm",
+            "70 mm",
+            "75mm"
+          ],
+          "answer": "75mm",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Planning, Drilling and Grinding machine",
+      "quizWrap": [
+        {
+          "id": 250,
+          "question": "Which size of stock is to be avoided in thickness planner?",
+          "image_url": null,
+          "options": [
+            "Less than 9 Mm thick",
+            "Less than 15 Mm thick",
+            "Less than 20 Mm thick",
+            "Less than 25 Mm thick"
+          ],
+          "answer": "Less than 9 Mm thick",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "Which part support the parts of the pedestal drilling machine?",
+          "image_url": null,
+          "options": [
+            "Chuck",
+            "Base",
+            "Guard",
+            "Work table"
+          ],
+          "answer": "Base",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "Which is the personal protective equipment used for eye protection while grinding?",
+          "image_url": null,
+          "options": [
+            "Apron",
+            "Helmet",
+            "Hand gloves",
+            "Safety goggles"
+          ],
+          "answer": "Safety goggles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "What is the name of PPE is used to protect from noise while grinding?",
+          "image_url": null,
+          "options": [
+            "Goggle",
+            "Helmet",
+            "Nose Mask",
+            "Ear plug"
+          ],
+          "answer": "Ear plug",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Eye shield",
+            "Work rest",
+            "Guards",
+            "Grinding wheel"
+          ],
+          "answer": "Eye shield",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "What is the reason for avoiding the side of grinding wheel?",
+          "image_url": null,
+          "options": [
+            "Grinding wheel guard damage",
+            "Spindle will damage",
+            "Tool tip break",
+            "Grinding wheel break"
+          ],
+          "answer": "Grinding wheel break",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "What is the purpose of rolls in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Support of the stock",
+            "Prevent from the blade",
+            "Helps to carry the stock",
+            "Prevent from cutter head"
+          ],
+          "answer": "Helps to carry the stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "Which part support the stock planned at right angles in surface planer?",
+          "image_url": null,
+          "options": [
+            "Fence",
+            "Base",
+            "Table",
+            "Cutter head"
+          ],
+          "answer": "Fence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "Why nose mask used while planning?",
+          "image_url": null,
+          "options": [
+            "Safe guard the head",
+            "Safe guard the eyes",
+            "Safe guard the body",
+            "Protect the lungs"
+          ],
+          "answer": "Protect the lungs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "What is the name of part marked as ’X’?",
+          "image_url": null,
+          "options": [
+            "Chuck",
+            "Column",
+            "Motor",
+            "Belt guard"
+          ],
+          "answer": "Chuck",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "What is the part marked as ‘X’ in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Gib",
+            "Rolls",
+            "Out feed roll",
+            "Chip breaker"
+          ],
+          "answer": "Chip breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "What is the use of jointer planer?",
+          "image_url": null,
+          "options": [
+            "Planning to end",
+            "Planning to curves",
+            "Planning to surface",
+            "Planning to thickness"
+          ],
+          "answer": "Planning to surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "Why the body clearance of drill bit reduced in diameter?",
+          "image_url": null,
+          "options": [
+            "To cut down friction between drill and the job",
+            "To increase the strength",
+            "To provide clearance",
+            "To reduce the weight"
+          ],
+          "answer": "To cut down friction between drill and the job",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "What is the gap to be maintained between grinding wheel and work rest in pedestal grinding machine?",
+          "image_url": null,
+          "options": [
+            "2 to 3 mm",
+            "4 to 5 mm",
+            "6 to 7 mm",
+            "8 to 9 mm"
+          ],
+          "answer": "2 to 3 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "What is the part attached in surface planer?",
+          "image_url": null,
+          "options": [
+            "Fence",
+            "Rear table",
+            "Front table",
+            "Cutting head"
+          ],
+          "answer": "Fence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "Which stock is to avoid planning in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Uniform width",
+            "Straight grain",
+            "Varying thickness",
+            "Uniform thickness"
+          ],
+          "answer": "Varying thickness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is the part marked as ‘X’ in jointer planer?",
+          "image_url": null,
+          "options": [
+            "Fence",
+            "Rear table",
+            "Front table",
+            "Cutter head"
+          ],
+          "answer": "Rear table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "Which Personal Protective Equipment (PPE) is used for the protection of legs of operator while drilling?",
+          "image_url": null,
+          "options": [
+            "Nose mask",
+            "Ear plug",
+            "Ear muff",
+            "Safety shoes"
+          ],
+          "answer": "Safety shoes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "What is the sequence of setting reference at 35° in planning machine?",
+          "image_url": null,
+          "options": [
+            "Setting the table",
+            "Setting the cutter",
+            "Setting the guard",
+            "Setting work for chamfering"
+          ],
+          "answer": "Setting work for chamfering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "What is the purpose of a work rest in pedestal grinder?",
+          "image_url": null,
+          "options": [
+            "Maintain the size",
+            "Move the stock",
+            "Hold the work",
+            "Support the work"
+          ],
+          "answer": "Support the work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "Which PPE is used for eye protection while working in planing machine?",
+          "image_url": null,
+          "options": [
+            "Face shield",
+            "Helmets",
+            "Leather leg guards",
+            "Gum boots"
+          ],
+          "answer": "Face shield",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "How to feed the stock in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Slowly and evenly",
+            "Highly and evenly",
+            "Slowly and inclined",
+            "Highly and inclined"
+          ],
+          "answer": "Slowly and evenly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the name of planning operation?",
+          "image_url": null,
+          "options": [
+            "Rebating",
+            "Chamfering",
+            "Testing Surface",
+            "Grooving"
+          ],
+          "answer": "Testing Surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What is the necessity for coolant while grinding?",
+          "image_url": null,
+          "options": [
+            "Quenching of tool",
+            "Quick sharpening of tool",
+            "Quick grinding of tool",
+            "Hardening of tool"
+          ],
+          "answer": "Quenching of tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is the PPE to protect against inhaling of dust while working in planing machine?",
+          "image_url": null,
+          "options": [
+            "Nose mask",
+            "Head shield",
+            "Leather apron",
+            "Helmets"
+          ],
+          "answer": "Nose mask",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 275,
+          "question": "Which part support the board after planing in surface planer?",
+          "image_url": null,
+          "options": [
+            "Base",
+            "Fence",
+            "Rear table",
+            "Front table"
+          ],
+          "answer": "Rear table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is the part marked as ‘X’ in planer?",
+          "image_url": null,
+          "options": [
+            "Cutter head",
+            "In feed table",
+            "Out feed table",
+            "Cutter head slot"
+          ],
+          "answer": "Cutter head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "Which type of material is used for reducing heat and increase the life of drill while drilling?",
+          "image_url": null,
+          "options": [
+            "Wax",
+            "Grease",
+            "Olive oil",
+            "Cutting fluid"
+          ],
+          "answer": "Cutting fluid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "What is the part marked as ‘X’ in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Table lock",
+            "Scale for table height",
+            "Table elevating screw",
+            "Table elevating hand wheel"
+          ],
+          "answer": "Table elevating hand wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "What is the name of planning operation?",
+          "image_url": null,
+          "options": [
+            "Rebating",
+            "Tenoning",
+            "Grooving",
+            "Chamfering"
+          ],
+          "answer": "Chamfering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "How to maintain the knives in surface planer?",
+          "image_url": null,
+          "options": [
+            "Check the strength",
+            "Check the hardness",
+            "Sharpening at all time",
+            "Maintenance size and shape"
+          ],
+          "answer": "Sharpening at all time",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "Which is the operation performed in pedestal grinding machine?",
+          "image_url": null,
+          "options": [
+            "Vertical grinding",
+            "Rough grinding",
+            "Cored grinding",
+            "Zig zag grinding"
+          ],
+          "answer": "Rough grinding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the function of infeed roller in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Support the stock",
+            "Used as a stopper",
+            "Move the stock forward",
+            "Used for thickness maintenance"
+          ],
+          "answer": "Move the stock forward",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "Which type of wheel to be avoided in grinding machine?",
+          "image_url": null,
+          "options": [
+            "Smooth wheel",
+            "Fine wheel",
+            "Very fine wheel",
+            "Cracked wheel"
+          ],
+          "answer": "Cracked wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "What is the part marked as ’X’?",
+          "image_url": null,
+          "options": [
+            "Base",
+            "Pillar",
+            "Spindle",
+            "Work table"
+          ],
+          "answer": "Work table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "What is the purpose of chuck in pedestal drilling machine?",
+          "image_url": null,
+          "options": [
+            "Support the drill bit",
+            "Support the work",
+            "Hold the work",
+            "Hold the drill bit"
+          ],
+          "answer": "Hold the drill bit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "What is the sequence of setting in planer?",
+          "image_url": null,
+          "options": [
+            "Setting the work",
+            "Setting the table",
+            "Setting the cutter",
+            "Setting the guard"
+          ],
+          "answer": "Setting the cutter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "Which tool is used for removing the drills, chucks and sockets?",
+          "image_url": null,
+          "options": [
+            "Punch",
+            "Crow bar",
+            "Spanner",
+            "Drill drift"
+          ],
+          "answer": "Drill drift",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "Which type of wood avoid in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Seasoning timber",
+            "Unseasoning timber",
+            "Straight grain timber",
+            "Warped and twisted timber"
+          ],
+          "answer": "Warped and twisted timber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "What is the safety precautions to be observed in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Never lubricate the machine",
+            "Blade free of gum and edge",
+            "Apply proper tension to blade",
+            "Never bend down to look while running"
+          ],
+          "answer": "Never bend down to look while running",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "What is the safety precaution for drilling in pedestal drilling machine?",
+          "image_url": null,
+          "options": [
+            "Check the key",
+            "Size of drill",
+            "Check the work piece",
+            "Check the electrical connection"
+          ],
+          "answer": "Check the electrical connection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "Which material is used for making twist drill bits?",
+          "image_url": null,
+          "options": [
+            "Mild steel",
+            "Spring steel",
+            "Alloy steel",
+            "High speed steel"
+          ],
+          "answer": "High speed steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "What is the operation of planning machine?",
+          "image_url": null,
+          "options": [
+            "Plane the face side",
+            "Plane the grooving",
+            "Plane the rebating",
+            "Plane the edge bevelling"
+          ],
+          "answer": "Plane the edge bevelling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is the type of drill bit?",
+          "image_url": null,
+          "options": [
+            "Straight shank drill",
+            "Taper shank drill",
+            "Flat drill",
+            "Counter sink drill"
+          ],
+          "answer": "Taper shank drill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "How to maintain the grinding wheel in pedestal grinding machine?",
+          "image_url": null,
+          "options": [
+            "Proper oiling",
+            "Proper greasing",
+            "Proper cooling",
+            "Avoid heavy load"
+          ],
+          "answer": "Avoid heavy load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "Which machine is used to sharpen single point cutting tools?",
+          "image_url": null,
+          "options": [
+            "Cylindrical grinder",
+            "Surface grinder",
+            "Portable grinder",
+            "Pedestal grinder"
+          ],
+          "answer": "Pedestal grinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "What is the gap to be maintained between tool rest and grinding wheel?",
+          "image_url": null,
+          "options": [
+            "1mm",
+            "2mm",
+            "2.5mm",
+            "3mm"
+          ],
+          "answer": "2mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which PPE is to protect the hand while drilling?",
+          "image_url": null,
+          "options": [
+            "Helmets",
+            "Gloves",
+            "Nose mask",
+            "Leather aprons"
+          ],
+          "answer": "Gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Where pressure bar is located in thickness planer?",
+          "image_url": null,
+          "options": [
+            "Behind the rolls",
+            "Behind the infeed roll",
+            "Behind the outfeed roll",
+            "Behind the cutter head"
+          ],
+          "answer": "Behind the cutter head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "What is the name of operation carried out for planer blade?",
+          "image_url": null,
+          "options": [
+            "Grinding",
+            "Sharpening",
+            "Grooving",
+            "Ripping"
+          ],
+          "answer": "Sharpening",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Turning, Mortising and Sanding machine",
+      "quizWrap": [
+        {
+          "id": 300,
+          "question": "What is the purpose of aluminium oxide abrasive in high speed sander machine?",
+          "image_url": null,
+          "options": [
+            "Old wood finishing",
+            "Soft wood finishing",
+            "Hard wood finishing",
+            "Nailed surface finishing"
+          ],
+          "answer": "Hard wood finishing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "What is the name of chisel used for taper turning?",
+          "image_url": null,
+          "options": [
+            "Skew chisel",
+            "Gouge chisel",
+            "Round nose chisel",
+            "Spear point chisel"
+          ],
+          "answer": "Skew chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "Calculate the volume of log if d1, d2 and length are 0.5m, 0.7m and 10m respectively?",
+          "image_url": null,
+          "options": [
+            "1.826 m³",
+            "2.826 m³",
+            "3.826 m³",
+            "4.826 m³"
+          ],
+          "answer": "2.826 m³",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "What is the area of board?",
+          "image_url": null,
+          "options": [
+            "2.92 sq meter",
+            "2.95 square meters",
+            "2.96 sq meter",
+            "2.97 sq meter"
+          ],
+          "answer": "2.97 sq meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "What is the name of chisel?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Parting chisel",
+            "Mortise chisel",
+            "Firmer chisel"
+          ],
+          "answer": "Parting chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "What is the part marked as ‘x’ in wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Bed",
+            "Bench",
+            "Gap in bed",
+            "Four step pulley"
+          ],
+          "answer": "Bed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "What is the part marked as ʹxʹ in mortiser?",
+          "image_url": null,
+          "options": [
+            "Bit spindle",
+            "Chisel socket",
+            "Hollow chisel bit",
+            "Chisel bushing set screw"
+          ],
+          "answer": "Chisel socket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "What is the part marked as ʹxʹ in disk sander?",
+          "image_url": null,
+          "options": [
+            "Base",
+            "Abrasive disk",
+            "Lock knob",
+            "Tilting table"
+          ],
+          "answer": "Lock knob",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "What is the name of centre used in wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Pin centre",
+            "Cup centre",
+            "Spur centre",
+            "Dead centre"
+          ],
+          "answer": "Spur centre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "Which part is used to adjust tension of the chain in mortise machine?",
+          "image_url": null,
+          "options": [
+            "Depth gauge",
+            "Hand wheel",
+            "Operating handle",
+            "Guide bar"
+          ],
+          "answer": "Guide bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "How to maintain the sprocket wheel in mortising machine?",
+          "image_url": null,
+          "options": [
+            "Never lubricate",
+            "Lubricate frequently",
+            "Avoid rusting",
+            "Avoid stripping"
+          ],
+          "answer": "Lubricate frequently",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "What is ensures by rotating the stock by hand in wood turning work?",
+          "image_url": null,
+          "options": [
+            "Clearance live centre and tool rest",
+            "Clearance dead centre and tool rest",
+            "Clearance between stock and tool rest",
+            "Clearance between live centre and dead centre"
+          ],
+          "answer": "Clearance between stock and tool rest",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "What is the part in sander machine?",
+          "image_url": null,
+          "options": [
+            "Sanding disk",
+            "Sanding belt",
+            "Sanding drum",
+            "Sanding spindle"
+          ],
+          "answer": "Sanding drum",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "Why the counter weight device is used for belt sander machine?",
+          "image_url": null,
+          "options": [
+            "To prevent belt vibrations",
+            "To protect the surface of the belt",
+            "Extend belt life",
+            "To keep the belt in correct tensions"
+          ],
+          "answer": "To keep the belt in correct tensions",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "What is the remedy for the face plate jamming against the shoulder of the wood turning lathe live spindle?",
+          "image_url": null,
+          "options": [
+            "Fix the cotton pad",
+            "Fix the iron washer",
+            "Fix the core washer",
+            "Fix the leather washer"
+          ],
+          "answer": "Fix the leather washer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 315,
+          "question": "Which material is used in manufacture of horizontal bed in wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Big iron",
+            "Cast iron",
+            "Drop forged steel",
+            "High utensil steel"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "Which part of the wood turning lathe is permanently fixed at the end of bed?",
+          "image_url": null,
+          "options": [
+            "Head stock",
+            "Tail stock",
+            "Tool rest",
+            "Dead centre"
+          ],
+          "answer": "Head stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "Why the bark in the middle of log is removed while calculating the timber?",
+          "image_url": null,
+          "options": [
+            "To measure the thickness",
+            "To measure the width",
+            "To measure the length",
+            "To measure the diameter"
+          ],
+          "answer": "To measure the diameter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the part marked as ‘X’ in mortising machine?",
+          "image_url": null,
+          "options": [
+            "Vice",
+            "Chain guard",
+            "Operation handle",
+            "Chain sharpening attachment"
+          ],
+          "answer": "Chain guard",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the part marked as ‘x’ in sanding machine?",
+          "image_url": null,
+          "options": [
+            "Belt sander",
+            "Disk sander",
+            "Drum sander",
+            "Spindle sander"
+          ],
+          "answer": "Spindle sander",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "Which type of wood is suitable for sanding work?",
+          "image_url": null,
+          "options": [
+            "Old wood",
+            "New wood",
+            "Nailed wood",
+            "Excess glue wood"
+          ],
+          "answer": "New wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "What is the name of part marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Cap",
+            "Respirator pad",
+            "Gloves",
+            "Leather apron"
+          ],
+          "answer": "Respirator pad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "Which part is used to hold the work piece securely in mortising?",
+          "image_url": null,
+          "options": [
+            "Table clamp",
+            "Guide bar",
+            "Cutter head",
+            "Sprocket wheel"
+          ],
+          "answer": "Table clamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "What will be the effect of sanding small pieces?",
+          "image_url": null,
+          "options": [
+            "Job will be trapped between disc and table",
+            "Decrease the sanding efficiency",
+            "Takes more time",
+            "Involves skilled labour"
+          ],
+          "answer": "Job will be trapped between disc and table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "Why the fence is used in mortise machine?",
+          "image_url": null,
+          "options": [
+            "To support the collar",
+            "To support the auger",
+            "To support the chisel",
+            "To support the job"
+          ],
+          "answer": "To support the job",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "What is the part marked as ‘x’ in mortising machine?",
+          "image_url": null,
+          "options": [
+            "Vice",
+            "Chisel",
+            "Depth gauge",
+            "Operating handle"
+          ],
+          "answer": "Depth gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "Which part is used to control the position of sanding work?",
+          "image_url": null,
+          "options": [
+            "Mitre gauge, hand wheel and tension block",
+            "Drum, counter weight and base",
+            "Spindle, belt and disk",
+            "Table, fence and guide"
+          ],
+          "answer": "Table, fence and guide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "What is the part marked as ’x’ in belt sander machine?",
+          "image_url": null,
+          "options": [
+            "Belt",
+            "Wheel",
+            "Tension block",
+            "Adjustment hand wheel"
+          ],
+          "answer": "Adjustment hand wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 328,
+          "question": "How to maintain the chisel and auger bit in hollow chisel mortiser?",
+          "image_url": null,
+          "options": [
+            "Check the size",
+            "Keep in a safe place",
+            "Sharpening to be ensured",
+            "Lubricate frequently"
+          ],
+          "answer": "Sharpening to be ensured",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "Which type of chisel is used for turning the work from square to round?",
+          "image_url": null,
+          "options": [
+            "Skew chisel",
+            "Gouge chisel",
+            "Parting chisel",
+            "Spear point chisel"
+          ],
+          "answer": "Gouge chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "What is the use of dead centre in wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Hold the work",
+            "Hold the chisel",
+            "Drives the work",
+            "Support the tool"
+          ],
+          "answer": "Hold the work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "Which wood surface is avoided in sanding work?",
+          "image_url": null,
+          "options": [
+            "Convex surface",
+            "Straight surface",
+            "Irregular surface",
+            "Excess glue and nailed surface"
+          ],
+          "answer": "Excess glue and nailed surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "Which part is used to move the job laterally and longitudinally?",
+          "image_url": null,
+          "options": [
+            "Chuck",
+            "Fence",
+            "Hand wheel",
+            "Depth gauge"
+          ],
+          "answer": "Hand wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "Which chisel used for different shoulder cuts according to the dimensions in the turning work?",
+          "image_url": null,
+          "options": [
+            "Gouge chisel",
+            "Parting chisel",
+            "Spear point chisel",
+            "Round nose chisel"
+          ],
+          "answer": "Parting chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "Which part is used for turning stand base, fruit bowls in wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Cup chuck",
+            "Face plate",
+            "Cup centre",
+            "Dead centre"
+          ],
+          "answer": "Face plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "What is the use of mortise machine?",
+          "image_url": null,
+          "options": [
+            "Cut square or rectangular holes in a timber piece",
+            "Hold the job at 45°angle",
+            "Form the surface",
+            "Bevel the job edges"
+          ],
+          "answer": "Cut square or rectangular holes in a timber piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "Which chisel shape is used for the mortising machine?",
+          "image_url": null,
+          "options": [
+            "Round",
+            "Square",
+            "Half round",
+            "Rectangular"
+          ],
+          "answer": "Square",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 337,
+          "question": "What is the name of PPE?",
+          "image_url": null,
+          "options": [
+            "Face shield",
+            "Head shield",
+            "Nose mask",
+            "Screen"
+          ],
+          "answer": "Nose mask",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "Which centre is used for wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Cup centre",
+            "Live centre",
+            "Spur centre",
+            "Screw centre"
+          ],
+          "answer": "Cup centre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "What is the function of table from mortising machine?",
+          "image_url": null,
+          "options": [
+            "Move the inclined",
+            "Move the vertically",
+            "Can be tilted any angle",
+            "Move laterally to line with chisel"
+          ],
+          "answer": "Move laterally to line with chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "What is the formula to calculate volume of the log timber?",
+          "image_url": null,
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "answer": "",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "Why the Live centre is tapered in wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "To prevent rust",
+            "Move the job quickly",
+            "To hold the work tight",
+            "Fix in to hollow spindle nose"
+          ],
+          "answer": "Fix in to hollow spindle nose",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "How to maintain the wood turning job before setting the centres in wood working lathe?",
+          "image_url": null,
+          "options": [
+            "Remove the stone",
+            "Remove the rough end",
+            "Remove the rough surface",
+            "Remove the sharp corners"
+          ],
+          "answer": "Remove the sharp corners",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "What is the name of the chisel used in the wood turning work?",
+          "image_url": null,
+          "options": [
+            "Skew chisel",
+            "Bevel edge chisel",
+            "Round nose chisel",
+            "Gauge chisel"
+          ],
+          "answer": "Round nose chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "How to maintain the chisel in wood turning work?",
+          "image_url": null,
+          "options": [
+            "Never lubricate",
+            "Lubricate frequently",
+            "Use always sharpened",
+            "Select the chisel in work"
+          ],
+          "answer": "Use always sharpened",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "Which determines the size of wood turning lathe?",
+          "image_url": null,
+          "options": [
+            "Width of the work piece",
+            "Length of the work piece",
+            "Thickness of the work piece",
+            "Diameter of the swing in work piece"
+          ],
+          "answer": "Diameter of the swing in work piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "Which size of pitch is provided in the chain mortiser for large holes?",
+          "image_url": null,
+          "options": [
+            "13mm",
+            "15mm",
+            "16mm",
+            "22 mm"
+          ],
+          "answer": "22 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 347,
+          "question": "Which part of the spindle sander machine is tilted at 45°?",
+          "image_url": null,
+          "options": [
+            "Base",
+            "Shaft",
+            "Table",
+            "Frame"
+          ],
+          "answer": "Table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "Which wood is avoided in wood turning work?",
+          "image_url": null,
+          "options": [
+            "Seasoned wood",
+            "Straight grain timber",
+            "Uniform texture wood",
+            "Knots and splits wood"
+          ],
+          "answer": "Knots and splits wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "What is the name of part marked as ʺXʺ in safety shoes?",
+          "image_url": null,
+          "options": [
+            "High slip",
+            "Steel toe cap",
+            "Heel",
+            "Steel inner sole"
+          ],
+          "answer": "Steel inner sole",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Modular kitchen",
+      "quizWrap": [
+        {
+          "id": 350,
+          "question": "What is the name of part marked as ʺXʺ?",
+          "image_url": null,
+          "options": [
+            "LED light",
+            "Side handle",
+            "D - Handle",
+            "Multi - functional selector"
+          ],
+          "answer": "Multi - functional selector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "What is the advantages of modular kitchen layout?",
+          "image_url": null,
+          "options": [
+            "Saves money",
+            "Easy Calculation of weight in cabinet",
+            "Easy Calculation of moisture content",
+            "Minimise the defection in cabinet"
+          ],
+          "answer": "Saves money",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "What is the name of hardware?",
+          "image_url": null,
+          "options": [
+            "Basket",
+            "Tall unit",
+            "Cutlery organise",
+            "Under - sink unit"
+          ],
+          "answer": "Basket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 353,
+          "question": "Why the painted finish used in modular kitchen cabinet?",
+          "image_url": null,
+          "options": [
+            "To reduce friction",
+            "To preserve the moisture of the wood",
+            "To reduce the price",
+            "Conceals all the Defects seen in wood grain"
+          ],
+          "answer": "Conceals all the Defects seen in wood grain",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 354,
+          "question": "Why maple wood is best for making modular kitchen cabinets?",
+          "image_url": null,
+          "options": [
+            "Beautiful grain",
+            "Cross grain",
+            "Diagonal grain",
+            "Inter lock grain"
+          ],
+          "answer": "Beautiful grain",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 355,
+          "question": "Which type of sun mica used for contemporary look in kitchen?",
+          "image_url": null,
+          "options": [
+            "Brown and black",
+            "Pink and white",
+            "White and red",
+            "Green and brown"
+          ],
+          "answer": "Green and brown",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 356,
+          "question": "Why the cabinet drawers mounted on a sliding rail?",
+          "image_url": null,
+          "options": [
+            "Reducing friction",
+            "Security purpose",
+            "Installation very easy",
+            "Good appearance"
+          ],
+          "answer": "Reducing friction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 357,
+          "question": "Which drill bit is not used for normal construction work?",
+          "image_url": null,
+          "options": [
+            "Counter sink bit",
+            "Screw driver bit",
+            "Boring tool bit",
+            "Hammer drill bit"
+          ],
+          "answer": "Hammer drill bit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 358,
+          "question": "What is the name of part marked as ʺXʺ?",
+          "image_url": null,
+          "options": [
+            "Tip",
+            "Blade",
+            "Handle",
+            "Ferrule"
+          ],
+          "answer": "Tip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 359,
+          "question": "What is the name of part marked as ʺXʺ in kitchen hardware?",
+          "image_url": null,
+          "options": [
+            "Kitchen mid way aluminium track",
+            "Kitchen mid way label rack",
+            "Kitchen mid way shelf",
+            "Kitchen miss way towel rack"
+          ],
+          "answer": "Kitchen mid way shelf",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 360,
+          "question": "Which modular kitchen material is extremely durable and easier to work?",
+          "image_url": null,
+          "options": [
+            "Chip board",
+            "Solid wood",
+            "Thin sheet wood",
+            "Boiling water proof plywood"
+          ],
+          "answer": "Boiling water proof plywood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 361,
+          "question": "Which type of drill bit used to drill hole in concrete?",
+          "image_url": null,
+          "options": [
+            "Expansion bit",
+            "Counter sink bit",
+            "Screw driver bit",
+            "Hammer drill bit"
+          ],
+          "answer": "Hammer drill bit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 362,
+          "question": "What is the merit of the acrylic finish in kitchen cabinets?",
+          "image_url": null,
+          "options": [
+            "Cover the cracks and splits",
+            "Simple to clean",
+            "Natural wood appearance",
+            "High gloss appearance"
+          ],
+          "answer": "High gloss appearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 363,
+          "question": "Why oak wood is used in kitchen cabinets?",
+          "image_url": null,
+          "options": [
+            "More flexible",
+            "Soft and light",
+            "More moisture content",
+            "Fairly cheap and durable"
+          ],
+          "answer": "Fairly cheap and durable",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 364,
+          "question": "What is the use of bottle pulls out in modular kitchen?",
+          "image_url": null,
+          "options": [
+            "Storing cup and saucer",
+            "Storing smaller items like forks, key",
+            "Use for deep and shallow storage",
+            "Storing cooking essentials"
+          ],
+          "answer": "Storing cooking essentials",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 365,
+          "question": "Which wood is easy to work for kitchen cabinets?",
+          "image_url": null,
+          "options": [
+            "Pine",
+            "Sal",
+            "Babul",
+            "Mango"
+          ],
+          "answer": "Pine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 366,
+          "question": "What is the use of portable power hammer drill machine?",
+          "image_url": null,
+          "options": [
+            "Used for loosen screws",
+            "Used for mirrors hole",
+            "Used for glass hole",
+            "Used for concrete hole"
+          ],
+          "answer": "Used for concrete hole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 367,
+          "question": "What is the cutting thickness of diamond tipped glass cutter?",
+          "image_url": null,
+          "options": [
+            "3 - 10 mm",
+            "12 - 15 mm",
+            "15 - 20 mm",
+            "20 - 25 mm"
+          ],
+          "answer": "3 - 10 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 368,
+          "question": "What is the characteristics of high density fibre board?",
+          "image_url": null,
+          "options": [
+            "Very expensive",
+            "In consistent grains",
+            "Too much moisture",
+            "Easy to cut board, durability and affordability"
+          ],
+          "answer": "Easy to cut board, durability and affordability",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 369,
+          "question": "What is the use of suspension rail hardware?",
+          "image_url": null,
+          "options": [
+            "Good appearance",
+            "Reducing the friction",
+            "Fix the partition",
+            "Easy to mount of wall cabinets"
+          ],
+          "answer": "Easy to mount of wall cabinets",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 370,
+          "question": "What is the effect of colour combination of bright yellow and white sun mica in modular kitchen?",
+          "image_url": null,
+          "options": [
+            "Kitchen look fresh",
+            "Prevent them rusting",
+            "Uniform colour",
+            "Provide more light"
+          ],
+          "answer": "Kitchen look fresh",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 371,
+          "question": "What is the name of modular kitchen hardware?",
+          "image_url": null,
+          "options": [
+            "Tall unit",
+            "Basket",
+            "Handle",
+            "Cutlery organise"
+          ],
+          "answer": "Cutlery organise",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 372,
+          "question": "What is the composition of mixing resins with layers of paper?",
+          "image_url": null,
+          "options": [
+            "Paint",
+            "Veneer",
+            "Plywood",
+            "Sun mica"
+          ],
+          "answer": "Sun mica",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 373,
+          "question": "Which type of modular kitchen material is easier to work?",
+          "image_url": null,
+          "options": [
+            "Plywood",
+            "Solid wood",
+            "Medium density fibre board",
+            "Stainless steel"
+          ],
+          "answer": "Plywood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 374,
+          "question": "Which modular kitchen material is eases to clean?",
+          "image_url": null,
+          "options": [
+            "Solid wood",
+            "Stainless steel",
+            "Boiling water plywood",
+            "Density fibre board"
+          ],
+          "answer": "Stainless steel",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Basic fitting and Modular furniture",
+      "quizWrap": [
+        {
+          "id": 375,
+          "question": "What is the name of tool?",
+          "image_url": null,
+          "options": [
+            "Punch",
+            "Scriber",
+            "Divider",
+            "Surface gauge"
+          ],
+          "answer": "Scriber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 376,
+          "question": "What is the advantage of modular furniture layout?",
+          "image_url": null,
+          "options": [
+            "Save the time",
+            "Decide type of allowances",
+            "Calculation of moisture",
+            "Calculation of wages"
+          ],
+          "answer": "Save the time",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 377,
+          "question": "What is the part marked as ‘x’ in dies?",
+          "image_url": null,
+          "options": [
+            "Side screw",
+            "Centre screw",
+            "Leading sides",
+            "Button pattern stock"
+          ],
+          "answer": "Button pattern stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 378,
+          "question": "Which device is used to cut external threads on cylindrical work pieces?",
+          "image_url": null,
+          "options": [
+            "Dies",
+            "Taps",
+            "Counter boring",
+            "Counter sinking"
+          ],
+          "answer": "Dies",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 379,
+          "question": "Which type of tool is used for scribing circles and arcs?",
+          "image_url": null,
+          "options": [
+            "Divider",
+            "Scriber",
+            "Marking pin",
+            "Marking knife"
+          ],
+          "answer": "Divider",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 380,
+          "question": "What is the name of bolt?",
+          "image_url": null,
+          "options": [
+            "Hook bolt",
+            "T- head bolt",
+            "Counter sunk head bolt",
+            "Eye bolt"
+          ],
+          "answer": "T- head bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 381,
+          "question": "What is the reason of black and white sun mica combination suitable in TV cabinet and wall?",
+          "image_url": null,
+          "options": [
+            "Natural feel",
+            "Smooth finish",
+            "Defects cannot be seen in wall",
+            "To elevate the aesthetic appeal"
+          ],
+          "answer": "To elevate the aesthetic appeal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 382,
+          "question": "What is the name of fitting?",
+          "image_url": null,
+          "options": [
+            "Metal ring",
+            "ʺLʺ bracket fitting",
+            "Glass corner fitting",
+            "Glass fitting bracket"
+          ],
+          "answer": "Glass fitting bracket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 383,
+          "question": "How the scriber point sharpness is maintained?",
+          "image_url": null,
+          "options": [
+            "By grinding",
+            "By Scrapping",
+            "By filing",
+            "By honning"
+          ],
+          "answer": "By honning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 384,
+          "question": "Which device is used to hold work for filing?",
+          "image_url": null,
+          "options": [
+            "Bench vice",
+            "Pin vice",
+            "Pipe vice",
+            "Tool makerʹs vice"
+          ],
+          "answer": "Bench vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 385,
+          "question": "Which sun mica shades is used for master bedroom?",
+          "image_url": null,
+          "options": [
+            "Peach",
+            "Black",
+            "Brown",
+            "Blue"
+          ],
+          "answer": "Peach",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 386,
+          "question": "Which modular kitchen accessory used to store kitchen cleaning supplies?",
+          "image_url": null,
+          "options": [
+            "Corner solutions",
+            "Kitchen Basket",
+            "Mid way system",
+            "Under sink units"
+          ],
+          "answer": "Under sink units",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 387,
+          "question": "What is the name of accessories?",
+          "image_url": null,
+          "options": [
+            "Metal leg",
+            "Metal push",
+            "Metal ring",
+            "Metal catch"
+          ],
+          "answer": "Metal leg",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 388,
+          "question": "Which material can be cut into different shapes easily?",
+          "image_url": null,
+          "options": [
+            "Plywood",
+            "Mild steel",
+            "Stainless steel",
+            "Solid wood"
+          ],
+          "answer": "Plywood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 389,
+          "question": "What is the part marked as ‘x’ in hack saw?",
+          "image_url": null,
+          "options": [
+            "Frame",
+            "Handle",
+            "Wing nut",
+            "Frame length"
+          ],
+          "answer": "Wing nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 390,
+          "question": "Which material is rich in look used for modular furniture?",
+          "image_url": null,
+          "options": [
+            "Chip board",
+            "Bamboo",
+            "Babul wood",
+            "Mango tree"
+          ],
+          "answer": "Chip board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 391,
+          "question": "What is the reason of using frameless hinge in the cabinet door installation?",
+          "image_url": null,
+          "options": [
+            "Security reasons",
+            "Good appearance",
+            "Very easy to open and close",
+            "Very easily adjust align and level the cabinet door"
+          ],
+          "answer": "Very easily adjust align and level the cabinet door",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 392,
+          "question": "What is the name of tool?",
+          "image_url": null,
+          "options": [
+            "Spot facing",
+            "Counter sinking",
+            "Counter bore",
+            "Dies"
+          ],
+          "answer": "Counter bore",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 393,
+          "question": "What is the merit of metal furniture leg?",
+          "image_url": null,
+          "options": [
+            "Economical",
+            "More durable",
+            "Light weight",
+            "Good appearance"
+          ],
+          "answer": "Good appearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 394,
+          "question": "What is the name of bit?",
+          "image_url": null,
+          "options": [
+            "Nail bit",
+            "Boring bit",
+            "Hammer drill bit",
+            "Screw driver bit"
+          ],
+          "answer": "Screw driver bit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 395,
+          "question": "What is the purpose of tap?",
+          "image_url": null,
+          "options": [
+            "Cutting internal threads",
+            "Used for internal boring",
+            "Cutting external threads",
+            "Used for counter sinking"
+          ],
+          "answer": "Cutting internal threads",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 396,
+          "question": "What is the application of bench vice?",
+          "image_url": null,
+          "options": [
+            "Hold the drill bit",
+            "Support the reading",
+            "Support the marking",
+            "Holding the work piece"
+          ],
+          "answer": "Holding the work piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 397,
+          "question": "Which is the used to protect the filed surface from damage?",
+          "image_url": null,
+          "options": [
+            "Vice clamps",
+            "Guard",
+            "Tool rest",
+            "Chip guard"
+          ],
+          "answer": "Vice clamps",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 398,
+          "question": "What is the part marked as ‘x’ in drill bit?",
+          "image_url": null,
+          "options": [
+            "Point angle",
+            "Rake angle",
+            "Chisel angle",
+            "Clearance angle"
+          ],
+          "answer": "Rake angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 399,
+          "question": "Which tool is used to check the squareness of machined and filed surface?",
+          "image_url": null,
+          "options": [
+            "“T” square",
+            "Try square",
+            "Bevel square",
+            "Metre square"
+          ],
+          "answer": "Try square",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Building construction - Wood and Aluminium",
+      "quizWrap": [
+        {
+          "id": 400,
+          "question": "Which door is strong, good appearance and reduces the tendency of shrinkage?",
+          "image_url": null,
+          "options": [
+            "Ledged door",
+            "Ledged and braced door",
+            "Ledged and framed door",
+            "Framed and panelled door"
+          ],
+          "answer": "Framed and panelled door",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 401,
+          "question": "What is the purpose of window in building construction?",
+          "image_url": null,
+          "options": [
+            "Support the building",
+            "Support the surface wall",
+            "Temperature drop",
+            "Light and air through the room"
+          ],
+          "answer": "Light and air through the room",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 402,
+          "question": "Which door is provided if the additional light required to receive through it for the room?",
+          "image_url": null,
+          "options": [
+            "Panel door",
+            "Ledged door",
+            "Glazed door",
+            "Flush door"
+          ],
+          "answer": "Glazed door",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 403,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Hip",
+            "Valley",
+            "Ridge",
+            "Hipped end"
+          ],
+          "answer": "Ridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 404,
+          "question": "What is the name of the window marked as ʺXʺ?",
+          "image_url": null,
+          "options": [
+            "Gable window",
+            "Skylight window",
+            "Dormer window",
+            "Bay window"
+          ],
+          "answer": "Dormer window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 405,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Head",
+            "Top ledged",
+            "Brace",
+            "Middle ledge"
+          ],
+          "answer": "Brace",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 406,
+          "question": "What is the merit of bay window?",
+          "image_url": null,
+          "options": [
+            "Low maintenance",
+            "Clean easily",
+            "Improve the building size",
+            "Improve the building appearance"
+          ],
+          "answer": "Improve the building appearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 407,
+          "question": "What is the edge of roof running between the eaves and the ridge?",
+          "image_url": null,
+          "options": [
+            "Verge",
+            "Cleat",
+            "Template",
+            "Purlin"
+          ],
+          "answer": "Verge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 408,
+          "question": "What is the name of window?",
+          "image_url": null,
+          "options": [
+            "Corner window",
+            "Cable window",
+            "Dormer window",
+            "Sky light window"
+          ],
+          "answer": "Corner window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 409,
+          "question": "Which window is provided on sloping roof of building?",
+          "image_url": null,
+          "options": [
+            "Corner window",
+            "Dormer window",
+            "Double hung window",
+            "Clare storey window"
+          ],
+          "answer": "Dormer window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 410,
+          "question": "What is the name of part in aluminium partition?",
+          "image_url": null,
+          "options": [
+            "Vʹ channel",
+            "Uʹ channel",
+            "Cʹ channel",
+            "Rubber packing"
+          ],
+          "answer": "Rubber packing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 411,
+          "question": "Which roof is used for sheds, out house of building and veranda?",
+          "image_url": null,
+          "options": [
+            "Couple roof",
+            "Collar beam roof",
+            "Couple close roof",
+            "Lean - to - roof"
+          ],
+          "answer": "Lean - to - roof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 412,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Corbel",
+            "Batten",
+            "Root covering",
+            "Wall plate"
+          ],
+          "answer": "Corbel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 413,
+          "question": "What is the span suitable for queen post truss?",
+          "image_url": null,
+          "options": [
+            "3.5 to 4.5 m",
+            "3.5 to 4.75 m",
+            "6.00 to 7.00 m",
+            "8.00 to 12.00 m"
+          ],
+          "answer": "8.00 to 12.00 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 414,
+          "question": "What is the use floor spring (Hydraulically regulated) in aluminium door?",
+          "image_url": null,
+          "options": [
+            "Supported on door",
+            "Secure the upper portion",
+            "Appearance",
+            "Close the door"
+          ],
+          "answer": "Close the door",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 415,
+          "question": "Which is the assembly of two horizontal piece and two vertical piece?",
+          "image_url": null,
+          "options": [
+            "Roof",
+            "Stair",
+            "Truss",
+            "Door frame"
+          ],
+          "answer": "Door frame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 416,
+          "question": "What is the economical span range for the king post?",
+          "image_url": null,
+          "options": [
+            "3 to 4.5 m",
+            "5 to 8 m",
+            "9 to 10 m",
+            "11 to 12 m"
+          ],
+          "answer": "5 to 8 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 417,
+          "question": "What is the merit of fibre glass?",
+          "image_url": null,
+          "options": [
+            "High strength",
+            "Low strength",
+            "High elasticity",
+            "Low elasticity"
+          ],
+          "answer": "High strength",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 418,
+          "question": "What is the size of opening for design action “6ws 12” for window?",
+          "image_url": null,
+          "options": [
+            "600 x 1200",
+            "1200 x 1000",
+            "1200 x 1200",
+            "1000 x 1000"
+          ],
+          "answer": "600 x 1200",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 419,
+          "question": "Which part of the shutter enclosed between the adjacent rails?",
+          "image_url": null,
+          "options": [
+            "Sash",
+            "Panel",
+            "Mullion",
+            "Transom"
+          ],
+          "answer": "Panel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 420,
+          "question": "What is the name of window?",
+          "image_url": null,
+          "options": [
+            "Pivoted window",
+            "Clare storey window",
+            "Sliding window",
+            "Sash window"
+          ],
+          "answer": "Clare storey window",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 421,
+          "question": "What is the benefit of fibre glass?",
+          "image_url": null,
+          "options": [
+            "Excellent insulator",
+            "Good appearance",
+            "High weight",
+            "High holding power"
+          ],
+          "answer": "Excellent insulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 422,
+          "question": "Which device is used to secure the upper portion in aluminium door?",
+          "image_url": null,
+          "options": [
+            "Shoe",
+            "Sash",
+            "Top centre pivot",
+            "Floor spring"
+          ],
+          "answer": "Top centre pivot",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 423,
+          "question": "Which devices is used for window frame fixed to the building wall?",
+          "image_url": null,
+          "options": [
+            "Hold fast",
+            "Wooden dowel",
+            "Wooden pegs",
+            "Screw"
+          ],
+          "answer": "Hold fast",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 424,
+          "question": "What is the part marked as ʺXʺ in aluminium partition?",
+          "image_url": null,
+          "options": [
+            "Glass",
+            "Rubber packing",
+            "Glazing clips",
+            "Single partition"
+          ],
+          "answer": "Glazing clips",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Building construction - PVC and Paint",
+      "quizWrap": [
+        {
+          "id": 425,
+          "question": "Why the turpentine to be added with paint?",
+          "image_url": null,
+          "options": [
+            "To upgrade",
+            "Increase the colour",
+            "To give good finish",
+            "Brush will move smoothly"
+          ],
+          "answer": "Brush will move smoothly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 426,
+          "question": "What is the reason for new style framing work used with PVC?",
+          "image_url": null,
+          "options": [
+            "Increase the volume",
+            "Increase the weight",
+            "Fit for receiving treatment of paint",
+            "Good appearance"
+          ],
+          "answer": "Good appearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 427,
+          "question": "What is the advantage of P.V.C door?",
+          "image_url": null,
+          "options": [
+            "Durable and sturdy",
+            "Strength and hardness",
+            "Manufacture very large size",
+            "Minimum warp and bend"
+          ],
+          "answer": "Durable and sturdy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 428,
+          "question": "What is the name of part marked as ‘X’ in triple joist wooden floor?",
+          "image_url": null,
+          "options": [
+            "Strutting",
+            "Furring piece",
+            "Air space",
+            "Binders"
+          ],
+          "answer": "Furring piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 429,
+          "question": "What is the disadvantage of P.V.C?",
+          "image_url": null,
+          "options": [
+            "More weight",
+            "High cost",
+            "Minimum moisture content",
+            "Avoid installation in high temperature"
+          ],
+          "answer": "Avoid installation in high temperature",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 430,
+          "question": "What is the part used in PVC shutter door?",
+          "image_url": null,
+          "options": [
+            "Galvanised tie bar",
+            "Protection bar",
+            "Safety bar",
+            "M.S bar"
+          ],
+          "answer": "Galvanised tie bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 431,
+          "question": "What is the name of operation?",
+          "image_url": null,
+          "options": [
+            "Removing old paint",
+            "Sharpening of chisel",
+            "Scarping",
+            "Sanding"
+          ],
+          "answer": "Removing old paint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 432,
+          "question": "Which building construction material is very light in weight?",
+          "image_url": null,
+          "options": [
+            "Iron",
+            "Concrete",
+            "PVC",
+            "Aluminium"
+          ],
+          "answer": "PVC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 433,
+          "question": "What is the name of nail?",
+          "image_url": null,
+          "options": [
+            "Staples",
+            "Wire nail",
+            "Rooting nail",
+            "Lost head nail"
+          ],
+          "answer": "Staples",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 434,
+          "question": "How many minutes is allowed to dry the first coat of paint remover?",
+          "image_url": null,
+          "options": [
+            "20 Minutes",
+            "40 Minutes",
+            "50 Minutes",
+            "60 Minutes"
+          ],
+          "answer": "20 Minutes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 435,
+          "question": "Why the masonry nails is made from hardened steel?",
+          "image_url": null,
+          "options": [
+            "Good appearance",
+            "Resist corrosion of nail",
+            "Prevent from crack",
+            "Prevent from bending"
+          ],
+          "answer": "Prevent from bending",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 436,
+          "question": "Why the bridging joists used in wooden floor?",
+          "image_url": null,
+          "options": [
+            "Support the binders",
+            "Support the girders",
+            "Support the fillet",
+            "Support the flooring boards"
+          ],
+          "answer": "Support the flooring boards",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 437,
+          "question": "Why wood is replaced by PVC in construction sector?",
+          "image_url": null,
+          "options": [
+            "Improve the working quality",
+            "More rusting power",
+            "Required more time",
+            "Easy to replace"
+          ],
+          "answer": "Easy to replace",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 438,
+          "question": "What is the name of nail?",
+          "image_url": null,
+          "options": [
+            "Box nail",
+            "Finish nail",
+            "Casing nail",
+            "Concrete nail"
+          ],
+          "answer": "Concrete nail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 439,
+          "question": "What is the name of the measuring tool?",
+          "image_url": null,
+          "options": [
+            "Laser range meter",
+            "P.C 1000 x Scan system laser",
+            "Rotating laser",
+            "Ferroʹs laser"
+          ],
+          "answer": "Laser range meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 440,
+          "question": "What is the reason to remove the old paint?",
+          "image_url": null,
+          "options": [
+            "Increase the weight",
+            "Reduce the size",
+            "Paint sticks not properly",
+            "Paint may be inferior quality"
+          ],
+          "answer": "Paint may be inferior quality",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 441,
+          "question": "Why the fillets are placed along the binders in the wooden floor?",
+          "image_url": null,
+          "options": [
+            "Support the bridging joist",
+            "Support the flooring boards",
+            "Support binders",
+            "Support the girders"
+          ],
+          "answer": "Support the bridging joist",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 442,
+          "question": "What is the width of brush used in enamel painting work?",
+          "image_url": null,
+          "options": [
+            "1 - 2 cm",
+            "2 - 3 cm",
+            "3 - 4 cm",
+            "5 - 10 cm"
+          ],
+          "answer": "5 - 10 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 443,
+          "question": "Which provides flat level surface to support the building furniture and partition?",
+          "image_url": null,
+          "options": [
+            "PVC floor",
+            "Aluminium floor",
+            "Asbestos floor",
+            "Wooden floor"
+          ],
+          "answer": "Wooden floor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 444,
+          "question": "What is the easy method to assemble P.V.C door?",
+          "image_url": null,
+          "options": [
+            "Minimum shrinkage",
+            "Minimum warping",
+            "Uniform texture",
+            "Cut and joining quickly"
+          ],
+          "answer": "Cut and joining quickly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 445,
+          "question": "What is the name of floor?",
+          "image_url": null,
+          "options": [
+            "Basement floor",
+            "Single joist floor",
+            "Double joist floor",
+            "Triple joist floor"
+          ],
+          "answer": "Basement floor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 446,
+          "question": "What is the movement of brush for the primer first coat?",
+          "image_url": null,
+          "options": [
+            "Crossing motion",
+            "From the straight",
+            "Along the grain",
+            "Vertical motion"
+          ],
+          "answer": "Crossing motion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 447,
+          "question": "What is the name of part marked as ʺXʺ in wooden stair case?",
+          "image_url": null,
+          "options": [
+            "Newel post",
+            "Baluster",
+            "Hand rail",
+            "String"
+          ],
+          "answer": "Hand rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 448,
+          "question": "Which material is used to remove old paint?",
+          "image_url": null,
+          "options": [
+            "Caustic soda / washing soda",
+            "Spirit and shellac",
+            "Olive oil and neats foot oil",
+            "Creosote oil"
+          ],
+          "answer": "Caustic soda / washing soda",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 449,
+          "question": "Which construction material is used as alternative replacement of wood?",
+          "image_url": null,
+          "options": [
+            "PVC",
+            "Iron",
+            "Asbestos",
+            "Mica"
+          ],
+          "answer": "PVC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 450,
+          "question": "What is the name of bolt?",
+          "image_url": null,
+          "options": [
+            "Machine bolt",
+            "Carriage bolt",
+            "Round headed bolt",
+            "Square headed bolt"
+          ],
+          "answer": "Carriage bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 451,
+          "question": "What is the disadvantage of PVC moulding?",
+          "image_url": null,
+          "options": [
+            "Decrease the strength at high temperature",
+            "Reduce the weight at high temperature",
+            "Decrease the size at high temperature",
+            "Easily cracked at high temperature"
+          ],
+          "answer": "Easily cracked at high temperature",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 452,
+          "question": "Why quality inspection required for product material?",
+          "image_url": null,
+          "options": [
+            "To determine strength and durability",
+            "Determine the size and shape",
+            "Determine the colour and smell",
+            "Determine the weight and grain"
+          ],
+          "answer": "To determine strength and durability",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 453,
+          "question": "What is the use of wooden floor?",
+          "image_url": null,
+          "options": [
+            "Used for party hall",
+            "Used for marriage hall",
+            "Used for dining hall",
+            "Used for dancing hall"
+          ],
+          "answer": "Used for dancing hall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 454,
+          "question": "Which is used in residential construction?",
+          "image_url": null,
+          "options": [
+            "Anchor",
+            "Wall strap",
+            "Wall plate",
+            "Wall bracket"
+          ],
+          "answer": "Wall bracket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 455,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Wall plate",
+            "Wedges",
+            "Airspace",
+            "Herring bone strutting"
+          ],
+          "answer": "Herring bone strutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 456,
+          "question": "What is the purpose of using primer before painting?",
+          "image_url": null,
+          "options": [
+            "Save time",
+            "Save manpower",
+            "Improve adhesive function",
+            "Improve out look"
+          ],
+          "answer": "Improve adhesive function",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 457,
+          "question": "What is the advantage of primer on new surface before painting?",
+          "image_url": null,
+          "options": [
+            "Strong and elastic foundation",
+            "Good appearance",
+            "Water proof",
+            "Fire proof"
+          ],
+          "answer": "Strong and elastic foundation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 458,
+          "question": "Which type of construction material is preventing decay of white ants?",
+          "image_url": null,
+          "options": [
+            "PVC",
+            "Soft wood",
+            "Plywood",
+            "Hard board"
+          ],
+          "answer": "PVC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 459,
+          "question": "What is the advantage of priming?",
+          "image_url": null,
+          "options": [
+            "Glossy finish",
+            "Method very cheap",
+            "Very quick method",
+            "Increase paint durability"
+          ],
+          "answer": "Increase paint durability",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 460,
+          "question": "What is the necessary of repairing work?",
+          "image_url": null,
+          "options": [
+            "Improve the strength",
+            "Maintain the size and shape",
+            "Avoid shrink and warp",
+            "Protect the element"
+          ],
+          "answer": "Protect the element",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 461,
+          "question": "Which primer is suitable for wood before painting?",
+          "image_url": null,
+          "options": [
+            "White primer",
+            "Red oxide primer",
+            "Etch primer",
+            "Oil based primer"
+          ],
+          "answer": "White primer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 462,
+          "question": "What is the name of laser measuring tool?",
+          "image_url": null,
+          "options": [
+            "Rotating laser : PR 30 Hvs",
+            "P.S 250 ferroscan system",
+            "P.C 1000 x Scan system",
+            "Laser range meter PD.E"
+          ],
+          "answer": "P.C 1000 x Scan system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 463,
+          "question": "Which nail is used in masonry work?",
+          "image_url": null,
+          "options": [
+            "Panel nail",
+            "Concrete nail",
+            "Lost head nail",
+            "Wire nail with small heads"
+          ],
+          "answer": "Concrete nail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 464,
+          "question": "What is the name of part marked as ʺXʺ?",
+          "image_url": null,
+          "options": [
+            "Horn",
+            "Hold fast",
+            "Stile",
+            "Protection bar"
+          ],
+          "answer": "Protection bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 465,
+          "question": "What is the reason for wood replaced with PVC?",
+          "image_url": null,
+          "options": [
+            "Water proof properties",
+            "Fire proof properties",
+            "Weight is high",
+            "High density"
+          ],
+          "answer": "Water proof properties",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 466,
+          "question": "Which method is applied after scarping and removing old paint?",
+          "image_url": null,
+          "options": [
+            "Marking",
+            "Sawing",
+            "Sanding",
+            "Painting"
+          ],
+          "answer": "Sanding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 467,
+          "question": "What is the name of the measuring tool?",
+          "image_url": null,
+          "options": [
+            "Rotating laser : PR 30 Hvs",
+            "Rotating laser : PR 2 Hs",
+            "P.S 250 ferroscan system",
+            "P.C 1000 x Scan system"
+          ],
+          "answer": "Rotating laser : PR 30 Hvs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 468,
+          "question": "What is the use of hilti laser range meter?",
+          "image_url": null,
+          "options": [
+            "Measuring for angle",
+            "Check the horizontal",
+            "Accurate thickness measuring",
+            "Quick and accurate up to 200m distance measuring"
+          ],
+          "answer": "Quick and accurate up to 200m distance measuring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 469,
+          "question": "What is the reason for repainting an old furniture?",
+          "image_url": null,
+          "options": [
+            "Surface became uneven",
+            "Paint becomes weak",
+            "Life of paint",
+            "To improve the appearance"
+          ],
+          "answer": "To improve the appearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 470,
+          "question": "Which modern technology is used in PVC moulding?",
+          "image_url": null,
+          "options": [
+            "Improve the weight",
+            "Receiving power",
+            "Improve the working qualities",
+            "100% water proof"
+          ],
+          "answer": "100% water proof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 471,
+          "question": "What is the advantage of latex paint?",
+          "image_url": null,
+          "options": [
+            "More cost",
+            "It is very bright",
+            "Given long life",
+            "Blocks most stains"
+          ],
+          "answer": "Blocks most stains",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 472,
+          "question": "What is the span for provision of herring bone strutting in single joist timber floor?",
+          "image_url": null,
+          "options": [
+            "1.00 m",
+            "1.50m",
+            "2.00 m",
+            "2.50 m"
+          ],
+          "answer": "2.50 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 473,
+          "question": "What is the advantage of using PVC in construction sector?",
+          "image_url": null,
+          "options": [
+            "Low cost",
+            "Very hard",
+            "High elasticity",
+            "Fire resistance"
+          ],
+          "answer": "Low cost",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 474,
+          "question": "Which method is applied first for removing old paint?",
+          "image_url": null,
+          "options": [
+            "Scraping",
+            "Sanding",
+            "Chiselling",
+            "Painting"
+          ],
+          "answer": "Scraping",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

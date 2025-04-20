@@ -1,0 +1,4999 @@
+[
+    {
+      "module": "Safety Practices and Hand Tools",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "Which is the waste disposal method that produces heat?",
+          "image_url": null,
+          "options": [
+            "Recycling",
+            "Composting",
+            "Incineration",
+            "Waste compaction"
+          ],
+          "answer": "Incineration",
+          "explanation": "One method of waste disposal is incineration, in which waste materials are burned in a controlled manner to produce ash and waste gas.  Through incineration the amount of waste can be reduced by up to 90%. ",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "What is the back ground colour of warning signs in the basic category?",
+          "image_url": null,
+          "options": [
+            "Blue",
+            "White",
+            "Yellow",
+            "Green"
+          ],
+          "answer": "Yellow",
+          "explanation": "Caution signs, i.e. warning signs, are usually yellow in color and have a black symbol or word written on them. These signs warn us about some potential danger.",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the name of the safety sign?",
+          "image_url": null,
+          "options": [
+            "Warning sign",
+            "Mandatory sign",
+            "Prohibition sign",
+            "Information sign"
+          ],
+          "answer": "Information sign",
+          "explanation": "This safety symbol is a first aid symbol. Which comes in the list of informative signs. This symbol gives information about first aid box or first aid equipment. If you get an injury you should look for this symbol.",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which type of fire extinguisher is used for fire on electrical equipment?",
+          "image_url": null,
+          "options": [
+            "Halon type",
+            "Foam type",
+            "Gas cartridge type",
+            "Stored pressure type"
+          ],
+          "answer": "Halon type",
+          "explanation": "Halon fire extinguishers are a type of fire extinguisher that uses halon gas. Halon gas is a bad conductor of electricity. When you spray it on an electrical appliance, it does not allow the electric current to flow hence there is no risk of short circuit.",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "What is smothering in extinguishing of fire?",
+          "image_url": null,
+          "options": [
+            "Adding the fuel element to the fire",
+            "Removing the fuel element from the fire",
+            "Using of water to lower the temperature",
+            "Isolating the fire from the supply of oxygen"
+          ],
+          "answer": "Isolating the fire from the supply of oxygen",
+          "explanation": "Fire requires three main elements to burn – fuel, temperature and oxygen. Removing any one of these three extinguishes the fire. Isolating a fire from the oxygen supply is called smothering.",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "What is the use of pincer?",
+          "image_url": null,
+          "options": [
+            "Twisting the flexible wires",
+            "Cutting small diameter of wires",
+            "Extracting the pin nails from the wood",
+            "Holding small objects, where finger cannot reach"
+          ],
+          "answer": "Extracting the pin nails from the wood",
+          "explanation": "Pincers are a versatile tool that is very useful in removing pins and nails from wood. This tool not only saves time but also makes the work easier.",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "How will you diagnose the victim is suffering under cardiac arrest?",
+          "image_url": null,
+          "options": [
+            "Gets pain in spinal guard",
+            "Mouth will be closed tightly",
+            "Heavy swelling on his stomach",
+            "Appears blue colour around his lips"
+          ],
+          "answer": "Appears blue colour around his lips",
+          "explanation": "When a heart attack occurs, the heart does not get adequate supply of blood. This reduces the flow of oxygen to various parts of the body. When there is lack of oxygen, hemoglobin (the protein that gives red color to blood) in the body turns blue. This blue color is especially visible in areas where blood vessels are close to the skin, such as the lips, fingers and toes.",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
+          "image_url": null,
+          "options": [
+            "Schafer’s method",
+            "Mouth to mouth method",
+            "Mouth to nose method",
+            "Nelson’s arm-lift back pressure method"
+          ],
+          "answer": "Nelson’s arm-lift back pressure method",
+          "explanation": "Nelson's arm up and back pressure artificial respiration method appears to be a technique in which a person is helped to breathe artificially by applying controlled pressure to the chest.",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "What is the name of the cautionary sign?",
+          "image_url": null,
+          "options": [
+            "School",
+            "Guarded",
+            "Unguarded",
+            "Pedestrian crossing"
+          ],
+          "answer": "Pedestrian crossing",
+          "explanation": "A pedestrian crossing alert sign is a traffic sign that tells drivers that there is a pedestrian crossing ahead. This sign encourages drivers to be alert and let pedestrians cross the road safely.",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "Which method is used to lift and move heavy loads?",
+          "image_url": null,
+          "options": [
+            "Winches",
+            "Crane and slings",
+            "Layers and Rollers",
+            "Machine moving platforms"
+          ],
+          "answer": "Crane and slings",
+          "explanation": "Cranes and slings are important equipment used in lifting and moving heavy objects. These are widely used in various sectors like construction, industry and transportation.",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What is the name of the drill bit?",
+          "image_url": null,
+          "options": [
+            "Flat drill bit",
+            "Taper shank bit",
+            "Countersink bit",
+            "Straight shank bit"
+          ],
+          "answer": "Taper shank bit",
+          "explanation": "A taper shank bit is a type of drill bit that is designed to be held securely in place in a drilling machine. It differs from other drill bits because of its distinctive conical shape. Because of this conical shape it is called taper shank bit.",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
+          "image_url": null,
+          "options": [
+            "Pull, Aim, Squeeze, Sweep",
+            "Pull, Aim, Sweep, Squeeze",
+            "Push, Arrange, Squeeze, Sweep",
+            "Push, Arrange, Sweep, Sequence"
+          ],
+          "answer": "Pull, Aim, Squeeze, Sweep",
+          "explanation": "The PASS method is used to access the fire extinguisher. The details of PASS are as follows: Pull the pin: Pull the safety pin on the fire extinguisher. Aim at the base of the fire: Aim at the base of the fire. Squeeze the lever: Squeeze the lever. Sweep from side to side: Now move it from one side to the other.",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "Which plier is used for making wire hooks and loops?",
+          "image_url": null,
+          "options": [
+            "Flat nose plier",
+            "Long nose plier",
+            "Round nose plier",
+            "Diagonal cutting plier"
+          ],
+          "answer": "Round nose plier",
+          "explanation": "Round nose pliers have round jaws, making them ideal for bending wires. These can be used to bend wire, make loops, and create other types of shapes.",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Wire stripper",
+            "Crimping tool",
+            "Combination pliers",
+            "Diagonal cutting pliers"
+          ],
+          "answer": "Diagonal cutting pliers",
+          "explanation": "Diagonal cutting pliers have jaws cut obliquely or diagonally, which enables them to cut wires easily and accurately. These are used to cut wires at an angle, providing clean and precise cuts.",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is starving in extinguishing of fire?",
+          "image_url": null,
+          "options": [
+            "Adding fuel to the fire",
+            "Using water to cool the fire",
+            "Removing fuel element from the fire",
+            "Preventing oxygen supply to the fire"
+          ],
+          "answer": "Using water to cool the fire",
+          "explanation": "Fire requires three elements to burn: fuel, oxygen, and temperature. When these three elements are brought together, fire occurs. In starving, we extinguish the fire by removing one of these three elements, i.e. fuel.",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "Which criteria must be satisfied for the quality of PPEʹs?",
+          "image_url": null,
+          "options": [
+            "It can with stand the hazards",
+            "It can be used for long period",
+            "Made by good quality material",
+            "Low cost"
+          ],
+          "answer": "It can with stand the hazards",
+          "explanation": "The materials used in the manufacture of PPE must be strong, durable, and appropriate for the specific hazard. Which can withstand all types of dangers.",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "Which is the golden hour for the victim injured on head with risk of dying?",
+          "image_url": null,
+          "options": [
+            "First 15 minutes",
+            "First 30 minutes",
+            "First 45 minutes",
+            "First 60 minutes"
+          ],
+          "answer": "First 30 minutes",
+          "explanation": "The first 30 minutes are called the golden hour in a head injury. The golden hour refers to the time when therapy given immediately after injury is most effective.",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "Which file is used for sharpening the blunt teeth of a tenon saw?",
+          "image_url": null,
+          "options": [
+            "Square file",
+            "Round file",
+            "Triangular file",
+            "Half round file"
+          ],
+          "answer": "Triangular file",
+          "explanation": "A triangular file is commonly used to sharpen the blunt teeth of a tenon saw. Due to its triangular shape, it is also used for working in small and tight spaces. ",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "What will be first-aid to be given to stop the bleeding of the victim?",
+          "image_url": null,
+          "options": [
+            "Applying ointment",
+            "Keep the injured portion upward",
+            "Covering the wound portion by dressing",
+            "Applying pressure over the injured portion"
+          ],
+          "answer": "Applying pressure over the injured portion",
+          "explanation": "Applying pressure to the injured area is a very effective and primary measure to stop bleeding. When you apply pressure to an injury, it puts pressure on the blood vessels. This causes blood flow to slow down and eventually stop.",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "What is the name of the hammer?",
+          "image_url": null,
+          "options": [
+            "Claw hammer",
+            "Ball pein hammer",
+            "Cross pein hammer",
+            "Straight pein hammer"
+          ],
+          "answer": "Claw hammer",
+          "explanation": "A claw hammer is a tool that is used for woodworking as well as for removing and hammering nails.",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Which is used to measure the size of conductor?",
+          "image_url": null,
+          "options": [
+            "Bevel gauge",
+            "Vernier caliper",
+            "Standard wire gauge",
+            "Depth gauge"
+          ],
+          "answer": "Standard wire gauge",
+          "explanation": "Standard Wire Gauge (SWG) is a measurement system used to measure the diameter of a wire. This tells how thick or thin the wire is. The full form of SWG is Standard Wire Gauge.",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "Which step of the 5s-concept refers “Standardization”?",
+          "image_url": null,
+          "options": [
+            "Step - 1",
+            "Step - 2",
+            "Step - 3",
+            "Step - 4"
+          ],
+          "answer": "Step - 4",
+          "explanation": "Standardization in the 5S concept indicates the fourth step. Standardization is an important step in the 5S-concept that ensures that all employees work in the same way and that products or services are of consistently high quality.",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What is the name of the file?",
+          "image_url": null,
+          "options": [
+            "Rasp cut file",
+            "Single cut file",
+            "Double cut file",
+            "Curved cut file"
+          ],
+          "answer": "Rasp cut file",
+          "explanation": "Rasp cut sander is a special type of sander used for shaping and smoothing wood, plastic and other soft materials. Its specialty is its thick and uneven teeth, which make it different from other types of sand.",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "Which condition of the victim is referred as COMA stage?",
+          "image_url": null,
+          "options": [
+            "Unconscious but can respond to calls",
+            "Conscious but cannot respond to calls",
+            "Breathing but cannot respond to calls",
+            "Lie totally senseless and do not respond to calls"
+          ],
+          "answer": "Lie totally senseless and do not respond to calls",
+          "explanation": "Coma is a medical condition in which a person is completely unconscious and unresponsive to external stimuli. This is a serious condition that is often caused by brain injury, disease, or toxins.",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+          "image_url": null,
+          "options": [
+            "Pull or push him from the contact by hand",
+            "Inform your authority about this electric shock",
+            "Call someone for helping to remove him from contact",
+            "Break the contact by switching OFF the power supply"
+          ],
+          "answer": "Break the contact by switching OFF the power supply",
+          "explanation": "If any person is in contact with an electrical power source. So first and foremost, take care of your safety and switch off the power supply immediately.",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Wire Joints, Soldering and Connecting Cables",
+      "quizWrap": [
+        {
+          "id": 25,
+          "question": "Which metal is used as conductors for wiring?",
+          "image_url": null,
+          "options": [
+            "Mild steel",
+            "Copper",
+            "Silver",
+            "GI"
+          ],
+          "answer": "Copper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "Which type of soldering flux is used for soldering aluminium conductors?",
+          "image_url": null,
+          "options": [
+            "Tallow",
+            "Ker-al-lite",
+            "Zinc chloride",
+            "Sal ammonia rosin"
+          ],
+          "answer": "Ker-al-lite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which type of joint is used in over head lines for high tensile strength?",
+          "image_url": null,
+          "options": [
+            "Scarfed joint",
+            "Britannia ‘T’ joint",
+            "Western union joint",
+            "Britannia straight joint"
+          ],
+          "answer": "Western union joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the advantage of stranded conductor over solid conductor?",
+          "image_url": null,
+          "options": [
+            "Cost is less",
+            "More flexible",
+            "Less voltage drop",
+            "More insulation resistance"
+          ],
+          "answer": "More flexible",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "Name the part marked ‘X’ of belted U.G cable.",
+          "image_url": null,
+          "options": [
+            "Jute filling",
+            "Armouring",
+            "Lead sheath",
+            "Paper insulation"
+          ],
+          "answer": "Lead sheath",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "What is the disadvantage of solid conductor compared to stranded conductor?",
+          "image_url": null,
+          "options": [
+            "Less rigidity",
+            "Less flexibility",
+            "Low melting point",
+            "Low mechanical strength"
+          ],
+          "answer": "Less flexibility",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "Which method of cable laying is suitable for congested areas?",
+          "image_url": null,
+          "options": [
+            "Racks in air",
+            "Duct pipes",
+            "Along buildings",
+            "Direct in ground"
+          ],
+          "answer": "Duct pipes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the rating factor of cable provided with coarse excess current protection?",
+          "image_url": null,
+          "options": [
+            "1.11",
+            "1.23",
+            "0.81",
+            "0.707"
+          ],
+          "answer": "0.81",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "What is the name of the part marked as ‘X’ in the under ground (UG) cable?",
+          "image_url": null,
+          "options": [
+            "Bedding",
+            "Armouring",
+            "Lead sheath",
+            "Paper insulation"
+          ],
+          "answer": "Bedding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "Which is the property of a good conductor?",
+          "image_url": null,
+          "options": [
+            "Low specific resistance",
+            "High dielectric strength",
+            "High specific resistance",
+            "Low mechanical strength"
+          ],
+          "answer": "Low specific resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "What is the advantage of crimping?",
+          "image_url": null,
+          "options": [
+            "Gives neat appearance",
+            "Reduce load current",
+            "Avoid loose connections",
+            "Easy to replace"
+          ],
+          "answer": "Avoid loose connections",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "What is the current rating factor for close excess current protection of cable?",
+          "image_url": null,
+          "options": [
+            "0.81",
+            "0.92",
+            "1.23",
+            "1.5"
+          ],
+          "answer": "1.23",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "Which is the unit of reciprocal of resistance?",
+          "image_url": null,
+          "options": [
+            "Mho (℧)",
+            "Ohm (Ω)",
+            "Volt (V)",
+            "Amper"
+          ],
+          "answer": "Mho (℧)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the fault of U.G cable identified in the circuit?",
+          "image_url": null,
+          "options": [
+            "Ground fault",
+            "Short circuit fault",
+            "Open circuit fault",
+            "Weak insulation fault"
+          ],
+          "answer": "Short circuit fault",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "Which type of soldering flux is used for soldering galvanised iron?",
+          "image_url": null,
+          "options": [
+            "Rosin",
+            "Zinc chloride",
+            "Sal ammonia",
+            "Hydrochloric acid"
+          ],
+          "answer": "Hydrochloric acid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "What is the value of electrical conductivity of aluminium conductor?",
+          "image_url": null,
+          "options": [
+            "61 mho/m",
+            "56 mho/m",
+            "35 mho/m",
+            "28 mho/m"
+          ],
+          "answer": "35 mho/m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is the full form of “XLPE’ Cable?",
+          "image_url": null,
+          "options": [
+            "Cross Line Poly Ethylene",
+            "X’ess Line Phase Earthing",
+            "Cross Linked Poly Ethylene",
+            "Excess Length Paper and Ebonite"
+          ],
+          "answer": "Cross Linked Poly Ethylene",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "What is the formula for Quantity of electricity (Q)?",
+          "image_url": null,
+          "options": [
+            "Current x Time",
+            "Voltage x Current",
+            "Current x Resistance",
+            "Voltage x Resistance"
+          ],
+          "answer": "Current x Time",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the effect of electric current on neon lamp?",
+          "image_url": null,
+          "options": [
+            "Heating effect",
+            "Magnetic effect",
+            "Chemical effect",
+            "Gas ionization effect"
+          ],
+          "answer": "Gas ionization effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "Which is provided above the metallic sheath in UG cable?",
+          "image_url": null,
+          "options": [
+            "Armouring",
+            "Bedding",
+            "Serving",
+            "Paper insulation"
+          ],
+          "answer": "Bedding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "What is the name of the soldering method?",
+          "image_url": null,
+          "options": [
+            "Dip soldering",
+            "Soldering with blow lamp",
+            "Soldering with soldering gun",
+            "Temperature controlled soldering"
+          ],
+          "answer": "Temperature controlled soldering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "What is the cause for cold solder defect in soldering?",
+          "image_url": null,
+          "options": [
+            "Excessive heating",
+            "Insufficient heating",
+            "Incorrect use of solder",
+            "High wattage soldering iron"
+          ],
+          "answer": "Insufficient heating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "How many electrons are there in the valence shell of a copper atom?",
+          "image_url": null,
+          "options": [
+            "1",
+            "2",
+            "8",
+            "18"
+          ],
+          "answer": "1",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the name of the joint?",
+          "image_url": null,
+          "options": [
+            "Married joint",
+            "Scarfed joint",
+            "Western union joint",
+            "Britannia straight joint"
+          ],
+          "answer": "Married joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "What is the unit for Quantity of electricity?",
+          "image_url": null,
+          "options": [
+            "Mho",
+            "Coulomb",
+            "Volt /second",
+            "Ampere/second"
+          ],
+          "answer": "Coulomb",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 50,
+          "question": "Which is the semiconductor material?",
+          "image_url": null,
+          "options": [
+            "Eureka",
+            "Ebonite",
+            "Manganin",
+            "Germanium"
+          ],
+          "answer": "Germanium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Cutting plier",
+            "Wire stripper",
+            "Crimping tool",
+            "Side cutting plier"
+          ],
+          "answer": "Crimping tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "What is the name of the soldering method?",
+          "image_url": null,
+          "options": [
+            "Dip soldering",
+            "Soldering iron",
+            "Soldering gun",
+            "Soldering with flame"
+          ],
+          "answer": "Soldering gun",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "What is the name of the part marked ‘X’ in UG cables?",
+          "image_url": null,
+          "options": [
+            "Serving",
+            "Bedding",
+            "Armouring",
+            "Lead sheath"
+          ],
+          "answer": "Lead sheath",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "What is the purpose of bedding insulation of U.G. cable?",
+          "image_url": null,
+          "options": [
+            "Protect the cable from mechanical injury",
+            "Protect the cable from moisture and gases",
+            "Protect armouring from atmospheric condition",
+            "Protect the metallic sheath against corrosion"
+          ],
+          "answer": "Protect the metallic sheath against corrosion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "What is the current capacity of the 16 Amp. Cable, if it is protected by coarse excess current protection?",
+          "image_url": null,
+          "options": [
+            "11 A",
+            "13 A",
+            "15 A",
+            "18 A"
+          ],
+          "answer": "13 A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the size of neutral conductor compared to phase conductor in U.G cable?",
+          "image_url": null,
+          "options": [
+            "Same size of phase conductor",
+            "Half size of phase conductor",
+            "1/4 size of phase conductor",
+            "1/3 size of phase conductor"
+          ],
+          "answer": "Half size of phase conductor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the effect on molten solder due to repeated melting?",
+          "image_url": null,
+          "options": [
+            "Tin content reduced",
+            "Lead content reduced",
+            "Prevent slug formation",
+            "Uneven flowing in joints"
+          ],
+          "answer": "Tin content reduced",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "Which type of wire joint is found in the junction box?",
+          "image_url": null,
+          "options": [
+            "Aerial tap joint",
+            "Plain tap joint",
+            "Rat tail joint",
+            "Married joint"
+          ],
+          "answer": "Rat tail joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "What is the possible range to measure the size of the wire in a Standard Wire Gauge (SWG)?",
+          "image_url": null,
+          "options": [
+            "0-44",
+            "0-42",
+            "0-38",
+            "0-36"
+          ],
+          "answer": "0-36",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "What is the unit of insulation resistance?",
+          "image_url": null,
+          "options": [
+            "Ohm",
+            "Kilo ohm",
+            "Milli ohm",
+            "Mega ohm"
+          ],
+          "answer": "Mega ohm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "Which formula is used to calculate the power of a DC circuit?",
+          "image_url": null,
+          "options": [
+            "Voltage x time",
+            "Current x voltage",
+            "Current x resistance",
+            "Voltage x resistance"
+          ],
+          "answer": "Current x voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "What is the reading of the micrometer?",
+          "image_url": null,
+          "options": [
+            "5.05 mm",
+            "5.00 mm",
+            "4.55 mm",
+            "4.05 mm"
+          ],
+          "answer": "4.55 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What is the value of current (I) flowing through the circuit?",
+          "image_url": null,
+          "options": [
+            "6 A",
+            "3 A",
+            "2 A",
+            "1 A"
+          ],
+          "answer": "2 A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "What is the use of dipsoldering method?",
+          "image_url": null,
+          "options": [
+            "Soft soldering",
+            "Piping and cable soldering work",
+            "Soldering miniature components on PCB",
+            "Soldering sensitive electric components"
+          ],
+          "answer": "Soldering miniature components on PCB",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "Which type of soldering method is used for servicing and repairing work?",
+          "image_url": null,
+          "options": [
+            "Dip soldering",
+            "Soldering with a flame",
+            "Soldering with soldering gun",
+            "Soldering with a soldering iron"
+          ],
+          "answer": "Soldering with soldering gun",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "Which test is conducted to locate the faults in U.G. cables?",
+          "image_url": null,
+          "options": [
+            "Loop test",
+            "External growler test",
+            "Break down voltage test",
+            "Insulation resistance test"
+          ],
+          "answer": "Loop test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "Why the soldering iron must be kept into a stand that not in use while soldering?",
+          "image_url": null,
+          "options": [
+            "It prevents burns and fire",
+            "To control the excessive heat",
+            "To save the time of soldering process",
+            "To save the operator from electric shock"
+          ],
+          "answer": "It prevents burns and fire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "What is the purpose of ‘serving’ layer in underground cable?",
+          "image_url": null,
+          "options": [
+            "Protect the cable from moisture",
+            "Protect the cable from mechanical injury",
+            "Protect metallic sheath against corrosion",
+            "Protect armouring from atmospheric condition"
+          ],
+          "answer": "Protect armouring from atmospheric condition",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "How many electrons are there in the third cell of the copper atom?",
+          "image_url": null,
+          "options": [
+            "8",
+            "13",
+            "18",
+            "29"
+          ],
+          "answer": "18",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "Which type of joint is used for extending the length of conductor in over head lines?",
+          "image_url": null,
+          "options": [
+            "Scarfed joint",
+            "Aerial tap joint",
+            "Britannia “T” joint",
+            "Western Union joint"
+          ],
+          "answer": "Western Union joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "Which method of soldering is used for quantity production and for tinning work?",
+          "image_url": null,
+          "options": [
+            "Dip soldering",
+            "Soldering with a flame",
+            "Soldering with soldering iron",
+            "Soldering with soldering gun"
+          ],
+          "answer": "Dip soldering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the unit of conductance?",
+          "image_url": null,
+          "options": [
+            "Mho",
+            "Ohm",
+            "Ohm-m",
+            "Ohm/m"
+          ],
+          "answer": "Mho",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "Which type of joint is suitable for more tensile stress?",
+          "image_url": null,
+          "options": [
+            "Scarfed joint",
+            "Britannia T- joint",
+            "Western union joint",
+            "Married joint"
+          ],
+          "answer": "Western union joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What will happen to PVC insulation in cable carries excess current continuously for long period?",
+          "image_url": null,
+          "options": [
+            "Voltage drop increases",
+            "Voltage drop decreases",
+            "Insulation resistance increases",
+            "Insulation resistance decreases"
+          ],
+          "answer": "Insulation resistance decreases",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electrical and Magnetic Circuits",
+      "quizWrap": [
+        {
+          "id": 75,
+          "question": "What is the total inductance if 3 inductors (L₁, L₂ and L₃) are connected in series?",
+          "image_url": null,
+          "options": [
+            "LT = L₁ x L₂ x L₃",
+            "LT = L₁ + L₂ + L₃",
+            "",
+            ""
+          ],
+          "answer": "LT = L₁ + L₂ + L₃",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "Which is the application of series circuit?",
+          "image_url": null,
+          "options": [
+            "Voltmeter connection",
+            "Lighting circuits in home",
+            "Shunt resistor in ammeter",
+            "Multiplier resistor of a voltmeter"
+          ],
+          "answer": "Multiplier resistor of a voltmeter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "What is the formula for the equivalent resistance (RT) of the three resistors R₁, R₂ & R₃ are connected in parallel circuit?",
+          "image_url": null,
+          "options": [
+            "RT = R₁ + R₂ + R₃",
+            "",
+            "",
+            ""
+          ],
+          "answer": "",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the effect on surrounding metal placed in a magnetic field?",
+          "image_url": null,
+          "options": [
+            "Hysteresis",
+            "Skin effect",
+            "Eddy current",
+            "Dielectric stress"
+          ],
+          "answer": "Eddy current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Calculate the resistance value in R3 resistor.",
+          "image_url": null,
+          "options": [
+            "4 Ohm",
+            "6 Ohm",
+            "8 Ohm",
+            "12 Ohm"
+          ],
+          "answer": "12 Ohm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "What indicates the shape of a BH curve (Hysteresis loop) of material?",
+          "image_url": null,
+          "options": [
+            "Reluctance of the material",
+            "Field intensity of the substance",
+            "Magnetic properties of the material",
+            "Pulling power of the magnetic material"
+          ],
+          "answer": "Magnetic properties of the material",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "Which is the cause for changing the permeability?",
+          "image_url": null,
+          "options": [
+            "Length",
+            "Flux density",
+            "Field intensity",
+            "Magneto motive force"
+          ],
+          "answer": "Flux density",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "What precaution to be taken before connecting the different voltage rating capacitors in series?",
+          "image_url": null,
+          "options": [
+            "All the capacitors must be same manufacturer",
+            "Each capacitors voltage drop must be less than its voltage rating",
+            "Total capacitors value must be less than the lowest value of capacitor",
+            "Break down voltage of each capacitor must be same"
+          ],
+          "answer": "Each capacitors voltage drop must be less than its voltage rating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "Which bulb will have lowest resistance?",
+          "image_url": null,
+          "options": [
+            "240 V, 60 W",
+            "240 V, 100 W",
+            "240 V, 200 W",
+            "240 V, 500 W"
+          ],
+          "answer": "240 V, 500 W",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "Which law states that in closed electric circuit, the applied voltage is equal to the sum of the voltage drops?",
+          "image_url": null,
+          "options": [
+            "Ohm’s law",
+            "Laws of resistance",
+            "Kirchhoff’s first law",
+            "Kirchhoff’s second law"
+          ],
+          "answer": "Kirchhoff’s second law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the unit of permeance?",
+          "image_url": null,
+          "options": [
+            "Ampere - turns",
+            "Weber/Ampere turns",
+            "Ampere turns/Weber",
+            "Weber/Square metre"
+          ],
+          "answer": "Weber/Ampere turns",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "What is the value of hot resistance of a bulb rated as 100W/250V?",
+          "image_url": null,
+          "options": [
+            "31.25 ohm",
+            "62.50 ohm",
+            "312.50 ohm",
+            "625.00 ohm"
+          ],
+          "answer": "625.00 ohm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "Calculate the unknown resistance “RDC” in the Wheatstone bridge circuit, if PAB=400 ohms, QBC=200 ohms and SAD=12ohms at balanced condition.",
+          "image_url": null,
+          "options": [
+            "4 Ω",
+            "6 Ω",
+            "8 Ω",
+            "12 Ω"
+          ],
+          "answer": "6 Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "Which is a paramagnetic substance?",
+          "image_url": null,
+          "options": [
+            "Air",
+            "Steel",
+            "Glass",
+            "Water"
+          ],
+          "answer": "Air",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "What is the effect of inductance if the distance between the turns increases?",
+          "image_url": null,
+          "options": [
+            "Increases",
+            "Decreases",
+            "Becomes zero",
+            "Remains same"
+          ],
+          "answer": "Increases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "What formula is used to find Electro Motive Force (EMF)?",
+          "image_url": null,
+          "options": [
+            "EMF = Potential difference – voltage drop",
+            "EMF = Potential difference + voltage drop",
+            "EMF = Potential difference + voltage drop/2",
+            "EMF = Potential difference + 2 x voltage drop"
+          ],
+          "answer": "EMF = Potential difference + voltage drop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "What is the name of the resistor?",
+          "image_url": null,
+          "options": [
+            "Metal film resistor",
+            "Wire wound resistor",
+            "Carbon – film resistor",
+            "Carbon composition resistor"
+          ],
+          "answer": "Wire wound resistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "What is the unit of capacitance?",
+          "image_url": null,
+          "options": [
+            "Mho",
+            "Henry",
+            "Farad",
+            "Coulomb"
+          ],
+          "answer": "Farad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "Which material is having negative temperature co-efficient property?",
+          "image_url": null,
+          "options": [
+            "Mica",
+            "Eureka",
+            "Copper",
+            "Manganin"
+          ],
+          "answer": "Mica",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the effect on opened resistor in series circuit?",
+          "image_url": null,
+          "options": [
+            "No effect in opened resistor",
+            "Full circuit current will flow in opened resistor",
+            "Total supply voltage will appear across the opened resistor",
+            "No voltage will appear across the opened resistor"
+          ],
+          "answer": "Total supply voltage will appear across the opened resistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "Calculate the hot resistance of 200W / 250V rated lamp.",
+          "image_url": null,
+          "options": [
+            "31.25Ω",
+            "62.5Ω",
+            "312.5Ω",
+            "625Ω"
+          ],
+          "answer": "312.5Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "Which electrical quantity affects the heat generated in a conductor?",
+          "image_url": null,
+          "options": [
+            "Voltage",
+            "Square of the current",
+            "Square of the resistance",
+            "Current passed through it"
+          ],
+          "answer": "Square of the current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "Which electrical quantity is directly proportional to the eddy current?",
+          "image_url": null,
+          "options": [
+            "Voltage",
+            "Current",
+            "Frequency",
+            "Resistance"
+          ],
+          "answer": "Frequency",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "What will happen, if the polarized electrolytic capacitor is reversely connected?",
+          "image_url": null,
+          "options": [
+            "No effect on the capacitor",
+            "Explode due to excessive heat",
+            "Current is reduced in the circuit",
+            "Value of capacitance will be increased"
+          ],
+          "answer": "Explode due to excessive heat",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "Which defines the flux density is always lagging behind the magnetising force?",
+          "image_url": null,
+          "options": [
+            "Hysteresis",
+            "Magnetic intensity",
+            "Magnetic induction",
+            "Residual magnetism"
+          ],
+          "answer": "Hysteresis",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 100,
+          "question": "What is the unit of resistivity?",
+          "image_url": null,
+          "options": [
+            "ohm / cm",
+            "ohm / cm²",
+            "ohm - metre",
+            "ohm / metre"
+          ],
+          "answer": "ohm - metre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Calculate the value of unknown resistance ‘RDC’ in the Wheatstone bridge network, If PAB = 500W, QBC = 300W, SAD = 15W,at balanced condition.",
+          "image_url": null,
+          "options": [
+            "12Ω",
+            "9Ω",
+            "6Ω",
+            "3Ω"
+          ],
+          "answer": "9Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "How the value of capacitance can be decreased?",
+          "image_url": null,
+          "options": [
+            "Increasing the plate area",
+            "Increasing the resistance of the plates",
+            "Increasing the distance between the plates",
+            "Using high dielectric constant material"
+          ],
+          "answer": "Increasing the distance between the plates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "In which device the air capacitors are used?",
+          "image_url": null,
+          "options": [
+            "TV tuner",
+            "Oscillator",
+            "Loudspeaker",
+            "Radio receiver"
+          ],
+          "answer": "Radio receiver",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "Why the ohmmeter is graduated with non-linear scale?",
+          "image_url": null,
+          "options": [
+            "Voltage is directly proportional to resistance",
+            "Current is inversely proportional to resistance",
+            "Resistance is inversely proportional to the square of current",
+            "Voltage is directly proportional to the square of the current"
+          ],
+          "answer": "Current is inversely proportional to resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "Which one defines the change in resistance in Ohm(Ω) per degree centigrade (°C)?",
+          "image_url": null,
+          "options": [
+            "Temperature effect",
+            "Laws of temperature",
+            "Temperature constant",
+            "Temperature co-efficient"
+          ],
+          "answer": "Temperature co-efficient",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "Calculate the value of resistance ‘R2’ in the parallel circuit.",
+          "image_url": null,
+          "options": [
+            "2 Ω",
+            "4 Ω",
+            "6 Ω",
+            "8 Ω"
+          ],
+          "answer": "6 Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "What is the similar term in magnetic circuit for “conductance” in electrical circuit?",
+          "image_url": null,
+          "options": [
+            "Reluctivity",
+            "Permeance",
+            "Reluctance",
+            "Permeability"
+          ],
+          "answer": "Permeance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "Which factor affects the polarity of the electromagnet?",
+          "image_url": null,
+          "options": [
+            "Length of the coil",
+            "Direction of current",
+            "Strength of current",
+            "Strength of the magnetic field"
+          ],
+          "answer": "Direction of current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "Calculate the resistance value of the resistor by colour coding method.",
+          "image_url": null,
+          "options": [
+            "23 x 10³ Ω ± 5%",
+            "26 x 10³ Ω ± 10%",
+            "32 x 10⁴ Ω ± 10%",
+            "37 x 10⁴ Ω ± 5%"
+          ],
+          "answer": "26 x 10³ Ω ± 10%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "Which factor is determining the value of capacitance in capacitor?",
+          "image_url": null,
+          "options": [
+            "Area of the plates",
+            "Shape of the plates",
+            "Material of the plates",
+            "Thickness of the plates"
+          ],
+          "answer": "Area of the plates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What electrical quantities are related in Ohm’s law?",
+          "image_url": null,
+          "options": [
+            "Current, resistance and power",
+            "Current, voltage and resistivity",
+            "Current, voltage and resistance",
+            "Voltage, resistance and current density"
+          ],
+          "answer": "Current, voltage and resistance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the voltage drop in resistor ‘R₂’ in the series circuit?",
+          "image_url": null,
+          "options": [
+            "5 Volt",
+            "10 Volt",
+            "15 Volt",
+            "20 Volt"
+          ],
+          "answer": "10 Volt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "Which is the diamagnetic substance?",
+          "image_url": null,
+          "options": [
+            "Wood",
+            "Nickel",
+            "Platinum",
+            "Manganese"
+          ],
+          "answer": "Wood",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "Which type of capacitors are used in RF coupling circuit?",
+          "image_url": null,
+          "options": [
+            "Tantalum",
+            "Monolithic",
+            "Electrolytic",
+            "Metalized poly propylene"
+          ],
+          "answer": "Monolithic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the value of resistance in an open circuit?",
+          "image_url": null,
+          "options": [
+            "Zero",
+            "Low",
+            "High",
+            "Infinity"
+          ],
+          "answer": "Infinity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "What is the resistance of Light Dependent Resistor (LDR), if the intensity of light is increased?",
+          "image_url": null,
+          "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes infinity"
+          ],
+          "answer": "Decreases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "What is the function of dielectric insulator in capacitor?",
+          "image_url": null,
+          "options": [
+            "Increases the strength of capacitance",
+            "Prevents any current flow between plates",
+            "Protects from short circuit between the plates",
+            "Helps to hold the charge in capacitor for long period"
+          ],
+          "answer": "Prevents any current flow between plates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What is the change of resistance value of the conductor as its diameter is doubled?",
+          "image_url": null,
+          "options": [
+            "Increases to two times",
+            "Decreases to four times",
+            "Decrease to half of the value",
+            "No change in value of resistance"
+          ],
+          "answer": "Decreases to four times",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "What is the effect of the circuit, if ‘ab’ points are shorted?",
+          "image_url": null,
+          "options": [
+            "Circuit resistance will be zero",
+            "Same current will flow in all branches",
+            "Supply voltage will exist in each branch",
+            "Total circuit current is equal to each branch circuit current"
+          ],
+          "answer": "Circuit resistance will be zero",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "Which type of effect occur if current is passed through a spirally wound coil?",
+          "image_url": null,
+          "options": [
+            "Heating effect",
+            "Magnetic effect",
+            "Chemical effect",
+            "Thermal effect"
+          ],
+          "answer": "Magnetic effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "Which resistor the lowest current flows in a parallel circuit having the values of 50Ω, 220Ω, 450Ω and 560Ω connected with supply?",
+          "image_url": null,
+          "options": [
+            "50 Ω",
+            "220 Ω",
+            "450 Ω",
+            "560 Ω"
+          ],
+          "answer": "560 Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the part marked as ‘X’ in B.H curve?",
+          "image_url": null,
+          "options": [
+            "Coercivity",
+            "Saturation point",
+            "Magnetizing force",
+            "Residual magnetism"
+          ],
+          "answer": "Coercivity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "Calculate the total power of the circuit of two lamps rated as 200W/240V are connected in series across 240V supply?",
+          "image_url": null,
+          "options": [
+            "50 W",
+            "100 W",
+            "200 W",
+            "400 W"
+          ],
+          "answer": "100 W",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "Which method of magnetization is used to make commercial purpose permanent magnets?",
+          "image_url": null,
+          "options": [
+            "Induction method",
+            "Single touch method",
+            "Double touch method",
+            "Divided touch method"
+          ],
+          "answer": "Induction method",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Single Phase and 3 Phase Switching Circuits",
+      "quizWrap": [
+        {
+          "id": 125,
+          "question": "What is the resistance of the inductive coil takes 5A current across 240V, 50Hz supply at 0.8 power factor?",
+          "image_url": null,
+          "options": [
+            "48Ω",
+            "42.5Ω",
+            "38.4Ω",
+            "26.6Ω"
+          ],
+          "answer": "42.5Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "What is the value of form factor of pure sine wave?",
+          "image_url": null,
+          "options": [
+            "1.11",
+            "1.01",
+            "1",
+            "0.11"
+          ],
+          "answer": "1.11",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "Calculate the impedance of the circuit R = 5Ω, XL= 36Ω and XC = 24 Ω.",
+          "image_url": null,
+          "options": [
+            "69 Ω",
+            "65 Ω",
+            "13 Ω",
+            "12 Ω"
+          ],
+          "answer": "13 Ω",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What will be the readings of two watt meters (W₁ & W₂) in 3 phase power measurement, if the power factor is zero?",
+          "image_url": null,
+          "options": [
+            "W₁ & W₂ both are positive reading",
+            "W₁ is Positive and W₂ is negative reading",
+            "W₁ is equal to W₂ but with opposite signs",
+            "Zero W₁ is Positive reading, and W₂ is negative reading"
+          ],
+          "answer": "W₁ is equal to W₂ but with opposite signs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "Calculate the power factor of coil having resistance of 24Ω, draws the current of 5A, at 240V/ 50Hz AC supply.",
+          "image_url": null,
+          "options": [
+            "0.8",
+            "0.6",
+            "0.5",
+            "0.3"
+          ],
+          "answer": "0.5",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "Calculate the value admittance (Y) of the RLC parallel circuit connected across 240volts/50Hz AC supply and 8 Amp. Current is passed through it?",
+          "image_url": null,
+          "options": [
+            "3.33 Mho",
+            "0.33 Mho",
+            "0.033 Mho",
+            "0.003 Mho"
+          ],
+          "answer": "0.033 Mho",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "How will you obtain positive reading in the wattmeter reads negative reading during 3- phase two wattmeter method?",
+          "image_url": null,
+          "options": [
+            "By interchanging the connections of input terminals",
+            "By disconnecting the connection of current coil in meter",
+            "By reversing the connection of pressure coil in meter",
+            "By reversing the pressure coil and current coil connection in meter"
+          ],
+          "answer": "By reversing the connection of pressure coil in meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "Calculate the apparent power of a star connected 3 phase load, if it is connected across 3 phase 415volt/50Hz supply at 0.8 p.f and the phase current is 10 Amps.",
+          "image_url": null,
+          "options": [
+            "12.45 KVA",
+            "57.50 KVA",
+            "3.320 KVA",
+            "7.188 KVA"
+          ],
+          "answer": "7.188 KVA",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "How much time is required for a 50 Hz AC supply to complete one cycle?",
+          "image_url": null,
+          "options": [
+            "0.1 second",
+            "0.02 second",
+            "0.15 second",
+            "0.45 second"
+          ],
+          "answer": "0.02 second",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "What is the rated AC voltage for single phase domestic supply in India?",
+          "image_url": null,
+          "options": [
+            "110 V",
+            "240 V",
+            "415 V",
+            "440 V"
+          ],
+          "answer": "240 V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the power factor if one of the wattmeter gives negative reading in two wattmeter method of 3 phase power measurement?",
+          "image_url": null,
+          "options": [
+            "0",
+            "0.5",
+            "Unity",
+            "Less than 0.5"
+          ],
+          "answer": "Less than 0.5",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is the frequency of AC supply in India?",
+          "image_url": null,
+          "options": [
+            "25 Hz",
+            "60 Hz",
+            "50 Hz",
+            "75 Hz"
+          ],
+          "answer": "50 Hz",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What is the indication of neon polarity indicator used for checking A.C. supply?",
+          "image_url": null,
+          "options": [
+            "Both electrodes will glow",
+            "Only one electrode will glow",
+            "Both electrodes will be flickering",
+            "One electrode will glow and another will be flickering"
+          ],
+          "answer": "Both electrodes will glow",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the power factor in a 3 phase power measurement of two wattmeters showing equal readings?",
+          "image_url": null,
+          "options": [
+            "0",
+            "1",
+            "0.5",
+            "0.8"
+          ],
+          "answer": "1",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "What relationship is illustrated in between the current and voltage?",
+          "image_url": null,
+          "options": [
+            "Current and voltage are “in phase”",
+            "Current and voltage are in out of phase",
+            "Current lags behind the voltage",
+            "Current leads ahead of the voltage"
+          ],
+          "answer": "Current and voltage are “in phase”",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the relation between the line current (IL) and phase current (IP) in delta connected system?",
+          "image_url": null,
+          "options": [
+            "IL = IP",
+            "IL = 3 IP",
+            "IL = √3 IP",
+            "IL = IP /√3"
+          ],
+          "answer": "IL = √3 IP",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "How the resonance frequency (fr) can be increased in A.C series circuit?",
+          "image_url": null,
+          "options": [
+            "Increasing the inductance value",
+            "Reducing the capacitance value",
+            "Increasing the capacitance value",
+            "Increasing the value of resistance"
+          ],
+          "answer": "Reducing the capacitance value",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "What is the purpose of phase sequence meter?",
+          "image_url": null,
+          "options": [
+            "To control the speed of 3 phase motor",
+            "To protect motor against short circuit fault",
+            "To indicate the incorrect phase sequence of 3 phase",
+            "To ensure the correct phase sequence of 3 phase system"
+          ],
+          "answer": "To ensure the correct phase sequence of 3 phase system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the power factor of a DC circuit?",
+          "image_url": null,
+          "options": [
+            "Unity",
+            "Less than unity",
+            "Greater than unity",
+            "Zero"
+          ],
+          "answer": "Unity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "Calculate the electrical energy in unit consumed by 500W lamp for 5 hours.",
+          "image_url": null,
+          "options": [
+            "0.5 unit",
+            "1.0 unit",
+            "1.5 unit",
+            "2.5 unit"
+          ],
+          "answer": "2.5 unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the phase displacement in a single phase AC circuit?",
+          "image_url": null,
+          "options": [
+            "90°",
+            "120°",
+            "180°",
+            "270°"
+          ],
+          "answer": "90°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "What is the formula for Reactive Power (Pr) in an AC circuit?",
+          "image_url": null,
+          "options": [
+            "Pr = VI",
+            "Pr = √2 VI",
+            "Pr = VI cos θ",
+            "Pr = VI sin θ"
+          ],
+          "answer": "Pr = VI sin θ",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "What is the value of line current if phase current is 20 Amp in star connection?",
+          "image_url": null,
+          "options": [
+            "20 A",
+            "17.3 A",
+            "11.56 A",
+            "10 A"
+          ],
+          "answer": "20 A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "How the low power factor (P.F) can be improved in AC circuits?",
+          "image_url": null,
+          "options": [
+            "By connecting resistors in series",
+            "By connecting capacitors in series",
+            "By connecting inductors in series",
+            "By connecting capacitors in parallel"
+          ],
+          "answer": "By connecting capacitors in parallel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "Calculate the power factor of R.L.C circuit having resistance (R) = 15Ω, resultant reactance (X) = 20Ω connected across 240V /50Hz AC supply?",
+          "image_url": null,
+          "options": [
+            "0.5",
+            "0.6",
+            "0.7",
+            "0.8"
+          ],
+          "answer": "0.6",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 150,
+          "question": "What is the main cause for below 0.5 lagging power factor in 3 phase system?",
+          "image_url": null,
+          "options": [
+            "Due to fluctuation of voltage",
+            "True power due to resistive load",
+            "Reactive power due to more inductive load",
+            "Reactive power due to more capacitive load"
+          ],
+          "answer": "Reactive power due to more inductive load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the form factor (Kf) for sinusoidal AC?",
+          "image_url": null,
+          "options": [
+            "1",
+            "1.11",
+            "2.22",
+            "4.44"
+          ],
+          "answer": "1.11",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "Which load condition the phase currents of a 3 phase system are different?",
+          "image_url": null,
+          "options": [
+            "At full load",
+            "At no load",
+            "At balanced load",
+            "At unbalanced load"
+          ],
+          "answer": "At unbalanced load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "Which load condition the phase currents of a 3 phase circuit are same?",
+          "image_url": null,
+          "options": [
+            "At balanced load",
+            "At unbalanced load",
+            "At no load",
+            "At full load"
+          ],
+          "answer": "At balanced load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "In a 3 phase system, if the active power is 4 kw and the apparent power is 5 KVA, calculate the reactive power?",
+          "image_url": null,
+          "options": [
+            "1 KVAR",
+            "2 KVAR",
+            "3 KVAR",
+            "4 KVAR"
+          ],
+          "answer": "3 KVAR",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "What is the ratio of peak value to Rms value?",
+          "image_url": null,
+          "options": [
+            "Form factor",
+            "Rms factor",
+            "Peak factor",
+            "Effective value"
+          ],
+          "answer": "Peak factor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "What is the P.F if one of the wattmeters reading is zero and the other reads total power in 2 wattmeter method of 3 phase power measurement?",
+          "image_url": null,
+          "options": [
+            "0.5",
+            "Zero",
+            "Unity",
+            "Below 0.5"
+          ],
+          "answer": "0.5",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "Calculate the line current of the 3 phase 415V 50 HZ supply for the balanced load of 3000 watt at 0.8 power factor is connected in star.",
+          "image_url": null,
+          "options": [
+            "8.5 A",
+            "5.2 A",
+            "4.5 A",
+            "3.4 A"
+          ],
+          "answer": "5.2 A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "What is the value of phase current if the line current is 20 Amp in delta connection?",
+          "image_url": null,
+          "options": [
+            "20 A",
+            "15.6 A",
+            "11.56 A",
+            "10 A"
+          ],
+          "answer": "11.56 A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "Which condition the neutral current is zero in 3 phase system?",
+          "image_url": null,
+          "options": [
+            "Balanced star system",
+            "Unbalanced star system",
+            "Balanced delta system",
+            "Unbalanced delta system"
+          ],
+          "answer": "Balanced star system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "Which AC circuit contains the phase relation between voltage (V) and current (I)?",
+          "image_url": null,
+          "options": [
+            "Pure resistive circuit",
+            "Resistance and inductance circuit",
+            "Resistance and capacitance circuit",
+            "Resistance, inductance and capacitance circuit"
+          ],
+          "answer": "Resistance and inductance circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "Calculate the apparent power in KVA of 3 phase 415V, 50 Hz, star system, if the line current (IL) is 16A at 0.8 power factor.",
+          "image_url": null,
+          "options": [
+            "15.2 KVA",
+            "11.5 KVA",
+            "9.2 KVA",
+            "5.3 KVA"
+          ],
+          "answer": "11.5 KVA",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "Which power measurement method is used for both balanced and unbalanced loads?",
+          "image_url": null,
+          "options": [
+            "2 wattmeter method",
+            "3 wattmeter method",
+            "One wattmeter method",
+            "Voltmeter and Ammeter method"
+          ],
+          "answer": "2 wattmeter method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the phase displacement between phases in a 3 phase circuit?",
+          "image_url": null,
+          "options": [
+            "90°",
+            "120°",
+            "180°",
+            "360°"
+          ],
+          "answer": "120°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "Which conductors are used for distribution lines?",
+          "image_url": null,
+          "options": [
+            "Insulated conductors",
+            "Insulated solid conductors",
+            "Bare conductors",
+            "Two core cable"
+          ],
+          "answer": "Bare conductors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "What is the line voltage in 3 phase system if the phase voltage is 240V?",
+          "image_url": null,
+          "options": [
+            "380 Volt",
+            "400 Volt",
+            "415 Volt",
+            "440 Volt"
+          ],
+          "answer": "415 Volt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "Which condition is called as resonance RLC circuit?",
+          "image_url": null,
+          "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R "
+          ],
+          "answer": "XL = XC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "In which 3 phase system, the artificial neutral is required to measure the phase voltage?",
+          "image_url": null,
+          "options": [
+            "3 wire star connected system",
+            "4 wire star connected system",
+            "3 wire delta connected system",
+            "4 wire delta connected system"
+          ],
+          "answer": "3 wire delta connected system",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Batteries and Solar Cells",
+      "quizWrap": [
+        {
+          "id": 168,
+          "question": "What is the effect if one cell is connected with reverse polarity in a parallel combination circuit?",
+          "image_url": null,
+          "options": [
+            "Voltage become zero",
+            "Become open circuit",
+            "Will get short circuited",
+            "No effect will function normally"
+          ],
+          "answer": "Will get short circuited",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "Which cell is most often used in digital watches?",
+          "image_url": null,
+          "options": [
+            "Voltaic",
+            "Lithium",
+            "Mercury",
+            "Silver oxide"
+          ],
+          "answer": "Mercury",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "Which is used as an electrolyte in lead acid battery?",
+          "image_url": null,
+          "options": [
+            "Hydrochloric acid",
+            "Ammonium chloride",
+            "Potassium hydroxide",
+            "Diluted sulphuric acid"
+          ],
+          "answer": "Diluted sulphuric acid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "Which device converts sunlight into electrical energy?",
+          "image_url": null,
+          "options": [
+            "Photo voltaic cell",
+            "Liquid crystal diode",
+            "Light emitting diode",
+            "Light dependent resistor"
+          ],
+          "answer": "Photo voltaic cell",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "How the hard sulphation defect in lead acid battery can be rectified?",
+          "image_url": null,
+          "options": [
+            "Changing with new electrolyte",
+            "Replacing with new electrodes",
+            "Recharging the battery for a longer period at low current",
+            "Recharging the battery for short period at high current"
+          ],
+          "answer": "Recharging the battery for a longer period at low current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "Which apparatus is used to check the charging condition of voltage in battery?",
+          "image_url": null,
+          "options": [
+            "Voltmeter",
+            "Multimeter",
+            "Hydrometer",
+            "High rate discharge tester"
+          ],
+          "answer": "High rate discharge tester",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "How the capacity of batteries is specified?",
+          "image_url": null,
+          "options": [
+            "Volt",
+            "Watt",
+            "Volt Ampere",
+            "Ampere hour"
+          ],
+          "answer": "Ampere hour",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 175,
+          "question": "Which type of inverter circuit?",
+          "image_url": null,
+          "options": [
+            "Driven inverter",
+            "SCR used inverter",
+            "Single transistor inverter",
+            "Two winding transformer inverter"
+          ],
+          "answer": "SCR used inverter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the total voltage of the circuit?",
+          "image_url": null,
+          "options": [
+            "1.5 Volt",
+            "6.0 Volt",
+            "7.5 Volt",
+            "9.0 Volt"
+          ],
+          "answer": "1.5 Volt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "Which part is losing electron during electrolysis?",
+          "image_url": null,
+          "options": [
+            "Cathode",
+            "Anode",
+            "Electrolyte",
+            "Separator"
+          ],
+          "answer": "Anode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What happen if battery is wrongly connected on charge?",
+          "image_url": null,
+          "options": [
+            "Draws very high current",
+            "Draws very low current",
+            "No current flow",
+            "Works normally"
+          ],
+          "answer": "Draws very high current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the function of fine selector switch in battery charger?",
+          "image_url": null,
+          "options": [
+            "Selection of current rating",
+            "Selection of charging time",
+            "Selection of voltage range",
+            "Selection of charging method"
+          ],
+          "answer": "Selection of current rating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "What happen to the terminal voltage of a cell if load increases?",
+          "image_url": null,
+          "options": [
+            "Increases",
+            "Decreases",
+            "Falls to zero",
+            "Remains same"
+          ],
+          "answer": "Decreases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "What is the formula for Faraday’s first law of electrolysis?",
+          "image_url": null,
+          "options": [
+            "M = Z/it",
+            "M = Zit",
+            "M = it/ Z",
+            "M = Zt/i"
+          ],
+          "answer": "M = Zit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "Which material is used to make negative plates in lead acid battery?",
+          "image_url": null,
+          "options": [
+            "Lead dioxide",
+            "Sponge lead",
+            "Lead peroxide",
+            "Lead sulphate"
+          ],
+          "answer": "Sponge lead",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the effect of buckling defect in a lead acid battery?",
+          "image_url": null,
+          "options": [
+            "Bending of the electrodes",
+            "Reducing the strength of electrolyte",
+            "Making short between the electrodes",
+            "Increasing the internal resistance"
+          ],
+          "answer": "Bending of the electrodes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "In which method the battery is charged at low current for long period?",
+          "image_url": null,
+          "options": [
+            "Rectifier method",
+            "Trickle charging method",
+            "Constant current method",
+            "Constant potential method"
+          ],
+          "answer": "Trickle charging method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "What is the method of charging if the battery is to be charged for short duration at higher rate?",
+          "image_url": null,
+          "options": [
+            "Initial charge",
+            "Boost charge",
+            "Trickle charge",
+            "Freshening charge"
+          ],
+          "answer": "Boost charge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "Which is used as a positive electrode in a dry cell?",
+          "image_url": null,
+          "options": [
+            "Zinc",
+            "Carbon",
+            "Copper",
+            "Lithium"
+          ],
+          "answer": "Carbon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the Electro Chemical Equivalent (ECE) of copper?",
+          "image_url": null,
+          "options": [
+            "0.329 mg/coulomb",
+            "0.329 g/coulomb",
+            "1.1182 mg/coulomb",
+            "1.1182 g/coulomb"
+          ],
+          "answer": "0.329 mg/coulomb",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "What is the outcome of the chemical reaction that takes place in negative plate of lead acid battery during discharging?",
+          "image_url": null,
+          "options": [
+            "Sponge lead(Pb)",
+            "Lead peroxide (PbO₂)",
+            "Lead sulphate (PbSO₄)",
+            "Lead sulphate + water"
+          ],
+          "answer": "Lead sulphate (PbSO₄)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "Which law secondary cell works?",
+          "image_url": null,
+          "options": [
+            "Lenz’s law",
+            "Joule’s law",
+            "Faradays laws of electrolysis",
+            "Faradays laws of electromagnetic induction"
+          ],
+          "answer": "Faradays laws of electrolysis",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "What is the output voltage of lithium cell?",
+          "image_url": null,
+          "options": [
+            "1.2 V",
+            "1.5 V",
+            "1.8 V",
+            "2.5 V"
+          ],
+          "answer": "2.5 V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the Electro Chemical Equivalent (ECE) of silver?",
+          "image_url": null,
+          "options": [
+            "0.001182 mg/coulomb",
+            "0.01182 mg/coulomb",
+            "0.1182 mg/coulomb",
+            "1.1182 mg/coulomb"
+          ],
+          "answer": "1.1182 mg/coulomb",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "Which effect causes by passing electric current in liquids?",
+          "image_url": null,
+          "options": [
+            "Heating",
+            "Lighting",
+            "Magnetic",
+            "Chemical"
+          ],
+          "answer": "Chemical",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "IE Rules On Electrical System and Wiring Accessories",
+      "quizWrap": [
+        {
+          "id": 193,
+          "question": "Why ELCB fails to trip during operation?",
+          "image_url": null,
+          "options": [
+            "Improper earth connection",
+            "Improper neutral connection",
+            "Improper phase connection",
+            "Improper fuse rating"
+          ],
+          "answer": "Improper earth connection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "Which type of accessories of fuse is comes under?",
+          "image_url": null,
+          "options": [
+            "Controlling accessories",
+            "Holding accessories",
+            "Safety accessories",
+            "Outlet accessories"
+          ],
+          "answer": "Safety accessories",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is expansion of MCCB?",
+          "image_url": null,
+          "options": [
+            "Moulded Case Circuit Breaker",
+            "Miniature Case Circuit Breaker",
+            "Mini Case Circuit Breaker",
+            "Micro Case Circuit Breaker"
+          ],
+          "answer": "Moulded Case Circuit Breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the type of wiring?",
+          "image_url": null,
+          "options": [
+            "CTS wiring",
+            "Cleat wiring",
+            "PVC conduit wiring",
+            "PVC casing and capping wiring"
+          ],
+          "answer": "Cleat wiring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is the expansion of AWG?",
+          "image_url": null,
+          "options": [
+            "American Wire Gauge",
+            "American Wire Grade",
+            "American Wire Group",
+            "American Wire Guard"
+          ],
+          "answer": "American Wire Gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "Which electrical equipment ‘L’ series type MCB’s are used?",
+          "image_url": null,
+          "options": [
+            "Geysers",
+            "Locomotives",
+            "Halogen lamps",
+            "Air conditioners"
+          ],
+          "answer": "Geysers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "How many link clips are packed in cardboard boxes as per BIS rules?",
+          "image_url": null,
+          "options": [
+            "50 clips",
+            "75 clips",
+            "100 clips",
+            "150 clips"
+          ],
+          "answer": "100 clips",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 200,
+          "question": "What is the name of the diagram?",
+          "image_url": null,
+          "options": [
+            "Layout plan",
+            "Wiring diagram",
+            "Installation plan",
+            "Schematic diagram"
+          ],
+          "answer": "Installation plan",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "Which types of accessories are used to operate a portable appliance?",
+          "image_url": null,
+          "options": [
+            "Safety accessories",
+            "Holding accessories",
+            "Outlet accessories",
+            "Controlling accessories"
+          ],
+          "answer": "Outlet accessories",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "What protection offered by residual current circuit breaker?",
+          "image_url": null,
+          "options": [
+            "Protection from shock",
+            "Protection from over load",
+            "Protection from short circuit",
+            "Protection from leakage current"
+          ],
+          "answer": "Protection from shock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "Which type MCBs suitable for halogen lamps?",
+          "image_url": null,
+          "options": [
+            "‘L’ series MCBs",
+            "‘G’ series MCBs",
+            "‘DC’ series MCBs",
+            "‘L’ and ‘G’ series MCBs"
+          ],
+          "answer": "‘G’ series MCBs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "Which type of wiring is preferred for workshop lighting?",
+          "image_url": null,
+          "options": [
+            "Casing capping wiring",
+            "Batten wiring",
+            "PVC conduit wiring",
+            "Surface metal conduit wiring"
+          ],
+          "answer": "Surface metal conduit wiring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "What is the name of the conduit accessory?",
+          "image_url": null,
+          "options": [
+            "Solid bend",
+            "Solid elbow",
+            "Inspection Bend",
+            "Inspection elbow"
+          ],
+          "answer": "Inspection Bend",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "How the conduit pipes are specified?",
+          "image_url": null,
+          "options": [
+            "Length in metre",
+            "Wall thickness in mm",
+            "Inner diameter in mm",
+            "Outer diameter in mm"
+          ],
+          "answer": "Outer diameter in mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "What is the purpose of tin coating on copper fuse wire?",
+          "image_url": null,
+          "options": [
+            "Withstand high temperature",
+            "Increase the fusing factor",
+            "Prevent oxidation of copper wire",
+            "Increase the mechanical strength"
+          ],
+          "answer": "Prevent oxidation of copper wire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "What is the purpose of the fuse cut out provided at the incoming power supply?",
+          "image_url": null,
+          "options": [
+            "To ensure the line is not over loaded",
+            "To maintain the stabilised supply voltage",
+            "To protect the circuit from the leakage current",
+            "To protect the human beings from electric shock"
+          ],
+          "answer": "To ensure the line is not over loaded",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "What does the symbol marked ‘X’ indicate?",
+          "image_url": null,
+          "options": [
+            "Number of wires run on the limb",
+            "Number of switches to be connected",
+            "Number of battern (or) pipe to be fixed",
+            "Number of clamps (or) clips to be fixed"
+          ],
+          "answer": "Number of wires run on the limb",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "Which classification of accessory the ceiling rose is classified?",
+          "image_url": null,
+          "options": [
+            "Outlet accessories",
+            "Safety accessories",
+            "Holding accessories",
+            "General accessories"
+          ],
+          "answer": "Outlet accessories",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What is the symbol indicates?",
+          "image_url": null,
+          "options": [
+            "Table fan",
+            "Ceiling fan",
+            "Bracket fan",
+            "Exhaust fan"
+          ],
+          "answer": "Ceiling fan",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "Which electrical equipment is provided with ‘L’ series MCB?",
+          "image_url": null,
+          "options": [
+            "General lighting",
+            "Motors",
+            "Air conditioner",
+            "Halogen lamp"
+          ],
+          "answer": "General lighting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "Which type of switch is used in the circuit?",
+          "image_url": null,
+          "options": [
+            "One way switch",
+            "Two way switch",
+            "Intermediate switch",
+            "Multiposition switch"
+          ],
+          "answer": "Two way switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "Which type of lamp holder is used for the lamps above 300 watts?",
+          "image_url": null,
+          "options": [
+            "Edison screw holder",
+            "Goliath screw holder",
+            "Angle holder",
+            "Brachet holder"
+          ],
+          "answer": "Goliath screw holder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "What is the name of the four insulated conductors group?",
+          "image_url": null,
+          "options": [
+            "Pair",
+            "Core",
+            "Quad",
+            "Layer"
+          ],
+          "answer": "Quad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the name of the accessory symbol?",
+          "image_url": null,
+          "options": [
+            "Bell push switch",
+            "Two way switch",
+            "One way switch two poles",
+            "Multi position switch single pole"
+          ],
+          "answer": "Multi position switch single pole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "Which insulation is necessary for proper function and basic protection?",
+          "image_url": null,
+          "options": [
+            "Double insulation",
+            "Functional insulation",
+            "Reinforced insulation",
+            "Supplementary insulation"
+          ],
+          "answer": "Functional insulation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "Which type of relay can be operated at both A.C and D.C?",
+          "image_url": null,
+          "options": [
+            "Ferred relay",
+            "Thermal relay",
+            "Impulse relay",
+            "Dry reed relay"
+          ],
+          "answer": "Impulse relay",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the current carrying capacity of 32 amp.rated cable, if it is protected by the rewirable fuse?",
+          "image_url": null,
+          "options": [
+            "13 Amp",
+            "16 Amp",
+            "26 Amp",
+            "39 Amp"
+          ],
+          "answer": "26 Amp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "Which protection ELCB provides?",
+          "image_url": null,
+          "options": [
+            "Short circuit",
+            "Ground fault",
+            "Open circuit",
+            "Over load"
+          ],
+          "answer": "Ground fault",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "What is the purpose of ELCB?",
+          "image_url": null,
+          "options": [
+            "Detects the fault in circuit",
+            "Monitors the residual current",
+            "Protects the equipment from over load",
+            "Protects from short circuit fault"
+          ],
+          "answer": "Monitors the residual current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "What is the application of the wiring circuit?",
+          "image_url": null,
+          "options": [
+            "Two lamps dim operation only",
+            "Two lamps controlled by one switch",
+            "Two lamps controlled by two switches",
+            "One lamp bright and two lamp dim operation"
+          ],
+          "answer": "One lamp bright and two lamp dim operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "What is the name of the accessory used in electrical appliances?",
+          "image_url": null,
+          "options": [
+            "2 Pin plug",
+            "Three pin plug",
+            "Iron connector with direct entry",
+            "Flat connector with side entry"
+          ],
+          "answer": "Iron connector with direct entry",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is maximum load on each power sub- circuit as per BIS?",
+          "image_url": null,
+          "options": [
+            "2000 W",
+            "3000 W",
+            "5000 W",
+            "6000 W"
+          ],
+          "answer": "3000 W",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 225,
+          "question": "Where the Iron Clad Double Pole (ICDP) main switch is used?",
+          "image_url": null,
+          "options": [
+            "Large industrial installations",
+            "Control main or branch circuits",
+            "Single phase domestic installations",
+            "Three phase power circuit installations"
+          ],
+          "answer": "Single phase domestic installations",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is length of thread on rigid conduits as per BIS?",
+          "image_url": null,
+          "options": [
+            "9mm - 20mm",
+            "11mm - 27mm",
+            "13mm - 25mm",
+            "15mm - 30mm"
+          ],
+          "answer": "11mm - 27mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the name of BIS symbol?",
+          "image_url": null,
+          "options": [
+            "Lamp",
+            "Two way switch",
+            "Intermediate switch",
+            "Multi - position switch"
+          ],
+          "answer": "Intermediate switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "What is the maximum PVC conduit size to make safe cold bending?",
+          "image_url": null,
+          "options": [
+            "12 mm",
+            "19 mm",
+            "25 mm",
+            "50 mm"
+          ],
+          "answer": "25 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "How many two way switches are required in godown wiring circuit to control four lamps",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "Which type of circuit breaker is used above 100 A current rating?",
+          "image_url": null,
+          "options": [
+            "Miniature Circuit Breaker (MCB)",
+            "Earth Leakage Circuit Breaker (ELCB)",
+            "Moulded Case Circuit Breaker (MCCB)",
+            "Residual Current Circuit Breaker (RCCB)"
+          ],
+          "answer": "Moulded Case Circuit Breaker (MCCB)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "Which is employed in circuit breaker for over load protection?",
+          "image_url": null,
+          "options": [
+            "Bimetallic strip",
+            "No volt coil",
+            "Mechanical vibration",
+            "Magnetic repulsion"
+          ],
+          "answer": "Bimetallic strip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "What is the effect of low current rated cable used to connect higher current load?",
+          "image_url": null,
+          "options": [
+            "Voltage drop increases",
+            "Load current increases",
+            "Voltage drop decreases",
+            "Cable damage due to heat"
+          ],
+          "answer": "Cable damage due to heat",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "What is the purpose of the circuit diagram in wiring installation?",
+          "image_url": null,
+          "options": [
+            "To show the physical position of accessories",
+            "To estimate the various accessories in the circuit",
+            "To inform the reader quickly what for the circuit is designed",
+            "To show the schematic connection of the circuit for a specific task"
+          ],
+          "answer": "To show the schematic connection of the circuit for a specific task",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "What is the function of circuit breaker?",
+          "image_url": null,
+          "options": [
+            "Making contact at normal condition",
+            "Making contact at abnormal condition",
+            "Breaking automatically at abnormal condition",
+            "Physical breaking contact at abnormal condition"
+          ],
+          "answer": "Breaking automatically at abnormal condition",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "Which wiring is suitable for temporary installations?",
+          "image_url": null,
+          "options": [
+            "Cleat wiring",
+            "Concealed wiring",
+            "PVC conduit wiring",
+            "Metal conduit wiring"
+          ],
+          "answer": "Cleat wiring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "Why tree system of wiring most suitable for Multistoried building?",
+          "image_url": null,
+          "options": [
+            "Easy load balancing",
+            "Constant voltage distribution",
+            "Offers minimum voltage drop",
+            "Easy in fault finding with many fuses"
+          ],
+          "answer": "Easy in fault finding with many fuses",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "What is the type of diagram?",
+          "image_url": null,
+          "options": [
+            "Wiring diagram",
+            "Circuit diagram",
+            "Installation plan",
+            "Layout diagram"
+          ],
+          "answer": "Wiring diagram",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "What is the function of bimetallic strip in MCB ?",
+          "image_url": null,
+          "options": [
+            "Over load protection",
+            "Short circuit protection",
+            "Over voltage protection",
+            "Earth leakage protection"
+          ],
+          "answer": "Over load protection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "What is the term for the time taken by a fuse to interrupt the circuit in fault?",
+          "image_url": null,
+          "options": [
+            "Time factor",
+            "Fusing factor",
+            "Cut-off factor",
+            "Fusing current"
+          ],
+          "answer": "Cut-off factor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What is the name of the relay?",
+          "image_url": null,
+          "options": [
+            "Impulse relay",
+            "Dry reed relay",
+            "Electromagnetic relay",
+            "Mercury wetted contact relay"
+          ],
+          "answer": "Dry reed relay",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the use of die stock set?",
+          "image_url": null,
+          "options": [
+            "Cut external threads on square pipe",
+            "Cut internal threads on cylindrical pipe",
+            "Cut external threads on cylindrical pipe",
+            "Cut internal threads on rectangular pipe"
+          ],
+          "answer": "Cut external threads on cylindrical pipe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "Which electrical accessory belongs to general classification of accessories?",
+          "image_url": null,
+          "options": [
+            "Fuse",
+            "Ceiling roses",
+            "Intermediate switch",
+            "Pendent lamp holder"
+          ],
+          "answer": "Ceiling roses",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Wiring System and Estimation",
+      "quizWrap": [
+        {
+          "id": 243,
+          "question": "Which instrument is used to test new domestic wiring installation?",
+          "image_url": null,
+          "options": [
+            "Multimeter",
+            "Megger",
+            "Shunt type ohmmeter",
+            "Series type ohmmeter"
+          ],
+          "answer": "Megger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "What is the type of test in the wiring installation?",
+          "image_url": null,
+          "options": [
+            "Polarity test",
+            "Open circuit test",
+            "Insulation resistance test between conductors",
+            "Insulation resistance test between conductors and earth"
+          ],
+          "answer": "Insulation resistance test between conductors and earth",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is the permissible leakage current in domestic wiring installation?",
+          "image_url": null,
+          "options": [
+            "1/5 x Full load current",
+            "1/50 x Full load current",
+            "1/500 x Full load current",
+            "1/5000 x Full load current"
+          ],
+          "answer": "1/5000 x Full load current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "Why pipe jumper is used in wiring?",
+          "image_url": null,
+          "options": [
+            "To make holes on wooden board",
+            "To make pilot holes on the wall for fixing accessories",
+            "To make through holes on the wall",
+            "To chip the wall for fixing switch boxes"
+          ],
+          "answer": "To make through holes on the wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "Which switch is used to control one lamp from three different places?",
+          "image_url": null,
+          "options": [
+            "Pull switch",
+            "Intermediate switch",
+            "Bell push switch",
+            "Toggle switch"
+          ],
+          "answer": "Intermediate switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the test to be carried out by using megger?",
+          "image_url": null,
+          "options": [
+            "Polarity test",
+            "Insulation resistance test",
+            "Earth electrode resistance test",
+            "Earth conductor continuity test"
+          ],
+          "answer": "Insulation resistance test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "Which factor the thickness of insulation layer on cables depends upon?",
+          "image_url": null,
+          "options": [
+            "Current",
+            "Temperature",
+            "Power factor",
+            "Voltage"
+          ],
+          "answer": "Voltage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 250,
+          "question": "What is the formula to find voltage drop of a A.C single phase wiring circuit?",
+          "image_url": null,
+          "options": [
+            "Voltage drop = IR volt",
+            "Voltage drop = I²R volt",
+            "Voltage drop = I/R volt",
+            "Voltage drop=IR/2 volt"
+          ],
+          "answer": "Voltage drop = IR volt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the maximum permissible load for a power sub circuit as per I.E rules?",
+          "image_url": null,
+          "options": [
+            "800 Watt",
+            "1500 Watt",
+            "2000 Watt",
+            "3000 Watt"
+          ],
+          "answer": "3000 Watt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "What is the minimum cross- sectional area of copper conductor for flexible cord as per BIS?",
+          "image_url": null,
+          "options": [
+            "2.5 mm²",
+            "1.5 mm²",
+            "1 mm²",
+            "0.5 mm²"
+          ],
+          "answer": "0.5 mm²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "Where system earthing is done?",
+          "image_url": null,
+          "options": [
+            "Generating station",
+            "Electroplating installation",
+            "Small industrial installation",
+            "Domestic wiring installation"
+          ],
+          "answer": "Generating station",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is the reason of lamp glowing dim and motor running slow in a domestic wiring circuit?",
+          "image_url": null,
+          "options": [
+            "Open circuit in the neutral line",
+            "Short circuit between conductors",
+            "High value series resistance fault",
+            "Open circuit in the earth conductor"
+          ],
+          "answer": "High value series resistance fault",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "What is the type of test in domestic wiring installation?",
+          "image_url": null,
+          "options": [
+            "Polarity test",
+            "Continuity (or) open circuit test",
+            "Insulation resistance test between conductors",
+            "Insulation resistance test between conductors and earth"
+          ],
+          "answer": "Polarity test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "How the cable size is determined for power wiring?",
+          "image_url": null,
+          "options": [
+            "By the applied voltage",
+            "By type of load",
+            "By the load current",
+            "By the load power factor"
+          ],
+          "answer": "By the load current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "Which location the service connection supply leads to be connected at consumer main board?",
+          "image_url": null,
+          "options": [
+            "IC cut out",
+            "Main switch",
+            "Energy meter",
+            "Distribution board"
+          ],
+          "answer": "Energy meter",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Earthing and Illumination system",
+      "quizWrap": [
+        {
+          "id": 258,
+          "question": "Which method is used to reduce the value of earth resistance?",
+          "image_url": null,
+          "options": [
+            "By reducing the size of earth electrode",
+            "By increasing the size of earth electrodes",
+            "By pouring water in the earth pit at repeated intervals",
+            "By connecting a number of earth electrodes in series"
+          ],
+          "answer": "By pouring water in the earth pit at repeated intervals",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "What will happen to the value of earth resistance if length of the earth pipe is increased?",
+          "image_url": null,
+          "options": [
+            "Remain same",
+            "Increases",
+            "Decreases",
+            "Infinity"
+          ],
+          "answer": "Decreases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "What is the S.I unit of luminous intensity?",
+          "image_url": null,
+          "options": [
+            "Lux",
+            "Lumen",
+            "Candela",
+            "Steradian"
+          ],
+          "answer": "Candela",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "What is the effect if a person receives a shock current of 20 mA?",
+          "image_url": null,
+          "options": [
+            "No sensation",
+            "Painful shock",
+            "Heart convulsions",
+            "Become unconscious"
+          ],
+          "answer": "Painful shock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "Why the outer tube of a high pressure metal halide lamp made of boro silicate glass?",
+          "image_url": null,
+          "options": [
+            "Increase the lighting effect",
+            "Withstand heavy temperature",
+            "Withstand atmospheric pressure",
+            "Reduce the ultra violet radiation from lamp"
+          ],
+          "answer": "Reduce the ultra violet radiation from lamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "What is the purpose of ignitor in high pressure sodium vapour lamp circuit?",
+          "image_url": null,
+          "options": [
+            "Decreases the starting current",
+            "Increases the running voltage",
+            "Decreases the running current",
+            "Generates high voltage pulse at starting"
+          ],
+          "answer": "Generates high voltage pulse at starting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "Why the pointer is not stable at zero on the scale as the megger is not in use?",
+          "image_url": null,
+          "options": [
+            "It is not having controlling Torque",
+            "Provided with air friction damping",
+            "The deflecting torque is directly proportional to the current",
+            "The deflecting torque is directly proportional to the square of the current"
+          ],
+          "answer": "It is not having controlling Torque",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the function of leak transformer in high pressure sodium vapour lamp circuit?",
+          "image_url": null,
+          "options": [
+            "Reduce the starting current",
+            "Reduce the working voltage",
+            "Increase the working voltage",
+            "Ignite the high voltage initially"
+          ],
+          "answer": "Ignite the high voltage initially",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is the function of current reverser in earth resistance tester?",
+          "image_url": null,
+          "options": [
+            "Converts A.C. into D.C",
+            "Reverses the polarity of D.C",
+            "Changes D.C. supply into A.C supply",
+            "Reverses the direction of rotation of the generator"
+          ],
+          "answer": "Changes D.C. supply into A.C supply",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "Why fluorescent lamp ends are blackening?",
+          "image_url": null,
+          "options": [
+            "Low gas pressure",
+            "Burnt out choke",
+            "Burnt out starter",
+            "Heat of electrodes"
+          ],
+          "answer": "Heat of electrodes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "Which position MB type high pressure mercury vapour lamps are operated?",
+          "image_url": null,
+          "options": [
+            "Vertical",
+            "Inclined",
+            "Horizontal",
+            "Any position"
+          ],
+          "answer": "Any position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "How the earth resistance can be reduced?",
+          "image_url": null,
+          "options": [
+            "Providing double earthing",
+            "Reducing the pit depth for earthing",
+            "Increasing the length of the electrodes",
+            "Decreasing the length of the electrodes"
+          ],
+          "answer": "Providing double earthing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "What is the current carrying capacity of flasher, if the current is 100 mA in each row?",
+          "image_url": null,
+          "options": [
+            "50 mA",
+            "100 mA",
+            "200 mA",
+            "300 mA"
+          ],
+          "answer": "300 mA",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "Which is the cold cathode lamp?",
+          "image_url": null,
+          "options": [
+            "Halogen lamp",
+            "Neon sign lamp",
+            "Fluorescent lamp",
+            "Mercury vapour lamp"
+          ],
+          "answer": "Neon sign lamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "How to control harmonic distortions in neutral connections as per IE rule?",
+          "image_url": null,
+          "options": [
+            "Earthing through impedance",
+            "Providing by plate earthing",
+            "Increasing conductor size",
+            "Providing parallel earthing"
+          ],
+          "answer": "Earthing through impedance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What happen if the starter of a glowing tube light is removed?",
+          "image_url": null,
+          "options": [
+            "Switch off immediately",
+            "Glow continuously",
+            "Gives low light output",
+            "Glow intermittently"
+          ],
+          "answer": "Glow continuously",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "Which material is coated in tungsten electrode of a fluorescent tube lamp?",
+          "image_url": null,
+          "options": [
+            "Silver oxide",
+            "Phosphor powder",
+            "Fluorescent powder",
+            "Barium and strontium oxide"
+          ],
+          "answer": "Barium and strontium oxide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 275,
+          "question": "Why system earthing is different in utilization than equipment earthing?",
+          "image_url": null,
+          "options": [
+            "It protects human only",
+            "It protects from all circuit faults",
+            "It is associated with current carrying conductors",
+            "It is connected to the non current carrying metal work"
+          ],
+          "answer": "It is associated with current carrying conductors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is the name of the reflector?",
+          "image_url": null,
+          "options": [
+            "Mirror type",
+            "Soft light type",
+            "Parabolic type",
+            "Dispersive type"
+          ],
+          "answer": "Parabolic type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "What is the unit of luminous flux?",
+          "image_url": null,
+          "options": [
+            "Lux",
+            "Lumen",
+            "Candela",
+            "Lumen/m²"
+          ],
+          "answer": "Lumen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "Which principle earth tester works?",
+          "image_url": null,
+          "options": [
+            "Induction",
+            "Magnetic attraction",
+            "Magnetic repulsion",
+            "Fall of potential"
+          ],
+          "answer": "Fall of potential",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "Which type of light fitting design has free from glare?",
+          "image_url": null,
+          "options": [
+            "Semi direct type",
+            "Semi indirect type",
+            "Direct lighting type",
+            "Indirect lighting type"
+          ],
+          "answer": "Semi indirect type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "What is the main advantage of coiled coil lamp?",
+          "image_url": null,
+          "options": [
+            "High melting point",
+            "Higher light output",
+            "Low operating voltage",
+            "Low power consumption"
+          ],
+          "answer": "Higher light output",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "What is the reason for supplying AC to the electrodes for measuring earth resistance?",
+          "image_url": null,
+          "options": [
+            "Provide electrostatic shield",
+            "Protect the coils in the meter",
+            "Reduce the value of current in the meter",
+            "Avoid the effect of electrolytic emf interference"
+          ],
+          "answer": "Avoid the effect of electrolytic emf interference",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the minimum size of copper earth continuity conductor used in single phase domestic wiring as per BIS?",
+          "image_url": null,
+          "options": [
+            "3 Sq.mm",
+            "3.5 Sq.mm",
+            "2.5 Sq.mm",
+            "1.5 Sq.mm"
+          ],
+          "answer": "1.5 Sq.mm",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Measuring Instruments, Testing and Calibration",
+      "quizWrap": [
+        {
+          "id": 283,
+          "question": "Which is the position to use the instrument provided with spring control?",
+          "image_url": null,
+          "options": [
+            "Any position",
+            "Vertical position only",
+            "Inclined position only",
+            "Horizontal position only"
+          ],
+          "answer": "Any position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "Which is an absolute instrument?",
+          "image_url": null,
+          "options": [
+            "Ammeter",
+            "Volt meter",
+            "Energy meter",
+            "Tangent galvanometer"
+          ],
+          "answer": "Tangent galvanometer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which type of instrument is used with air friction damping?",
+          "image_url": null,
+          "options": [
+            "Moving coil instrument",
+            "Moving iron instrument",
+            "Induction type instrument",
+            "Dynamo meter type instrument"
+          ],
+          "answer": "Moving iron instrument",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "Which type of meter is used to test the polarity of battery?",
+          "image_url": null,
+          "options": [
+            "Moving iron ammeter",
+            "Moving coil voltmeter",
+            "Moving iron voltmeter",
+            "Dynamo meter type wattmeter"
+          ],
+          "answer": "Moving coil voltmeter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "Which source of measuring error is caused by the effect of magnetic fields?",
+          "image_url": null,
+          "options": [
+            "Device error",
+            "Human error",
+            "Influence error",
+            "Switching error"
+          ],
+          "answer": "Influence error",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "Which parameter is the cause for loading effect on measuring instruments?",
+          "image_url": null,
+          "options": [
+            "Low accuracy",
+            "High sensitivity",
+            "Low sensitivity",
+            "Low influence error"
+          ],
+          "answer": "Low sensitivity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "Name the type of instrument.",
+          "image_url": null,
+          "options": [
+            "Attraction type moving iron",
+            "Repulsion type moving iron",
+            "Permanent magnet moving coil",
+            "Dynamo meter type moving coil"
+          ],
+          "answer": "Attraction type moving iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "Which material is used to make control spring in measuring instruments?",
+          "image_url": null,
+          "options": [
+            "Steel",
+            "Silver",
+            "Tinned copper",
+            "Phosphor bronze"
+          ],
+          "answer": "Phosphor bronze",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "What is the name of the instrument?",
+          "image_url": null,
+          "options": [
+            "Absolute instrument",
+            "Indicating instrument",
+            "Recording instrument",
+            "Integrating instrument"
+          ],
+          "answer": "Absolute instrument",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "Which is the position to use the instrument provided with gravity control?",
+          "image_url": null,
+          "options": [
+            "Any position",
+            "Vertical position",
+            "Inclined position",
+            "Horizontal position"
+          ],
+          "answer": "Vertical position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "Which instrument is an example of an integrating instrument?",
+          "image_url": null,
+          "options": [
+            "AC voltmeter",
+            "DC voltmeter",
+            "Energy meter",
+            "Tangent galvanometer"
+          ],
+          "answer": "Energy meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "What is the purpose of variable resistor connected across shunt type ohm meter?",
+          "image_url": null,
+          "options": [
+            "Avoid draining of battery",
+            "Minimize the error in reading",
+            "Adjust the current to safe value",
+            "Adjust the pointer to zero adjustment"
+          ],
+          "answer": "Adjust the pointer to zero adjustment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "What happens to the voltmeter if it is connected as an ammeter?",
+          "image_url": null,
+          "options": [
+            "Low reading",
+            "No deflection",
+            "Meter burns out",
+            "Overshoot deflection"
+          ],
+          "answer": "Low reading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "Why damping force is required in a moving coil instrument?",
+          "image_url": null,
+          "options": [
+            "Makes the needle movement faster",
+            "Helps the deflecting force to act fast",
+            "Brings the needle to its zero position",
+            "Arrests the needle without oscillations"
+          ],
+          "answer": "Arrests the needle without oscillations",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which quantity is measured by an electrodynamo type instrument?",
+          "image_url": null,
+          "options": [
+            "Power",
+            "Current",
+            "Voltage",
+            "Resistance"
+          ],
+          "answer": "Power",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Why two straight holes are provided in the aluminium disc in energy meter?",
+          "image_url": null,
+          "options": [
+            "To reduce the disc weight",
+            "For power factor correction",
+            "To prevent the flux leakage",
+            "To arrest the creeping error"
+          ],
+          "answer": "To arrest the creeping error",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "What happen if the voltmeter is connected in series to the load?",
+          "image_url": null,
+          "options": [
+            "Shows half of the reading",
+            "Shows no reading",
+            "Meter burnt out",
+            "No effect works normally"
+          ],
+          "answer": "Shows no reading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 300,
+          "question": "Which power wattmeter reads?",
+          "image_url": null,
+          "options": [
+            "Instantaneous power",
+            "True power",
+            "Apparent power",
+            "Reactive power"
+          ],
+          "answer": "True power",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "What is the name of meter?",
+          "image_url": null,
+          "options": [
+            "AC multirange ammeter",
+            "DC multirange voltmeter",
+            "AC and DC multirange ammeter",
+            "AC and DC multirange voltmeter"
+          ],
+          "answer": "DC multirange voltmeter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "What is the type of frequency meter?",
+          "image_url": null,
+          "options": [
+            "Weston type",
+            "Ratio meter type",
+            "Electro dynamic type",
+            "Mechanical resonance type"
+          ],
+          "answer": "Mechanical resonance type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "Which error is caused by the incorrect position of instrument reading?",
+          "image_url": null,
+          "options": [
+            "Device error",
+            "Human error",
+            "Influence error",
+            "Switching error"
+          ],
+          "answer": "Device error",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "How to identify the moving iron type instrument?",
+          "image_url": null,
+          "options": [
+            "No terminal marking",
+            "Terminal marked (+) only",
+            "One terminal coloured red",
+            "Terminal marked (+) and (-)"
+          ],
+          "answer": "No terminal marking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "Which force is required to move the pointer from zero position in an indicating instrument?",
+          "image_url": null,
+          "options": [
+            "Controlling force",
+            "Deflecting force",
+            "Air friction damping",
+            "Eddy current damping"
+          ],
+          "answer": "Deflecting force",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "What is the phase difference between 3 phase voltage system?",
+          "image_url": null,
+          "options": [
+            "90°",
+            "180°",
+            "120°",
+            "270°"
+          ],
+          "answer": "120°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "Which error if the energy meter disc rotating continuously on no load?",
+          "image_url": null,
+          "options": [
+            "Speed error",
+            "Phase error",
+            "Friction error",
+            "Creeping error"
+          ],
+          "answer": "Creeping error",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Domestic Appliances",
+      "quizWrap": [
+        {
+          "id": 308,
+          "question": "Which material is used to make heating element?",
+          "image_url": null,
+          "options": [
+            "Silver",
+            "Copper",
+            "Nichrome",
+            "Aluminium"
+          ],
+          "answer": "Nichrome",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "What is the purpose of sole plate in electric kettle?",
+          "image_url": null,
+          "options": [
+            "Acts as a balancing weight",
+            "Acts as an insulator for element",
+            "Protect the kettle base from damage",
+            "Keep the element in close contact with container"
+          ],
+          "answer": "Keep the element in close contact with container",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "What is the fault in a food mixer if it runs intermittently?",
+          "image_url": null,
+          "options": [
+            "Worn out brushes",
+            "Armature coil open",
+            "Defective commutator",
+            "Field winding partially short"
+          ],
+          "answer": "Worn out brushes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "What is the purpose of protection grooves at various places in a heater base plate?",
+          "image_url": null,
+          "options": [
+            "Radiate the heat properly",
+            "Retain the heating element firmly",
+            "Place the vessels firmly on heater plate",
+            "Protect the heating element from damage"
+          ],
+          "answer": "Retain the heating element firmly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "Which formula is used to calculate the heat generated as per Joules law?",
+          "image_url": null,
+          "options": [
+            "Heat generated = IRT / J cal",
+            "Heat generated = I²RT / J cal",
+            "Heat generated = IR²T / J cal",
+            "Heat generated = (IR)² T / J cal"
+          ],
+          "answer": "Heat generated = I²RT / J cal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "Which material is used as heat insulator in between the outer casing and inner tank of a geyser?",
+          "image_url": null,
+          "options": [
+            "Plastic",
+            "Glass wool",
+            "Asbestos",
+            "Thermocol"
+          ],
+          "answer": "Glass wool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "Which is the position for maximum output of the heater?",
+          "image_url": null,
+          "options": [
+            "Position 1",
+            "Position 2",
+            "Position 3",
+            "Position 4"
+          ],
+          "answer": "Position 2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 315,
+          "question": "Which electrical effect gang type electric bell works?",
+          "image_url": null,
+          "options": [
+            "Heating effect",
+            "Magnetic effect",
+            "Chemical effect",
+            "Gas ionization effect"
+          ],
+          "answer": "Magnetic effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "Which principle cooking range works?",
+          "image_url": null,
+          "options": [
+            "By magnetic effect",
+            "By heating effect of electric current",
+            "By gas ionization effect",
+            "By chemical effect"
+          ],
+          "answer": "By heating effect of electric current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "What is the defect in a single phase pump motor if it runs with slow speed?",
+          "image_url": null,
+          "options": [
+            "Defective capacitor",
+            "Open starting winding",
+            "Short in starting winding",
+            "Short in running winding"
+          ],
+          "answer": "Defective capacitor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "Which type of A.C single phase motor is used in food mixer?",
+          "image_url": null,
+          "options": [
+            "Universal motor",
+            "Repulsion motor",
+            "Split phase motor",
+            "Shaded pole motor"
+          ],
+          "answer": "Universal motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the function of stirrer motor in micro wave oven?",
+          "image_url": null,
+          "options": [
+            "Draws cooling air inside",
+            "Spreads the heat uniformly",
+            "Exhausts the hot air outside",
+            "Revolves and reflects the electromagnetic energy"
+          ],
+          "answer": "Revolves and reflects the electromagnetic energy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "What is the name of the part of electric iron?",
+          "image_url": null,
+          "options": [
+            "Sole plate",
+            "Pressure plate",
+            "Mica insulation",
+            "Asbestos sheet"
+          ],
+          "answer": "Sole plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "What is reason AC table fan runs very hot?",
+          "image_url": null,
+          "options": [
+            "Defective starting winding",
+            "Defective running winding",
+            "Defective capacitor",
+            "Wornout bushes"
+          ],
+          "answer": "Defective starting winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "What is the magnetron tube filament voltage used in microwave oven?",
+          "image_url": null,
+          "options": [
+            "1.5 V A.C",
+            "2.0 V A.C",
+            "3.0 V A.C",
+            "3.2 V A.C"
+          ],
+          "answer": "3.2 V A.C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "Calculate the heat generated in a electric heater of 1000 watt, 240 volt, worked for 5 minutes.",
+          "image_url": null,
+          "options": [
+            "70.5 Kilo calories",
+            "71.0 Kilo calories",
+            "71.6 Kilo calories",
+            "72.1 Kilo calories"
+          ],
+          "answer": "71.6 Kilo calories",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "What is the temperature range, maintained by thermostat in geyser?",
+          "image_url": null,
+          "options": [
+            "32° C to 88° C",
+            "10° C to 150° C",
+            "0° C to 130° C",
+            "0° C to 50° C"
+          ],
+          "answer": "32° C to 88° C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "What is the name of the circuit?",
+          "image_url": null,
+          "options": [
+            "Electronic fan regulator",
+            "Electronic voltage multiplier",
+            "Electronic voltage stabilizer",
+            "Electronic triggering circuit of SCR"
+          ],
+          "answer": "Electronic fan regulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "What is the function of neutral path in AC supply system for appliances?",
+          "image_url": null,
+          "options": [
+            "Provides current return path",
+            "Provides voltage level constant",
+            "Reduces voltage drop in wiring",
+            "Maintains load current constant"
+          ],
+          "answer": "Provides current return path",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "What is the function of rotary switch in food mixer?",
+          "image_url": null,
+          "options": [
+            "Over load protection",
+            "For reverse rotation",
+            "Over current protection",
+            "Speed selection"
+          ],
+          "answer": "Speed selection",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Transformar",
+      "quizWrap": [
+        {
+          "id": 328,
+          "question": "What is the function of buchholz relay in power transformer?",
+          "image_url": null,
+          "options": [
+            "Protection from high temperature",
+            "Protection from moisture entering in oil",
+            "Protection from pressure loading in tank",
+            "Protection from both overloading and short circuit"
+          ],
+          "answer": "Protection from both overloading and short circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "Which construction technique is used to reduce copper loss in larger transformers?",
+          "image_url": null,
+          "options": [
+            "Use of laminated core",
+            "By reducing core thickness",
+            "By using grain oriented core",
+            "Use stepped core arrangement"
+          ],
+          "answer": "Use stepped core arrangement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "Why the core of current transformer is having low reactance and low core losses?",
+          "image_url": null,
+          "options": [
+            "To minimise the burden",
+            "To maintain constant output",
+            "To prevent high static shield",
+            "To minimise the error in reading"
+          ],
+          "answer": "To minimise the error in reading",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "Which condition is to be satisfied if two transformers are connected in parallel?",
+          "image_url": null,
+          "options": [
+            "Same capacity",
+            "Same polarity",
+            "Same cooling method",
+            "Same type"
+          ],
+          "answer": "Same polarity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "What is the advantage of stepped core arrangement in larger transformers?",
+          "image_url": null,
+          "options": [
+            "Minimizes copper use",
+            "Reduces hysteresis loss",
+            "Reduces eddy current loss",
+            "Reduces the space for core"
+          ],
+          "answer": "Minimizes copper use",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "What is the purpose of tap changing in power transformers?",
+          "image_url": null,
+          "options": [
+            "Maintain primary voltage constant",
+            "Change voltage ratio in distribution",
+            "Maintain secondary voltage constant",
+            "Load the transformer for maximum efficiency"
+          ],
+          "answer": "Change voltage ratio in distribution",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "Why the load is disconnected before the OFF load tap changing operation?",
+          "image_url": null,
+          "options": [
+            "To disconnect the tappings from neutral point",
+            "To disconnect the moving contact of the diverter",
+            "To avoid heavy sparking at the contact points",
+            "To provide an electrical isolation for the windings"
+          ],
+          "answer": "To avoid heavy sparking at the contact points",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "Which is the indication if moisture contended transformer oil is placed for crackle test?",
+          "image_url": null,
+          "options": [
+            "A flash over occurs",
+            "A crackle sound is heard",
+            "A humming noise is heard",
+            "A sizzle noise is heard"
+          ],
+          "answer": "A crackle sound is heard",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "What is the disadvantage of auto transformer?",
+          "image_url": null,
+          "options": [
+            "More losses",
+            "Heavier in weight",
+            "Poor voltage regulation",
+            "Cannot isolate the secondary winding"
+          ],
+          "answer": "Cannot isolate the secondary winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 337,
+          "question": "Why distribution transformers are normally connected as primary in delta and secondary in star?",
+          "image_url": null,
+          "options": [
+            "To avoid over loading",
+            "To maintain constant voltage",
+            "To reduce transformer losses",
+            "To easy distribution of 3 phase 4 wire system"
+          ],
+          "answer": "To easy distribution of 3 phase 4 wire system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "How does the moisture is controlled in breather fitted on power transformers?",
+          "image_url": null,
+          "options": [
+            "Using silica gel",
+            "Using transformer oil",
+            "Using sodium chloride",
+            "Using ammonium jelly"
+          ],
+          "answer": "Using silica gel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "What is the purpose of using laminated core in transformer?",
+          "image_url": null,
+          "options": [
+            "Reduce copper loss",
+            "Reduce hysteresis loss",
+            "Reduce mechanical loss",
+            "Reduce eddy current loss"
+          ],
+          "answer": "Reduce eddy current loss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "How to determine copper loss in a transformer?",
+          "image_url": null,
+          "options": [
+            "Ratio test",
+            "Impulse test",
+            "Short circuit test",
+            "Open circuit test"
+          ],
+          "answer": "Short circuit test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "What is the cooling method of transformer?",
+          "image_url": null,
+          "options": [
+            "Oil natural cooling",
+            "Oil natural air forced cooling",
+            "Oil forced air forced cooling",
+            "Oil natural water forced cooling"
+          ],
+          "answer": "Oil natural cooling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "Which loss of transformer is determined by short circuit test?",
+          "image_url": null,
+          "options": [
+            "Copper loss",
+            "Windage loss",
+            "Hysteresis loss",
+            "Eddy current loss"
+          ],
+          "answer": "Copper loss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "Which power loss is assessed by open-circuit test on transformer?",
+          "image_url": null,
+          "options": [
+            "Hysteresis loss only",
+            "Eddy current loss only",
+            "Copper loss",
+            "Core loss"
+          ],
+          "answer": "Core loss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "What is the name of transformer?",
+          "image_url": null,
+          "options": [
+            "Air core transformer",
+            "Iron core transformer",
+            "Ring core transformer",
+            "Ferrite core transformer"
+          ],
+          "answer": "Air core transformer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "What is the composition of steel and silicon steel in transformer core?",
+          "image_url": null,
+          "options": [
+            "Steel 97% and silicon 3%",
+            "Steel 95% and silicon 5%",
+            "Steel 93% and silicon 7%",
+            "Steel 90% and silicon 10%"
+          ],
+          "answer": "Steel 93% and silicon 7%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "Which type of transformer is used for high frequency application?",
+          "image_url": null,
+          "options": [
+            "Ring core transformer",
+            "Ferrite core transformer",
+            "Silicon steel core transformer",
+            "Grain oriented core transformer"
+          ],
+          "answer": "Ferrite core transformer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 347,
+          "question": "What is the effect on CT if its secondary is kept open?",
+          "image_url": null,
+          "options": [
+            "CT primary burns out",
+            "Volt ampere capacity reduces",
+            "Volt ampere capacity increases",
+            "CT secondary winding burns out"
+          ],
+          "answer": "CT secondary winding burns out",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "What is the name of transformer?",
+          "image_url": null,
+          "options": [
+            "Auto transformer",
+            "Core type transformer",
+            "Shell type transformer",
+            "Audio frequency transformer"
+          ],
+          "answer": "Core type transformer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "Which method of cooling is used for distribution transformer up to 100 KVA?",
+          "image_url": null,
+          "options": [
+            "Forced oil cooling",
+            "Air blast method",
+            "Forced circulation of oil",
+            "Natural air method"
+          ],
+          "answer": "Natural air method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 350,
+          "question": "Which material is used to make core of power transformer?",
+          "image_url": null,
+          "options": [
+            "Soft iron",
+            "Rolled steel",
+            "Copper alloy",
+            "Cold rolled grain oriented"
+          ],
+          "answer": "Cold rolled grain oriented",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "Which condition is absolutely essential for parallel operation of two transformers?",
+          "image_url": null,
+          "options": [
+            "Nature of load",
+            "Type of cooling",
+            "Phase sequence",
+            "Class of insulation used"
+          ],
+          "answer": "Phase sequence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "What is the cause of deterioration of transformer oil?",
+          "image_url": null,
+          "options": [
+            "Over load",
+            "Short circuit",
+            "Due to moisture",
+            "Long time use"
+          ],
+          "answer": "Due to moisture",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

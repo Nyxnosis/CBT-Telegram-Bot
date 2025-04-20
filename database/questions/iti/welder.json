@@ -1,0 +1,4247 @@
+[
+    {
+      "module": "Introduction of Welding",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "Which operation is to remove burrs from a plate after cutting?",
+          "image_url": null,
+          "options": [
+            "Brushing",
+            "Filing",
+            "Scraping",
+            "Chiselling"
+          ],
+          "answer": "Filing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "Which part of hammer is shaped to fit the handle rigidly?",
+          "image_url": null,
+          "options": [
+            "Big hole",
+            "Eye hole",
+            "Key hole",
+            "Plain hole"
+          ],
+          "answer": "Eye hole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "How many types of electric arc welding process classified?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "5",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which tool is to be used to remove slag on welded bead?",
+          "image_url": null,
+          "options": [
+            "Chisel",
+            "Try square",
+            "Chipping hammer",
+            "Ball pane hammer"
+          ],
+          "answer": "Chipping hammer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "How the gas cylinder are secured?",
+          "image_url": null,
+          "options": [
+            "Lie - down position",
+            "Vertical position",
+            "Inclined position",
+            "Support the other cylinder"
+          ],
+          "answer": "Vertical position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "Which part of the hammer fits into the handle for it’s rigidity?",
+          "image_url": null,
+          "options": [
+            "Face",
+            "Pein",
+            "Cheek",
+            "Wedge"
+          ],
+          "answer": "Wedge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "Why should a welder clothes be free of oil or grease while welding?",
+          "image_url": null,
+          "options": [
+            "To protect the job",
+            "To reflect the arc rays",
+            "To avoid catching of fire",
+            "To protect the welding machine"
+          ],
+          "answer": "To avoid catching of fire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "Which of the following injury is common in gas welding?",
+          "image_url": null,
+          "options": [
+            "Electric shock",
+            "Burns due to flame",
+            "Bleeding due to cut injury",
+            "Injury by hot flying particles"
+          ],
+          "answer": "Burns due to flame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "Which is the treatment given to a person affected by accident on the spot?",
+          "image_url": null,
+          "options": [
+            "First aid",
+            "Second aid",
+            "First treatment",
+            "Second treatment"
+          ],
+          "answer": "First aid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What is the name called the weld reinforcement is resting on base metal?",
+          "image_url": null,
+          "options": [
+            "Butt weld",
+            "Fillet weld",
+            "Toe line",
+            "Toe of weld"
+          ],
+          "answer": "Toe of weld",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What is the first aid treatment shown in figure?",
+          "image_url": null,
+          "options": [
+            "Eye injury",
+            "Electric burns",
+            "Electric shock",
+            "Severe bleeding"
+          ],
+          "answer": "Electric shock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "What is the use of welding torch?",
+          "image_url": null,
+          "options": [
+            "Mixing the gases",
+            "Separate the gases",
+            "Flow of waste gases",
+            "Return the gas flow"
+          ],
+          "answer": "Mixing the gases",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "What action takes if severe bleeding?",
+          "image_url": null,
+          "options": [
+            "Sleep and rest",
+            "Apply pressure on the wound",
+            "Covered a wound tightly",
+            "Rolled - up news paper"
+          ],
+          "answer": "Apply pressure on the wound",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What happened if bench vice is over tightened?",
+          "image_url": null,
+          "options": [
+            "Box nut damaged",
+            "Spindle damaged",
+            "Work bench damaged",
+            "Work pieces damaged"
+          ],
+          "answer": "Spindle damaged",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the use of oxy - acetylene gas welding?",
+          "image_url": null,
+          "options": [
+            "Brazing",
+            "Thermit",
+            "Soldering",
+            "Resistance"
+          ],
+          "answer": "Soldering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "What is the effect of ultra violet and infrared rays if a welder exposed to that rays?",
+          "image_url": null,
+          "options": [
+            "Effect to body",
+            "Effect to eyes",
+            "Effect to face",
+            "Effect to skin"
+          ],
+          "answer": "Effect to eyes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "Which safety device is used to protect face from ultra-violet rays while welding?",
+          "image_url": null,
+          "options": [
+            "Tong",
+            "Try square",
+            "Hand shield",
+            "Chipping hammer"
+          ],
+          "answer": "Hand shield",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "What action should be taken, while the cylinder leakage?",
+          "image_url": null,
+          "options": [
+            "Move to a safe area",
+            "Move to near working area",
+            "Move to near main bar",
+            "Move to near welding machine"
+          ],
+          "answer": "Move to a safe area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "Which welding process is a slow welding?",
+          "image_url": null,
+          "options": [
+            "Carbon arc welding",
+            "Submerged arc welding",
+            "Shielded metal arc welding",
+            "Atomic hydrogen welding"
+          ],
+          "answer": "Carbon arc welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "How many types of welding processes classified according to heat?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Which is used for handling hot jobs?",
+          "image_url": null,
+          "options": [
+            "Tongs",
+            "Shawel",
+            "Poker",
+            "Snips"
+          ],
+          "answer": "Tongs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "Which is to wear for safety while handling thin sheets?",
+          "image_url": null,
+          "options": [
+            "Tongs",
+            "Clamp",
+            "Hand gloves",
+            "Hand screen"
+          ],
+          "answer": "Hand gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What is the type of clamp?",
+          "image_url": null,
+          "options": [
+            "C- Clamp",
+            "U - Clamp",
+            "Screw clamp",
+            "Jig and fixture"
+          ],
+          "answer": "C- Clamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "Which welding process is used for thicker plates and More production?",
+          "image_url": null,
+          "options": [
+            "Shielded metal arc welding",
+            "Manual metal arc welding",
+            "Sub - Merged arc welding",
+            "Atomic hydrogen welding"
+          ],
+          "answer": "Sub - Merged arc welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "Which file is having it’s width parallel through out it’s length?",
+          "image_url": null,
+          "options": [
+            "Flat file",
+            "Hand file",
+            "Rasp file",
+            "Curved file"
+          ],
+          "answer": "Hand file",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Metal Joining & Cutting process",
+      "quizWrap": [
+        {
+          "id": 25,
+          "question": "What is the name of the voltage shown in figure?",
+          "image_url": null,
+          "options": [
+            "Arc voltage",
+            "Open circuit",
+            "Closed circuit",
+            "Reversed circuit"
+          ],
+          "answer": "Open circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "What is the name of the machine shown in figure?",
+          "image_url": null,
+          "options": [
+            "Brazing",
+            "Soldering",
+            "Grooving",
+            "Forging"
+          ],
+          "answer": "Grooving",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which hand tool is used to remove excessive adhering slag after gas cutting?",
+          "image_url": null,
+          "options": [
+            "Chisel",
+            "Flat file",
+            "Chipping hammer",
+            "Cross cut hammer"
+          ],
+          "answer": "Chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "Which nozzle shown in figures requires replacement of nozzle?",
+          "image_url": null,
+          "options": [
+            "Nozzle A",
+            "Nozzle B",
+            "Nozzle C",
+            "Nozzle D"
+          ],
+          "answer": "Nozzle D",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "What is the use of ammeter?",
+          "image_url": null,
+          "options": [
+            "To measure current",
+            "To measure voltage",
+            "To measure pressure",
+            "To measure resistance"
+          ],
+          "answer": "To measure current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "What is the name of the cleaning shown in figure?",
+          "image_url": null,
+          "options": [
+            "Grinding",
+            "Brushing",
+            "Chemical",
+            "Mechanical"
+          ],
+          "answer": "Chemical",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "Which type of wire brush is used to clean the ferrous metals?",
+          "image_url": null,
+          "options": [
+            "Mild steel",
+            "Stainless steel",
+            "Carbon steel",
+            "Low carbon steel"
+          ],
+          "answer": "Carbon steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the purpose of setting root gap?",
+          "image_url": null,
+          "options": [
+            "To over some under cut",
+            "To control distortion",
+            "To get good penetration",
+            "Gap get closed due to expansion"
+          ],
+          "answer": "To get good penetration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "What is the effect shown in figure?",
+          "image_url": null,
+          "options": [
+            "Gravity force",
+            "Gas expansion",
+            "Surface tension",
+            "Electro magnetic"
+          ],
+          "answer": "Surface tension",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "What is the melting temperature of soft soldering?",
+          "image_url": null,
+          "options": [
+            "Below 350°C",
+            "Below 420°C",
+            "Above 420°C",
+            "Above 500°C"
+          ],
+          "answer": "Below 420°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "Which type of joints are used in sheet metal work?",
+          "image_url": null,
+          "options": [
+            "Rivet",
+            "Bolt and Nuts",
+            "Brazing",
+            "Soldering"
+          ],
+          "answer": "Rivet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "Which tool is used to open the cylinder valves?",
+          "image_url": null,
+          "options": [
+            "Wrench",
+            "Spindle key",
+            "Cutting player",
+            "Adjustable spanner"
+          ],
+          "answer": "Spindle key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "How many types of soldering can be classified?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is name of blowpipe part ‘x’ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Oxygen inlet",
+            "Oxygen control valve",
+            "Acetylene control valve",
+            "Cutting oxygen control valve"
+          ],
+          "answer": "Cutting oxygen control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "Why the surface cleaning is important?",
+          "image_url": null,
+          "options": [
+            "Remove oil and paint",
+            "Remove metal",
+            "Remove weld bead",
+            "Remove weld defect"
+          ],
+          "answer": "Remove oil and paint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "What is the circuit name, if the resistance are connected side by side?",
+          "image_url": null,
+          "options": [
+            "Series",
+            "Parallel",
+            "Inclined",
+            "Circular"
+          ],
+          "answer": "Parallel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is called, the first run depositor in the root of joint?",
+          "image_url": null,
+          "options": [
+            "Root run",
+            "Root face",
+            "Sealing run",
+            "Root penetration"
+          ],
+          "answer": "Root run",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "Which one is a good conductor?",
+          "image_url": null,
+          "options": [
+            "Wood",
+            "Mica",
+            "Copper",
+            "Plastic"
+          ],
+          "answer": "Copper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "Where is rivets are used?",
+          "image_url": null,
+          "options": [
+            "Sheet metal work",
+            "Industrial work",
+            "Automobile work",
+            "Structural work"
+          ],
+          "answer": "Sheet metal work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What is the name of joint if two members welded in the same plane?",
+          "image_url": null,
+          "options": [
+            "Lap joint",
+            "Tee joint",
+            "Butt joint",
+            "Edge joint"
+          ],
+          "answer": "Butt joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "What is the name of the rivet shown in figure?",
+          "image_url": null,
+          "options": [
+            "Pan head",
+            "Snap head",
+            "Flat head",
+            "Mushroom head"
+          ],
+          "answer": "Snap head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "What kind of energy is an electricity?",
+          "image_url": null,
+          "options": [
+            "Visible",
+            "Invisible",
+            "Seeable",
+            "Transparent"
+          ],
+          "answer": "Invisible",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is marked as part ‘x’ of a portable cutting machine?",
+          "image_url": null,
+          "options": [
+            "Speed control",
+            "Vertical control",
+            "Preheat control",
+            "Horizontal control"
+          ],
+          "answer": "Vertical control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the name of the type of joint for the symbol shown in “D”?",
+          "image_url": null,
+          "options": [
+            "Concave fillet",
+            "Convex double “V” butt",
+            "Flat (Flush) Single V butt weld",
+            "Flat (Flush) V butt weld with backing run"
+          ],
+          "answer": "Flat (Flush) V butt weld with backing run",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "Which type of wire brush is used to clean the Non - Ferrous metals?",
+          "image_url": null,
+          "options": [
+            "Mild steel",
+            "Carbon steel",
+            "Stainless steel",
+            "High carbon steel"
+          ],
+          "answer": "Stainless steel",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Welding techniques",
+      "quizWrap": [
+        {
+          "id": 50,
+          "question": "What is the name of the defect marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Over lap",
+            "Under cut",
+            "Porosity",
+            "Lack of fusion"
+          ],
+          "answer": "Under cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "Which material is made up of rectifier supporting plate?",
+          "image_url": null,
+          "options": [
+            "Copper",
+            "Mild steel",
+            "Aluminium",
+            "Stainless steel"
+          ],
+          "answer": "Aluminium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "What is the capacity of oxygen cylinder?",
+          "image_url": null,
+          "options": [
+            "5m³",
+            "7m³",
+            "10m³",
+            "15m³"
+          ],
+          "answer": "7m³",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "Which gas is dissolves in acetone liquid?",
+          "image_url": null,
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Acetylene"
+          ],
+          "answer": "Acetylene",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "What is the name of the defect marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Cracks",
+            "Porosity",
+            "Blow holes",
+            "Burn through"
+          ],
+          "answer": "Blow holes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "What arc length should be used to reduce the spatter?",
+          "image_url": null,
+          "options": [
+            "Long arc length",
+            "Short arc length",
+            "Normal arc length",
+            "Too long arc length"
+          ],
+          "answer": "Normal arc length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the name of the arc length shown in figure?",
+          "image_url": null,
+          "options": [
+            "Long",
+            "Short",
+            "Normal",
+            "Too long"
+          ],
+          "answer": "Normal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the colour of liquid oxygen?",
+          "image_url": null,
+          "options": [
+            "Pale blue",
+            "Dark blue",
+            "Pale yellow",
+            "Dark yellow"
+          ],
+          "answer": "Pale blue",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "What is the use of oxidising flame?",
+          "image_url": null,
+          "options": [
+            "Suitable for cast iron welding",
+            "Suitable for brass welding",
+            "Suitable for mild steel welding",
+            "Suitable for satellite, pipe welding"
+          ],
+          "answer": "Suitable for brass welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "Which metal is made of flash back arrestor?",
+          "image_url": null,
+          "options": [
+            "Steel",
+            "Nickel",
+            "Mild steel",
+            "Aluminium"
+          ],
+          "answer": "Mild steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "What is the name of welding method shown in figure?",
+          "image_url": null,
+          "options": [
+            "Skip welding",
+            "Back step welding",
+            "Wandering method",
+            "Intermittent method"
+          ],
+          "answer": "Back step welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What is the method of controlling method of distortion shown?",
+          "image_url": null,
+          "options": [
+            "Root gap",
+            "Arc length",
+            "Pre bending",
+            "Diverging allowance"
+          ],
+          "answer": "Diverging allowance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "Which arc length produces popping sound?",
+          "image_url": null,
+          "options": [
+            "Long arc length",
+            "Short arc length",
+            "Normal arc length",
+            "Too long arc length"
+          ],
+          "answer": "Short arc length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "How many pressure gauges are in regulator gas welding plant?",
+          "image_url": null,
+          "options": [
+            "One pressure gauge",
+            "Two pressure gauges",
+            "Three pressure gauges",
+            "Four pressure gauges"
+          ],
+          "answer": "Four pressure gauges",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "What is the indication of wrong polarity in DC welding?",
+          "image_url": null,
+          "options": [
+            "Electrode become red hot",
+            "Electrode will freeze with the job",
+            "Excess spatters and poor penetration",
+            "It will produce edge of plates melted off"
+          ],
+          "answer": "Excess spatters and poor penetration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "What should be the angle of filler rod, by rightward welding?",
+          "image_url": null,
+          "options": [
+            "30° - 40°",
+            "40° - 50°",
+            "50° - 60°",
+            "60° - 70°"
+          ],
+          "answer": "30° - 40°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "Which gas have a low boiling point?",
+          "image_url": null,
+          "options": [
+            "Oxygen",
+            "Carbon",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "answer": "Nitrogen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "How many types of distortion are there?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "What procedure is followed in welding pipe in 5 G position?",
+          "image_url": null,
+          "options": [
+            "Rotate pipe and weld vertically",
+            "Pipe not rotated weld vertically",
+            "Pipe not rotated and pipe axis 45°",
+            "Pipe welded 12’o clock to 6’o clock either by uphill or downhill method"
+          ],
+          "answer": "Pipe welded 12’o clock to 6’o clock either by uphill or downhill method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "Which type of arc produces humming sound?",
+          "image_url": null,
+          "options": [
+            "Long arc length",
+            "Short arc length",
+            "Normal arc length",
+            "Too long arc length"
+          ],
+          "answer": "Long arc length",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "What is the effect long arc in welding?",
+          "image_url": null,
+          "options": [
+            "Normal penetration",
+            "More penetration",
+            "Less penetration",
+            "Less weld deposit"
+          ],
+          "answer": "Less penetration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "What should be the angle for a double bevel butt joint?",
+          "image_url": null,
+          "options": [
+            "45°",
+            "35°",
+            "25°",
+            "20°"
+          ],
+          "answer": "45°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the type of distortion shown?",
+          "image_url": null,
+          "options": [
+            "Length distortion",
+            "Angular distortion",
+            "Transverse distortion",
+            "Longitudinal distortion"
+          ],
+          "answer": "Angular distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "What procedure is followed to connect the cylinder to gas regulator in gas welding?",
+          "image_url": null,
+          "options": [
+            "Open and close valve for few seconds",
+            "Open the valve for a longer period",
+            "No need to open the valve before connection",
+            "Open the valve for a few minutes of time"
+          ],
+          "answer": "Open and close valve for few seconds",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What is the symbol of oxygen?",
+          "image_url": null,
+          "options": [
+            "O₂",
+            "C₂",
+            "H₂O",
+            "C₂H₂"
+          ],
+          "answer": "O₂",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 75,
+          "question": "Which type of polarity is used in aluminium welding?",
+          "image_url": null,
+          "options": [
+            "Rectifier set",
+            "AC Transformer",
+            "Reverse polarity",
+            "Straight polarity"
+          ],
+          "answer": "Reverse polarity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "What is the name of arc length shown in figure?",
+          "image_url": null,
+          "options": [
+            "Long",
+            "Short",
+            "Normal",
+            "Medium"
+          ],
+          "answer": "Short",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "What is the name of the machine shown in figure?",
+          "image_url": null,
+          "options": [
+            "Rectifier",
+            "Inverters",
+            "Transformer",
+            "Generator"
+          ],
+          "answer": "Transformer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the name of small metal particles which are thrown out of the arc during welding?",
+          "image_url": null,
+          "options": [
+            "Slag",
+            "Spatters",
+            "Stub end",
+            "Weld metal"
+          ],
+          "answer": "Spatters",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "What is the symbol of flat or down hand position?",
+          "image_url": null,
+          "options": [
+            "F",
+            "H",
+            "v",
+            "Oh"
+          ],
+          "answer": "F",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "What is the type of distortion shown?",
+          "image_url": null,
+          "options": [
+            "Wide distortion",
+            "Angular distortion",
+            "Transverse distortion",
+            "Longitudinal distortion"
+          ],
+          "answer": "Transverse distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "What is the full form of CCMS?",
+          "image_url": null,
+          "options": [
+            "Copper Coated Mild Steel",
+            "Carbon Coated Mild Steel",
+            "Calcium Coated Mild Steel",
+            "Chromium Coated Mild Steel"
+          ],
+          "answer": "Copper Coated Mild Steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "What is the function of flux in gas welding?",
+          "image_url": null,
+          "options": [
+            "Prevent impurities",
+            "Combustion of metal",
+            "Strength of filler rod",
+            "Strength of electrode"
+          ],
+          "answer": "Prevent impurities",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What is the effect of arc blow?",
+          "image_url": null,
+          "options": [
+            "Less spatters",
+            "Poor fusion",
+            "Good weld",
+            "Good penetration"
+          ],
+          "answer": "Poor fusion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "Which Material is used in Manufacture gas cylinder?",
+          "image_url": null,
+          "options": [
+            "Forged steel",
+            "Nickel steel",
+            "Stainless steel",
+            "Solid Drawn steel"
+          ],
+          "answer": "Solid Drawn steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the colour of calcium carbide?",
+          "image_url": null,
+          "options": [
+            "Dark - Red",
+            "Dark - Grey",
+            "Dark - Blue",
+            "Dark - Yellow"
+          ],
+          "answer": "Dark - Grey",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "Which welding techniques, the welding starts at right hand edge and towards left?",
+          "image_url": null,
+          "options": [
+            "Leftward",
+            "Rightward",
+            "Backward",
+            "Up and Downward"
+          ],
+          "answer": "Leftward",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "What is the name of the defect marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Crack",
+            "Spatter",
+            "Porosity",
+            "Over lap"
+          ],
+          "answer": "Porosity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "What is the special method for safe storage of acetylene gas in cylinder?",
+          "image_url": null,
+          "options": [
+            "Stored in gaseous form",
+            "Stored in the solid form",
+            "Stored in semi-liquid form",
+            "Stored as dissolved gas in liquid acetone"
+          ],
+          "answer": "Stored as dissolved gas in liquid acetone",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "What is name of the brazing shown in figure?",
+          "image_url": null,
+          "options": [
+            "Dip brazing",
+            "Torch",
+            "Furnace",
+            "Induction"
+          ],
+          "answer": "Furnace",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "Which temperature liquid oxygen becomes solid?",
+          "image_url": null,
+          "options": [
+            "-200°C",
+            "-205°C",
+            "-218.4°C",
+            "-325.3°C"
+          ],
+          "answer": "-218.4°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "Which material is used to check the leakage of acetylene regulator connections?",
+          "image_url": null,
+          "options": [
+            "Salt water",
+            "Plain water",
+            "Soap water",
+            "Chemical water"
+          ],
+          "answer": "Soap water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "What is the angle of blowpipe in leftward technique?",
+          "image_url": null,
+          "options": [
+            "30°-40°",
+            "50°-60°",
+            "60°-70°",
+            "80°-90°"
+          ],
+          "answer": "60°-70°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "What is the use of calcium carbide?",
+          "image_url": null,
+          "options": [
+            "Produce acetylene gas",
+            "Produce oxygen gas",
+            "Produce nitrogen gas",
+            "Produce hydrogen gas"
+          ],
+          "answer": "Produce acetylene gas",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "Which symbol will indicate the welder to finish the required job?",
+          "image_url": null,
+          "options": [
+            "Weld symbol",
+            "Welding symbol",
+            "Elementary symbol",
+            "Supplementary symbol"
+          ],
+          "answer": "Supplementary symbol",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the name of the pressure system shown in figure?",
+          "image_url": null,
+          "options": [
+            "Low",
+            "High",
+            "Normal",
+            "Medium"
+          ],
+          "answer": "Low",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "What are the gas flame combination used for welding ferrous and non ferrous alloys?",
+          "image_url": null,
+          "options": [
+            "LPG + Air",
+            "Acetylene + Air",
+            "Acetylene + Oxygen",
+            "Hydrogen + Oxygen"
+          ],
+          "answer": "Acetylene + Oxygen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "Which size of filler rod should be used to weld 2.5mm thick plates, using nozzle 5 by leftward technique?",
+          "image_url": null,
+          "options": [
+            "1.60 mm",
+            "2.00 mm",
+            "2.50 mm",
+            "3.15 mm"
+          ],
+          "answer": "2.00 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "What is the name of the defect, a depression formed at the end of the weld?",
+          "image_url": null,
+          "options": [
+            "Crater",
+            "Under cut",
+            "Blow hole",
+            "Lack of fusion"
+          ],
+          "answer": "Crater",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "What is the percentage of calcium in calcium carbide?",
+          "image_url": null,
+          "options": [
+            "50.20%",
+            "57.30%",
+            "62.50%",
+            "75.30%"
+          ],
+          "answer": "62.50%",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Pipe welding techniques",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "Which type of filler rod shall contain higher percentage of iron?",
+          "image_url": null,
+          "options": [
+            "Ferrous",
+            "Non - ferrous",
+            "Alloy type of ferrous metals",
+            "Alloy type of non - ferrous metals"
+          ],
+          "answer": "Ferrous",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "How many segments are to be selected for welding 50 mm j pipe?",
+          "image_url": null,
+          "options": [
+            "3 segments",
+            "4 segments",
+            "6 segments",
+            "8 segments"
+          ],
+          "answer": "4 segments",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "What does the third digit of AWS codification in EB 5426HJX represent?",
+          "image_url": null,
+          "options": [
+            "Type of current",
+            "Type of covering",
+            "Type of tensile strength",
+            "Type of welding position"
+          ],
+          "answer": "Type of welding position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "How many types of manifold system are there?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the purpose of copper coating on mild steel filler rod used in gas welding?",
+          "image_url": null,
+          "options": [
+            "Rust proof",
+            "Water proof",
+            "Moisture proof",
+            "Increased filler dia"
+          ],
+          "answer": "Rust proof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "What is name of the develop shown in figure?",
+          "image_url": null,
+          "options": [
+            "Y joint",
+            "Tee joint",
+            "Elbow joint",
+            "Branch joint"
+          ],
+          "answer": "Branch joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "What is the metal used to make earth clamp in a welding machine?",
+          "image_url": null,
+          "options": [
+            "Iron",
+            "Brass",
+            "Aluminium",
+            "Copper alloy"
+          ],
+          "answer": "Copper alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "What is name of the manifold system, if more cylinder are coupled together?",
+          "image_url": null,
+          "options": [
+            "Portable",
+            "Series",
+            "Multiple",
+            "Stationary"
+          ],
+          "answer": "Stationary",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What do you call the non - coated electrodes?",
+          "image_url": null,
+          "options": [
+            "Row electrode",
+            "Bare electrode",
+            "Base electrode",
+            "Deep penetration electrode"
+          ],
+          "answer": "Bare electrode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "What are the two types of MS pipes?",
+          "image_url": null,
+          "options": [
+            "Forged pipe / Rolled pipe",
+            "Strip rolled / moulded type",
+            "Bent sheet pipe / Hot forged",
+            "Seamless pipe / Resistance welded pipe"
+          ],
+          "answer": "Seamless pipe / Resistance welded pipe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "Which one of the device is used to divide equal parts?",
+          "image_url": null,
+          "options": [
+            "Scale",
+            "Scriber",
+            "Compass",
+            "Try square"
+          ],
+          "answer": "Compass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the size of nozzle suitable for welding 50mm dia pipe, with 3.15mm wall thickness?",
+          "image_url": null,
+          "options": [
+            "5",
+            "7",
+            "10",
+            "13"
+          ],
+          "answer": "7",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the name of development drawing shown in figure?",
+          "image_url": null,
+          "options": [
+            "Y joint",
+            "90° Tee joint",
+            "90° Elbow joint",
+            "45° Branch joint"
+          ],
+          "answer": "90° Tee joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the current range required for 3.15mm dia MS electrode in arc welding?",
+          "image_url": null,
+          "options": [
+            "40 - 50 A",
+            "50 - 60 A",
+            "70 - 80 A",
+            "100-110 A"
+          ],
+          "answer": "100-110 A",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "What size of CCMS filler rod is used for finish run of ɸ 50mm pipe root welded using ɸ1.65mm filler?",
+          "image_url": null,
+          "options": [
+            "ɸ 1.6 mm",
+            "ɸ 3.0 mm",
+            "ɸ 3.5 mm",
+            "ɸ 4.0 mm"
+          ],
+          "answer": "ɸ 3.0 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "Which size of filler rod should be used to weld 2mm thick MS sheet?",
+          "image_url": null,
+          "options": [
+            "1.6 mm",
+            "2.0 mm",
+            "2.5 mm",
+            "3.15 mm"
+          ],
+          "answer": "1.6 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Pig tail",
+            "Regulator",
+            "Plug to seal",
+            "Unused connection"
+          ],
+          "answer": "Pig tail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "What are the views drawn in development drawing?",
+          "image_url": null,
+          "options": [
+            "Plan and Right side",
+            "Plan and Left side",
+            "Plan and Elevation",
+            "Elevation and Right side"
+          ],
+          "answer": "Plan and Elevation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "Which one of the following is used to convert AC to DC supply in a welding machine?",
+          "image_url": null,
+          "options": [
+            "Rectifier set",
+            "Motor generator set",
+            "Engine generator set",
+            "Welding transformer"
+          ],
+          "answer": "Rectifier set",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "What is the name of the joint shown in figure?",
+          "image_url": null,
+          "options": [
+            "Yʹ joint",
+            "Tee joint",
+            "Butt joint",
+            "Elbow joint"
+          ],
+          "answer": "Yʹ joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "What is the name of the position shown in figure? Pipe shall not be rotated during welding.",
+          "image_url": null,
+          "options": [
+            "1G",
+            "2G",
+            "5G",
+            "6G"
+          ],
+          "answer": "5G",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "Which filler rod is used for bronze welding of cast iron, malleable iron and copper?",
+          "image_url": null,
+          "options": [
+            "Manganese, Bronze, filler rod",
+            "Copper, Phosphorus, filler rod",
+            "Copper, Phosphorus alloy filler rod",
+            "Copper, Zinc, Nickel filler rod"
+          ],
+          "answer": "Copper, Zinc, Nickel filler rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What type of edge preparation is needed, for gas welding a pipe, with wall thickness 6mm?",
+          "image_url": null,
+          "options": [
+            "Single “V”",
+            "Single bevel",
+            "Square edge with root gap",
+            "Square edge without root gap"
+          ],
+          "answer": "Single “V”",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the name of the development drawing shown in figure?",
+          "image_url": null,
+          "options": [
+            "Yʹ joint",
+            "Tee joint",
+            "Elbow joint",
+            "Locked groove joint"
+          ],
+          "answer": "Yʹ joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "How is the electrode size identified?",
+          "image_url": null,
+          "options": [
+            "Length of electrode",
+            "Thickness of flux coated",
+            "Diameter (over all) of electrode",
+            "Diameter of inner core wire"
+          ],
+          "answer": "Diameter of inner core wire",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Weldability of metals & Types of inspection methods",
+      "quizWrap": [
+        {
+          "id": 125,
+          "question": "What is the name of the tool shown in figure?",
+          "image_url": null,
+          "options": [
+            "Brazing cutting tool",
+            "Carbide brazed cutting tool",
+            "Single - point brazed tool",
+            "Double - point brazed tool"
+          ],
+          "answer": "Carbide brazed cutting tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "What flux is used in welding brass?",
+          "image_url": null,
+          "options": [
+            "Anti - borax",
+            "Borax paste",
+            "Cryolite and barium chloride",
+            "Zinc chloride and potassium dichromate"
+          ],
+          "answer": "Borax paste",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "What is the melting point of zinc?",
+          "image_url": null,
+          "options": [
+            "200°",
+            "419°C",
+            "619°C",
+            "1083°C"
+          ],
+          "answer": "419°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "How many stages are there in visual inspection in NDT?",
+          "image_url": null,
+          "options": [
+            "Two stages",
+            "Three stages",
+            "Four stages",
+            "Five stages"
+          ],
+          "answer": "Three stages",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "What are the costs involved in welding job?",
+          "image_url": null,
+          "options": [
+            "Electrode, power, labour",
+            "Material and machining",
+            "Material and preparation",
+            "Proportion cost and works cost"
+          ],
+          "answer": "Electrode, power, labour",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What is the melting point of pure aluminium?",
+          "image_url": null,
+          "options": [
+            "320°C",
+            "450°C",
+            "659°C",
+            "1083°C"
+          ],
+          "answer": "659°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "What is the name of test?",
+          "image_url": null,
+          "options": [
+            "Tensile test",
+            "Impact test",
+            "Free bend test",
+            "Guided bend test"
+          ],
+          "answer": "Guided bend test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "How many methods of destructive test?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "What is the colour of copper?",
+          "image_url": null,
+          "options": [
+            "Blue",
+            "Yellow",
+            "Maroon",
+            "Reddish"
+          ],
+          "answer": "Reddish",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "What is the main defect occurred in stainless steel?",
+          "image_url": null,
+          "options": [
+            "Arc blow",
+            "Distortion",
+            "Weld decay",
+            "Lack of fusion"
+          ],
+          "answer": "Weld decay",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "Which are the common alloying element of brass?",
+          "image_url": null,
+          "options": [
+            "Copper and tin",
+            "Bismuth and tin",
+            "Antimony and tin",
+            "Copper and zinc"
+          ],
+          "answer": "Copper and zinc",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is the percentage of carbon content in mild steel?",
+          "image_url": null,
+          "options": [
+            "0.05 to 0.30",
+            "0.12 to 0.35",
+            "0.15 to 0.4",
+            "0.7 to 0.45"
+          ],
+          "answer": "0.05 to 0.30",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "Which flame is suitable for low carbon steel in OAW?",
+          "image_url": null,
+          "options": [
+            "Neutral",
+            "Oxidizing",
+            "Carburising",
+            "Slightly neutral"
+          ],
+          "answer": "Neutral",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "How the construction of a nozzle for gouging is identified?",
+          "image_url": null,
+          "options": [
+            "Straight nozzle with single preheating hole",
+            "Bent nozzle with sectorial preheating holes",
+            "Fully bent nozzle with circular preheating holes",
+            "Slightly bent nozzle with circular preheating six holes"
+          ],
+          "answer": "Slightly bent nozzle with circular preheating six holes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "What is the name of the tool shown in figure?",
+          "image_url": null,
+          "options": [
+            "Brazing cutting tool",
+            "Carbide brazed tool",
+            "Single point brazed tool",
+            "Double point brazed tool"
+          ],
+          "answer": "Brazing cutting tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the name of the tool shown in figure?",
+          "image_url": null,
+          "options": [
+            "Brazing cutting tool",
+            "Carbide brazed tool",
+            "Single - point brazed tool",
+            "Double - point brazed tool"
+          ],
+          "answer": "Single - point brazed tool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "How is the scale and oxide removed from stainless steel weld?",
+          "image_url": null,
+          "options": [
+            "Peening",
+            "Cooling in oil",
+            "Cooling in sand",
+            "Heating up to 950° to 1100°C and quenched in water"
+          ],
+          "answer": "Heating up to 950° to 1100°C and quenched in water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "What is the name of the steel material which are not weldable?",
+          "image_url": null,
+          "options": [
+            "High carbon steel",
+            "Medium carbon steel",
+            "Austenitic stainless steel",
+            "Ferrite and martensitic stainless steel"
+          ],
+          "answer": "Ferrite and martensitic stainless steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the purpose of inspection in welding?",
+          "image_url": null,
+          "options": [
+            "Determine faults and quality weld",
+            "Determine the material",
+            "Determine the welded metal",
+            "Determine the electrode fusibility"
+          ],
+          "answer": "Determine faults and quality weld",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Pressure",
+            "Gasket",
+            "Work coil",
+            "Thermo plastic part"
+          ],
+          "answer": "Work coil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the use of metallic arc cutting and gauging?",
+          "image_url": null,
+          "options": [
+            "To remove casting",
+            "To remove rivets",
+            "To remove dust",
+            "To remove weld bead"
+          ],
+          "answer": "To remove rivets",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Spray",
+            "Electrode arc",
+            "Power lead",
+            "Flux coating"
+          ],
+          "answer": "Spray",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "What is the percentage of carbon in medium carbon steel?",
+          "image_url": null,
+          "options": [
+            "0.05% to 0.30%",
+            "0.05% to 0.8%",
+            "0.30% to 0.6%",
+            "0.6% to 1.2%"
+          ],
+          "answer": "0.30% to 0.6%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "What defect occurred, due to loss of zinc in brass welding?",
+          "image_url": null,
+          "options": [
+            "Spatter",
+            "Porosity",
+            "Over lap",
+            "Under cut"
+          ],
+          "answer": "Porosity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "What is the name of part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Job",
+            "Kerf",
+            "Covering",
+            "Steel core"
+          ],
+          "answer": "Kerf",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 150,
+          "question": "Which one is added to make cutting tools stronger?",
+          "image_url": null,
+          "options": [
+            "Calcium carbide",
+            "Tungsten carbide",
+            "Sodium carbide",
+            "Potassium carbide"
+          ],
+          "answer": "Tungsten carbide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the necessity of allowing elements?",
+          "image_url": null,
+          "options": [
+            "Improve physical properties",
+            "Improve chemical properties",
+            "Improve corrosive properties",
+            "Improve mechanical properties"
+          ],
+          "answer": "Improve mechanical properties",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is the type of arc cutting shown in figure?",
+          "image_url": null,
+          "options": [
+            "Metal arc",
+            "Carbon arc",
+            "Oxygen arc",
+            "Plasma arc"
+          ],
+          "answer": "Metal arc",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "Which type of stainless steel is weldable?",
+          "image_url": null,
+          "options": [
+            "Nickel type",
+            "Ferrite type",
+            "Stabilized type",
+            "Chromium type"
+          ],
+          "answer": "Stabilized type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "How many types of preheating are there?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "Which method of test, a sudden force is applied an object?",
+          "image_url": null,
+          "options": [
+            "Impact",
+            "Fatigue",
+            "Tensile",
+            "Free bend"
+          ],
+          "answer": "Impact",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "Which one is the properties of cast iron?",
+          "image_url": null,
+          "options": [
+            "Brittle",
+            "Ductile",
+            "Non - Magnetic",
+            "Low compressive strength"
+          ],
+          "answer": "Brittle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "Which metal in welding process is subjected to “Weld decay” defect?",
+          "image_url": null,
+          "options": [
+            "Brass",
+            "Copper",
+            "Mild steel",
+            "Stainless steel"
+          ],
+          "answer": "Stainless steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "Which stage the root gap is set in welding process?",
+          "image_url": null,
+          "options": [
+            "Before welding stage",
+            "During welding stage",
+            "After welding stage",
+            "Finishing welding stage"
+          ],
+          "answer": "Before welding stage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "What is mean by preheating?",
+          "image_url": null,
+          "options": [
+            "Before welding",
+            "After welding",
+            "During welding",
+            "Total welding"
+          ],
+          "answer": "Before welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "Which one of the flux is used in brass welding?",
+          "image_url": null,
+          "options": [
+            "Borax",
+            "Zinc chloride",
+            "Sodium nitrate",
+            "Copper silver alloy"
+          ],
+          "answer": "Borax",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "What is the name of the preheating shown in figure?",
+          "image_url": null,
+          "options": [
+            "Full",
+            "Local",
+            "Direct",
+            "Indirect"
+          ],
+          "answer": "Local",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "What is the main reason, that aluminium is difficult to weld?",
+          "image_url": null,
+          "options": [
+            "Less weight",
+            "Oxide formation",
+            "High thermal conductivity",
+            "Better strength weight ratio"
+          ],
+          "answer": "Oxide formation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "How many types of cast iron are there?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "4",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "Which flame is suitable for brass welding?",
+          "image_url": null,
+          "options": [
+            "Neutral",
+            "Oxidizing",
+            "Carburizing",
+            "Slightly neutral"
+          ],
+          "answer": "Oxidizing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "Which one is controlled distortion in copper welding?",
+          "image_url": null,
+          "options": [
+            "Key hole",
+            "Chill plates",
+            "Purging gas",
+            "Filler rod"
+          ],
+          "answer": "Chill plates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "Which one is the properties of aluminium?",
+          "image_url": null,
+          "options": [
+            "Magnetic",
+            "Less ductile",
+            "Non - Magnetic",
+            "Brittleness"
+          ],
+          "answer": "Non - Magnetic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "What is the colour of aluminium?",
+          "image_url": null,
+          "options": [
+            "White",
+            "Brown",
+            "Silvery grey",
+            "Silvery white"
+          ],
+          "answer": "Silvery white",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What flux is to be used for gas welding stainless steel plates?",
+          "image_url": null,
+          "options": [
+            "Borax flux",
+            "Anti - Borax",
+            "Cryolite and barium chloride",
+            "Zinc chloride and potassium dichromate paste"
+          ],
+          "answer": "Zinc chloride and potassium dichromate paste",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "Which method of test is conducted to know the tensile strength and ductility?",
+          "image_url": null,
+          "options": [
+            "Impact",
+            "Tensile",
+            "Fatigue",
+            "Guided bend"
+          ],
+          "answer": "Tensile",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Pressure",
+            "Work coil",
+            "Gasket",
+            "Thermo plastic part"
+          ],
+          "answer": "Gasket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "What type of preheating is done only at the portion of weld?",
+          "image_url": null,
+          "options": [
+            "Full",
+            "Local",
+            "Direct",
+            "Indirect"
+          ],
+          "answer": "Local",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "Which type of steel is suitable for welding?",
+          "image_url": null,
+          "options": [
+            "Ferrite",
+            "Martin",
+            "Austenitic",
+            "Weld"
+          ],
+          "answer": "Austenitic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What are the alloying elements are found in brass?",
+          "image_url": null,
+          "options": [
+            "Copper & Tin",
+            "Copper & Zinc",
+            "Copper & Lead",
+            "Copper & Nickel"
+          ],
+          "answer": "Copper & Zinc",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What are the elements are found in stainless steel?",
+          "image_url": null,
+          "options": [
+            "Zinc, Copper & Tin",
+            "Zinc, Copper & Nickel",
+            "Tin, Zinc & Iron",
+            "Iron, Chromium and Nickel"
+          ],
+          "answer": "Iron, Chromium and Nickel",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "GMAW techniques",
+      "quizWrap": [
+        {
+          "id": 175,
+          "question": "Which combination of shield gas in GMAW process produce good arc stability for carbon steel?",
+          "image_url": null,
+          "options": [
+            "Argon + 20% CO₂",
+            "CO₂",
+            "Pure argon",
+            "Argon + 5% CO₂"
+          ],
+          "answer": "Argon + 5% CO₂",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the purpose of using copper coated filler wire in MIG / MAG welding?",
+          "image_url": null,
+          "options": [
+            "To remove fumes",
+            "To prevent rust",
+            "To prevent atmosphere",
+            "To prevent base metal reaction"
+          ],
+          "answer": "To remove fumes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What defects occur to a weld joint, if it is provided with insufficient heat input?",
+          "image_url": null,
+          "options": [
+            "Lack of fusion",
+            "Lack of penetration",
+            "Lack of metal deposit",
+            "Uneven bead deposit"
+          ],
+          "answer": "Lack of penetration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is the name of part marked as ‘X’ in the submerged arc welding?",
+          "image_url": null,
+          "options": [
+            "Wire feeder",
+            "Auto torch",
+            "Flux hopper",
+            "Electrode lead"
+          ],
+          "answer": "Auto torch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the name of welding process if the arc produced by a consumable metal electrode is protected by inert gas?",
+          "image_url": null,
+          "options": [
+            "MAG welding",
+            "MIG welding",
+            "TIG welding",
+            "Plasma welding"
+          ],
+          "answer": "MIG welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "What type of safety equipment is worn while checking the welding joint of a overhead crane frame?",
+          "image_url": null,
+          "options": [
+            "Apron",
+            "Helmet",
+            "Hand gloves",
+            "Hand screen"
+          ],
+          "answer": "Helmet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "Which is the operation to relieve residual stresses from the welding joint?",
+          "image_url": null,
+          "options": [
+            "Pre-heating",
+            "Peening",
+            "Drilling",
+            "Post heating"
+          ],
+          "answer": "Post heating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "What is the distinct differences between GMAW and FCAW equipments?",
+          "image_url": null,
+          "options": [
+            "Nozzle and torch",
+            "Construction of torch and feed rollers",
+            "Machine and torch",
+            "Feed rolls and gas cylinders"
+          ],
+          "answer": "Construction of torch and feed rollers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What remedies should taken to minimize the porosity?",
+          "image_url": null,
+          "options": [
+            "High current",
+            "Work piece dirty",
+            "Dirty welding wire",
+            "Check proper gas flow rate"
+          ],
+          "answer": "Check proper gas flow rate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the part marked as ‘x’ in GMAW wire feed unit?",
+          "image_url": null,
+          "options": [
+            "Gear box",
+            "Idler gear",
+            "Wire feed roller",
+            "Input guide assembly"
+          ],
+          "answer": "Idler gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "Which gas has a higher thermal heat conductivity than argon?",
+          "image_url": null,
+          "options": [
+            "Oxygen",
+            "Acetylene",
+            "Helium",
+            "Carbon di oxide"
+          ],
+          "answer": "Carbon di oxide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "What should be the initial angle of two plates in a T joint if the final angle between them is 90° after completion of welding?",
+          "image_url": null,
+          "options": [
+            "93°",
+            "90°",
+            "85°",
+            "75°"
+          ],
+          "answer": "93°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the purpose of fitting clear glasses on either side of coloured glass in a helmet?",
+          "image_url": null,
+          "options": [
+            "Protect from rays",
+            "Protect from heat",
+            "Protect from spatters",
+            "Protect from radiation"
+          ],
+          "answer": "Protect from spatters",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "What type of rollers are used to Steel and Hard wires?",
+          "image_url": null,
+          "options": [
+            "V rollers",
+            "V knurled",
+            "U knurled",
+            "U grooved"
+          ],
+          "answer": "V rollers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "What protective equipment (PPE) is used to protect hand from burning injury?",
+          "image_url": null,
+          "options": [
+            "Apron",
+            "Goggles",
+            "Protective shield",
+            "Leather gloves"
+          ],
+          "answer": "Leather gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "What is the main purpose of normalising?",
+          "image_url": null,
+          "options": [
+            "To control hardness",
+            "To prevent cracking",
+            "Welding operation easier",
+            "Grain of uniform structure"
+          ],
+          "answer": "Grain of uniform structure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the full form of FCAW?",
+          "image_url": null,
+          "options": [
+            "Flux Cored Arc Welding",
+            "Fuel Cored Arc Welding",
+            "Fluid Cored Arc Welding",
+            "Flux Coal Arc Welding"
+          ],
+          "answer": "Flux Cored Arc Welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What is the solution if burn back occurs due to irregular wire feeding in GMAW process?",
+          "image_url": null,
+          "options": [
+            "Cut out kink wire",
+            "Replace of spool",
+            "Cut the kink wire and replace spool",
+            "Adjusted to kinked wire again"
+          ],
+          "answer": "Cut the kink wire and replace spool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "Which is the weld position of GMA welding if the weld is deposited underside of the job?",
+          "image_url": null,
+          "options": [
+            "Vertical position",
+            "Horizontal position",
+            "Over head position",
+            "Down head position"
+          ],
+          "answer": "Over head position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "Which welding process granulated flux is fed through hopper to the welding spot?",
+          "image_url": null,
+          "options": [
+            "GTAW",
+            "SMAW",
+            "GMAW",
+            "SAW"
+          ],
+          "answer": "SAW",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "Why different type of pressure rollers are used in FCAW?",
+          "image_url": null,
+          "options": [
+            "Knurled rollers",
+            "Without roller of travel wire",
+            "With pressure of tubular wire",
+            "Positive feeding without pressure on tubular wire"
+          ],
+          "answer": "Positive feeding without pressure on tubular wire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is called the width of parent metal affected by thermal cycle?",
+          "image_url": null,
+          "options": [
+            "Crater",
+            "Under cut",
+            "Over lapping",
+            "Heat affected zone"
+          ],
+          "answer": "Heat affected zone",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "Which one is checked by preheated temperature?",
+          "image_url": null,
+          "options": [
+            "Chalk piece",
+            "Colour pencils",
+            "Colour crayons",
+            "Wax crayons"
+          ],
+          "answer": "Wax crayons",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "How the filler wire is fed in the GMAW welding process?",
+          "image_url": null,
+          "options": [
+            "Manually",
+            "No feeding",
+            "Automatically",
+            "Semi automatic"
+          ],
+          "answer": "Automatically",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the use of back strips and bars while welding?",
+          "image_url": null,
+          "options": [
+            "To support the root pass",
+            "To strength the job",
+            "To minimise spatter",
+            "To minimise the Distortion and Contraction"
+          ],
+          "answer": "To support the root pass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 200,
+          "question": "How the repairs of cracks in cast iron component carried out?",
+          "image_url": null,
+          "options": [
+            "By using clamps during welding process",
+            "Similar to arc welding mild steel plate",
+            "Local preheating, leftward welding technique flame heating each layer",
+            "Cracks repaired using appropriate electrode"
+          ],
+          "answer": "Local preheating, leftward welding technique flame heating each layer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "What is the advantage of GMAW?",
+          "image_url": null,
+          "options": [
+            "Reduced distortion",
+            "Thin metals only welded",
+            "Deposition rate is less",
+            "Welding only one position"
+          ],
+          "answer": "Reduced distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "How many types of thermit welding?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "Which one of the device is used to control the speed of wire electrode in GMAW?",
+          "image_url": null,
+          "options": [
+            "Torch",
+            "Contact tip",
+            "Steel liners",
+            "Wire feeder"
+          ],
+          "answer": "Wire feeder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "How much gas flow rate is required to weld a butt joint with 0.8 mm dia MS filler rod of wire feed rate 3 - 4 m/min at 18 to 20 volts?",
+          "image_url": null,
+          "options": [
+            "6 to 8 Lpm",
+            "8 to 10 Lpm",
+            "10 to 12 Lpm",
+            "12 to 14 Lpm"
+          ],
+          "answer": "8 to 10 Lpm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "Which kind of metals can be welded in GMAW?",
+          "image_url": null,
+          "options": [
+            "Only thin",
+            "Only thick",
+            "Only pipes",
+            "Thin and Thick"
+          ],
+          "answer": "Thin and Thick",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "What is the purpose of preheat?",
+          "image_url": null,
+          "options": [
+            "Reduce spatters",
+            "Reduce porosity",
+            "Reduce crack",
+            "Reduce shrinkage"
+          ],
+          "answer": "Reduce shrinkage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "How many types of flux cored wires are used in FCAW?",
+          "image_url": null,
+          "options": [
+            "2 types",
+            "3 types",
+            "4 types",
+            "5 types"
+          ],
+          "answer": "2 types",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "What is the name of the defect shown in figure?",
+          "image_url": null,
+          "options": [
+            "Spatter",
+            "Porosity",
+            "Distortion",
+            "Burn through"
+          ],
+          "answer": "Distortion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "What are the positions used in SAW?",
+          "image_url": null,
+          "options": [
+            "Flat",
+            "Vertical",
+            "Overhead",
+            "Flat and horizontal"
+          ],
+          "answer": "Flat and horizontal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "Which welding process, the arc is invisible?",
+          "image_url": null,
+          "options": [
+            "SAW",
+            "OAW",
+            "SMAW",
+            "MMAW"
+          ],
+          "answer": "SAW",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "Which metal is welded with self shielded type FCAW?",
+          "image_url": null,
+          "options": [
+            "Low alloy steel",
+            "Stainless steel",
+            "Carbon steel",
+            "Different metal and different position"
+          ],
+          "answer": "Carbon steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "What is the operation to clean the cylinder valve before fixing the regulator to the argon cylinder?",
+          "image_url": null,
+          "options": [
+            "Closing",
+            "Opening",
+            "Shutting",
+            "Cracking"
+          ],
+          "answer": "Cracking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "What is the name of the part mark ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Fixing bar",
+            "Straight bar",
+            "Backing bar",
+            "Supporting bar"
+          ],
+          "answer": "Backing bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "What is the usual length of tack weld in a T-joint in GMAW flat position welding?",
+          "image_url": null,
+          "options": [
+            "5 mm",
+            "10 mm",
+            "15 mm",
+            "20 mm"
+          ],
+          "answer": "10 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "How much root gap ‘x’ is maintained?",
+          "image_url": null,
+          "options": [
+            "1 mm",
+            "2 mm",
+            "1.5 mm",
+            "2.5 mm"
+          ],
+          "answer": "2 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What type of joints are made by the groove welds in GMA welding?",
+          "image_url": null,
+          "options": [
+            "Butt weld",
+            "T weld",
+            "Corner weld",
+            "Lap weld"
+          ],
+          "answer": "Butt weld",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "Why the regulator is condense and freeze in GMAW?",
+          "image_url": null,
+          "options": [
+            "Dust",
+            "Moisture",
+            "Air leakage",
+            "Gas over flow"
+          ],
+          "answer": "Moisture",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "What is the name of part marked as ‘X’ in the GMAW?",
+          "image_url": null,
+          "options": [
+            "Electrode wire",
+            "Contact tip",
+            "Nozzle",
+            "CO₂ gas"
+          ],
+          "answer": "Nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the groove angle for single ʹVʹ butt joint in GMAW?",
+          "image_url": null,
+          "options": [
+            "10° to 20°",
+            "25° to 30°",
+            "40° to 45°",
+            "50° to 55°"
+          ],
+          "answer": "40° to 45°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "Which gas is generated during GMAW on using CO₂ as shielding gas?",
+          "image_url": null,
+          "options": [
+            "Helium",
+            "Carbon monoxide",
+            "Argon",
+            "Oxygen"
+          ],
+          "answer": "Carbon monoxide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "Which defect is avoid to use run on and run off pieces?",
+          "image_url": null,
+          "options": [
+            "Crater",
+            "Under cut",
+            "Porosity",
+            "Spatter"
+          ],
+          "answer": "Crater",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "Which shielding gas is used in MIG welding?",
+          "image_url": null,
+          "options": [
+            "Argon",
+            "Argon + 20% CO₂",
+            "Argon + 1% oxygen",
+            "Argon + 10% hydrogen"
+          ],
+          "answer": "Argon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "What is the name of the part marked as ‘X’ in the GMAW wire feed unit?",
+          "image_url": null,
+          "options": [
+            "Gear box",
+            "Centre guide",
+            "Idler gear",
+            "Wire feed roller"
+          ],
+          "answer": "Idler gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "Which angle of pre setting is to compensate distortion on horizontal single V butt joint metal thickness 10 mm and root gap 2mm ?",
+          "image_url": null,
+          "options": [
+            "173°",
+            "178°",
+            "180°",
+            "183°"
+          ],
+          "answer": "183°",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "GTAW techniques",
+      "quizWrap": [
+        {
+          "id": 225,
+          "question": "What type of torch shown in figure?",
+          "image_url": null,
+          "options": [
+            "Air cooled",
+            "Water cooled",
+            "Oil cooled",
+            "Gas cooled"
+          ],
+          "answer": "Air cooled",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the purpose of H.F. unit in TIG welding?",
+          "image_url": null,
+          "options": [
+            "To produce the AC",
+            "To change AC to DC",
+            "To produce power supply",
+            "To initiate the arc without touching the electrode on the base metal"
+          ],
+          "answer": "To initiate the arc without touching the electrode on the base metal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the colour of argon cylinder?",
+          "image_url": null,
+          "options": [
+            "Red",
+            "Black",
+            "Maroon",
+            "Peacock blue"
+          ],
+          "answer": "Peacock blue",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "Which power supply is recommended for pure tungsten?",
+          "image_url": null,
+          "options": [
+            "AC",
+            "DC",
+            "Inverter",
+            "Engine driver"
+          ],
+          "answer": "AC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "What type of power source are commonly used?",
+          "image_url": null,
+          "options": [
+            "Constant current",
+            "Constant voltage",
+            "Constant resistance",
+            "Constant frequency"
+          ],
+          "answer": "Constant current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Plug",
+            "Switch",
+            "Collet",
+            "Adaptor"
+          ],
+          "answer": "Collet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "Which electrode is used in TIG welding process?",
+          "image_url": null,
+          "options": [
+            "Zinc electrode",
+            "Carbon electrode",
+            "Tungsten",
+            "Magnesium electrode"
+          ],
+          "answer": "Tungsten",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Collet holder",
+            "Cap",
+            "Collet",
+            "Nozzle"
+          ],
+          "answer": "Cap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "What is the full form of GTAW?",
+          "image_url": null,
+          "options": [
+            "Groove Tungsten Arc Welding",
+            "Grip Tungsten Arc Welding",
+            "Gas Tungsten Arc Welding",
+            "Galvanised Tungsten Arc Welding"
+          ],
+          "answer": "Gas Tungsten Arc Welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "What is the main source of heat to the workpiece in TIG welding?",
+          "image_url": null,
+          "options": [
+            "Cable current",
+            "By Torch",
+            "By tube",
+            "By electrode"
+          ],
+          "answer": "Cable current",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "Which one is to direct the correct gas flow over the weld pool?",
+          "image_url": null,
+          "options": [
+            "Leads",
+            "Collet",
+            "Back cape",
+            "Ceramic nozzle"
+          ],
+          "answer": "Ceramic nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the name of the torch shown in figure?",
+          "image_url": null,
+          "options": [
+            "Air cooled",
+            "Gas cooled",
+            "Oil cooled",
+            "Water cooled"
+          ],
+          "answer": "Water cooled",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "Which gas is heavier than air?",
+          "image_url": null,
+          "options": [
+            "Argon",
+            "Helium",
+            "Oxygen",
+            "Carbon dioxide"
+          ],
+          "answer": "Argon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "What is the angle of electrode tip by setting DCEN for SS welding by TIG welding process?",
+          "image_url": null,
+          "options": [
+            "50°",
+            "40°",
+            "45°",
+            "60°"
+          ],
+          "answer": "60°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "Which gas is lighter than air?",
+          "image_url": null,
+          "options": [
+            "Argon",
+            "Helium",
+            "Hydrogen",
+            "Carbon dioxide"
+          ],
+          "answer": "Helium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What are the gases used in GTAW as shielding gas?",
+          "image_url": null,
+          "options": [
+            "Argon & Helium",
+            "Oxygen - Acetylene",
+            "Carbon oxide & Helium",
+            "Carbon dioxide & Argon"
+          ],
+          "answer": "Argon & Helium",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the name of the defect in which the weld metal did not melt with base metal in TIG process?",
+          "image_url": null,
+          "options": [
+            "Porosity",
+            "Lack of penetration",
+            "Lack of fusion",
+            "Under cut"
+          ],
+          "answer": "Lack of fusion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "What is the name of the defect marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Porosity",
+            "Under cut",
+            "Slag inclusion",
+            "Incomplete penetration"
+          ],
+          "answer": "Incomplete penetration",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "Which process can easily weld thin metal?",
+          "image_url": null,
+          "options": [
+            "MIG welding",
+            "Tungsten arc welding",
+            "Submerged arc welding",
+            "Manual metal arc welding"
+          ],
+          "answer": "Tungsten arc welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Torch",
+            "Shield",
+            "Arc",
+            "Filler"
+          ],
+          "answer": "Shield",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is the main advantage of helium gas shielding?",
+          "image_url": null,
+          "options": [
+            "Increase weld speed",
+            "Decrease weld speed",
+            "Increase lack of fusion",
+            "Increase lack of penetration"
+          ],
+          "answer": "Increase weld speed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "How molten metal is shielded from the atmospheric contamination as a blanket in GTAW?",
+          "image_url": null,
+          "options": [
+            "By using inert gas",
+            "By using fuel gas",
+            "By using supportable gas",
+            "By using fuel and supportable gas"
+          ],
+          "answer": "By using inert gas",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "Which type of welding is done by a small hand weld gun with a non-consumable electrode?",
+          "image_url": null,
+          "options": [
+            "SMAW",
+            "GMAW",
+            "GTAW",
+            "Induction welding"
+          ],
+          "answer": "GTAW",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the non-consumable electrode of high melting point used in TIG welding?",
+          "image_url": null,
+          "options": [
+            "Carbon electrode",
+            "Copper electrode",
+            "Tungsten electrode",
+            "Aluminium electrode"
+          ],
+          "answer": "Tungsten electrode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "Which metal is welded only for GTAW?",
+          "image_url": null,
+          "options": [
+            "Thin",
+            "Round",
+            "Larger",
+            "Thicker"
+          ],
+          "answer": "Thin",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Advanced Welding Process",
+      "quizWrap": [
+        {
+          "id": 250,
+          "question": "Which gas is suitable for welding of stainless steel, nickel alloys by plasma arc welding?",
+          "image_url": null,
+          "options": [
+            "Argon",
+            "Helium",
+            "Hydrogen",
+            "Neon"
+          ],
+          "answer": "Hydrogen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the temperature in the weld area plasma arc welding process?",
+          "image_url": null,
+          "options": [
+            "20,000°C to 30,000°C",
+            "30,000°C to 35,000°C",
+            "15,000°C to 20,000°C",
+            "35,000°C to 40,000°C"
+          ],
+          "answer": "20,000°C to 30,000°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "What is the name of the part marked ʹXʹ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Nozzle",
+            "Plasma",
+            "Swirl ring",
+            "Electrode"
+          ],
+          "answer": "Plasma",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "What is the name of the part marked as ‘X’ in the Laser beam welding?",
+          "image_url": null,
+          "options": [
+            "Laser beam",
+            "Ruby rod",
+            "Cooling system",
+            "Flash lamp"
+          ],
+          "answer": "Laser beam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What material the plasma arc cutting nozzle is made up of?",
+          "image_url": null,
+          "options": [
+            "Copper",
+            "Platinum",
+            "Zirconium",
+            "Stainless steel"
+          ],
+          "answer": "Copper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "What is the name of part marked as ‘X’ in the spot welding machine?",
+          "image_url": null,
+          "options": [
+            "Air cylinder",
+            "Pivot point",
+            "Rocker arm",
+            "Electrode"
+          ],
+          "answer": "Rocker arm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "What crystal (rod) is used in laser beam welding?",
+          "image_url": null,
+          "options": [
+            "Iron",
+            "Ruby",
+            "Copper",
+            "Stainless steel"
+          ],
+          "answer": "Ruby",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "Which gas is suitable for welding of carbon steel and titanium by plasma arc welding process?",
+          "image_url": null,
+          "options": [
+            "Helium",
+            "CO₂",
+            "Argon",
+            "Neon"
+          ],
+          "answer": "Argon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "What devices are provided to reflect the light coming to the ends of ruby rod in laser beam welding?",
+          "image_url": null,
+          "options": [
+            "Laser tube",
+            "Reflecting mirrors",
+            "Flash lamps",
+            "Shutter"
+          ],
+          "answer": "Reflecting mirrors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "What is the name of part marked as ‘X’ in the Laser beam welding?",
+          "image_url": null,
+          "options": [
+            "Laser beam",
+            "Ruby rod",
+            "Cooling system",
+            "Flash lamp"
+          ],
+          "answer": "Ruby rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "Which process cuts the stainless steel, carbon steel with the help of high jet velocity?",
+          "image_url": null,
+          "options": [
+            "Plasma arc process",
+            "Micro plasma cutting process",
+            "Key hole plasma process",
+            "Non-transferred plasma arc"
+          ],
+          "answer": "Plasma arc process",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "Which resistance welding machine is provided with an electrode in wheel shape?",
+          "image_url": null,
+          "options": [
+            "Spot welding",
+            "Seam welding",
+            "Projection welding",
+            "Flash butt welding"
+          ],
+          "answer": "Seam welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "What is the temperature produced by chemical reaction in thermit welding?",
+          "image_url": null,
+          "options": [
+            "5000° C",
+            "5000° F",
+            "4000° C",
+            "4000° F"
+          ],
+          "answer": "5000° F",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "Which welding process is done by chemical reaction between a metal oxide and metal?",
+          "image_url": null,
+          "options": [
+            "Electro slag welding",
+            "Election beam welding",
+            "Thermit welding",
+            "TIG welding"
+          ],
+          "answer": "Thermit welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "How much time it takes for the thermit mould to cool, after welding by thermit process?",
+          "image_url": null,
+          "options": [
+            "7 Hrs",
+            "9 Hrs",
+            "10 Hrs",
+            "12 Hrs"
+          ],
+          "answer": "12 Hrs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the advantage of laser beam welding?",
+          "image_url": null,
+          "options": [
+            "High capital",
+            "Skilled operation",
+            "Higher operating cost",
+            "Deep narrow weld"
+          ],
+          "answer": "Deep narrow weld",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "Which is a resistance welding method?",
+          "image_url": null,
+          "options": [
+            "Spot welding",
+            "Forge welding",
+            "Thermit welding",
+            "Explosive welding"
+          ],
+          "answer": "Spot welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "Which gas is generally used in gas laser type welding?",
+          "image_url": null,
+          "options": [
+            "Carbon - di - oxide",
+            "Neon gas",
+            "Argon gas",
+            "Oxygen"
+          ],
+          "answer": "Carbon - di - oxide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "What is the name of part marked as ‘X’ in the plasma arc welding?",
+          "image_url": null,
+          "options": [
+            "Nozzle",
+            "Outer gasket",
+            "Electrode",
+            "Resistor"
+          ],
+          "answer": "Nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "Why carbon and manganese are added to plain thermit mixture on rail welding?",
+          "image_url": null,
+          "options": [
+            "To get good fusion",
+            "To get hardness",
+            "To get fine welding",
+            "To get smooth finishing"
+          ],
+          "answer": "To get hardness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "Which type of welding is to be used to make joint of thick pipes of rails?",
+          "image_url": null,
+          "options": [
+            "Thermit welding",
+            "Non - Pressure Thermit welding",
+            "Pressure Thermit welding",
+            "Fusion Thermit welding"
+          ],
+          "answer": "Pressure Thermit welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "What material is used to make electrode in spot welding?",
+          "image_url": null,
+          "options": [
+            "Iron electrode",
+            "Copper alloy electrodes",
+            "Silicon electrodes",
+            "Cast iron electrodes"
+          ],
+          "answer": "Copper alloy electrodes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "Which type of light can be used in laser beam welding?",
+          "image_url": null,
+          "options": [
+            "Sunlight",
+            "Infrared light",
+            "Ultra violet light",
+            "Mono chromatic light"
+          ],
+          "answer": "Mono chromatic light",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "Which electrode is movable in spot welding?",
+          "image_url": null,
+          "options": [
+            "Both moved",
+            "Both not moved",
+            "Upper electrode",
+            "Lower electrode"
+          ],
+          "answer": "Upper electrode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is the name of part marked as ‘X’ in the plasma arc welding?",
+          "image_url": null,
+          "options": [
+            "Nozzle",
+            "Outer gasket",
+            "Electrode",
+            "Resistor"
+          ],
+          "answer": "Electrode",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Principles of metalizing & Hard facing (PAW, PA, WPS & PQR)",
+      "quizWrap": [
+        {
+          "id": 275,
+          "question": "Which certify is given to welderʹs ability?",
+          "image_url": null,
+          "options": [
+            "Weld procedure specification",
+            "Welder performance qualification",
+            "Welding procedure qualification",
+            "Welding procedure specification"
+          ],
+          "answer": "Welder performance qualification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "What is the expanded form of WPS?",
+          "image_url": null,
+          "options": [
+            "Welding Procedure Speed",
+            "Welding Procedure Separation",
+            "Welding Procedure Specification",
+            "Welding Procedure Standards"
+          ],
+          "answer": "Welding Procedure Specification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "Which one is more durable than paints?",
+          "image_url": null,
+          "options": [
+            "Cleaning",
+            "Varnishing",
+            "Water spraying",
+            "Powder coating"
+          ],
+          "answer": "Powder coating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "Which document, list of all the essential characteristics bead?",
+          "image_url": null,
+          "options": [
+            "Weld procedure specification",
+            "Welder performance qualification",
+            "Welding procedure qualification",
+            "Welding procedure specification"
+          ],
+          "answer": "Weld procedure specification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "Which is the process to paint with particles by electro static charging?",
+          "image_url": null,
+          "options": [
+            "Metal",
+            "Powder coating",
+            "Electro plating",
+            "Thermal spraying"
+          ],
+          "answer": "Powder coating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "What is the name of the process shown in figure?",
+          "image_url": null,
+          "options": [
+            "Welding process",
+            "Cutting process",
+            "Hard facing process",
+            "Metallization process"
+          ],
+          "answer": "Metallization process",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "Which certify is given, the properties of weld to with stand the service condition?",
+          "image_url": null,
+          "options": [
+            "Weld procedure specification",
+            "Welder performance qualification",
+            "Welding procedure qualification",
+            "Welding procedure specification"
+          ],
+          "answer": "Welding procedure qualification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "Which one is replaced now traditional building material?",
+          "image_url": null,
+          "options": [
+            "Plastic",
+            "Polyethylene",
+            "Polypropylene",
+            "Polyvinyl chloride"
+          ],
+          "answer": "Polyvinyl chloride",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What is the name of process is shown in figure?",
+          "image_url": null,
+          "options": [
+            "Hard facing",
+            "Metallizing",
+            "Rod flame spraying",
+            "Powder flame spraying"
+          ],
+          "answer": "Powder flame spraying",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "What is the purpose of metal build up process, on a worn metal?",
+          "image_url": null,
+          "options": [
+            "To repair broken parts",
+            "To build worn out product made new",
+            "To make joints",
+            "To reduce excess weld metal"
+          ],
+          "answer": "To build worn out product made new",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which format the result of welding qualification is recorded?",
+          "image_url": null,
+          "options": [
+            "Procedure Qualification Record (PQR)",
+            "Welder Procedure Specification (WPS)",
+            "Welding Procedure Qualification (WPQ)",
+            "Welder Performance Qualification (WPQ)"
+          ],
+          "answer": "Procedure Qualification Record (PQR)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "What is the full form of ISO?",
+          "image_url": null,
+          "options": [
+            "Indian Sailors Organization",
+            "Indian Student Organization",
+            "Indian Security Organization",
+            "International Organisation for Standardisation"
+          ],
+          "answer": "International Organisation for Standardisation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "What is the expanded form of PQR?",
+          "image_url": null,
+          "options": [
+            "Procedure Qualification Read",
+            "Procedure Qualification Response",
+            "Procedure Quality Record",
+            "Procedure Qualification Record"
+          ],
+          "answer": "Procedure Qualification Record",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "What is the main aim of welding procedure qualification, in a test to ascertain?",
+          "image_url": null,
+          "options": [
+            "Properties of weld withstand and designed conditions",
+            "Performs of weld withstand designed conditions",
+            "Perfect of weld withstand all condition",
+            "Power of weld"
+          ],
+          "answer": "Properties of weld withstand and designed conditions",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "Which metal surfacing method is ideal for thin layers that can flow to corner and edges of the job?",
+          "image_url": null,
+          "options": [
+            "TIG welding",
+            "MIG welding",
+            "Oxy-acetylene welding",
+            "Submerged arc welding"
+          ],
+          "answer": "Oxy-acetylene welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "What is the code number given for pressure vessel manufacturing, exclusively for steel and steel alloy?",
+          "image_url": null,
+          "options": [
+            "P1 to P11",
+            "P21 to P30",
+            "P31 to P35",
+            "P43 to P47"
+          ],
+          "answer": "P1 to P11",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "What is the name of assembly drawing shown in figure?",
+          "image_url": null,
+          "options": [
+            "Slotting",
+            "Camshaft",
+            "Ball bearing",
+            "Bracket bearing"
+          ],
+          "answer": "Bracket bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "What is the grouping P code number for welding covered under copper and copper based alloys?",
+          "image_url": null,
+          "options": [
+            "P1 to P11",
+            "P21 to P30",
+            "P31 to P35",
+            "P43 to P47"
+          ],
+          "answer": "P31 to P35",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is the name of the part marked ʹXʺ shown in figure?",
+          "image_url": null,
+          "options": [
+            "Gun",
+            "Oxygen",
+            "Fuel gas",
+            "Gas flow meter"
+          ],
+          "answer": "Gun",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "Which process is used to improve the resistance of material?",
+          "image_url": null,
+          "options": [
+            "Hard facing",
+            "Machining",
+            "Metallizing",
+            "Surface finishing"
+          ],
+          "answer": "Metallizing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "What should be the electrode angle while building up worn out shaft?",
+          "image_url": null,
+          "options": [
+            "30° - 40°",
+            "50° - 60°",
+            "70° - 80°",
+            "90° - 110°"
+          ],
+          "answer": "70° - 80°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "What is the wear caused by liquids or gases striking metal parts at high speed?",
+          "image_url": null,
+          "options": [
+            "Corrosion",
+            "Rust",
+            "Friction",
+            "Erosion"
+          ],
+          "answer": "Erosion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which material is used in orthopaedics?",
+          "image_url": null,
+          "options": [
+            "Plastic",
+            "Polyethylene",
+            "Polypropylene",
+            "Polyvinyl chloride"
+          ],
+          "answer": "Polypropylene",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "What is metallizing?",
+          "image_url": null,
+          "options": [
+            "Cutting the metal",
+            "Hardening the metal",
+            "Surface finishing",
+            "Coating metal on the surface"
+          ],
+          "answer": "Coating metal on the surface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "What is the name of the device shown in figure?",
+          "image_url": null,
+          "options": [
+            "Brush",
+            "Slotting",
+            "Camshaft",
+            "Bracket bearing"
+          ],
+          "answer": "Bracket bearing",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

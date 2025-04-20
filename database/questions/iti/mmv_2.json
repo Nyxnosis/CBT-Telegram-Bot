@@ -1,0 +1,4097 @@
+[
+    {
+      "module": "Transmission system",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "What is the reason of gear locked in one gear position?",
+          "image_url": null,
+          "options": [
+            "Synchronizer worn-out",
+            "Gear teeth worn-out",
+            "Synchronizing unit stuck",
+            "In adequate lubrication"
+          ],
+          "answer": "Synchronizing unit stuck",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "What is the permitted diffraction angle of pot joint?",
+          "image_url": null,
+          "options": [
+            "18°",
+            "20°",
+            "22°",
+            "26°"
+          ],
+          "answer": "22°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the type of gear box?",
+          "image_url": null,
+          "options": [
+            "Constant mesh gear box",
+            "Sliding mesh gear box",
+            "Synchromesh gear box",
+            "Automatic sliding gear box"
+          ],
+          "answer": "Sliding mesh gear box",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which system provides DC power source for the various units of the vehicles?",
+          "image_url": null,
+          "options": [
+            "Storage system",
+            "Charging system",
+            "Lighting system",
+            "Steering system"
+          ],
+          "answer": "Storage system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "What is the function of clutch?",
+          "image_url": null,
+          "options": [
+            "Increase and decrease the RPM of engine",
+            "Connect and disconnect power flow engine to gear box",
+            "Reduce the noise during engine running",
+            "Prevent malfunctioning of fly wheel"
+          ],
+          "answer": "Connect and disconnect power flow engine to gear box",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "What is the type of drive?",
+          "image_url": null,
+          "options": [
+            "Torque tube drive",
+            "Hotchkiss drive",
+            "Four wheel drive",
+            "Front wheel drive"
+          ],
+          "answer": "Torque tube drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What is the type of fixed constant velocity joint?",
+          "image_url": null,
+          "options": [
+            "Double joint",
+            "Ball joint",
+            "Pot joint",
+            "Tripod joint"
+          ],
+          "answer": "Ball joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "What is the name of part marked as ‘X’ in the clutch plate?",
+          "image_url": null,
+          "options": [
+            "Damper spring",
+            "Clutch lining",
+            "Torque plate",
+            "Rivets"
+          ],
+          "answer": "Damper spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "What is the name of part marked as ‘X’ in the double joint?",
+          "image_url": null,
+          "options": [
+            "Spider",
+            "Shaft wheel end",
+            "Double joint fork",
+            "Sealing cap"
+          ],
+          "answer": "Shaft wheel end",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What is the name of part marked as ‘X’ in the fluid coupling?",
+          "image_url": null,
+          "options": [
+            "Driving unit impeller",
+            "Crank shaft",
+            "Driven shaft",
+            "Interior fins"
+          ],
+          "answer": "Interior fins",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "Which is noise free clutch?",
+          "image_url": null,
+          "options": [
+            "Single plate clutch",
+            "Diaphragm spring type clutch",
+            "Multi plate clutch",
+            "Dog clutch"
+          ],
+          "answer": "Diaphragm spring type clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "What is the name of part marked as ‘X’ in the synchronizing action?",
+          "image_url": null,
+          "options": [
+            "Gear",
+            "Conical cup",
+            "Hub",
+            "Synchronizer sleeve"
+          ],
+          "answer": "Synchronizer sleeve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "What is the type of clutch?",
+          "image_url": null,
+          "options": [
+            "Cone clutch",
+            "Single plate clutch with coil spring",
+            "Diaphragm clutch",
+            "Multi plate dry wet clutches"
+          ],
+          "answer": "Single plate clutch with coil spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "What is the name of clutch?",
+          "image_url": null,
+          "options": [
+            "Cone clutch",
+            "Diaphragm spring type clutch",
+            "Dog clutch",
+            "Multi plate clutch"
+          ],
+          "answer": "Diaphragm spring type clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the name of tool marked as ‘X’ in the clutch aligning assembly work?",
+          "image_url": null,
+          "options": [
+            "Straight edge",
+            "Parallel block",
+            "Clutch aligner",
+            "Cylindrical drift"
+          ],
+          "answer": "Clutch aligner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "How to rectify the hard gear shifting?",
+          "image_url": null,
+          "options": [
+            "Lubricate the unit",
+            "Check and realign",
+            "Adjust clutch pedal free play",
+            "Re - install springs correctly"
+          ],
+          "answer": "Adjust clutch pedal free play",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What is the name of instrument marked as ‘X’ in the fly wheel run out check?",
+          "image_url": null,
+          "options": [
+            "Outside micrometer",
+            "Dial test indicator",
+            "Inside micrometer",
+            "Bore dial gauge"
+          ],
+          "answer": "Dial test indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "Which type of gear will not produce axial thrust while transmitting torque?",
+          "image_url": null,
+          "options": [
+            "Helical gears",
+            "Worm gears",
+            "Spiral bevel gear",
+            "Spur gear"
+          ],
+          "answer": "Spur gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "Which type of joint permit small diffraction angle and linear variations?",
+          "image_url": null,
+          "options": [
+            "Flexible discs",
+            "Double joint",
+            "Pot joint",
+            "Tripod joint"
+          ],
+          "answer": "Flexible discs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "What is the name of drive?",
+          "image_url": null,
+          "options": [
+            "Torque tube drive",
+            "Front wheel drive",
+            "Rear wheel drive",
+            "Hotchkiss drive"
+          ],
+          "answer": "Hotchkiss drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Which instrument is used to check the face out of the fly wheel?",
+          "image_url": null,
+          "options": [
+            "Dial indicator",
+            "Bore dial gauge",
+            "Outside micrometer",
+            "Inside micrometer"
+          ],
+          "answer": "Dial indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "Which part connects propeller shaft?",
+          "image_url": null,
+          "options": [
+            "Clutch shaft and fly wheel",
+            "Gear box and final drive",
+            "Cam shaft and clutch shaft",
+            "Crankshaft and final drive"
+          ],
+          "answer": "Gear box and final drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What instruments are used while inspecting pressure plate?",
+          "image_url": null,
+          "options": [
+            "Straight edge and feeler gauge",
+            "Steel rule and angle gauge",
+            "Straight edge and slip gauge",
+            "Parallel block and radius gauge"
+          ],
+          "answer": "Straight edge and feeler gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "What is the advantage of using constant mesh gear box?",
+          "image_url": null,
+          "options": [
+            "Quick change of gear obtained",
+            "Wrong adjustment of gear will not affect the function",
+            "Smooth power transmission",
+            "Efficient lubrication possible"
+          ],
+          "answer": "Smooth power transmission",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "What is the advantage of mechanical actuated type clutches?",
+          "image_url": null,
+          "options": [
+            "Less maintenance and repair",
+            "Less pedal effort",
+            "Smooth functioning",
+            "Easy to operate"
+          ],
+          "answer": "Less maintenance and repair",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 25,
+          "question": "What is the type of suspension system?",
+          "image_url": null,
+          "options": [
+            "Rigid axle suspension system",
+            "Adaptive air suspension system",
+            "Independent suspension system",
+            "Coil spring suspension system"
+          ],
+          "answer": "Adaptive air suspension system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "What is the type of joint?",
+          "image_url": null,
+          "options": [
+            "Ball and trunnion type universal joint",
+            "Cross type universal joint",
+            "Slip joint",
+            "Double joint"
+          ],
+          "answer": "Cross type universal joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "What is the main feature of hydraulic actuated clutches?",
+          "image_url": null,
+          "options": [
+            "Pedal effort transmitted through linkage",
+            "Pedal effort transmitted through spring",
+            "Pedal effort transmitted through fluid",
+            "Pedal effort transmitted through coupling"
+          ],
+          "answer": "Pedal effort transmitted through fluid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the type of synchromesh gear box?",
+          "image_url": null,
+          "options": [
+            "Baulk ring type",
+            "Baulk type",
+            "Multi and double cone type",
+            "Porsche type"
+          ],
+          "answer": "Baulk ring type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "Which system making the drive cabin comfortable for driving?",
+          "image_url": null,
+          "options": [
+            "HVAC system",
+            "Starting system",
+            "Steering system",
+            "Charging system"
+          ],
+          "answer": "HVAC system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "Which type of synchromesh gear box used for heavy commercial vehicles?",
+          "image_url": null,
+          "options": [
+            "Baulk type",
+            "Multi and double cone type",
+            "Baulk ring type",
+            "Porsche type"
+          ],
+          "answer": "Multi and double cone type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "What is the name of part marked as ‘X’ in the suspension system?",
+          "image_url": null,
+          "options": [
+            "Tracking bar",
+            "Upper control rod",
+            "Shock absorber",
+            "Axle mounting bracket"
+          ],
+          "answer": "Shock absorber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the cause for noisy gear box in neutral position?",
+          "image_url": null,
+          "options": [
+            "Synchronizing unit stuck",
+            "Bearing worn out or dry",
+            "Synchronizer defective",
+            "Synchronizer worn-out"
+          ],
+          "answer": "Bearing worn out or dry",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "Which type of gear will have more than one teeth in contact at the same time?",
+          "image_url": null,
+          "options": [
+            "Spur gear",
+            "Rack and Pinion",
+            "Helical gear",
+            "Spur bevel gear"
+          ],
+          "answer": "Helical gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "Which type of gear box can be operated even by unskilled driver?",
+          "image_url": null,
+          "options": [
+            "Synchromesh gear box",
+            "Sliding mesh gear box",
+            "Constant mesh gear box",
+            "Compound wheel mesh gear box"
+          ],
+          "answer": "Synchromesh gear box",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "What is the name of part marked as ‘X’ in the dog clutch?",
+          "image_url": null,
+          "options": [
+            "Splined shaft",
+            "Driving shaft",
+            "Sleeve",
+            "Internal teeth"
+          ],
+          "answer": "Sleeve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "Which type of clutch provides more frictional area and simple in construction?",
+          "image_url": null,
+          "options": [
+            "Diaphragm spring clutch",
+            "Cone clutch",
+            "Dog clutch",
+            "Multi plate clutch"
+          ],
+          "answer": "Cone clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "What is the name of clutch?",
+          "image_url": null,
+          "options": [
+            "Cone clutch",
+            "Dog clutch",
+            "Multi plate clutch",
+            "Single plate clutch"
+          ],
+          "answer": "Multi plate clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the battery system used for heavy vehicles?",
+          "image_url": null,
+          "options": [
+            "6 volts",
+            "12 volts",
+            "24 volts",
+            "28 volts"
+          ],
+          "answer": "24 volts",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "What is the cause of hard gear shifting?",
+          "image_url": null,
+          "options": [
+            "Spider bearing worn-out",
+            "Synchronizing unit damaged",
+            "Synchronizing unit stuck",
+            "Fly wheel ring worn-out"
+          ],
+          "answer": "Synchronizing unit damaged",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "What is the working principle of clutch?",
+          "image_url": null,
+          "options": [
+            "Sliding",
+            "Centripetal",
+            "Friction",
+            "Screw and Nut"
+          ],
+          "answer": "Friction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is the possible reason for gear slip?",
+          "image_url": null,
+          "options": [
+            "Wrong selection gear shift lever",
+            "Excessive wear of gears",
+            "Wrong clutch engagement",
+            "Worn-out clutch plate"
+          ],
+          "answer": "Excessive wear of gears",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "What is the name of part marked as ‘X’ in the single plate clutch?",
+          "image_url": null,
+          "options": [
+            "Clutch plate hub",
+            "Gear box drive shaft",
+            "Fly wheel",
+            "Pressure plate"
+          ],
+          "answer": "Fly wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the type of constant velocity joint?",
+          "image_url": null,
+          "options": [
+            "Pot joint",
+            "Tripod joint",
+            "Ball joint",
+            "Double joint"
+          ],
+          "answer": "Tripod joint",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What will be the result of defective clutch?",
+          "image_url": null,
+          "options": [
+            "Noise in gear shifting",
+            "Gear slip",
+            "Gear locked in one gear",
+            "Gear clash during shifting"
+          ],
+          "answer": "Noise in gear shifting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "What is the type of clutch?",
+          "image_url": null,
+          "options": [
+            "Single plate clutch",
+            "Dog clutch",
+            "Multi plate clutch",
+            "Cone clutch"
+          ],
+          "answer": "Cone clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "What is the permitted axial displacement of tripod joint?",
+          "image_url": null,
+          "options": [
+            "55 mm",
+            "58 mm",
+            "64 mm",
+            "68 mm"
+          ],
+          "answer": "55 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is the permitted diffraction angle of double joint?",
+          "image_url": null,
+          "options": [
+            "50°",
+            "62°",
+            "58°",
+            "72°"
+          ],
+          "answer": "50°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the advantage of dog clutch?",
+          "image_url": null,
+          "options": [
+            "No possibility of slip",
+            "More frictional area",
+            "Less pedal force to operate",
+            "Easy maintenance and repair"
+          ],
+          "answer": "No possibility of slip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "What is the name of gearbox?",
+          "image_url": null,
+          "options": [
+            "Constant mesh gear box",
+            "Sliding mesh gear box",
+            "Synchromesh gear box",
+            "Automatic synchromesh gear box"
+          ],
+          "answer": "Constant mesh gear box",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Steering and Suspension system",
+      "quizWrap": [
+        {
+          "id": 50,
+          "question": "Which device in the air suspension system observe vibration of low amplitude and high frequency?",
+          "image_url": null,
+          "options": [
+            "Shock absorber",
+            "Suspension spring",
+            "Air bags in the system",
+            "Leaf spring"
+          ],
+          "answer": "Shock absorber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What is the name of component in the integral power steering system?",
+          "image_url": null,
+          "options": [
+            "Flow control valve",
+            "Unloading valve",
+            "Rotary valve",
+            "Pressure release valve"
+          ],
+          "answer": "Flow control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "What is the aspect ratio in the tyre structure?",
+          "image_url": null,
+          "options": [
+            "Percentage ratio of tyre height to Rim width",
+            "Ratio between tyre height to tyre dia",
+            "Percentage ratio of tyre height to tyre width",
+            "Ratio between tyre width to Rim width"
+          ],
+          "answer": "Percentage ratio of tyre height to tyre width",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "What is the advantage of using nitrogen in the tyres?",
+          "image_url": null,
+          "options": [
+            "Provide positive road grip",
+            "Increase the tyre life",
+            "Provide cushioning effect on the vehicle",
+            "Observe shocks and vibration"
+          ],
+          "answer": "Increase the tyre life",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "What is the impact of larger scrub radius?",
+          "image_url": null,
+          "options": [
+            "Wear on the outer edge of tyre",
+            "Unequal braking on the front wheel",
+            "Wear on the centre part of tyre",
+            "Bending of steering linkage point"
+          ],
+          "answer": "Unequal braking on the front wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "Why the alternate spokes are screwed to slope forward and backward towards the rim in the wire wheel?",
+          "image_url": null,
+          "options": [
+            "To take the uneven load",
+            "To provide cushioning effect",
+            "To observe braking and driving torque",
+            "To distribute the load evenly"
+          ],
+          "answer": "To observe braking and driving torque",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the cause for negative scrub radius?",
+          "image_url": null,
+          "options": [
+            "Wheel is in toe - out",
+            "Wheel is kept in straight position",
+            "Wheel tyre centre portion wear out",
+            "Wheel is in toe - in"
+          ],
+          "answer": "Wheel is in toe - in",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the cause of noise in steering?",
+          "image_url": null,
+          "options": [
+            "High fluid level",
+            "Presence of air in the fluid",
+            "Defective flow control valve",
+            "Defective torsion bar"
+          ],
+          "answer": "Presence of air in the fluid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "What is the effect on ʺAir suctionʺ in pump of hydraulic power steering system?",
+          "image_url": null,
+          "options": [
+            "Noise in steering",
+            "Smooth steering",
+            "Low pressure",
+            "Steering wheel play"
+          ],
+          "answer": "Noise in steering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "How to rectify the defect of noise in hydraulic steering?",
+          "image_url": null,
+          "options": [
+            "Replace with new fluid",
+            "Fill fluid to correct level and bleed the system",
+            "Adjust the torsion bar linkage",
+            "Replace the flow control valve"
+          ],
+          "answer": "Fill fluid to correct level and bleed the system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "What is the name of part marked as ‘X’ in the suspension system?",
+          "image_url": null,
+          "options": [
+            "Chassis frame",
+            "Helper spring",
+            "Rubber buffer",
+            "Brackets"
+          ],
+          "answer": "Rubber buffer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What is the type of defect in the tyre?",
+          "image_url": null,
+          "options": [
+            "Bold spots wear",
+            "Rapid wear at centre",
+            "Feather edge",
+            "Wear on one side"
+          ],
+          "answer": "Feather edge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "What is the disadvantage of excessive positive camber in the wheel alignment?",
+          "image_url": null,
+          "options": [
+            "Tyre outer edge will wear out fast",
+            "Tyre centre will wear out",
+            "Tyre bleeding wire wear out",
+            "Tyre thread wear out"
+          ],
+          "answer": "Tyre outer edge will wear out fast",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "Which part of integral power steering reduce fluid pressure?",
+          "image_url": null,
+          "options": [
+            "Torsion bar",
+            "Rotary valve",
+            "Unloading valve",
+            "Flow control valve"
+          ],
+          "answer": "Unloading valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "What is the purpose of air suspension?",
+          "image_url": null,
+          "options": [
+            "Used for levelling purpose",
+            "Reduce the suspension weight",
+            "Increase the directional stability",
+            "Reduce the space occupation"
+          ],
+          "answer": "Used for levelling purpose",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "What causes abnormal tyre wear, tyre slip and poor steering stability?",
+          "image_url": null,
+          "options": [
+            "Incorrect toe - in and toe - out",
+            "Malfunctioning of torsion bar",
+            "Presence of air in the brake fluid",
+            "Front axle bend/twist"
+          ],
+          "answer": "Incorrect toe - in and toe - out",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "What is the name of part marked as ‘X’ in air suspension system?",
+          "image_url": null,
+          "options": [
+            "Air bags",
+            "Height control valve",
+            "Vehicle frame",
+            "Axle"
+          ],
+          "answer": "Height control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "Which type of system is to isolate the vehicle body from road shock and vibration?",
+          "image_url": null,
+          "options": [
+            "Control system",
+            "Suspension system",
+            "Hydraulic system",
+            "Steering system"
+          ],
+          "answer": "Suspension system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "Which part of heavy vehicle deals with static and dynamic loads without deflection or distortion?",
+          "image_url": null,
+          "options": [
+            "Engine",
+            "Power trains",
+            "Control system",
+            "Chassis and frames"
+          ],
+          "answer": "Chassis and frames",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "What is the type of leaf spring?",
+          "image_url": null,
+          "options": [
+            "Semi elliptical spring",
+            "Quarter elliptical spring",
+            "Three elliptical spring",
+            "Transverse spring"
+          ],
+          "answer": "Semi elliptical spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "What is the advantage of electronic power steering?",
+          "image_url": null,
+          "options": [
+            "Compact in size",
+            "Energy being consumed only while steering",
+            "Less occupation of space",
+            "Number of components are less"
+          ],
+          "answer": "Energy being consumed only while steering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "What is the type of suspension?",
+          "image_url": null,
+          "options": [
+            "Strut type suspension",
+            "Coil spring suspension",
+            "Torsion bar suspension",
+            "Rubber spring suspension"
+          ],
+          "answer": "Torsion bar suspension",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What will be the effect of negative camber excessive in the wheel alignment?",
+          "image_url": null,
+          "options": [
+            "Outer edge of tyre wear out faster",
+            "Centre of tyre wear out faster",
+            "Inner edge of tyre wear out faster",
+            "Cracks developed in the tyre tread"
+          ],
+          "answer": "Inner edge of tyre wear out faster",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "What is the name of angle influence the wheel alignment?",
+          "image_url": null,
+          "options": [
+            "Camber angle",
+            "King pin Inclination angle",
+            "Castor angle",
+            "Included angle"
+          ],
+          "answer": "Castor angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What is the function of steering system?",
+          "image_url": null,
+          "options": [
+            "To control the braking system",
+            "To increase the engine RPM",
+            "To guide the vehicle",
+            "To control the fuel system"
+          ],
+          "answer": "To guide the vehicle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 75,
+          "question": "What is the type of leaf spring?",
+          "image_url": null,
+          "options": [
+            "Quarter elliptical spring",
+            "Transverse spring",
+            "Semi elliptical spring",
+            "Full elliptical spring"
+          ],
+          "answer": "Transverse spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "Which type of independent suspension system simple in construction and allow more deflection of the front wheel without effect on the steering?",
+          "image_url": null,
+          "options": [
+            "Torsion bar suspension",
+            "Strut type suspension",
+            "Coil spring suspension",
+            "Conventional suspension"
+          ],
+          "answer": "Strut type suspension",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "What is the type of shock absorber?",
+          "image_url": null,
+          "options": [
+            "Gas pressurised shock absorber",
+            "Mechanical type shock absorber",
+            "Telescopic type shock absorber",
+            "Piston type shock absorber"
+          ],
+          "answer": "Gas pressurised shock absorber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "What is the advantage of using independent suspension system?",
+          "image_url": null,
+          "options": [
+            "Critical arrangement",
+            "Shocks are transmitted from one wheel to other",
+            "Spring weight is less",
+            "Low maintenance cost"
+          ],
+          "answer": "Spring weight is less",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "How the tyre height is calculated?",
+          "image_url": null,
+          "options": [
+            "Rim dia - tyre outer dia",
+            "Tyre outer dia - Rim dia",
+            "Thread width + Tyre width",
+            "Tyre width + Bead circle dia"
+          ],
+          "answer": "Tyre outer dia - Rim dia",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "Where the airbags are located in the air suspension system?",
+          "image_url": null,
+          "options": [
+            "Between frame and vehicle axle",
+            "Between high control valve and frame",
+            "Between air pressure regulator and front axle",
+            "Between brake tank and vehicle axle"
+          ],
+          "answer": "Between frame and vehicle axle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "What is the name of distance between most protruding portions on both sides of tyre?",
+          "image_url": null,
+          "options": [
+            "Tyre outer diameter",
+            "Tyre height",
+            "Tyre width",
+            "Thread radius"
+          ],
+          "answer": "Tyre width",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "What is the name of part marked as ‘X’ in the tub tyre?",
+          "image_url": null,
+          "options": [
+            "Tube",
+            "Steel beads",
+            "Tread",
+            "Tyre"
+          ],
+          "answer": "Steel beads",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What does the no. 14PR denotes in the tyre specification 9” x 14 - 14PR?",
+          "image_url": null,
+          "options": [
+            "Shoulder width",
+            "Bead circle dia",
+            "Ply rating",
+            "Tyre thickness"
+          ],
+          "answer": "Ply rating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "What is the reason of steering wheel play excess?",
+          "image_url": null,
+          "options": [
+            "Improper pre load defective steering",
+            "Low oil level",
+            "Drop in pressure",
+            "Worn-out sealing rings"
+          ],
+          "answer": "Improper pre load defective steering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the type of wheel?",
+          "image_url": null,
+          "options": [
+            "Wire wheel",
+            "Disc wheel",
+            "Split wheel",
+            "Heavy vehicle wheel"
+          ],
+          "answer": "Disc wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "Which way the steering system increase the tyre life?",
+          "image_url": null,
+          "options": [
+            "By maintaining proper angle between tyres",
+            "Providing adequate lubrication",
+            "By applying grease on the steering controls",
+            "Providing proper brake adjustment"
+          ],
+          "answer": "By maintaining proper angle between tyres",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "What is the name of angle marked as ‘X’ in the steering system?",
+          "image_url": null,
+          "options": [
+            "Camber angle",
+            "Cast or angle",
+            "Thrust angle",
+            "Included angle"
+          ],
+          "answer": "Thrust angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "What is the function of Rim in the wheel construction?",
+          "image_url": null,
+          "options": [
+            "Support the axle",
+            "Provides balancing of vehicle",
+            "Holds the tyre in correct position",
+            "Distribute the load equally"
+          ],
+          "answer": "Holds the tyre in correct position",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "What is the name of part marked as ‘X’ in the coil spring suspension?",
+          "image_url": null,
+          "options": [
+            "Torsion bar",
+            "Stabiliser bar",
+            "Control arm",
+            "Coil spring"
+          ],
+          "answer": "Stabiliser bar",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "Which angle helps in self centering of wheels after negotiating a turn?",
+          "image_url": null,
+          "options": [
+            "Castor angle",
+            "King pin inclination",
+            "Camber angle",
+            "Included angle"
+          ],
+          "answer": "King pin inclination",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "What is the purpose of castor in wheel alignment?",
+          "image_url": null,
+          "options": [
+            "Maintain directional stability and control",
+            "Reduce tyre wear",
+            "Reduce abnormal vibration",
+            "Convert steering torque input into voltage signal"
+          ],
+          "answer": "Maintain directional stability and control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "What is the name of part marked as ‘X’ in the cast wheel?",
+          "image_url": null,
+          "options": [
+            "Tyre",
+            "Rim",
+            "Tube",
+            "Hub"
+          ],
+          "answer": "Hub",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "Which device in electronic power steering converts the steering torque input and its direction in to voltage signals?",
+          "image_url": null,
+          "options": [
+            "Rotation sensor",
+            "Torque sensor",
+            "Hall effect sensor",
+            "Temperature sensor"
+          ],
+          "answer": "Torque sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the name of part marked as ‘X’ in the integral power steering in neutral condition?",
+          "image_url": null,
+          "options": [
+            "Lower cylinder",
+            "Upper cylinder",
+            "Valve sleeve",
+            "Input shaft"
+          ],
+          "answer": "Input shaft",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the use of compact spare tyres?",
+          "image_url": null,
+          "options": [
+            "Used for breakdown",
+            "Used for high altitude",
+            "Withstand heavy load",
+            "Withstand high temperature"
+          ],
+          "answer": "Used for breakdown",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "Which type of spring suspension responds quickly to road shocks?",
+          "image_url": null,
+          "options": [
+            "Compression spring",
+            "Coil spring",
+            "Helical spring",
+            "Transverse spring"
+          ],
+          "answer": "Coil spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "What is the name of angle marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Combined angle",
+            "Camber angle",
+            "Castor angle",
+            "Thrust angle"
+          ],
+          "answer": "Combined angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "Which type of spring will have good load carrying capacity and do not have noise in the suspension system?",
+          "image_url": null,
+          "options": [
+            "Mono leaf springs",
+            "Coil spring",
+            "Multiple - leaf spring",
+            "Fibre composite springs"
+          ],
+          "answer": "Multiple - leaf spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "What is the role of recirculating balls in the integral power steering?",
+          "image_url": null,
+          "options": [
+            "Affect steering stability",
+            "Prevent control in event of hydraulic failure",
+            "Combine high mechanical efficiency with smooth operation",
+            "Provide hard steering"
+          ],
+          "answer": "Combine high mechanical efficiency with smooth operation",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Brake system, Engine Trouble shooting",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "What is the purpose of ‘G’ sensor?",
+          "image_url": null,
+          "options": [
+            "Locking pressure inside wheel cylinder",
+            "Measuring deceleration rate of vehicle",
+            "Reduce pressure at wheel cylinder",
+            "Detect wheel lock up condition"
+          ],
+          "answer": "Measuring deceleration rate of vehicle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "What is the type of braking system?",
+          "image_url": null,
+          "options": [
+            "Disc brake",
+            "Drum brake",
+            "Air brake",
+            "Hydraulic brake"
+          ],
+          "answer": "Drum brake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "What is the cause for low power generation?",
+          "image_url": null,
+          "options": [
+            "Improper tappet clearance",
+            "High oil level",
+            "Engine overheating",
+            "Low oil viscosity"
+          ],
+          "answer": "Improper tappet clearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "What is the outcome of starting engine with corroded battery terminals?",
+          "image_url": null,
+          "options": [
+            "Engine run erratically",
+            "Low power generation",
+            "Engine will not start",
+            "Engine will be over heated"
+          ],
+          "answer": "Engine will not start",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the name of component used in the air brake system?",
+          "image_url": null,
+          "options": [
+            "Brake valve",
+            "Unloader valve",
+            "Slack adjuster",
+            "Pressure release valve"
+          ],
+          "answer": "Unloader valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "How the EBD (Electronic Brake Force Distribution) failure indicated to the driver?",
+          "image_url": null,
+          "options": [
+            "Peep sound in the cabin",
+            "Indication lamp the dash board",
+            "Glowing the parking lamp",
+            "Flickering the tail lamp"
+          ],
+          "answer": "Glowing the parking lamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "What will be the effect on the engine performance in case of loose fan belt?",
+          "image_url": null,
+          "options": [
+            "Engine over heating",
+            "Low power generation",
+            "High full consumption",
+            "High fuel pressure"
+          ],
+          "answer": "Engine over heating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "What will be the probable reason of low oil pressure?",
+          "image_url": null,
+          "options": [
+            "Worn out camshaft, crank shaft bearings",
+            "Defective injector",
+            "More crankshaft end play",
+            "Carbon deposit on piston head"
+          ],
+          "answer": "Worn out camshaft, crank shaft bearings",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the type of brake?",
+          "image_url": null,
+          "options": [
+            "Integral type brake",
+            "Air assisted power brake",
+            "Multiplier type brake",
+            "Pedal assisted type brake"
+          ],
+          "answer": "Air assisted power brake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "What is the cause for high fuel consumption?",
+          "image_url": null,
+          "options": [
+            "Less water level in the radiator",
+            "Clogged air cleaner",
+            "Defective thermostat valve",
+            "Exhaust manifold clogged"
+          ],
+          "answer": "Clogged air cleaner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "What is the advantage of using run flat tyres?",
+          "image_url": null,
+          "options": [
+            "Less cost and maintenance",
+            "Eliminate head for spare tyre and jack",
+            "Resist vibration",
+            "Provide equal distribution of load"
+          ],
+          "answer": "Eliminate head for spare tyre and jack",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the permitted range of brake pedal play observed in the heavy vehicle?",
+          "image_url": null,
+          "options": [
+            "6 - 10 mm",
+            "2 - 4 mm",
+            "15 - 18 mm",
+            "16 - 20 mm"
+          ],
+          "answer": "6 - 10 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the purpose of brake proportioning valves in the braking system?",
+          "image_url": null,
+          "options": [
+            "Reduces brake pedal effort",
+            "Increase braking efficiency",
+            "Provide balanced braking",
+            "Prevent front wheel lockup"
+          ],
+          "answer": "Provide balanced braking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the name of device used in air brake system?",
+          "image_url": null,
+          "options": [
+            "Air tank",
+            "Brake valve",
+            "Brake chamber",
+            "Un loader valve"
+          ],
+          "answer": "Brake valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "Which device detect the driven wheel spin through sensor?",
+          "image_url": null,
+          "options": [
+            "EBD",
+            "ECU",
+            "TCS",
+            "ELSD"
+          ],
+          "answer": "ECU",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the name of brake adjuster?",
+          "image_url": null,
+          "options": [
+            "Slack adjuster for ‘S’ cam brake",
+            "Wedge type brake adjuster",
+            "Serrated wheel brake adjuster",
+            "Snail and cam type adjuster"
+          ],
+          "answer": "Serrated wheel brake adjuster",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "What is the cause of erratic running of engine?",
+          "image_url": null,
+          "options": [
+            "Defective radiator pressure cap",
+            "Water present in the fuel",
+            "Low compression pressure",
+            "Clogged air cleaner"
+          ],
+          "answer": "Water present in the fuel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "What is the function of traction control system?",
+          "image_url": null,
+          "options": [
+            "Prevent wheel spinning",
+            "Release the pressure to expansion tank",
+            "Reduce the engine torque",
+            "Reduce steering effort"
+          ],
+          "answer": "Prevent wheel spinning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What will be effect on engine performance in case of air in the fuel system?",
+          "image_url": null,
+          "options": [
+            "High fuel consumption",
+            "Engine runs erratically",
+            "High oil consumption",
+            "Low fuel consumption"
+          ],
+          "answer": "Engine runs erratically",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "What is the effect on engine performance if the low viscosity grade oil used?",
+          "image_url": null,
+          "options": [
+            "High fuel consumption",
+            "Less oil consumption",
+            "Excessive oil consumption",
+            "Engine will be over heated"
+          ],
+          "answer": "Excessive oil consumption",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "Which rating indicate the braking capabilities of the tire to the consumer?",
+          "image_url": null,
+          "options": [
+            "Ply rating",
+            "Tyre rating",
+            "Traction rating",
+            "Temperature rating"
+          ],
+          "answer": "Traction rating",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "What is the name of power assisted servo brake?",
+          "image_url": null,
+          "options": [
+            "Vacuum suspended power brakes",
+            "Air suspended power brakes",
+            "Vacuum assisted power brakes",
+            "Electro hydraulic brake system"
+          ],
+          "answer": "Vacuum assisted power brakes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the type of wheel cylinder?",
+          "image_url": null,
+          "options": [
+            "Double piston with straight bore",
+            "Single piston wheel cylinder",
+            "Double piston with step bore",
+            "Baffle type piston wheel cylinder"
+          ],
+          "answer": "Single piston wheel cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the result of weak compression pressure?",
+          "image_url": null,
+          "options": [
+            "High oil consumption",
+            "Low fuel consumption",
+            "Lower power generation",
+            "Engine will not start"
+          ],
+          "answer": "Lower power generation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "What is the type of brake?",
+          "image_url": null,
+          "options": [
+            "Integral type",
+            "Multiplier type",
+            "Pedal assisted type",
+            "Air assisted power brakes"
+          ],
+          "answer": "Pedal assisted type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 125,
+          "question": "What will be the result of improper brake adjustment?",
+          "image_url": null,
+          "options": [
+            "Hard steering",
+            "Wheel wobbling",
+            "Steering wheel play",
+            "Vehicle pulling to one side"
+          ],
+          "answer": "Vehicle pulling to one side",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "Which device permits air into the air brake system?",
+          "image_url": null,
+          "options": [
+            "Hand control valve",
+            "Spring brake actuator",
+            "System protection valve",
+            "Brake valve"
+          ],
+          "answer": "Brake valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "What is the name of part marked as ‘X” in the drum brake system?",
+          "image_url": null,
+          "options": [
+            "Brake shoe",
+            "Wheel cylinder",
+            "Back plate",
+            "Shoe hold down pin"
+          ],
+          "answer": "Back plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What is the name of part marked as ‘X’ in the brake pedal assembly?",
+          "image_url": null,
+          "options": [
+            "Clevis",
+            "Lock nut",
+            "Pedal",
+            "Push rod"
+          ],
+          "answer": "Clevis",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "What is the binding material used in organic brake lining?",
+          "image_url": null,
+          "options": [
+            "Resin",
+            "Mica",
+            "Asbestos",
+            "Fibre glass"
+          ],
+          "answer": "Resin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What causes high oil pressure?",
+          "image_url": null,
+          "options": [
+            "Defective oil pump",
+            "Water present in the oil",
+            "Defective relief valve",
+            "Dirty oil filter"
+          ],
+          "answer": "Defective relief valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "What is the role of ABS brakes?",
+          "image_url": null,
+          "options": [
+            "Provide positive braking",
+            "Increase frictional power",
+            "Prevents skidding of vehicles",
+            "Reduce the brake failures"
+          ],
+          "answer": "Prevents skidding of vehicles",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "What is the name of device used in the braking system?",
+          "image_url": null,
+          "options": [
+            "Brake proportioning valve",
+            "Master cylinder",
+            "Reservoir",
+            "Piston"
+          ],
+          "answer": "Brake proportioning valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "What is the material constituent of semi metallic brake lining?",
+          "image_url": null,
+          "options": [
+            "Carbon fiber",
+            "Aluminium oxide",
+            "Fine polished steel wool",
+            "Carbon composite"
+          ],
+          "answer": "Fine polished steel wool",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "What will be the effect of clogged fuel tank vent hole?",
+          "image_url": null,
+          "options": [
+            "Engine does not start",
+            "High fuel consumption",
+            "High oil consumption",
+            "Engine over heating"
+          ],
+          "answer": "Engine does not start",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the result of clogged oil strainer in the sump?",
+          "image_url": null,
+          "options": [
+            "High oil pressure",
+            "Low oil pressure",
+            "Low fuel pressure",
+            "High oil consumption"
+          ],
+          "answer": "Low oil pressure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What will be the contributory cause for engine noise?",
+          "image_url": null,
+          "options": [
+            "Defective pressure relief valve",
+            "Incorrect quality of fuel",
+            "Defective fuel injection pump",
+            "Low compression pressure"
+          ],
+          "answer": "Incorrect quality of fuel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What is the name of part marked as ‘x’ in the vacuum assisted power brakes?",
+          "image_url": null,
+          "options": [
+            "Master cylinder",
+            "Booster cylinder",
+            "Vacuum control valve",
+            "Brake pedal linkage"
+          ],
+          "answer": "Vacuum control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the material used to make brake drum?",
+          "image_url": null,
+          "options": [
+            "Stainless steel",
+            "High carbon steel",
+            "Special type cast iron",
+            "High speed steel"
+          ],
+          "answer": "Special type cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "What is the name of part marked as ‘X’ in the slack adjuster for ‘s’ cam brake?",
+          "image_url": null,
+          "options": [
+            "Brake cam",
+            "Adjusting nut",
+            "Brake drum",
+            "Cam roller"
+          ],
+          "answer": "Cam roller",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the purpose of beads and plays provided in the tyre?",
+          "image_url": null,
+          "options": [
+            "Provide strength to tyre",
+            "Provide gripness on the surface",
+            "Prevent tyre slip",
+            "Resist vibration"
+          ],
+          "answer": "Provide strength to tyre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "What is the result of more carbon deposit on the piston head?",
+          "image_url": null,
+          "options": [
+            "Engine over heating",
+            "High fuel consumption",
+            "Low power generation",
+            "Engine noise"
+          ],
+          "answer": "Engine noise",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "What is the permitted brake pedal travel in the hydraulic brake system?",
+          "image_url": null,
+          "options": [
+            "2 to 12mm",
+            "6 to 12 mm",
+            "7 to 12 mm",
+            "9 to 12mm"
+          ],
+          "answer": "7 to 12 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What will be the result of improper injection timing?",
+          "image_url": null,
+          "options": [
+            "Low power generation",
+            "High fuel consumption",
+            "Engine does not start",
+            "High oil consumption"
+          ],
+          "answer": "Engine does not start",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the function of EBD (Electronic Brake - Force Distribution) in anti lock brake system?",
+          "image_url": null,
+          "options": [
+            "It control the slip of the front wheel",
+            "It controls the slip of the rear wheel",
+            "It increase brake pressure to the rear wheel",
+            "It improve directional stability of vehicle"
+          ],
+          "answer": "It controls the slip of the rear wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "What is the type of master cylinder?",
+          "image_url": null,
+          "options": [
+            "Single barrel master cylinder",
+            "Tandem master cylinder",
+            "Tank type master cylinder",
+            "Centre feed master cylinder"
+          ],
+          "answer": "Tandem master cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "Which material is used for brake rotors and brake pads for aircraft and racing cars?",
+          "image_url": null,
+          "options": [
+            "Sintered alloy",
+            "Carbon fiber reinforced carbon composite",
+            "Asbestos",
+            "Copper, brass, steel"
+          ],
+          "answer": "Carbon fiber reinforced carbon composite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "What is the type of master cylinder?",
+          "image_url": null,
+          "options": [
+            "Tandem master cylinder",
+            "Centre feed master cylinder",
+            "Tank type master cylinder",
+            "Single barrel master cylinder"
+          ],
+          "answer": "Single barrel master cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "Where the non-return valve is located in the centre feed master cylinder?",
+          "image_url": null,
+          "options": [
+            "On the reservoir",
+            "On the cylinder head",
+            "On the bypass port",
+            "On the pistons head"
+          ],
+          "answer": "On the pistons head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "Which principle is applicable for hydraulic brakes?",
+          "image_url": null,
+          "options": [
+            "Pascalʹs law",
+            "Boyleʹs law",
+            "Newtonʹs law of motion",
+            "Hookeʹs law"
+          ],
+          "answer": "Pascalʹs law",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electronic control system",
+      "quizWrap": [
+        {
+          "id": 150,
+          "question": "Where the engine control module installed in the engine?",
+          "image_url": null,
+          "options": [
+            "Under side of instrument panel",
+            "In the gear box assembly",
+            "Near the fly wheel",
+            "Front side of radiator"
+          ],
+          "answer": "Under side of instrument panel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "What is the type of sensor?",
+          "image_url": null,
+          "options": [
+            "Cam shaft position sensor",
+            "Throttle position sensor",
+            "Crank shaft position sensor",
+            "Magnetic induction sensor"
+          ],
+          "answer": "Crank shaft position sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is achieved through spark plug end gap design?",
+          "image_url": null,
+          "options": [
+            "Improve combustion swirl",
+            "Increase the fuel pressure",
+            "Improve fuel atomisation",
+            "Helps for the complete ignition"
+          ],
+          "answer": "Improve combustion swirl",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "What is the name of part marked as ‘X’ in the multi point fuel injection?",
+          "image_url": null,
+          "options": [
+            "Intake port",
+            "Intake valve",
+            "Intake manifold",
+            "Injectors"
+          ],
+          "answer": "Intake manifold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is the type of sensor?",
+          "image_url": null,
+          "options": [
+            "Pressure sensor",
+            "Temperature sensor",
+            "Throttle position sensor",
+            "Magnetic induction sensor"
+          ],
+          "answer": "Temperature sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "Which sensor is used to alert the driver of unseen obstacles?",
+          "image_url": null,
+          "options": [
+            "Speed sensor",
+            "Parking sensor",
+            "Torque sensor",
+            "Pressure sensor"
+          ],
+          "answer": "Parking sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "What is the temperature limit set to ON/OFF for the radiator control system?",
+          "image_url": null,
+          "options": [
+            "ON and OFF at below 98°C and 93°C",
+            "ON and OFF at above 98°C and 93°C",
+            "ON and OFF at below 93°C and 84°C",
+            "ON and OFF at above 90°C and 81°C"
+          ],
+          "answer": "ON and OFF at below 98°C and 93°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "Which electronic control system supplies optimum air fuel mixture to the combustion chamber under different driving condition?",
+          "image_url": null,
+          "options": [
+            "Idle speed control system",
+            "Fuel injection control system",
+            "Ignition control system",
+            "Oil pump control system"
+          ],
+          "answer": "Fuel injection control system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "What is the name of device used in the ignition system?",
+          "image_url": null,
+          "options": [
+            "Distributor",
+            "Ignition coil",
+            "Condenser",
+            "Contact breaker"
+          ],
+          "answer": "Condenser",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "Why many engines use spark plugs with tapered seats?",
+          "image_url": null,
+          "options": [
+            "Helps in easy fitting",
+            "Produce correct alignment",
+            "Provide clearance space",
+            "Produce good sealing"
+          ],
+          "answer": "Produce good sealing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "What is the name of gauge used to check spark plug gap?",
+          "image_url": null,
+          "options": [
+            "Radius gauge",
+            "Feeler gauge",
+            "Angle gauge",
+            "Plug gauge"
+          ],
+          "answer": "Feeler gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "What is the purpose of breaker plate in the distributor?",
+          "image_url": null,
+          "options": [
+            "Acts as contact breaker",
+            "Prevents dirt, carbon into distributor",
+            "Conduct the ignition surge to the electrode",
+            "Distribute high tension surge to ignition coil"
+          ],
+          "answer": "Prevents dirt, carbon into distributor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "What is the name of part marked as ‘X’ in the ignition coil?",
+          "image_url": null,
+          "options": [
+            "Primary winding",
+            "Secondary winding",
+            "Bakelite cap",
+            "Secondary cap"
+          ],
+          "answer": "Primary winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the cause of electrodes burning in the spark plug?",
+          "image_url": null,
+          "options": [
+            "Plug runs too cold",
+            "Incorrect tappet clearance",
+            "Plug runs too hot",
+            "Incorrect fuel mixture"
+          ],
+          "answer": "Plug runs too hot",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "What is the name of part marked as ‘X’ in the spark plug?",
+          "image_url": null,
+          "options": [
+            "Body",
+            "End cap",
+            "Insulator",
+            "Centre electrode"
+          ],
+          "answer": "Insulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "Which instrument indicate engine RPM in the engine control module?",
+          "image_url": null,
+          "options": [
+            "Pyro meter",
+            "Tachometer",
+            "Galvanometer",
+            "Hydrometer"
+          ],
+          "answer": "Tachometer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "Which part of electronic fuel injection system controls opening of bypass air passage?",
+          "image_url": null,
+          "options": [
+            "Pressure relief valve",
+            "Idle air control valve",
+            "Throttle valve",
+            "Check valve"
+          ],
+          "answer": "Idle air control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "What is the function of distributor in the battery ignition system?",
+          "image_url": null,
+          "options": [
+            "Distribute high tension current from ignition coil to secondary winding",
+            "Distribute high tension current flow ignition coil to spark plugs",
+            "Opens and closes the secondary circuit of coil",
+            "Distribute low tension current to ignition coil"
+          ],
+          "answer": "Distribute high tension current flow ignition coil to spark plugs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What is the name of part marked as ‘X’ in the MPFI system?",
+          "image_url": null,
+          "options": [
+            "Fuel filter",
+            "Electric fuel pump",
+            "Pressure regulator",
+            "Electronic control unit"
+          ],
+          "answer": "Electric fuel pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "What is the name of part marked as ‘X’ in the distributor?",
+          "image_url": null,
+          "options": [
+            "Rotor",
+            "Condenser",
+            "Distributor cap",
+            "Cam"
+          ],
+          "answer": "Condenser",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the permitted spark plug gap in general?",
+          "image_url": null,
+          "options": [
+            "2.83 mm",
+            "2.03 mm",
+            "2.53 mm",
+            "2.92 mm"
+          ],
+          "answer": "2.03 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "Which sensor is used to sense vibration?",
+          "image_url": null,
+          "options": [
+            "Engine knocking sensor",
+            "Hall effect sensor",
+            "Air vertex sensor",
+            "Vehicle speed sensor"
+          ],
+          "answer": "Engine knocking sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "Which sensor used to measure the magnitude of a magnetic field?",
+          "image_url": null,
+          "options": [
+            "Air vertex sensor",
+            "Voltage sensor",
+            "Hall effect sensor",
+            "Engine knocking sensor"
+          ],
+          "answer": "Hall effect sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "Which part of ignition system connects and disconnects primary circuit?",
+          "image_url": null,
+          "options": [
+            "Distributor",
+            "Condenser",
+            "Contact breaker",
+            "Ignition coil"
+          ],
+          "answer": "Contact breaker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What is the name of sensor?",
+          "image_url": null,
+          "options": [
+            "Temperature sensor",
+            "Pressure sensor",
+            "Blind spot sensor",
+            "Air vertex sensor"
+          ],
+          "answer": "Pressure sensor",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Charging and Starting system, Lighting system",
+      "quizWrap": [
+        {
+          "id": 175,
+          "question": "Which type of lights provide maximum brightness in a shorter time?",
+          "image_url": null,
+          "options": [
+            "LED light",
+            "LCD light",
+            "Halogen light",
+            "Neon light"
+          ],
+          "answer": "LED light",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What will be the result of worn teeth of ring gear in the starting system?",
+          "image_url": null,
+          "options": [
+            "Motor running but too fast",
+            "Motor not running no operating sound of magnetic switch",
+            "Starter motor running too slow",
+            "Starter motor running but not cranking"
+          ],
+          "answer": "Starter motor running but not cranking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What is the name of alternator part?",
+          "image_url": null,
+          "options": [
+            "Drive end frame",
+            "Voltage regulator",
+            "Slip ring end frame",
+            "Current regulator"
+          ],
+          "answer": "Slip ring end frame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "Which system deals with alternator?",
+          "image_url": null,
+          "options": [
+            "Steering system",
+            "Starting system",
+            "Charging system",
+            "HVAC system"
+          ],
+          "answer": "Charging system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the type of device?",
+          "image_url": null,
+          "options": [
+            "Alternator",
+            "Distributor",
+            "Ignition coil",
+            "Condenser"
+          ],
+          "answer": "Alternator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "What is the name of part marked as ‘X’ in the bendix type starting system?",
+          "image_url": null,
+          "options": [
+            "Anti drift spring",
+            "Bendix drive spring",
+            "Armature shaft",
+            "Fly wheel"
+          ],
+          "answer": "Bendix drive spring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "Which lighting circuit provided with dip and dim switch?",
+          "image_url": null,
+          "options": [
+            "Parking light circuit",
+            "Head light circuit",
+            "Panel light circuit",
+            "Fog light circuit"
+          ],
+          "answer": "Head light circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "Which circuit provide miniature bulbs to know the working gauges?",
+          "image_url": null,
+          "options": [
+            "Panel light circuit",
+            "Head light circuit",
+            "Parking light circuit",
+            "Stop light circuit"
+          ],
+          "answer": "Panel light circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the purpose of alternator?",
+          "image_url": null,
+          "options": [
+            "Produce more electricity at high RPM",
+            "Produce more electricity at low RPM",
+            "Produce constant electric supply at high RPM",
+            "Produce variable electric supply at high RPM"
+          ],
+          "answer": "Produce more electricity at low RPM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the adverse effect of fly wheel ring to starter pinion ratio is very high?",
+          "image_url": null,
+          "options": [
+            "Reduce the starting torque",
+            "Damage to starter motor",
+            "Increase the starting torque",
+            "Starter motor fails to start"
+          ],
+          "answer": "Damage to starter motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "What is the name of part marked as ‘X’ in the starting circuit?",
+          "image_url": null,
+          "options": [
+            "Solenoid switch",
+            "Solenoid windings",
+            "Starter switch",
+            "Starter motor"
+          ],
+          "answer": "Solenoid windings",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "What is the purpose of ‘V’ pulley in the charging system?",
+          "image_url": null,
+          "options": [
+            "Drive the cam shaft",
+            "Rotate the alternator rotor",
+            "Drive the crank shaft",
+            "Support rectifier mounting plates"
+          ],
+          "answer": "Rotate the alternator rotor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the name of device used in the starting system?",
+          "image_url": null,
+          "options": [
+            "Armature shaft",
+            "Fly wheel",
+            "Pinion gear",
+            "Over running clutch"
+          ],
+          "answer": "Over running clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which device used to prevent damage to the battery and other electrical accessories?",
+          "image_url": null,
+          "options": [
+            "Voltage regulator",
+            "Current regulator",
+            "Distributor assembly",
+            "Alternator"
+          ],
+          "answer": "Voltage regulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "What is the gas filled in the sealed beam head lights?",
+          "image_url": null,
+          "options": [
+            "Oxygen gas",
+            "Nitrogen gas",
+            "Argon gas",
+            "Hydrogen gas"
+          ],
+          "answer": "Argon gas",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "Which light give indication to the traffic behind the vehicle for slowing down?",
+          "image_url": null,
+          "options": [
+            "Stop light",
+            "Fog light",
+            "Dome light",
+            "Head light"
+          ],
+          "answer": "Stop light",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "Which system is connected with electrical system?",
+          "image_url": null,
+          "options": [
+            "Steering system",
+            "Charging system",
+            "Transmission system",
+            "Suspension system"
+          ],
+          "answer": "Charging system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What is the cause for low voltage output from alternator?",
+          "image_url": null,
+          "options": [
+            "Faulty regulator",
+            "Loose mountings",
+            "Wornout bearing",
+            "Loose drive pulley"
+          ],
+          "answer": "Faulty regulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "What is the type of starting system?",
+          "image_url": null,
+          "options": [
+            "Bendix drive",
+            "Axial or sliding armature drive",
+            "Overrunning clutch drive",
+            "Sliding clutch drive"
+          ],
+          "answer": "Axial or sliding armature drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "Which type of head light provide 25% more light than sealed beam head lights?",
+          "image_url": null,
+          "options": [
+            "Neon type head light",
+            "Halogen head light",
+            "LED type head light",
+            "LCD type head light"
+          ],
+          "answer": "Halogen head light",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "Where the red colour indicator lamps are provided in the vehicle?",
+          "image_url": null,
+          "options": [
+            "Front side",
+            "Pilot lamp",
+            "Side of vehicle",
+            "Rear side"
+          ],
+          "answer": "Rear side",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the type of starter motor circuit?",
+          "image_url": null,
+          "options": [
+            "Series type",
+            "Parallel type",
+            "Shunt type",
+            "Compound type"
+          ],
+          "answer": "Compound type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is the purpose of slot provided in the laminated cylindrical iron core of stator assembly?",
+          "image_url": null,
+          "options": [
+            "For lubrication",
+            "For fitting insulated windings",
+            "For easy fitting",
+            "Provide space for cooling"
+          ],
+          "answer": "For fitting insulated windings",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "What is the name of part marked as ‘X’ in the armature winding?",
+          "image_url": null,
+          "options": [
+            "Brushes",
+            "Field coil",
+            "Commutator",
+            "Drive end bracket"
+          ],
+          "answer": "Field coil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the purpose of indexing pin provided in the bulb case?",
+          "image_url": null,
+          "options": [
+            "Complete the circuit",
+            "Retain the bulb in the socket",
+            "Prevent damage to light",
+            "For easy identification"
+          ],
+          "answer": "Retain the bulb in the socket",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 200,
+          "question": "What is the material used to make diodes?",
+          "image_url": null,
+          "options": [
+            "Mica",
+            "Silicon",
+            "Alumina foil",
+            "Graphite"
+          ],
+          "answer": "Silicon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "What is the name of part marked as ‘X’ in the rotor assembly?",
+          "image_url": null,
+          "options": [
+            "Connection to rectifier",
+            "Laminated core",
+            "Slip ring",
+            "Field coil"
+          ],
+          "answer": "Slip ring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "What is the name of part marked as ‘X’ in the armature winding?",
+          "image_url": null,
+          "options": [
+            "Pole shoes",
+            "Brushes",
+            "Commutator",
+            "Drive end bracket"
+          ],
+          "answer": "Commutator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "How the armature winding ends are connected with commutator?",
+          "image_url": null,
+          "options": [
+            "By welding",
+            "By soldering",
+            "By riveting",
+            "By brazing"
+          ],
+          "answer": "By soldering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "What is the working principle of alternator?",
+          "image_url": null,
+          "options": [
+            "Ohms law",
+            "Law of resistance",
+            "Electromagnetic induction",
+            "Lenz’s law"
+          ],
+          "answer": "Electromagnetic induction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "What is the cause for alternator charges at high rate?",
+          "image_url": null,
+          "options": [
+            "Open rectifier circuit",
+            "Open field current",
+            "Voltage regulator setting too low",
+            "Voltage regulator setting too high"
+          ],
+          "answer": "Voltage regulator setting too high",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "What will be the result of loose drive pulley in the alternator?",
+          "image_url": null,
+          "options": [
+            "Charges at high rate",
+            "Low voltage output from alternator",
+            "No change when engine running",
+            "Alternator noisy"
+          ],
+          "answer": "Alternator noisy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "What is the use of cornering light in a vehicle?",
+          "image_url": null,
+          "options": [
+            "Provide interior illumination",
+            "Highlight the blind spot during bend",
+            "Indicate traffic behind vehicle",
+            "Provide enough visibility to driver"
+          ],
+          "answer": "Highlight the blind spot during bend",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "Why the brushes are provided with a curvature at the bottom in the starter motor?",
+          "image_url": null,
+          "options": [
+            "Prevent wear on commutator",
+            "Provide more contact with commutator",
+            "Ensure proper heat dissipation",
+            "Provide ventilation to commutator"
+          ],
+          "answer": "Provide more contact with commutator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "Which light provide effective illumination during snowfall?",
+          "image_url": null,
+          "options": [
+            "Head light",
+            "Parking light",
+            "Fog light",
+            "Stop light"
+          ],
+          "answer": "Fog light",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "What is the name of part marked as ‘X’ in the alternator charging circuit?",
+          "image_url": null,
+          "options": [
+            "Ignition switch",
+            "Ammeter",
+            "Ignition core",
+            "Fuse"
+          ],
+          "answer": "Ignition core",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What is the colour of pilot lamp provided in the vehicle?",
+          "image_url": null,
+          "options": [
+            "Red",
+            "Green",
+            "White",
+            "Orange"
+          ],
+          "answer": "Green",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "What is the use of single red lamp of 24 watts fitted at the rear?",
+          "image_url": null,
+          "options": [
+            "Provide enough visibility",
+            "Give indication the traffic behind",
+            "Help driver to see full width of road",
+            "Provide interior illumination"
+          ],
+          "answer": "Help driver to see full width of road",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "What is the use of two small lamps fitted front and rear of vehicle?",
+          "image_url": null,
+          "options": [
+            "Used for visibility",
+            "Provide illumination",
+            "Used for parking on the road",
+            "Provide caution to the driver"
+          ],
+          "answer": "Used for parking on the road",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "What is the function of over running clutch in the starting system?",
+          "image_url": null,
+          "options": [
+            "Protect armature from damage",
+            "Prevent sliding movement of pinion",
+            "Operate the solenoid",
+            "Drive the armature shaft"
+          ],
+          "answer": "Protect armature from damage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "What is the function of solenoid switch?",
+          "image_url": null,
+          "options": [
+            "Open and close the circuit between primary and secondary",
+            "Stepdown voltage from primary to secondary winding",
+            "Close the contact between battery and starting motor",
+            "Shift the lever to engage the plunger"
+          ],
+          "answer": "Close the contact between battery and starting motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the function of diodes?",
+          "image_url": null,
+          "options": [
+            "Convert AC to DC",
+            "Convert DC to AC",
+            "Step up voltage",
+            "Step down voltage"
+          ],
+          "answer": "Convert AC to DC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "What is the possible cause for starter motor not running?",
+          "image_url": null,
+          "options": [
+            "Burnt commutator",
+            "Battery discharged",
+            "Worn brushes",
+            "Worn pinion tip"
+          ],
+          "answer": "Battery discharged",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "What is the use of tail light?",
+          "image_url": null,
+          "options": [
+            "Indication to vehicle behind",
+            "Indication to slowing down",
+            "Provide interior illumination",
+            "Provide enough visibility"
+          ],
+          "answer": "Indication to vehicle behind",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the minimum RPM of crank shaft required to start the engine?",
+          "image_url": null,
+          "options": [
+            "180 RPM",
+            "200 RPM",
+            "100 RPM",
+            "150 RPM"
+          ],
+          "answer": "100 RPM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "What is the name of part marked as ‘X’ in the solenoid switch?",
+          "image_url": null,
+          "options": [
+            "Hold in winding",
+            "Starter switch",
+            "Pull in winding",
+            "Iron plunger"
+          ],
+          "answer": "Pull in winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "What is the type of starting system?",
+          "image_url": null,
+          "options": [
+            "Over running clutch drive",
+            "Bendix drive",
+            "Sliding armature type",
+            "Radial sliding armature type"
+          ],
+          "answer": "Over running clutch drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "What is the name of part marked as ‘X’ in the starting system?",
+          "image_url": null,
+          "options": [
+            "Key switch",
+            "Armature",
+            "Solenoid switch",
+            "Starting motor"
+          ],
+          "answer": "Starting motor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "Why anti drift spring is provided in the bendix drive starting system?",
+          "image_url": null,
+          "options": [
+            "Provide grip over armature shaft",
+            "Avoid the side way movement of armature shaft",
+            "Prevent pinion striking fly wheel",
+            "Resist wear on the fly wheel"
+          ],
+          "answer": "Prevent pinion striking fly wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is the type of light fitting in the vehicle?",
+          "image_url": null,
+          "options": [
+            "Cartridge type dome light",
+            "Wedge base instrument light",
+            "Parking light",
+            "Sealed beam head light"
+          ],
+          "answer": "Sealed beam head light",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electrical components Air Conditioning System",
+      "quizWrap": [
+        {
+          "id": 225,
+          "question": "What is the type of heat control system?",
+          "image_url": null,
+          "options": [
+            "Ventilation system",
+            "Air blending heating system",
+            "Water valve heating system",
+            "Automatic climate control system"
+          ],
+          "answer": "Water valve heating system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the name of part marked as ‘X’ in the horn circuit?",
+          "image_url": null,
+          "options": [
+            "Battery",
+            "Solenoid switch",
+            "Horn relay",
+            "Fuse"
+          ],
+          "answer": "Solenoid switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the possible cause for immobilizer antenna error?",
+          "image_url": null,
+          "options": [
+            "ECM problem",
+            "Unregistered ignition key",
+            "Poor transponder in key",
+            "Blown fuse"
+          ],
+          "answer": "ECM problem",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "Which sensor used for safer parking of vehicle?",
+          "image_url": null,
+          "options": [
+            "Infrared sensor",
+            "Proximity sensor",
+            "Crash sensor",
+            "Air bag sensor"
+          ],
+          "answer": "Proximity sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "What is the name of part marked as ‘x’ in the air blending heating system?",
+          "image_url": null,
+          "options": [
+            "Fan",
+            "Interior",
+            "Demister",
+            "Matrix"
+          ],
+          "answer": "Demister",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "What is the expansion of GPS in vehicle safety system?",
+          "image_url": null,
+          "options": [
+            "Global Placing Systems",
+            "Global Positioning Systems",
+            "General Positioning Systems",
+            "Global Preventing Systems"
+          ],
+          "answer": "Global Positioning Systems",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "Why seat belt and air bag systems are necessary in the vehicle?",
+          "image_url": null,
+          "options": [
+            "Provide ventilation inside vehicle",
+            "Prevent the steering wheel from turning",
+            "To protect the driver and passenger",
+            "To track the stolen car"
+          ],
+          "answer": "To protect the driver and passenger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "What is the name of Horn?",
+          "image_url": null,
+          "options": [
+            "Air horn",
+            "Bulb horn",
+            "Electric horn",
+            "Horn relay"
+          ],
+          "answer": "Electric horn",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "Which part of air conditioning system absorbs moisture in the system?",
+          "image_url": null,
+          "options": [
+            "Expansion valve",
+            "Receiver",
+            "Condenser",
+            "Evaporator"
+          ],
+          "answer": "Receiver",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "What is the function of magnetic clutch in air conditioning system?",
+          "image_url": null,
+          "options": [
+            "Cool the hot refrigerant",
+            "Connect and disconnect drive to compressor",
+            "Absorbs moisture in the system",
+            "Control the refrigerant flow to evaporator"
+          ],
+          "answer": "Connect and disconnect drive to compressor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "What is the cause of window glass is not lifting while motor running properly?",
+          "image_url": null,
+          "options": [
+            "Glass door channels unserviceable",
+            "Motor is defective",
+            "Window glass lifting regulator defective",
+            "Power window switch defective"
+          ],
+          "answer": "Window glass lifting regulator defective",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the necessity of wiper unit?",
+          "image_url": null,
+          "options": [
+            "To see road and traffic clearly",
+            "To provide easy steering",
+            "To reduce effort on the steering",
+            "To provide balancing of vehicle"
+          ],
+          "answer": "To see road and traffic clearly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "What causes horn sounds continuously even switch is in off position?",
+          "image_url": null,
+          "options": [
+            "Fuse blown off",
+            "Incorrectly adjusted relay",
+            "Relay point stuck up",
+            "Low battery voltage"
+          ],
+          "answer": "Relay point stuck up",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "Which is the part of servo motor assembly?",
+          "image_url": null,
+          "options": [
+            "Gear reduction unit",
+            "Normal AC motor",
+            "MAP sensor",
+            "Expansion valve"
+          ],
+          "answer": "Gear reduction unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "How to confirm the satisfactory function of air bag system?",
+          "image_url": null,
+          "options": [
+            "Air bag warning light come on during starting and stopping",
+            "Warning light on with engine running through",
+            "Warning light on and flash few times and go out during starting",
+            "Peep sound on during starting"
+          ],
+          "answer": "Warning light on and flash few times and go out during starting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "What should be the high air flow rate permitted while doing performance checking in automobile AC system?",
+          "image_url": null,
+          "options": [
+            "4 Kg per min",
+            "6 kg per min",
+            "8 Kg per min",
+            "10 kg per min"
+          ],
+          "answer": "8 Kg per min",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "What is the name of sensor used in the air bag systems?",
+          "image_url": null,
+          "options": [
+            "Mass type air bag system sensor",
+            "Accelerometer type air bag system sensor",
+            "Interior temperature sensor",
+            "Infrared sensor"
+          ],
+          "answer": "Mass type air bag system sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "What is the name of device in air conditioning system?",
+          "image_url": null,
+          "options": [
+            "Magnetic clutch",
+            "Condenser",
+            "Receiver",
+            "Expansion valve"
+          ],
+          "answer": "Magnetic clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "Which device acts as an evaporator temperature sensing switch?",
+          "image_url": null,
+          "options": [
+            "Thermostatic switch",
+            "Blower switch",
+            "Heater switch",
+            "Defroster switch"
+          ],
+          "answer": "Thermostatic switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "What is the advantage of multiplex network?",
+          "image_url": null,
+          "options": [
+            "Improve vehicle safety system",
+            "Prevent malfunctioning of air bag system",
+            "Reduce system cost and weight",
+            "Determine vehicle tracking system"
+          ],
+          "answer": "Determine vehicle tracking system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is the name of air conditioning?",
+          "image_url": null,
+          "options": [
+            "Compressor",
+            "Receiver",
+            "Condenser",
+            "Blower"
+          ],
+          "answer": "Condenser",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "What is the type of horn?",
+          "image_url": null,
+          "options": [
+            "Bulb horn",
+            "Air horn",
+            "Vibrating type horn",
+            "Wind tone type horn"
+          ],
+          "answer": "Bulb horn",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "What is the advantage of using servo motor in air conditioning system?",
+          "image_url": null,
+          "options": [
+            "High speed operation possible",
+            "Suitable for precision control of rotation",
+            "Low cost of maintenance",
+            "Suitable to prevent vibration"
+          ],
+          "answer": "High speed operation possible",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "What is the device used in air conditioning system?",
+          "image_url": null,
+          "options": [
+            "Compressor",
+            "Condenser",
+            "Receiver",
+            "Evaporator"
+          ],
+          "answer": "Compressor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "Which wire of servo motor connected to power supply?",
+          "image_url": null,
+          "options": [
+            "White",
+            "Yellow",
+            "Black",
+            "Red"
+          ],
+          "answer": "Red",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 250,
+          "question": "What is the reason for poor sound quality of horn?",
+          "image_url": null,
+          "options": [
+            "Improper horn tone adjustment",
+            "Fuse blown off",
+            "Relay points stuck up",
+            "Open field coil winding"
+          ],
+          "answer": "Improper horn tone adjustment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the name of device?",
+          "image_url": null,
+          "options": [
+            "Ambient temperature sensor",
+            "Thermostatic switch",
+            "Expansion valve",
+            "Servo motor"
+          ],
+          "answer": "Thermostatic switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "Which type of wipers are used for heavy motor vehicles?",
+          "image_url": null,
+          "options": [
+            "Hand operated wiper",
+            "Vacuum operated wiper",
+            "Hydraulically operated wiper",
+            "Compressed air operated wiper"
+          ],
+          "answer": "Compressed air operated wiper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "What is the expansion of ICAT in the vehicle safety system?",
+          "image_url": null,
+          "options": [
+            "Indian Computer Advanced Technology",
+            "Intelligent Computerized Anti Theft system",
+            "Intelligent Computer Advanced Technology",
+            "Indian Combat Advanced Technology"
+          ],
+          "answer": "Intelligent Computerized Anti Theft system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is the purpose of engine immobilizer?",
+          "image_url": null,
+          "options": [
+            "Electric opening and closing of door",
+            "Used to operate horn relay",
+            "Prevent from starting the engine",
+            "To compensate from sun light entering vehicle"
+          ],
+          "answer": "Prevent from starting the engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "Where the ambient temperature sensor is located in the vehicle?",
+          "image_url": null,
+          "options": [
+            "Behind the grill",
+            "Rear side of engine",
+            "Front axle",
+            "Top of servo motor"
+          ],
+          "answer": "Behind the grill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "What is the purpose of seat belt pre tensioners?",
+          "image_url": null,
+          "options": [
+            "Hold the occupant tightly in the seat",
+            "Detect passengers weight",
+            "Prevent the side way movement of seat",
+            "Protect the occupant from head injury"
+          ],
+          "answer": "Hold the occupant tightly in the seat",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "What is the name of device?",
+          "image_url": null,
+          "options": [
+            "Condenser",
+            "Evaporator",
+            "Receiver",
+            "Expansion valve"
+          ],
+          "answer": "Evaporator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "What is the boiling point of refrigerant R-134a?",
+          "image_url": null,
+          "options": [
+            "20.5°C",
+            "22.0°C",
+            "26.5°C",
+            "27.8°C"
+          ],
+          "answer": "26.5°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "What is the function of ambient temperature sensor in the air conditioning system?",
+          "image_url": null,
+          "options": [
+            "Monitor air temperature inside vehicle",
+            "Monitor air temperature outside vehicle",
+            "Monitor air temperature in driver cabin",
+            "Monitor air temperature at the exhaust"
+          ],
+          "answer": "Monitor air temperature outside vehicle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "Which system determine the vehicles location by forming a triangle with a group of four or more satellites?",
+          "image_url": null,
+          "options": [
+            "Triangulation",
+            "Reflective displays",
+            "Telematics",
+            "Networking and Multiplexing"
+          ],
+          "answer": "Triangulation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "How much DC supply voltage required for servo motor?",
+          "image_url": null,
+          "options": [
+            "4V to 8V",
+            "4.8V to 6V",
+            "3.5V to 8V",
+            "5 V to 7.5 V"
+          ],
+          "answer": "4.8V to 6V",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "Which part of air conditioning system remove heat from air and transfer to the refrigerant?",
+          "image_url": null,
+          "options": [
+            "Evaporator",
+            "Condenser",
+            "Receiver",
+            "Blower"
+          ],
+          "answer": "Evaporator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "Which type of flow mode is selected if outside is dusty and contaminated in car AC system?",
+          "image_url": null,
+          "options": [
+            "Recirculation mode",
+            "Fresh mode",
+            "Heating mode",
+            "Defroster mode"
+          ],
+          "answer": "Recirculation mode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "What is the name of device?",
+          "image_url": null,
+          "options": [
+            "Evaporator",
+            "Condenser",
+            "Blower",
+            "Expansion valve"
+          ],
+          "answer": "Expansion valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "Which is the most commonly used wiper in all motor vehicles?",
+          "image_url": null,
+          "options": [
+            "Electrically operated wipers",
+            "Hydraulically operated wipers",
+            "Vacuum operated wipers",
+            "Compressed air operated wipers"
+          ],
+          "answer": "Electrically operated wipers",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is the name of part marked as ‘X’ in the Horn assembly?",
+          "image_url": null,
+          "options": [
+            "Armature",
+            "Striker plate",
+            "Contact breaker",
+            "Diaphragm"
+          ],
+          "answer": "Striker plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "What is the function of condenser?",
+          "image_url": null,
+          "options": [
+            "Control the refrigerant flow",
+            "Absorbs moisture in the system",
+            "Cool the hot refrigerant",
+            "Convert refrigerant to vapour"
+          ],
+          "answer": "Cool the hot refrigerant",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "Which sensor causes off the outside air inlet or other odours?",
+          "image_url": null,
+          "options": [
+            "Infrared sensor",
+            "Smog sensor",
+            "Sunload sensor",
+            "Temperature sensor"
+          ],
+          "answer": "Smog sensor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "Which device inflate the air bag in few milli seconds during vehicle collision?",
+          "image_url": null,
+          "options": [
+            "Seat belt pretensioners",
+            "Steering lock",
+            "GPS tracker",
+            "Inflator module"
+          ],
+          "answer": "Inflator module",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "Which type of horn consist electrically driven air pump forces air through plastic trumpet?",
+          "image_url": null,
+          "options": [
+            "Winding horn",
+            "Wind horn",
+            "Air horn",
+            "Electric horn"
+          ],
+          "answer": "Wind horn",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "How much is the current consumption of wind shield wiper motor?",
+          "image_url": null,
+          "options": [
+            "2.7 to 3.4 Amps",
+            "2.2 to 3.2 Amps",
+            "1.8 to 3.2 Amps",
+            "3.5 to 5.2 Amps"
+          ],
+          "answer": "2.7 to 3.4 Amps",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the name of part marked as ‘X’ in the air bag inflator module?",
+          "image_url": null,
+          "options": [
+            "Clock spring electrical unit",
+            "Air bag module",
+            "Steering column",
+            "Steering wheel"
+          ],
+          "answer": "Steering column",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What is the type of horn?",
+          "image_url": null,
+          "options": [
+            "Air horn",
+            "Bulb horn",
+            "Electric horn",
+            "Wind horn"
+          ],
+          "answer": "Air horn",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is the name of device used in the automobile AC system?",
+          "image_url": null,
+          "options": [
+            "Thermostatic switch",
+            "Expansion valve",
+            "Ambient temperature sensor",
+            "Evaporator"
+          ],
+          "answer": "Ambient temperature sensor",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Driving practice Electric vehicle technology",
+      "quizWrap": [
+        {
+          "id": 275,
+          "question": "What is the validity of learner driving license?",
+          "image_url": null,
+          "options": [
+            "6 Months",
+            "8 Months",
+            "10 Months",
+            "1 Year"
+          ],
+          "answer": "6 Months",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "Which type of ECU control actuators of engine?",
+          "image_url": null,
+          "options": [
+            "VCM",
+            "TCM",
+            "ECM",
+            "EBCM"
+          ],
+          "answer": "ECM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "What does the 3rd digit code no 9. indicate system trouble in scan tool letter codes?",
+          "image_url": null,
+          "options": [
+            "Ignition system",
+            "Input/out signal and controls",
+            "Emission system",
+            "Computer system"
+          ],
+          "answer": "Input/out signal and controls",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "What does the third digit of system trouble code no.6 deals with in scan tool letter code?",
+          "image_url": null,
+          "options": [
+            "Ignition system",
+            "Emission system",
+            "Computer system",
+            "Transmission system"
+          ],
+          "answer": "Computer system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "What is the validity period of the license to drive non transport vehicle?",
+          "image_url": null,
+          "options": [
+            "10 Years",
+            "15 Years",
+            "20 Years",
+            "22 Years"
+          ],
+          "answer": "20 Years",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "What is the motive of vehicle informatio?",
+          "image_url": null,
+          "options": [
+            "Provide information about vehicle registration history",
+            "Provide information about tracking of vehicle",
+            "Provide information about vehicle safety",
+            "Provide information about warming system"
+          ],
+          "answer": "Provide information about vehicle registration history",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "What is the function of vehicle control module?",
+          "image_url": null,
+          "options": [
+            "Control actuators of engine",
+            "Control engine and vehicle performance",
+            "Handle transmission",
+            "Control anti clock brake system"
+          ],
+          "answer": "Control engine and vehicle performance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the validity period for transport vehicle license?",
+          "image_url": null,
+          "options": [
+            "5 Years",
+            "10 Years",
+            "8 Years",
+            "3 Years"
+          ],
+          "answer": "3 Years",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What does the traffic sign indicate?",
+          "image_url": null,
+          "options": [
+            "School",
+            "Men at work",
+            "Pedestrian crossing",
+            "Cycle crossing"
+          ],
+          "answer": "Pedestrian crossing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "What is the validity for international driving license?",
+          "image_url": null,
+          "options": [
+            "2 Years",
+            "3 Years",
+            "1 Year",
+            "5 Years"
+          ],
+          "answer": "1 Year",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which type of ECU control the power windows of vehicle?",
+          "image_url": null,
+          "options": [
+            "ECM",
+            "EBCM",
+            "BCM",
+            "VCM"
+          ],
+          "answer": "BCM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "What is the name of sign?",
+          "image_url": null,
+          "options": [
+            "Gap in median",
+            "Narrow bridge",
+            "Narrow road",
+            "Road widens"
+          ],
+          "answer": "Narrow bridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "What does the traffic sign indicate?",
+          "image_url": null,
+          "options": [
+            "Two way operation",
+            "Cross roads",
+            "Traffic diversion",
+            "Slippery road"
+          ],
+          "answer": "Two way operation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "What is the type of sign?",
+          "image_url": null,
+          "options": [
+            "Parking signs",
+            "Prohibitory signs",
+            "Speed limit and vehicle control signs",
+            "Cautionary sign"
+          ],
+          "answer": "Speed limit and vehicle control signs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "What does the first unit identify in the scan tool letter code?",
+          "image_url": null,
+          "options": [
+            "Manufacturer unique number",
+            "Trouble code reference system",
+            "Type of error",
+            "Specific failure"
+          ],
+          "answer": "Type of error",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

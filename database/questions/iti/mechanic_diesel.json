@@ -1,0 +1,6357 @@
+[
+    {
+      "module": "Elementary First aid and Safety",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "Which is chemical Hazard?",
+          "image_url": null,
+          "options": [
+            "Noise",
+            "Explosive",
+            "Vibration",
+            "Radiation"
+          ],
+          "answer": "Explosive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "Which fire extinguisher used for flammable liquid fires?",
+          "image_url": null,
+          "options": [
+            "Halon extinguisher",
+            "Dry powder extinguisher",
+            "CTC extinguisher",
+            "Water extinguisher"
+          ],
+          "answer": "Dry powder extinguisher",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "What is the name of the chisel?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Half round nose chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Cross cut chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which part of body is bleeding profusely is considered serious and need professional attention?",
+          "image_url": null,
+          "options": [
+            "Leg of the human body",
+            "Knee of the human body",
+            "Wrist of the human body",
+            "Thigh of the human body"
+          ],
+          "answer": "Wrist of the human body",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "What is the benefits of 5s concept?",
+          "image_url": null,
+          "options": [
+            "Increase the cost",
+            "Reduce absenteeism",
+            "Prevent accident",
+            "Increase productivity"
+          ],
+          "answer": "Increase productivity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "Which is the Biological hazard?",
+          "image_url": null,
+          "options": [
+            "Smoking",
+            "Sickness",
+            "Infection",
+            "Poor discipline"
+          ],
+          "answer": "Infection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "Which is the occupational mechanical hazard?",
+          "image_url": null,
+          "options": [
+            "Sickness",
+            "Current leakage",
+            "Unguarded machinery",
+            "Wrong layout of machinery"
+          ],
+          "answer": "Unguarded machinery",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "What is first aid?",
+          "image_url": null,
+          "options": [
+            "It is the emergency medical treatment",
+            "It is an immediate life saving treatment",
+            "It is the intensive medical treatment",
+            "It is the rule to assessing the treatment"
+          ],
+          "answer": "It is an immediate life saving treatment",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "Which device is used to remove toxic waste?",
+          "image_url": null,
+          "options": [
+            "Water wash",
+            "Incinerators",
+            "Compressed air",
+            "Vacuum cleaner"
+          ],
+          "answer": "Vacuum cleaner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "What type of safety covers the wearing of safety shoes in workshop?",
+          "image_url": null,
+          "options": [
+            "General safety",
+            "Personal safety",
+            "Machine safety",
+            "Occupational safety"
+          ],
+          "answer": "Personal safety",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "Which is protecting from hot particles hazard?",
+          "image_url": null,
+          "options": [
+            "Ear plug",
+            "Nose mask",
+            "Leather aprons",
+            "Gum boots"
+          ],
+          "answer": "Leather aprons",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "How to treat burns and scalds?",
+          "image_url": null,
+          "options": [
+            "Blow hot air to the burnt hand",
+            "Blow cool air to the burnt hand",
+            "Covering with water",
+            "Covered hot water to the burnt hand"
+          ],
+          "answer": "Covering with water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "Which is preventing toxic fumes?",
+          "image_url": null,
+          "options": [
+            "Hand screen",
+            "Respiration pad",
+            "Goggles",
+            "Apron"
+          ],
+          "answer": "Respiration pad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "Which type of occupational health hazards involves “Toxic”?",
+          "image_url": null,
+          "options": [
+            "Physical hazard",
+            "Chemical hazard",
+            "Biological hazard",
+            "Mechanical hazard"
+          ],
+          "answer": "Chemical hazard",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "What is the name of safety device?",
+          "image_url": null,
+          "options": [
+            "Goggle",
+            "Hand gloves",
+            "Hand screen",
+            "Helmet screen"
+          ],
+          "answer": "Goggle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "Which gas is harmful to human health?",
+          "image_url": null,
+          "options": [
+            "Oxygen",
+            "Water vapour",
+            "Carbon di oxide",
+            "Carbon mono oxide"
+          ],
+          "answer": "Carbon mono oxide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What is proper first aid for severe bleeding?",
+          "image_url": null,
+          "options": [
+            "Lower the injured body",
+            "Apply pressure to the wound",
+            "Apply hot water",
+            "Rubbing with alcohol"
+          ],
+          "answer": "Apply pressure to the wound",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "What is the effect of air borne dust in workshop?",
+          "image_url": null,
+          "options": [
+            "Diarrhoea",
+            "Dehydration",
+            "Throat infection",
+            "Rise in blood pressure"
+          ],
+          "answer": "Throat infection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "Which is toxic in the automobile workshop?",
+          "image_url": null,
+          "options": [
+            "Old bearings",
+            "Paper wrappers",
+            "Used lubricant",
+            "Old washer, bolts and nuts"
+          ],
+          "answer": "Used lubricant",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "Which is used for nose protection?",
+          "image_url": null,
+          "options": [
+            "Gloves",
+            "Goggles",
+            "Apron",
+            "Mask"
+          ],
+          "answer": "Mask",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Which distance is known as wheel base of the vehicle?",
+          "image_url": null,
+          "options": [
+            "Centre to centre distance between front wheels",
+            "Centre to centre distance between rear wheels",
+            "Centre to centre distance between front and rear wheels",
+            "End to end distance between front and rear wheels"
+          ],
+          "answer": "Centre to centre distance between front and rear wheels",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "What is the name of the chisel?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Half round nose chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Half round nose chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "What will you do if an electric shock victim unable to release his grip from the conductor?",
+          "image_url": null,
+          "options": [
+            "Make sure the power is turned off",
+            "Cover all burns with a dry loose dressing",
+            "Place the victim on one side with head down",
+            "Ask a by stander to help you to move the victim"
+          ],
+          "answer": "Make sure the power is turned off",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "Which type of personal protection recommended to handle loads with rough surfaces and pointed projections?",
+          "image_url": null,
+          "options": [
+            "Paper gloves",
+            "Rubber gloves",
+            "Leather gloves",
+            "Polythene gloves"
+          ],
+          "answer": "Leather gloves",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "Which is the motive of occupational health and safety?",
+          "image_url": null,
+          "options": [
+            "Decrease employee morale",
+            "Decreasing the quality",
+            "Reducing absenteeism",
+            "Minimising productivity"
+          ],
+          "answer": "Reducing absenteeism",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Measuring and Marking practice",
+      "quizWrap": [
+        {
+          "id": 25,
+          "question": "What is the use of a bench vice?",
+          "image_url": null,
+          "options": [
+            "To hold a work piece",
+            "To hold a tool",
+            "To hold a work table",
+            "To hold a chuck"
+          ],
+          "answer": "To hold a work piece",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "What is the name of the calliper?",
+          "image_url": null,
+          "options": [
+            "Inside caliper",
+            "Outside caliper",
+            "Firm joint caliper",
+            "Spring joint outside caliper"
+          ],
+          "answer": "Spring joint outside caliper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which material used in the outside micrometer anvil?",
+          "image_url": null,
+          "options": [
+            "Brass",
+            "Bronze",
+            "Carbon",
+            "Carbide"
+          ],
+          "answer": "Carbide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "Which scraper is useful to the larger bearings?",
+          "image_url": null,
+          "options": [
+            "Bull nose scraper",
+            "Three square scraper",
+            "Half round scrapper",
+            "Flat scraper"
+          ],
+          "answer": "Bull nose scraper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "Name the part marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Snug",
+            "Spindle",
+            "Guide pin",
+            "Rocker arm"
+          ],
+          "answer": "Guide pin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "What is the name of scraper?",
+          "image_url": null,
+          "options": [
+            "Three square scraper",
+            "Bull nose scraper",
+            "Flat scraper",
+            "Half round scraper"
+          ],
+          "answer": "Bull nose scraper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "What is the least count of the metric outside micrometer?",
+          "image_url": null,
+          "options": [
+            "0.01 mm",
+            "0.10 mm",
+            "0.0001 mm",
+            "0.00001mm"
+          ],
+          "answer": "0.01 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the name of the plier?",
+          "image_url": null,
+          "options": [
+            "Slip-joint plier",
+            "End cutting plier",
+            "Flat nose plier",
+            "Side cutting plier"
+          ],
+          "answer": "End cutting plier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "What is the use of outside calliper?",
+          "image_url": null,
+          "options": [
+            "Check the flatness",
+            "Check the angle",
+            "Check the internal dia of the job",
+            "Check the external dia of the job"
+          ],
+          "answer": "Check the external dia of the job",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "What is the name of scraper?",
+          "image_url": null,
+          "options": [
+            "Half round scrapper",
+            "Three square scraper",
+            "Ball nose scraper",
+            "Flat scraper"
+          ],
+          "answer": "Half round scrapper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Jack",
+            "Puller",
+            "Wrench",
+            "Extractor"
+          ],
+          "answer": "Puller",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "What is the name of the measuring instrument?",
+          "image_url": null,
+          "options": [
+            "Depth gauge",
+            "Bore dial gauge",
+            "Telescopic gauge",
+            "Vernier gauge"
+          ],
+          "answer": "Bore dial gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "What is the name of the cleaning tool?",
+          "image_url": null,
+          "options": [
+            "Rigid scrapper",
+            "Flexible scrapper",
+            "Carbon brush",
+            "Wire brush"
+          ],
+          "answer": "Rigid scrapper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Anvil",
+            "Frame",
+            "Spindle",
+            "Thimble"
+          ],
+          "answer": "Frame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "What is the name of the device?",
+          "image_url": null,
+          "options": [
+            "Pipe vice",
+            "Hand vice",
+            "Pin vice",
+            "Bench vice"
+          ],
+          "answer": "Bench vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "What is the name of the chisel?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Half round nose chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Diamond point chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is the purpose of the eye hole in an hammer?",
+          "image_url": null,
+          "options": [
+            "Strike the job",
+            "Fix the handle",
+            "Reduce the weight",
+            "Stamp the details"
+          ],
+          "answer": "Fix the handle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "What is the name of Plier?",
+          "image_url": null,
+          "options": [
+            "External circlip plier",
+            "Internal circlip Plier",
+            "Flat nose plier",
+            "Round nose plier"
+          ],
+          "answer": "Internal circlip Plier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "What is the name of hammer?",
+          "image_url": null,
+          "options": [
+            "Ball pein hammer",
+            "Sludge hammer",
+            "Straight pein hammer",
+            "Cross pein hammer"
+          ],
+          "answer": "Straight pein hammer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "What is the basic unit of length as per SI unit?",
+          "image_url": null,
+          "options": [
+            "mm",
+            "cm",
+            "meter",
+            "Km"
+          ],
+          "answer": "meter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "Which instrument is used to check the end-play of crank shaft?",
+          "image_url": null,
+          "options": [
+            "Dial test indicator",
+            "Telescopic gauge",
+            "Bore dial gauge",
+            "Slip gauge"
+          ],
+          "answer": "Dial test indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "Which type of chisel used for squaring material at the corners?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Half round chisel",
+            "Cross cut chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Diamond point chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Stem",
+            "Plunger",
+            "Fixed Anvil Insert",
+            "Centering shoes"
+          ],
+          "answer": "Stem",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the name of calliper?",
+          "image_url": null,
+          "options": [
+            "Firm joint caliper",
+            "Spring joint caliper",
+            "Inside caliper",
+            "Jenny caliper"
+          ],
+          "answer": "Jenny caliper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "What is the name of the vice?",
+          "image_url": null,
+          "options": [
+            "Pipe vice",
+            "Hand vice",
+            "Tool maker vice",
+            "Bench vice"
+          ],
+          "answer": "Pipe vice",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 50,
+          "question": "Which part of Vernier caliper used to measure internal and external measurement?",
+          "image_url": null,
+          "options": [
+            "Beam",
+            "Sliding unit",
+            "Fixed jaw",
+            "Movable jaw"
+          ],
+          "answer": "Movable jaw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Cap",
+            "Lock",
+            "Stock",
+            "Graduated sleeve"
+          ],
+          "answer": "Lock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "Which marking device is used to scribe circle?",
+          "image_url": null,
+          "options": [
+            "Jenny caliper",
+            "Inside caliper",
+            "Spring divider",
+            "Outside caliper"
+          ],
+          "answer": "Spring divider",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "Which part ensures uniform pressure on the measuring faces in the outside micrometer?",
+          "image_url": null,
+          "options": [
+            "Barrel",
+            "Spindle",
+            "Thimble",
+            "Ratchet slop"
+          ],
+          "answer": "Ratchet slop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "Which instrument is used to check the right angle?",
+          "image_url": null,
+          "options": [
+            "Steel rule",
+            "Try square",
+            "Firm joint caliper",
+            "Spring Joint caliper"
+          ],
+          "answer": "Try square",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "What is the name of pneumatic tool?",
+          "image_url": null,
+          "options": [
+            "Air chisel",
+            "Air ratchet",
+            "Air hammer",
+            "Air impact wrench"
+          ],
+          "answer": "Air chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the least count of Vernier caliper in metric system?",
+          "image_url": null,
+          "options": [
+            "0.1 mm",
+            "0.01 mm",
+            "0.02 mm",
+            "0.001 mm"
+          ],
+          "answer": "0.02 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "What is the name of the chisel?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Half round nose chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Cross cut chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "What is the name of the chisel?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Half round nose chisel",
+            "Diamond point chisel"
+          ],
+          "answer": "Half round nose chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "What is the name of the spanner?",
+          "image_url": null,
+          "options": [
+            "Socket spanner",
+            "Tubular spanner",
+            "Hook spanner",
+            "Adjustable spanner"
+          ],
+          "answer": "Hook spanner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "Which type of hammer spread metal in one direction at right angle to the line?",
+          "image_url": null,
+          "options": [
+            "Straight pein hammer",
+            "Ball pein hammer",
+            "Cross pein hammer",
+            "Sludge hammer"
+          ],
+          "answer": "Straight pein hammer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "What is the name of marking tool?",
+          "image_url": null,
+          "options": [
+            "Divider",
+            "Scriber",
+            "Outside caliper",
+            "Inside caliper"
+          ],
+          "answer": "Scriber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "Which condition the tyre pressure not to be checked?",
+          "image_url": null,
+          "options": [
+            "Tyre is cold",
+            "Tyre is carrying load",
+            "Before start of journey",
+            "Tyre is hot after long run"
+          ],
+          "answer": "Tyre is hot after long run",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What is the name of the cleaning tools?",
+          "image_url": null,
+          "options": [
+            "Wire brush",
+            "Wire wheel",
+            "Hollow carbon brush",
+            "Bristle head"
+          ],
+          "answer": "Hollow carbon brush",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "Name the part marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Anvil",
+            "Clamp",
+            "Plunger",
+            "Stem"
+          ],
+          "answer": "Clamp",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "What is the name of hand tools?",
+          "image_url": null,
+          "options": [
+            "Flat chisel",
+            "Cross cut chisel",
+            "Half round chisel",
+            "Web chisel"
+          ],
+          "answer": "Flat chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "What is the name of hand tools?",
+          "image_url": null,
+          "options": [
+            "Cross cut chisel",
+            "Flat chisel",
+            "Web chisel",
+            "Half round chisel"
+          ],
+          "answer": "Web chisel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Anvil",
+            "Stem",
+            "Plunger",
+            "Pointer"
+          ],
+          "answer": "Plunger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "Which marking media is poisonous?",
+          "image_url": null,
+          "options": [
+            "White wash",
+            "Prussian blue",
+            "Copper sulphate",
+            "Cellulose lacquer"
+          ],
+          "answer": "Copper sulphate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "What is the Purpose of chisel?",
+          "image_url": null,
+          "options": [
+            "Grinding",
+            "Machining",
+            "Reaming",
+            "Chipping"
+          ],
+          "answer": "Chipping",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "What is the value of one thimble division reading in outside micrometer?",
+          "image_url": null,
+          "options": [
+            "0.05 mm",
+            "0.01 mm",
+            "0.02 mm",
+            "0.03 mm"
+          ],
+          "answer": "0.01 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "What is the name of the screw driver?",
+          "image_url": null,
+          "options": [
+            "Heavy duty screw driver",
+            "Light duty screw driver",
+            "Stumpy screw driver",
+            "Electrician screw driver"
+          ],
+          "answer": "Heavy duty screw driver",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the use of lump hammer?",
+          "image_url": null,
+          "options": [
+            "Strike the metal",
+            "Punch the metal",
+            "Spread the metal",
+            "Light demolition work"
+          ],
+          "answer": "Light demolition work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "What is the name of equipment?",
+          "image_url": null,
+          "options": [
+            "Surface plate",
+            "Angle plate",
+            "‘V’ Block",
+            "Parallel Block"
+          ],
+          "answer": "Surface plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "Which is the fixed measuring face of micrometer?",
+          "image_url": null,
+          "options": [
+            "Anvil",
+            "Barrel",
+            "Spindle",
+            "Thimble"
+          ],
+          "answer": "Anvil",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Fastening and Fitting",
+      "quizWrap": [
+        {
+          "id": 75,
+          "question": "What is the pitch of wave set hacksaw blade?",
+          "image_url": null,
+          "options": [
+            "0.4 mm",
+            "0.8 mm",
+            "1.2 mm",
+            "Over 1.0 mm"
+          ],
+          "answer": "0.8 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "What is the name of reamer?",
+          "image_url": null,
+          "options": [
+            "Machine reamer",
+            "Hand reamer",
+            "Hand drill",
+            "Machine drill"
+          ],
+          "answer": "Hand reamer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "Which type of nut required to align the axle shaft hole and slot of the nut for locking?",
+          "image_url": null,
+          "options": [
+            "Castle nut",
+            "Chuck nut",
+            "Thumb nut",
+            "Self lock nut"
+          ],
+          "answer": "Castle nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "Where this gasket is used?",
+          "image_url": null,
+          "options": [
+            "Exhaust manifold",
+            "Inlet manifold",
+            "Engine head",
+            "Water pump"
+          ],
+          "answer": "Engine head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Which angle helps in the penetration of the cutting edges in the material?",
+          "image_url": null,
+          "options": [
+            "Helix angle",
+            "Point angle",
+            "Clearance angle",
+            "Rake angle"
+          ],
+          "answer": "Clearance angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "Which tap in a set have 20° chamfer at its end?",
+          "image_url": null,
+          "options": [
+            "Intermediate tap",
+            "Taper tap",
+            "Plug tap",
+            "Second tap"
+          ],
+          "answer": "Plug tap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "What is the name of drilling machine?",
+          "image_url": null,
+          "options": [
+            "Ratchet drilling machine",
+            "Bevel gear drilling machine",
+            "Pneumatic drilling machine",
+            "Breast drilling machine"
+          ],
+          "answer": "Bevel gear drilling machine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "Which nut is used for structural and machine tool construction?",
+          "image_url": null,
+          "options": [
+            "Square nut",
+            "Hexagonal nut",
+            "Wing nut",
+            "Castle nut"
+          ],
+          "answer": "Hexagonal nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What is the name of the nut?",
+          "image_url": null,
+          "options": [
+            "Lock nut",
+            "Thumb nut",
+            "Domed cap nut",
+            "Hexagonal nut with collar"
+          ],
+          "answer": "Domed cap nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "What is the name of the washer?",
+          "image_url": null,
+          "options": [
+            "Plain washer",
+            "Tab washer",
+            "Spring washer",
+            "Toothed lock washer"
+          ],
+          "answer": "Tab washer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "What is the recommended gap between tool post and grinding wheel?",
+          "image_url": null,
+          "options": [
+            "1 mm",
+            "2 mm",
+            "3 mm",
+            "4 mm"
+          ],
+          "answer": "2 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "Which type of locking device is used to retain the component on the shaft (or) bore?",
+          "image_url": null,
+          "options": [
+            "Split pin",
+            "Circlips",
+            "Washers",
+            "Wire lock"
+          ],
+          "answer": "Circlips",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "Which drilling machine is used to drill holes between 6mm to 12 mm?",
+          "image_url": null,
+          "options": [
+            "Breast drill",
+            "Ratchet hand drill",
+            "Pneumatic hand drill",
+            "Electric hand drill light duty"
+          ],
+          "answer": "Breast drill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "What is the name of the nut?",
+          "image_url": null,
+          "options": [
+            "Square nut",
+            "Lock nut",
+            "Castle nut",
+            "Self locking nut"
+          ],
+          "answer": "Castle nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "Which key is used for tapered shaft fitting?",
+          "image_url": null,
+          "options": [
+            "Woodruff key",
+            "Feather key",
+            "Flat saddle key",
+            "Hollow saddle key"
+          ],
+          "answer": "Woodruff key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "What is the name of the file?",
+          "image_url": null,
+          "options": [
+            "Single cut",
+            "Double cut",
+            "Rasp cut",
+            "Curved cut"
+          ],
+          "answer": "Single cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Face wrench",
+            "Hook wrench",
+            "Pin wrench",
+            "Face pin wrench"
+          ],
+          "answer": "Hook wrench",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "What is the type of fasteners?",
+          "image_url": null,
+          "options": [
+            "Bolt",
+            "Screw",
+            "Rivet",
+            "Nut"
+          ],
+          "answer": "Rivet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "What is the type of the machine screw head?",
+          "image_url": null,
+          "options": [
+            "Pan head",
+            "Round head",
+            "Cheese head",
+            "Raised cheese head"
+          ],
+          "answer": "Pan head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the name of file?",
+          "image_url": null,
+          "options": [
+            "Square file",
+            "Half round file",
+            "Triangular file",
+            "Knife edge file"
+          ],
+          "answer": "Knife edge file",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the name of the key?",
+          "image_url": null,
+          "options": [
+            "Hollow saddle key",
+            "Flat saddle key",
+            "Circular taper key",
+            "Parallel sunk key"
+          ],
+          "answer": "Flat saddle key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "Which type of locking device used on shaft and similar parts?",
+          "image_url": null,
+          "options": [
+            "Split pin",
+            "Wire lock",
+            "Internal circlip",
+            "External circlip"
+          ],
+          "answer": "External circlip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "What is the name of the screw?",
+          "image_url": null,
+          "options": [
+            "Set screw",
+            "Thumb screw",
+            "Hexagonal screw",
+            "Grub screws"
+          ],
+          "answer": "Thumb screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "Which part of drill bit fits in to the slot of drilling machine spindle?",
+          "image_url": null,
+          "options": [
+            "Body",
+            "Tang",
+            "Flute",
+            "Web"
+          ],
+          "answer": "Tang",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "What is the name of nut?",
+          "image_url": null,
+          "options": [
+            "Lock nut",
+            "Castle nut",
+            "Square nut",
+            "Slotted round nut"
+          ],
+          "answer": "Lock nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 100,
+          "question": "What is the type of die?",
+          "image_url": null,
+          "options": [
+            "Solid Die",
+            "Half die",
+            "Circular split die",
+            "Rectangle split die"
+          ],
+          "answer": "Circular split die",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Which type of portable drilling machine has variable speed?",
+          "image_url": null,
+          "options": [
+            "Breast hand drill",
+            "Heavy duty electric hand drill",
+            "Ratchet hand drill",
+            "Bevel gear hand drill"
+          ],
+          "answer": "Heavy duty electric hand drill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "Which key is used while hub slides axially in the shaft?",
+          "image_url": null,
+          "options": [
+            "Woodruff key",
+            "Gib-Head key",
+            "Feather key",
+            "Hollow saddle key"
+          ],
+          "answer": "Feather key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "Name the method of removing broken stud.",
+          "image_url": null,
+          "options": [
+            "Making drill hole method",
+            "Ezy-out method",
+            "Filling square form method",
+            "Prick punch method"
+          ],
+          "answer": "Ezy-out method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the material of the hand tap?",
+          "image_url": null,
+          "options": [
+            "Cast Iron",
+            "Low carbon steel",
+            "High speed steel",
+            "Stainless steel"
+          ],
+          "answer": "High speed steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "Which key used for easy fixing and removing?",
+          "image_url": null,
+          "options": [
+            "Feather key",
+            "Gib-Head key",
+            "Hollow saddle key",
+            "Circular tapper key"
+          ],
+          "answer": "Gib-Head key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "What is the name of bolt?",
+          "image_url": null,
+          "options": [
+            "Anti fatigue bolt",
+            "Bolt with clearance hole",
+            "‘T’ Bolt",
+            "Body fit bolt"
+          ],
+          "answer": "Body fit bolt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "What is the name of the key?",
+          "image_url": null,
+          "options": [
+            "Circular taper key",
+            "Parallel sunk key",
+            "Gib-head key",
+            "Woodruff key"
+          ],
+          "answer": "Gib-head key",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the type of nut?",
+          "image_url": null,
+          "options": [
+            "Using nut",
+            "Thumb nut",
+            "Square nut",
+            "Self locking nut"
+          ],
+          "answer": "Self locking nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "What is the name of the counter sink screw?",
+          "image_url": null,
+          "options": [
+            "Slotted counter sink screw",
+            "Cross-recessed counter sink head screw",
+            "Slotted raised counter sink head screw",
+            "Cross recessed raised counter sink head"
+          ],
+          "answer": "Slotted raised counter sink head screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "What is the name of the screw?",
+          "image_url": null,
+          "options": [
+            "Grub screw",
+            "Thumb screw",
+            "Hexagonal screw",
+            "Counter sink head screw"
+          ],
+          "answer": "Counter sink head screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "Why alternate teeth are staggered in hacksaw blade?",
+          "image_url": null,
+          "options": [
+            "For free cutting action",
+            "For curve cutting action",
+            "For coarse cutting action",
+            "For straight cutting action"
+          ],
+          "answer": "For free cutting action",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "What is the name of the file?",
+          "image_url": null,
+          "options": [
+            "Single cut",
+            "Double cut",
+            "Rasp cut",
+            "Curved cut"
+          ],
+          "answer": "Rasp cut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the name of the counter sink screw?",
+          "image_url": null,
+          "options": [
+            "Slotted counter sink head screw",
+            "Slotted raised counter sink head screw",
+            "Cross-recessed counter sink head screw",
+            "Cross recessed raised counter sink head screw"
+          ],
+          "answer": "Slotted counter sink head screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "What type of operation carried out on grinding wheel?",
+          "image_url": null,
+          "options": [
+            "Glazing",
+            "Loading",
+            "Dressing",
+            "Pinning"
+          ],
+          "answer": "Dressing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the name of the screw?",
+          "image_url": null,
+          "options": [
+            "Hexagon head screw",
+            "Hexagon socket head cap screw",
+            "Square head counter sunk head screws",
+            "Thump screws"
+          ],
+          "answer": "Hexagon socket head cap screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "Which nut provided with Nylon ring in the groove?",
+          "image_url": null,
+          "options": [
+            "T-nut",
+            "Castle nut",
+            "Slotted nut",
+            "Self locking nut"
+          ],
+          "answer": "Self locking nut",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "What are the tools are used to remove the drills and sockets from the machine spindle?",
+          "image_url": null,
+          "options": [
+            "Screw driver and hammer",
+            "Spanner and hammer",
+            "Punch and hammer",
+            "Drift and hammer"
+          ],
+          "answer": "Drift and hammer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What is the name of the counter sink screw?",
+          "image_url": null,
+          "options": [
+            "Slotted counter sink",
+            "Cross-recessed counter sink head screw",
+            "Slotted raised counter sink",
+            "Cross recessed raised counter sink"
+          ],
+          "answer": "Cross-recessed counter sink head screw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "What is the type of hacksaw frame?",
+          "image_url": null,
+          "options": [
+            "Deep cutting frame",
+            "Adjustable flat type frame",
+            "Adjustable tubular type frame",
+            "Solid frame"
+          ],
+          "answer": "Adjustable tubular type frame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "What is the name of the plier?",
+          "image_url": null,
+          "options": [
+            "Side cutting plier",
+            "Nose plier",
+            "Circlip plier",
+            "End cutting plier"
+          ],
+          "answer": "Side cutting plier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Face wrench",
+            "Hook wrench",
+            "Pin wrench",
+            "Face pin wrench"
+          ],
+          "answer": "Face wrench",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the name of the angle marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Helix angle",
+            "Rake angle",
+            "Point angle",
+            "Clearance angle"
+          ],
+          "answer": "Rake angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "A hole is to be reamed with a 10 mm reamer. What will be the diameter if the drill for drilling the hole before reaming? Under size = 0.2mm, over size = 0.05 mm?",
+          "image_url": null,
+          "options": [
+            "9.75 mm",
+            "9.85 mm",
+            "9.95 mm",
+            "10.20 mm"
+          ],
+          "answer": "9.75 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "What is the method of metal cutting operation?",
+          "image_url": null,
+          "options": [
+            "Abrasion",
+            "Fusion",
+            "Incision",
+            "Rough grinding"
+          ],
+          "answer": "Fusion",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Electrical and Electronics",
+      "quizWrap": [
+        {
+          "id": 125,
+          "question": "What is the material of positive plate in the lead acid battery?",
+          "image_url": null,
+          "options": [
+            "Tin",
+            "Lead peroxide",
+            "Antimony",
+            "Spongy lead"
+          ],
+          "answer": "Lead peroxide",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "What determines whether a material is conductor, insulator or semiconductor?",
+          "image_url": null,
+          "options": [
+            "Electrons",
+            "Valance electrons",
+            "Protons",
+            "Neutrons"
+          ],
+          "answer": "Valance electrons",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "What is the purpose of colour code in cables?",
+          "image_url": null,
+          "options": [
+            "Colour refers the current rating",
+            "Colour refers the voltage rating",
+            "Easy identification of each circuit",
+            "Refers the size of the wire"
+          ],
+          "answer": "Easy identification of each circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "What is the energy conversion of battery during charging?",
+          "image_url": null,
+          "options": [
+            "Electrical energy into chemical energy",
+            "Electrical energy into heat energy",
+            "Chemical energy into electrical energy",
+            "Electrical energy into mechanical energy"
+          ],
+          "answer": "Electrical energy into chemical energy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "Which material resists the flow of electron?",
+          "image_url": null,
+          "options": [
+            "Gold",
+            "Glass",
+            "Silver",
+            "Copper"
+          ],
+          "answer": "Glass",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What is the ampere hour rating of battery deliver 5 ampere and period of 20 hours?",
+          "image_url": null,
+          "options": [
+            "80 ampere hour",
+            "90 ampere hour",
+            "100 Ampere hour",
+            "110 Ampere hour"
+          ],
+          "answer": "100 Ampere hour",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "Which material has the characteristics of both the conductor and insulator?",
+          "image_url": null,
+          "options": [
+            "Insulator",
+            "Conductor",
+            "Semi conductor",
+            "Nucleus"
+          ],
+          "answer": "Semi conductor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "Which electronic component is used as a solid state switch?",
+          "image_url": null,
+          "options": [
+            "Inductor",
+            "Resistor",
+            "Capacitor",
+            "Transistor"
+          ],
+          "answer": "Transistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "What type of resistor is used in the vehicle flasher unit?",
+          "image_url": null,
+          "options": [
+            "Ballast resistor",
+            "Film resistor",
+            "Printed resistor",
+            "Integrated resistor"
+          ],
+          "answer": "Ballast resistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "Which part is liberated hydrogen in a lead acid cell?",
+          "image_url": null,
+          "options": [
+            "Positive plate",
+            "Negative plate",
+            "Electrolyte",
+            "Cell connector"
+          ],
+          "answer": "Negative plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "What is the name of electrical symbol?",
+          "image_url": null,
+          "options": [
+            "Cell",
+            "Battery",
+            "Earth",
+            "Resistance"
+          ],
+          "answer": "Battery",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "Which Law states that “The current is directly proportional to the voltage and inversely proportional to the resistance?",
+          "image_url": null,
+          "options": [
+            "Ohm’s Law",
+            "Hooke’s Law",
+            "Boyle’s Law",
+            "Newton’s Law"
+          ],
+          "answer": "Ohm’s Law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "Which part is connected and completes the Horn circuit of the push button pressed?",
+          "image_url": null,
+          "options": [
+            "Core",
+            "Tone disc",
+            "Horn points",
+            "Ground plate"
+          ],
+          "answer": "Ground plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the effect of the soft Iron bar in a closed circuit?",
+          "image_url": null,
+          "options": [
+            "Shock effect",
+            "Heating effect",
+            "Magnetic effect",
+            "Chemical effect"
+          ],
+          "answer": "Magnetic effect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "What is the net resistance ‘R’ if ‘R₁’ and ‘R₂’ resistance are connected in series?",
+          "image_url": null,
+          "options": [
+            "R = R₁ + R₂",
+            "R = R₁ – R₂",
+            "R = R₁ x R₂",
+            "R = R₁/R₂"
+          ],
+          "answer": "R = R₁ + R₂",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the advantage of free maintenance sealed battery?",
+          "image_url": null,
+          "options": [
+            "No need for check and top up distilled water",
+            "No need for recharging of battery",
+            "No chance for sulphation of battery terminals",
+            "No need for disconnect the terminals to remove battery"
+          ],
+          "answer": "No need for check and top up distilled water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "What is the specific gravity of fully charged battery?",
+          "image_url": null,
+          "options": [
+            "1.170 - 1.200",
+            "1.210 - 1.230",
+            "1.240 - 1.250",
+            "1.260 - 1.280"
+          ],
+          "answer": "1.260 - 1.280",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "Which electrical measuring instrument is fitted on the vehicle panel board?",
+          "image_url": null,
+          "options": [
+            "Ammeter",
+            "Voltmeter",
+            "Wattmeter",
+            "Ohm meter"
+          ],
+          "answer": "Ammeter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the name of the circuit?",
+          "image_url": null,
+          "options": [
+            "Open circuit",
+            "Short circuit",
+            "Closed circuit",
+            "Parallel circuit"
+          ],
+          "answer": "Open circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the energy conversion of battery during discharge?",
+          "image_url": null,
+          "options": [
+            "Electrical energy into heat energy",
+            "Chemical energy into electrical energy",
+            "Electrical energy into chemical energy",
+            "Electrical energy into mechanical energy"
+          ],
+          "answer": "Chemical energy into electrical energy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "Which device has the ability to store electrical charge?",
+          "image_url": null,
+          "options": [
+            "Capacitor",
+            "Resistor",
+            "Insulator",
+            "Conductor"
+          ],
+          "answer": "Capacitor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "Which component is made by semiconductor material?",
+          "image_url": null,
+          "options": [
+            "Switch",
+            "Resistor",
+            "Capacitor",
+            "Transistor"
+          ],
+          "answer": "Transistor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "Which is the semi conductor material?",
+          "image_url": null,
+          "options": [
+            "Arsenic and boron",
+            "Gallium and indium",
+            "Germanium and silicon",
+            "Aluminium and antimony"
+          ],
+          "answer": "Germanium and silicon",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "Which acid is used in the lead acid battery?",
+          "image_url": null,
+          "options": [
+            "Nitric acid",
+            "Sulphuric acid",
+            "Hydrobromic acid",
+            "Hydrochloric acid"
+          ],
+          "answer": "Sulphuric acid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "What is the name of the electrical measuring instrument?",
+          "image_url": null,
+          "options": [
+            "Ammeter",
+            "Voltmeter",
+            "Wattmeter",
+            "Multimeter"
+          ],
+          "answer": "Multimeter",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Hydraulic and Pneumatics",
+      "quizWrap": [
+        {
+          "id": 150,
+          "question": "Name the pneumatic component marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "FRL",
+            "Actuator",
+            "Compressor",
+            "Reservoir tank"
+          ],
+          "answer": "FRL",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "Which is the power source of the pneumatic system?",
+          "image_url": null,
+          "options": [
+            "Actuator",
+            "Control value",
+            "Air Compressor",
+            "Air Service unit"
+          ],
+          "answer": "Air Compressor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is the name of drive pump?",
+          "image_url": null,
+          "options": [
+            "Van pump",
+            "Plunger pump",
+            "Internal gear drive pump",
+            "External gear drive pump"
+          ],
+          "answer": "External gear drive pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "Which law is applied in hydraulic brake system?",
+          "image_url": null,
+          "options": [
+            "Boyle’s law",
+            "Charles law",
+            "Pascal’s law",
+            "Newton’s law"
+          ],
+          "answer": "Pascal’s law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "What is the name of pump?",
+          "image_url": null,
+          "options": [
+            "Rotor Pump",
+            "Plunger pump",
+            "Internal gear pump",
+            "External gear pump"
+          ],
+          "answer": "Internal gear pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "Which law is applicable in the hydraulic brake system?",
+          "image_url": null,
+          "options": [
+            "Boyleʹs law",
+            "Pascalʹs law",
+            "Charlesʹs law",
+            "Hooks law"
+          ],
+          "answer": "Pascalʹs law",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Steering gear",
+            "Piston rod",
+            "Pressure line",
+            "Fluid reservoir"
+          ],
+          "answer": "Fluid reservoir",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "What is the name of pneumatic component marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Actuator",
+            "Compressor",
+            "Control valve",
+            "Reservoir tank"
+          ],
+          "answer": "Actuator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "What is the name of the manual symbol?",
+          "image_url": null,
+          "options": [
+            "Roller operated",
+            "Foot pedal",
+            "Push Button",
+            "General button"
+          ],
+          "answer": "Foot pedal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "What is the name of the valve?",
+          "image_url": null,
+          "options": [
+            "Pressure relief valve",
+            "Bypass valve",
+            "Check valve",
+            "Inlet valve"
+          ],
+          "answer": "Check valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "Which type of clutch system used in the slave cylinder?",
+          "image_url": null,
+          "options": [
+            "Vacuum clutch",
+            "Hydraulic clutch",
+            "Over running clutch",
+            "Electromagnetic clutch"
+          ],
+          "answer": "Hydraulic clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Air tank",
+            "Air pressure gauge",
+            "Brake valve",
+            "Compressor"
+          ],
+          "answer": "Compressor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "What is the name of the mechanical symbol?",
+          "image_url": null,
+          "options": [
+            "Plunger",
+            "Push button",
+            "Roller",
+            "Foot Pedal"
+          ],
+          "answer": "Roller",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "Which type of pump used in the hydraulic jack?",
+          "image_url": null,
+          "options": [
+            "Gear pump",
+            "Plunger pump",
+            "Vane pump",
+            "Internal gear pump"
+          ],
+          "answer": "Plunger pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "Which is the important property of hydraulic oil?",
+          "image_url": null,
+          "options": [
+            "Viscosity",
+            "Elasticity",
+            "Tenacity",
+            "Conductivity"
+          ],
+          "answer": "Viscosity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "What in the name of valve?",
+          "image_url": null,
+          "options": [
+            "Flow control valve",
+            "Shut off valve",
+            "Non return valve",
+            "Directional control valve"
+          ],
+          "answer": "Flow control valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "Which act as a seal in the external gear pump?",
+          "image_url": null,
+          "options": [
+            "Housing",
+            "Drive gear",
+            "Driver gear",
+            "Gear meshing"
+          ],
+          "answer": "Gear meshing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "What is the direction of rotation of driven gear meshing in the external driving gear?",
+          "image_url": null,
+          "options": [
+            "Same direction",
+            "Inclined direction",
+            "Opposite direction",
+            "Perpendicular direction"
+          ],
+          "answer": "Opposite direction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "Which part in the internal gear pump act as seal?",
+          "image_url": null,
+          "options": [
+            "Gears",
+            "Gasket",
+            "Sealing ring",
+            "Crescent-shaped spacer"
+          ],
+          "answer": "Crescent-shaped spacer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Slave cylinder",
+            "Master cylinder",
+            "Air cylinder",
+            "Wheel cylinder"
+          ],
+          "answer": "Master cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Pedal",
+            "Return spring",
+            "Wheel cylinder",
+            "Master cylinder"
+          ],
+          "answer": "Master cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "Which device is used in hydraulic brake system?",
+          "image_url": null,
+          "options": [
+            "Air tank",
+            "Master cylinder",
+            "Pressure gauge",
+            "Un loader cylinder"
+          ],
+          "answer": "Master cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "Name the pneumatic component marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Actuator",
+            "Compressor",
+            "Control valve",
+            "Reservoir tank"
+          ],
+          "answer": "Compressor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What is the name of the valve?",
+          "image_url": null,
+          "options": [
+            "Check valve",
+            "Choke valve",
+            "Throttle valve",
+            "Pressure relief valve"
+          ],
+          "answer": "Throttle valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "Name the pneumatic component marked as ‘X’.",
+          "image_url": null,
+          "options": [
+            "Actuator",
+            "Compressor",
+            "Control valve",
+            "Reservoir tank"
+          ],
+          "answer": "Control valve",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Service Equipments and Diesel Engine",
+      "quizWrap": [
+        {
+          "id": 175,
+          "question": "What is the name of the indicator?",
+          "image_url": null,
+          "options": [
+            "Dead bulb",
+            "Cruise control",
+            "Traction control",
+            "Stability control"
+          ],
+          "answer": "Cruise control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "How the piston stroke is defined as?",
+          "image_url": null,
+          "options": [
+            "Double the throw",
+            "Half of the throw",
+            "Equal to the throw",
+            "4 times of throw"
+          ],
+          "answer": "Double the throw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What is the name of the stroke?",
+          "image_url": null,
+          "options": [
+            "Suction stroke",
+            "Compression stroke",
+            "Power stroke",
+            "Exhaust stroke"
+          ],
+          "answer": "Compression stroke",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Belt",
+            "Cock",
+            "Motor",
+            "Drain plug"
+          ],
+          "answer": "Drain plug",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the name of the indicator?",
+          "image_url": null,
+          "options": [
+            "Centre differential lock",
+            "Proximity sensor",
+            "Economy mode",
+            "Electric power steering"
+          ],
+          "answer": "Electric power steering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "Which engine is most preferred in aeroplanes?",
+          "image_url": null,
+          "options": [
+            "In-line engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "Radial engine"
+          ],
+          "answer": "Radial engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "What is the formula for mechanical efficiency?",
+          "image_url": null,
+          "options": [
+            "\\(\\frac{B H P}{I H P} \\times 100\\) ",
+            "\\(\\frac{\\mathrm{IHP}}{B H P} \\times 100\\) ",
+            "\\(\\frac{B H P-I H P}{B H P} \\times 100\\)",
+            "\\(\\frac{I H P-B H P}{I H P} \\times 100\\)"
+          ],
+          "answer": "\\(\\frac{B H P}{I H P} \\times 100\\) ",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "What is the type of engine?",
+          "image_url": null,
+          "options": [
+            "In-line engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "Radial engine"
+          ],
+          "answer": "‘V’ engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "What is the name marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Intake port",
+            "Exhaust port",
+            "Transfer port",
+            "Injection port"
+          ],
+          "answer": "Exhaust port",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "What is the use of bourdon gauge?",
+          "image_url": null,
+          "options": [
+            "To measure pressure",
+            "To measure temperature",
+            "To measure volume",
+            "To measure heat"
+          ],
+          "answer": "To measure pressure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "What is indicate 2498 CC in vehicle specification?",
+          "image_url": null,
+          "options": [
+            "Engine capacity",
+            "Full tank capacity",
+            "Single bore capacity",
+            "Master cylinder capacity"
+          ],
+          "answer": "Engine capacity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "What is the name of the indicator?",
+          "image_url": null,
+          "options": [
+            "Dead bulb",
+            "Cruise control",
+            "Traction control",
+            "Stability control"
+          ],
+          "answer": "Traction control",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the name of the indicator?",
+          "image_url": null,
+          "options": [
+            "Seat belt indicator",
+            "Air bag indicator",
+            "Brake indicator",
+            "ABS indicator"
+          ],
+          "answer": "Seat belt indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which type of service equipment used to hold the lifted vehicle for a long period?",
+          "image_url": null,
+          "options": [
+            "Hoist",
+            "Jack stand",
+            "Arbor press",
+            "Hydraulic jack"
+          ],
+          "answer": "Hoist",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "Which is the engine having cylinders at 60°?",
+          "image_url": null,
+          "options": [
+            "In-line engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "Radial engine"
+          ],
+          "answer": "‘V’ engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "What is the type of engine?",
+          "image_url": null,
+          "options": [
+            "In-line engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "Radial engine"
+          ],
+          "answer": "In-line engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the name of the stroke?",
+          "image_url": null,
+          "options": [
+            "Compression stroke",
+            "Power stroke",
+            "Suction stroke",
+            "Exhaust stroke"
+          ],
+          "answer": "Suction stroke",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What is the formula for BHP?",
+          "image_url": null,
+          "options": [
+            "\\(\\frac{2 \\pi NT}{4500}\\)",
+            "\\(\\frac{4 \\pi NT}{4500}\\)",
+            "\\(\\frac{6 \\pi NT}{4500}\\)",
+            "\\(\\frac{8 \\pi NT}{4500}\\)"
+          ],
+          "answer": "\\(\\frac{2 \\pi NT}{4500}\\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "Which is increasing the torque in the steering system?",
+          "image_url": null,
+          "options": [
+            "Drop arm",
+            "Gear box",
+            "Fluid plump",
+            "Knuckle arm"
+          ],
+          "answer": "Gear box",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "What is the purpose of a pre combustion chamber?",
+          "image_url": null,
+          "options": [
+            "Increase scavenging",
+            "Delay the injection",
+            "Compress the fuel mixture",
+            "Atomising the fuel mixture with heated air"
+          ],
+          "answer": "Atomising the fuel mixture with heated air",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is the information given by 6J x 15?",
+          "image_url": null,
+          "options": [
+            "Rim size",
+            "Tyre size",
+            "Engine size",
+            "Vehicle size"
+          ],
+          "answer": "Rim size",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "How do you classify the diesel engine?",
+          "image_url": null,
+          "options": [
+            "Spark ignition engine",
+            "Constant volume engine",
+            "Constant pressure engine",
+            "External compression engine"
+          ],
+          "answer": "Constant pressure engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "What is the name of equipment?",
+          "image_url": null,
+          "options": [
+            "Jack stand",
+            "Hydraulic Jack",
+            "Mechanical Jack",
+            "Hydraulic car hoist"
+          ],
+          "answer": "Mechanical Jack",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "Which engine is more economical and compact?",
+          "image_url": null,
+          "options": [
+            "Radial engine",
+            "Opposed engine",
+            "‘V’ engine",
+            "In-line engine"
+          ],
+          "answer": "‘V’ engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the name of the indicator?",
+          "image_url": null,
+          "options": [
+            "Dead bulb",
+            "Cruise control",
+            "Traction control",
+            "Stability control"
+          ],
+          "answer": "Dead bulb",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 200,
+          "question": "What is the term for 2 WD in vehicle specification?",
+          "image_url": null,
+          "options": [
+            "Two wheel drive",
+            "Four wheel drive",
+            "Rear wheel drive",
+            "Front wheel drive"
+          ],
+          "answer": "Two wheel drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "Which is used for quick inspection under the chassis of a car?",
+          "image_url": null,
+          "options": [
+            "Stands",
+            "Screw jack",
+            "Trolley jack",
+            "Two post hoist"
+          ],
+          "answer": "Trolley jack",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "Which is the digit indicate the engine type in the groups of VDC 17 digit of VIN number?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "5",
+            "8"
+          ],
+          "answer": "8",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "What is the name of the indicator?",
+          "image_url": null,
+          "options": [
+            "Seat belt",
+            "Air bag",
+            "Brake",
+            "ABS"
+          ],
+          "answer": "Brake",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "What is called the distance between centre of the crank pin to the centre of the main journal?",
+          "image_url": null,
+          "options": [
+            "Stroke",
+            "Cycle",
+            "Throw",
+            "Efficiency"
+          ],
+          "answer": "Throw",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "What is the type of engine?",
+          "image_url": null,
+          "options": [
+            "In-line engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "Radial engine"
+          ],
+          "answer": "Radial engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "What is the type of engine?",
+          "image_url": null,
+          "options": [
+            "In-line engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "Radial engine"
+          ],
+          "answer": "Opposed engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "Which engine is also called as constant pressure cycle engine?",
+          "image_url": null,
+          "options": [
+            "Otto cycle",
+            "Diesel cycle",
+            "Dual cycle",
+            "Rankave cycle"
+          ],
+          "answer": "Diesel cycle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "What is indicate 12 - 17 digit in 17 digit VIN number?",
+          "image_url": null,
+          "options": [
+            "Body type",
+            "Vehicle type",
+            "Serial number",
+            "Plant of product"
+          ],
+          "answer": "Serial number",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "Which is the engine adopts hand cranking?",
+          "image_url": null,
+          "options": [
+            "Small engine",
+            "LMV engine",
+            "Heavy vehicles",
+            "Stationary engine"
+          ],
+          "answer": "Small engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "Which is the high fuel efficient engine?",
+          "image_url": null,
+          "options": [
+            "Opposed engine",
+            "‘V’ engine",
+            "Radial engine",
+            "In-line engine"
+          ],
+          "answer": "Radial engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What is the name of the equipment?",
+          "image_url": null,
+          "options": [
+            "Car hoist",
+            "Engine hoist",
+            "Hydraulic jack",
+            "Hydraulic press"
+          ],
+          "answer": "Engine hoist",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "Which is the most preferred staring system in LMV?",
+          "image_url": null,
+          "options": [
+            "Hand cranking",
+            "Compressed air cranking",
+            "Gasoline engine cranking",
+            "Electric motor cranking"
+          ],
+          "answer": "Electric motor cranking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "Which is used to start a heavy earth moving engines?",
+          "image_url": null,
+          "options": [
+            "Hand cranking",
+            "Electric motor cranking",
+            "Compressed air cranking",
+            "Gasoline engine cranking"
+          ],
+          "answer": "Gasoline engine cranking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "What is firing order?",
+          "image_url": null,
+          "options": [
+            "Sequence of power stroke occurrence",
+            "Sequence of suction stroke occurrence",
+            "Sequence of compression stroke occurrence",
+            "Sequence of exhaust stroke occurrence"
+          ],
+          "answer": "Sequence of power stroke occurrence",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "Which type service equipment used in car service station to lift the car?",
+          "image_url": null,
+          "options": [
+            "Arbor press",
+            "Hydraulic jack",
+            "Hydraulic hoist",
+            "Hydraulic press"
+          ],
+          "answer": "Hydraulic hoist",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the name of the starting system?",
+          "image_url": null,
+          "options": [
+            "Compressed air cranking",
+            "Hydraulic cranking",
+            "Electric motor cranking",
+            "Gasoline engine cranking"
+          ],
+          "answer": "Hydraulic cranking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "What is the formula for compression ratio?",
+          "image_url": null,
+          "options": [
+            "\\(\\frac{VS+VC}{VC}\\)",
+            "\\(\\frac{VS+VC}{VS}\\)",
+            "\\(\\frac{VC}{VS+VC}\\)",
+            "\\(\\frac{VS}{VS+VC}\\)"
+          ],
+          "answer": "\\(\\frac{VS+VC}{VC}\\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "What is the name of the equipment?",
+          "image_url": null,
+          "options": [
+            "Car hoist",
+            "Grease gun",
+            "Hydraulic jack",
+            "Hydraulic press"
+          ],
+          "answer": "Hydraulic press",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "What is the name of the starting system?",
+          "image_url": null,
+          "options": [
+            "Compressed air cranking",
+            "Hydraulic cranking",
+            "Electric motor cranking",
+            "Gasoline engine starting"
+          ],
+          "answer": "Electric motor cranking",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "Which component of four stroke cycle engine supplies power during idle strokes?",
+          "image_url": null,
+          "options": [
+            "Piston",
+            "Crank shaft",
+            "Connecting rod",
+            "Flywheel"
+          ],
+          "answer": "Flywheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "What is the formula for IHP?",
+          "image_url": null,
+          "options": [
+            "\\(\\frac{\\text { PLAN }}{4500} \\text {k}\\)",
+            "\\(\\frac{\\text { VLAN }}{4500} \\text {k}\\)",
+            "\\(\\frac{\\text { AVLAN }}{4500} \\text {k}\\)",
+            "\\(\\frac{\\text { PVLN }}{4500} \\text {k}\\)"
+          ],
+          "answer": "\\(\\frac{\\text { PLAN }}{4500} \\text {k}\\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "Which type of vehicle capable of sensing its environment and navigating without human input?",
+          "image_url": null,
+          "options": [
+            "Diesel car",
+            "Petrol car",
+            "Electric car",
+            "Driver less car"
+          ],
+          "answer": "Driver less car",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "Which type of engine has more engine speed and more combustion pressure?",
+          "image_url": null,
+          "options": [
+            "Radial engine",
+            "‘V’ engine",
+            "Opposed engine",
+            "In-line engine"
+          ],
+          "answer": "Radial engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Split pin",
+            "Top plate",
+            "Centre rod",
+            "Revolving disc"
+          ],
+          "answer": "Revolving disc",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Engine components",
+      "quizWrap": [
+        {
+          "id": 225,
+          "question": "Where the bush bearing preferred?",
+          "image_url": null,
+          "options": [
+            "Connecting rods",
+            "Fly wheel and water pumps",
+            "Differential and wheel hub",
+            "Gear boxes"
+          ],
+          "answer": "Connecting rods",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the name of piston ring?",
+          "image_url": null,
+          "options": [
+            "Rectangular ring",
+            "Tapper faced ring",
+            "Inside bevel ring",
+            "Key stone ring"
+          ],
+          "answer": "Tapper faced ring",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "What is the checking process?",
+          "image_url": null,
+          "options": [
+            "Surface flatness",
+            "Ovality",
+            "Taperness",
+            "Cracks"
+          ],
+          "answer": "Surface flatness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "Which tool is used to measure the diameter of the crank shaft main journal?",
+          "image_url": null,
+          "options": [
+            "Inside micrometer",
+            "Outside micrometer",
+            "Three point internal micrometer",
+            "Master ring gauge"
+          ],
+          "answer": "Outside micrometer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "Which load taken by the roller bearing?",
+          "image_url": null,
+          "options": [
+            "Radial load",
+            "Axial load",
+            "Thrust load",
+            "Radial and axial load"
+          ],
+          "answer": "Radial load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "Which is the bearing used in differential and wheel of a heavy vehicles?",
+          "image_url": null,
+          "options": [
+            "Ball bearing",
+            "Roller bearing",
+            "Needle bearing",
+            "Taper roller bearing"
+          ],
+          "answer": "Taper roller bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Gudgeon pin",
+            "King pin",
+            "Connecting rod",
+            "Piston pin hole"
+          ],
+          "answer": "Gudgeon pin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "Which stroke inlet Valve open in four stroke engine?",
+          "image_url": null,
+          "options": [
+            "Suction",
+            "Compression",
+            "Power stroke",
+            "Exhaust"
+          ],
+          "answer": "Suction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "What is the cause for double knock in the piston?",
+          "image_url": null,
+          "options": [
+            "Piston worn out",
+            "Piston ring worn out",
+            "Piston pin and boss worn out",
+            "Liner worn out"
+          ],
+          "answer": "Piston pin and boss worn out",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "What is the name the portion below the piston boss?",
+          "image_url": null,
+          "options": [
+            "Land of the piston",
+            "Ring section of the piston",
+            "Crown of the piston",
+            "Skirt of the piston"
+          ],
+          "answer": "Skirt of the piston",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "Which tool used to remove the crank shaft pulley?",
+          "image_url": null,
+          "options": [
+            "Double and spanner",
+            "Ring spanner",
+            "Pipe wrench",
+            "Puller"
+          ],
+          "answer": "Puller",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the speed ratio cam shaft to crank shaft?",
+          "image_url": null,
+          "options": [
+            "Half",
+            "Equal",
+            "Double",
+            "Triple"
+          ],
+          "answer": "Half",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "Which instrument is used to check the tappet clearance?",
+          "image_url": null,
+          "options": [
+            "Depth gauge",
+            "Pitch gauge",
+            "Feeler gauge",
+            "Wire gauge"
+          ],
+          "answer": "Feeler gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "Which part of crank shaft is required hardening?",
+          "image_url": null,
+          "options": [
+            "Piston pin",
+            "Piston boss",
+            "Connecting rod",
+            "Crank shaft journals"
+          ],
+          "answer": "Crank shaft journals",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "What is the name of the valve mechanism?",
+          "image_url": null,
+          "options": [
+            "Over head valve",
+            "Side head valve",
+            "Rotary valve",
+            "Reed valve"
+          ],
+          "answer": "Side head valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "Which tool is required to remove the valves?",
+          "image_url": null,
+          "options": [
+            "Torque wrench",
+            "Valve spring lifter",
+            "Box spanner",
+            "Scraper"
+          ],
+          "answer": "Valve spring lifter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "Which is transferring energy for the piston to crankshaft?",
+          "image_url": null,
+          "options": [
+            "Gudgeon pin",
+            "King pin",
+            "Connecting rod",
+            "Cam shaft"
+          ],
+          "answer": "Connecting rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "Where the compression ring is fitted in the piston?",
+          "image_url": null,
+          "options": [
+            "Above the oil ring in piston",
+            "Bottom of the piston skirt",
+            "Piston between oil ring and piston pin",
+            "Connecting rod between piston pin and bottom of skirt"
+          ],
+          "answer": "Above the oil ring in piston",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "Which is connected with piston through piston pin?",
+          "image_url": null,
+          "options": [
+            "Gudgeon pin",
+            "Connecting rod",
+            "Cam shaft",
+            "Rocker arm"
+          ],
+          "answer": "Connecting rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "What is the purpose of the timing chain?",
+          "image_url": null,
+          "options": [
+            "To connect water pump pulley",
+            "To connect alternator",
+            "To connect crank and cam shaft gear",
+            "To connect A/C compressor"
+          ],
+          "answer": "To connect crank and cam shaft gear",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is the cause of bearing corrosion?",
+          "image_url": null,
+          "options": [
+            "Water mix with lubricant",
+            "Metal particle in lubricant",
+            "Insufficient lubrication",
+            "Less clearance"
+          ],
+          "answer": "Water mix with lubricant",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "Where the fly wheel is fitted in the engine?",
+          "image_url": null,
+          "options": [
+            "Cam shaft",
+            "Crank shaft",
+            "Rocker arm shaft",
+            "Primary shaft"
+          ],
+          "answer": "Crank shaft",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "What is the term used to refer when a valve open before TDC?",
+          "image_url": null,
+          "options": [
+            "Lead",
+            "Lag",
+            "Over lap",
+            "Retard"
+          ],
+          "answer": "Lead",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "Which gauge used to measure the cylinder bore wearness?",
+          "image_url": null,
+          "options": [
+            "Compression gauge",
+            "Vacuum gauge",
+            "Dial gauge",
+            "Depth gauge"
+          ],
+          "answer": "Dial gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 249,
+          "question": "What type of bearing fitted in the connecting rod big end?",
+          "image_url": null,
+          "options": [
+            "Needle bearing",
+            "Ball bearing",
+            "Taper roller bearing",
+            "Shell bearing"
+          ],
+          "answer": "Shell bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 250,
+          "question": "What is the name of the diagram?",
+          "image_url": null,
+          "options": [
+            "Injection timing",
+            "Port timing",
+            "Valve timing",
+            "Ignition timing"
+          ],
+          "answer": "Valve timing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the type of clutch?",
+          "image_url": null,
+          "options": [
+            "Cone clutch",
+            "Dog clutch",
+            "Dual clutch",
+            "Single plate clutch"
+          ],
+          "answer": "Dog clutch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "Which instrument is used to check the leakage of the cylinder?",
+          "image_url": null,
+          "options": [
+            "Compression gauge",
+            "Dial gauge",
+            "Vacuum gauge",
+            "Wire gauge"
+          ],
+          "answer": "Vacuum gauge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "What type of load applied to connecting rod big end bearing?",
+          "image_url": null,
+          "options": [
+            "Radial load only",
+            "Radial and thrust loads",
+            "Axial and radial loads",
+            "Axial load only"
+          ],
+          "answer": "Radial and thrust loads",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "What is ovality of a bore?",
+          "image_url": null,
+          "options": [
+            "Difference in dia measured top to bottom",
+            "Difference in dia thrust to non thrust side of cylinder",
+            "Difference in dia measured only at top",
+            "Difference in dia measured only at bottom"
+          ],
+          "answer": "Difference in dia thrust to non thrust side of cylinder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "What is the name of the part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Drive product",
+            "Vibration damper",
+            "Fan pulley",
+            "Fly wheel"
+          ],
+          "answer": "Fly wheel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "What is the material of inlet valve?",
+          "image_url": null,
+          "options": [
+            "Nickel steel alloy",
+            "Aluminium alloy",
+            "Copper alloy",
+            "Chromium alloy"
+          ],
+          "answer": "Nickel steel alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "What is the load taken by taper roller bearing?",
+          "image_url": null,
+          "options": [
+            "Radial load",
+            "Axial load",
+            "Thrust load",
+            "Radial and axial load"
+          ],
+          "answer": "Radial and axial load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "Which is used to convert rotary into reciprocating motion?",
+          "image_url": null,
+          "options": [
+            "Cam Shaft",
+            "Connecting rod",
+            "Rocker arm",
+            "Main shaft"
+          ],
+          "answer": "Cam Shaft",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "Which bearing used in gear boxes?",
+          "image_url": null,
+          "options": [
+            "Ball bearing",
+            "Roller bearing",
+            "Needle bearing",
+            "Taper roller bearing"
+          ],
+          "answer": "Ball bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "Which part is connect the piston with crank pin?",
+          "image_url": null,
+          "options": [
+            "Push rod",
+            "Connecting rod",
+            "Cam Shaft",
+            "Crank Shaft"
+          ],
+          "answer": "Connecting rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "What is the first step in removal method of fly wheel?",
+          "image_url": null,
+          "options": [
+            "Unlock the lock plate/wire",
+            "Unscrew the fastening bolts",
+            "Lock the fly wheel with wooden piece",
+            "Remove the fly wheel ring"
+          ],
+          "answer": "Unlock the lock plate/wire",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "What is the name of the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Valve door cover",
+            "Cylinder head",
+            "Engine block",
+            "Oil pan"
+          ],
+          "answer": "Cylinder head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "Which is the key element in converting reciprocating motion in to rotary motion?",
+          "image_url": null,
+          "options": [
+            "Connecting rod",
+            "Gudgeon pin",
+            "King pin",
+            "Cam shaft"
+          ],
+          "answer": "Connecting rod",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "Which measuring instrument used to check the fly wheel face out?",
+          "image_url": null,
+          "options": [
+            "Dial indicator",
+            "Compression gauge",
+            "Outside micrometer",
+            "Feeler gauge"
+          ],
+          "answer": "Dial indicator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the name of part marked as ‘X’?",
+          "image_url": null,
+          "options": [
+            "Alternator pulley",
+            "Water pump pulley",
+            "Crank shaft pulley",
+            "Dynamo pulley"
+          ],
+          "answer": "Crank shaft pulley",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "What is the purpose of sodium filled in the Valve stem?",
+          "image_url": null,
+          "options": [
+            "Quick cooling",
+            "Proper sealing",
+            "Proper lubricating",
+            "Keep the valve remain in open"
+          ],
+          "answer": "Quick cooling",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "What is the name of part marked as ʹXʹ in the figure?",
+          "image_url": null,
+          "options": [
+            "Locking lip",
+            "Oil groove",
+            "Lip slot",
+            "Notch"
+          ],
+          "answer": "Locking lip",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "What is the material of piston pins?",
+          "image_url": null,
+          "options": [
+            "Nickel chromium steel",
+            "Cast iron",
+            "HSS",
+            "Bronze"
+          ],
+          "answer": "Nickel chromium steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "What is the name of the tool?",
+          "image_url": null,
+          "options": [
+            "Dial type torque wrench",
+            "Scale type torque wrench",
+            "Ratchet type torque wrench",
+            "Torsion has type torque wrench"
+          ],
+          "answer": "Scale type torque wrench",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "Which is joining piston and connecting rod?",
+          "image_url": null,
+          "options": [
+            "Gudgeon pin",
+            "Rocker arm",
+            "Cam shaft",
+            "King pin"
+          ],
+          "answer": "Gudgeon pin",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "What is the name of the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Cam lobe",
+            "Tappet",
+            "Valve seat",
+            "Rocker arm"
+          ],
+          "answer": "Cam lobe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the type of hardening done on crank shaft?",
+          "image_url": null,
+          "options": [
+            "Induction hardening",
+            "Case hardening",
+            "Flame hardening",
+            "Surface hardening"
+          ],
+          "answer": "Induction hardening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What is the term used to refer when a valve closes after BDC?",
+          "image_url": null,
+          "options": [
+            "Lead",
+            "Advance",
+            "Lag",
+            "Over lap"
+          ],
+          "answer": "Lag",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 274,
+          "question": "What is the name of the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Cam lobe",
+            "Tappet",
+            "Valve seat",
+            "Rocker arm"
+          ],
+          "answer": "Tappet",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Cooling and Lubrication",
+      "quizWrap": [
+        {
+          "id": 275,
+          "question": "What is the name of nozzle?",
+          "image_url": null,
+          "options": [
+            "Single hole nozzle",
+            "Multi hole nozzle",
+            "Pintle nozzle",
+            "Pintaux nozzle"
+          ],
+          "answer": "Single hole nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "Which type of muffler is fitted with sensors, microphone and speakers?",
+          "image_url": null,
+          "options": [
+            "Baffle type muffler",
+            "Reverse flow type muffler",
+            "Electronics type muffler",
+            "Straight through muffler"
+          ],
+          "answer": "Electronics type muffler",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "Which nozzle having an auxiliary spray hole with main hole?",
+          "image_url": null,
+          "options": [
+            "Single hole nozzle",
+            "Multi hole nozzle",
+            "Pintle nozzle",
+            "Pintaux nozzle"
+          ],
+          "answer": "Pintaux nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "What is the material generally used for manufacturing inlet manifold?",
+          "image_url": null,
+          "options": [
+            "Aluminium alloy",
+            "Copper",
+            "Steel",
+            "Plastic"
+          ],
+          "answer": "Aluminium alloy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "What is the purpose of glow plug in pre-combustion chamber in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Completing combustion",
+            "Delaying combustion",
+            "Advance combustion",
+            "Initiating combustion"
+          ],
+          "answer": "Initiating combustion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "Name the part marked as ‘x’.",
+          "image_url": null,
+          "options": [
+            "Turbine unit",
+            "Compressor unit",
+            "Exhauster unit",
+            "Charger unit"
+          ],
+          "answer": "Turbine unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "How much maximum fuel pressure developed in fuel injection pump?",
+          "image_url": null,
+          "options": [
+            "100 to 200 Kgf/cm²",
+            "200 to 300 Kgf/cm²",
+            "300 to 400 Kgf/cm²",
+            "400 to 700 Kgf/cm²"
+          ],
+          "answer": "400 to 700 Kgf/cm²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "Name the part marked as ‘x’.",
+          "image_url": null,
+          "options": [
+            "Turbine unit",
+            "Compressor unit",
+            "Exhauster unit",
+            "Charger unit"
+          ],
+          "answer": "Compressor unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What is the purpose over flow valve in fuel filters?",
+          "image_url": null,
+          "options": [
+            "To supply more fuel to filter",
+            "To send back excess diesel to fuel tank",
+            "To supply clean diesel",
+            "To take the leaking fuel"
+          ],
+          "answer": "To send back excess diesel to fuel tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "In CRDI engine fuel system, where the excessive fuel return?",
+          "image_url": null,
+          "options": [
+            "Reside in the rail itself",
+            "Return to high pressure pump",
+            "Return to the fuel tank",
+            "Return to fuel filter"
+          ],
+          "answer": "Return to the fuel tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Name the type of muffler.",
+          "image_url": null,
+          "options": [
+            "Reverse flow muffler",
+            "Straight through muffler",
+            "Baffle type muffler",
+            "Electronic muffler"
+          ],
+          "answer": "Straight through muffler",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "Which type of pump ensures in built and uniform delivery to all injectors in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Jerk type pump",
+            "In line pump",
+            "Rotary type pump",
+            "Servo type pump"
+          ],
+          "answer": "Rotary type pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "How the pressure, is maintaining in the high pressure pipe line of FIP?",
+          "image_url": null,
+          "options": [
+            "Control rack",
+            "Delivery valve",
+            "Barrel",
+            "Plunger"
+          ],
+          "answer": "Delivery valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "Why fuel filter is essential in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Increase the power",
+            "Prevent dirty smoke",
+            "Easy starting",
+            "Mirror polishing finish in nozzle and FIP"
+          ],
+          "answer": "Prevent dirty smoke",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "What is the advantages of CRDI system?",
+          "image_url": null,
+          "options": [
+            "Increase engine noisy",
+            "Reduce the engine torque",
+            "Increase fuel consumption",
+            "Above 25% of power developed"
+          ],
+          "answer": "Above 25% of power developed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "Where the turbo charger compressor housing outlet connected?",
+          "image_url": null,
+          "options": [
+            "Connected to air cleaner",
+            "Connected to inlet-manifold",
+            "Connected to exhaust - manifold",
+            "Connected to oil filter"
+          ],
+          "answer": "Connected to inlet-manifold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "Which fuel related with cetane number?",
+          "image_url": null,
+          "options": [
+            "Petrol",
+            "Diesel",
+            "Coal",
+            "Kerosene"
+          ],
+          "answer": "Diesel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "Which type of muffler produces anti noise without restricting the exhaust flow in a silencer?",
+          "image_url": null,
+          "options": [
+            "Baffle type",
+            "Electronic type",
+            "Resonance type",
+            "Reverse flow type"
+          ],
+          "answer": "Electronic type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is the purpose of muffler in exhaust system?",
+          "image_url": null,
+          "options": [
+            "Reduce the heat",
+            "Reduce the noise",
+            "Reduce the vibration",
+            "To filter exhaust gases"
+          ],
+          "answer": "Reduce the noise",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "Which feed system reduces above 50% unburnt hydro carbon?",
+          "image_url": null,
+          "options": [
+            "In line fuel injection system",
+            "Distributor fuel injection system",
+            "Electronic control system",
+            "Air blast fuel injection system"
+          ],
+          "answer": "Electronic control system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "What material is used for manufacturing exhaust manifold?",
+          "image_url": null,
+          "options": [
+            "Cast iron",
+            "Aluminium alloy",
+            "Copper",
+            "Steel"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "How much time taken to give signals to ECM after ignition switch on?",
+          "image_url": null,
+          "options": [
+            "One second",
+            "Two second",
+            "Three second",
+            "Four second"
+          ],
+          "answer": "Two second",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which part build up fuel injection pressure in fuel injector?",
+          "image_url": null,
+          "options": [
+            "Solenoid",
+            "Regulator",
+            "Common rail",
+            "Fuel pump"
+          ],
+          "answer": "Solenoid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Where is turbocharger mounted?",
+          "image_url": null,
+          "options": [
+            "Exhaust manifold",
+            "Inlet manifold",
+            "Air cleaner",
+            "Cylinder head"
+          ],
+          "answer": "Exhaust manifold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 299,
+          "question": "How the CRDI injectors pressure control valve operated?",
+          "image_url": null,
+          "options": [
+            "Mechanically",
+            "Electronically",
+            "Manually",
+            "Hydraulic"
+          ],
+          "answer": "Electronically",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 300,
+          "question": "Why baffles are provided in the fuel tank?",
+          "image_url": null,
+          "options": [
+            "Minimize the slashing of fuel in the tank",
+            "To strengthen the fuel tank",
+            "To make chambers in the fuel tank",
+            "To make square and lengthy fuel tank"
+          ],
+          "answer": "Minimize the slashing of fuel in the tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "Which type of fuel system is best suited for less fuel consumption, more power and reduce the exhaust emission?",
+          "image_url": null,
+          "options": [
+            "Inline pump system",
+            "Rotary pump system",
+            "Distributor pump system",
+            "CRDI system"
+          ],
+          "answer": "CRDI system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "What is the name of equipment?",
+          "image_url": null,
+          "options": [
+            "FIP tester",
+            "Injector tester",
+            "Pump tester",
+            "Compression tester"
+          ],
+          "answer": "Injector tester",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "What is the expansion of HEUI?",
+          "image_url": null,
+          "options": [
+            "Hydraulically Actuated Electronically Controlled Unit Injector",
+            "Hydraulically Actuated Electrically Controlled Unit Injector",
+            "Hydro-electric Controlled Unit Injector",
+            "Hydraulic Effective Controlled Unit Injector"
+          ],
+          "answer": "Hydraulically Actuated Electronically Controlled Unit Injector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "Which is developed diesel pressure in the CRDI engine?",
+          "image_url": null,
+          "options": [
+            "ECM",
+            "Injection",
+            "Fuel tank",
+            "High pressure pump"
+          ],
+          "answer": "High pressure pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "Why an auxiliary spray hole provided in the pintaux nozzle?",
+          "image_url": null,
+          "options": [
+            "To assist easy starting under cold condition",
+            "To assist stop under cold condition",
+            "To provide rich fuel under cold condition",
+            "To provide very less fuel supply"
+          ],
+          "answer": "To assist easy starting under cold condition",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "Which helps engine at high altitudes where the density of air is less?",
+          "image_url": null,
+          "options": [
+            "Air cleaner",
+            "Vane type exhauster",
+            "Impeller type exhauster",
+            "Turbo charger"
+          ],
+          "answer": "Turbo charger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "Which part is atomise the fuel into engine cylinder?",
+          "image_url": null,
+          "options": [
+            "Injector",
+            "FIP",
+            "Governor",
+            "Feed pump"
+          ],
+          "answer": "Injector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "What is the function of catalytic converter?",
+          "image_url": null,
+          "options": [
+            "Clean the unburnt hydro carbons",
+            "Reduce the heat",
+            "Cool the exhaust gas",
+            "Increase carbon deposit"
+          ],
+          "answer": "Clean the unburnt hydro carbons",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "What is the function of inter cooler?",
+          "image_url": null,
+          "options": [
+            "Reduce the temperature of the inlet gas",
+            "Reduce density",
+            "Reduce horse power",
+            "Increase the temperature of the inlet gas"
+          ],
+          "answer": "Reduce the temperature of the inlet gas",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "How much maximum pressure, develops by high pressure diesel pump in CRDI engine?",
+          "image_url": null,
+          "options": [
+            "500 Kg/cm²",
+            "800 Kg/cm²",
+            "2000 Kg/cm²",
+            "1600 Kg/cm²"
+          ],
+          "answer": "2000 Kg/cm²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "What is the effect of detonation occurs in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Knocking sound in engine",
+            "More engine power",
+            "High engine speed",
+            "Suddenly stop the engine"
+          ],
+          "answer": "Knocking sound in engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "Where is the pressure discharge valve fitted in CRDI fuel system?",
+          "image_url": null,
+          "options": [
+            "Common rail",
+            "Fuel pump",
+            "Injectors",
+            "Fuel filter"
+          ],
+          "answer": "Common rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "Name the drive of impeller type exhauster?",
+          "image_url": null,
+          "options": [
+            "Auxiliary drive shaft",
+            "Electric motor drive",
+            "Exhaust gas pressure",
+            "Compressed air"
+          ],
+          "answer": "Auxiliary drive shaft",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "During engine back fire, which act as a flame arrester?",
+          "image_url": null,
+          "options": [
+            "Oil filter",
+            "Fuel filter",
+            "Air filter",
+            "Muffler"
+          ],
+          "answer": "Air filter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 315,
+          "question": "What is the name of the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Swan neck pipe",
+            "Diesel pipe",
+            "‘U’ band pipe",
+            "Leakage pipe"
+          ],
+          "answer": "Swan neck pipe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "Which part in the fuel injection pump compress the diesel?",
+          "image_url": null,
+          "options": [
+            "Governor",
+            "Rack rod",
+            "Sleeve",
+            "Plunger"
+          ],
+          "answer": "Plunger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "What type of filter element is used in dry type air cleaner?",
+          "image_url": null,
+          "options": [
+            "Paper element",
+            "Cloth element",
+            "Wire mesh element",
+            "Strainer element"
+          ],
+          "answer": "Paper element",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the function of heater plug?",
+          "image_url": null,
+          "options": [
+            "Warm up fuel pump",
+            "Warm up combustion chamber",
+            "Warm up injector",
+            "Warm up valves"
+          ],
+          "answer": "Warm up combustion chamber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "Where the diesel fuel is obtained?",
+          "image_url": null,
+          "options": [
+            "Crude oil",
+            "Vegetable oil",
+            "Animal oil",
+            "Synthetic oil"
+          ],
+          "answer": "Crude oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "Which is control the minimum and maximum speed of the diesel engine?",
+          "image_url": null,
+          "options": [
+            "FIP",
+            "Governor",
+            "Injector",
+            "Feed pump"
+          ],
+          "answer": "Governor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "What is the name of nozzle?",
+          "image_url": null,
+          "options": [
+            "Single hole nozzle",
+            "Multi hole nozzle",
+            "Delay nozzle",
+            "Pintle nozzle"
+          ],
+          "answer": "Pintle nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "Which electronic unit gives signal to operate IAC valve?",
+          "image_url": null,
+          "options": [
+            "ECM",
+            "EDU",
+            "Solenoid",
+            "SCV"
+          ],
+          "answer": "ECM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "What is the concept of quiet diesel technology?",
+          "image_url": null,
+          "options": [
+            "Low efficiency",
+            "Higher sulphur content",
+            "Increase emission",
+            "Reducer noise vibration harshness"
+          ],
+          "answer": "Reducer noise vibration harshness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "Which fuel pipe line is provided between fuel filter and injectors?",
+          "image_url": null,
+          "options": [
+            "Suction pipe",
+            "Pressure pipe",
+            "Vacuum pipe",
+            "Over flow pipe"
+          ],
+          "answer": "Over flow pipe",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Intake and Exhaust system fuel system",
+      "quizWrap": [
+        {
+          "id": 325,
+          "question": "Name the type of muffler.",
+          "image_url": null,
+          "options": [
+            "Reverse flow muffler",
+            "Straight through muffler",
+            "Baffle type muffler",
+            "Electronic muffler"
+          ],
+          "answer": "Reverse flow muffler",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "Why baffles are provided in the fuel tank?",
+          "image_url": null,
+          "options": [
+            "Minimize the slashing of fuel in the tank",
+            "To strengthen the fuel tank",
+            "To make chambers in the fuel tank",
+            "To make square and lengthy fuel tank"
+          ],
+          "answer": "Minimize the slashing of fuel in the tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "In CRDI engine fuel system, where the excessive fuel return?",
+          "image_url": null,
+          "options": [
+            "Reside in the rail itself",
+            "Return to high pressure pump",
+            "Return to the fuel tank",
+            "Return to fuel filter"
+          ],
+          "answer": "Return to the fuel tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 328,
+          "question": "How the pressure, is maintaining in the high pressure pipe line of FIP?",
+          "image_url": null,
+          "options": [
+            "Control rack",
+            "Delivery valve",
+            "Barrel",
+            "Plunger"
+          ],
+          "answer": "Delivery valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "What is the name of the governor in which the control rack connected with counter weight floating lever?",
+          "image_url": null,
+          "options": [
+            "Mechanical governor",
+            "Pneumatic governor",
+            "Hydraulic governor",
+            "Servo governor"
+          ],
+          "answer": "Mechanical governor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "What material is used for manufacturing exhaust manifold?",
+          "image_url": null,
+          "options": [
+            "Cast iron",
+            "Aluminium alloy",
+            "Copper",
+            "Steel"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "Which electronic device controls the engine system?",
+          "image_url": null,
+          "options": [
+            "Regulator",
+            "ECM",
+            "Fuse",
+            "Switch"
+          ],
+          "answer": "ECM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "Which type of pump ensures in built and uniform delivery to all injectors in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Jerk type pump",
+            "In line pump",
+            "Rotary type pump",
+            "Servo type pump"
+          ],
+          "answer": "Rotary type pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "What is the reason for decrease the volumetric efficiency in the exhaust system?",
+          "image_url": null,
+          "options": [
+            "Low noise",
+            "High temperature",
+            "Excessive back pressure",
+            "Low temperature"
+          ],
+          "answer": "Excessive back pressure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "Which fuel pipe line is provided between fuel filter and injectors?",
+          "image_url": null,
+          "options": [
+            "Suction pipe",
+            "Pressure pipe",
+            "Vacuum pipe",
+            "Over flow pipe"
+          ],
+          "answer": "Over flow pipe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "What is the purpose over flow valve in fuel filters?",
+          "image_url": null,
+          "options": [
+            "To supply more fuel to filter",
+            "To send back excess diesel to fuel tank",
+            "To supply clean diesel",
+            "To take the leaking fuel"
+          ],
+          "answer": "To send back excess diesel to fuel tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "Which part in the fuel injection pump compress the diesel?",
+          "image_url": null,
+          "options": [
+            "Governor",
+            "Rack rod",
+            "Sleeve",
+            "Plunger"
+          ],
+          "answer": "Plunger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 337,
+          "question": "Name the drive of impeller type exhauster?",
+          "image_url": null,
+          "options": [
+            "Auxiliary drive shaft",
+            "Electric motor drive",
+            "Exhaust gas pressure",
+            "Compressed air"
+          ],
+          "answer": "Auxiliary drive shaft",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "How the CRDI injectors pressure control valve operated?",
+          "image_url": null,
+          "options": [
+            "Mechanically",
+            "Electronically",
+            "Manually",
+            "Hydraulic"
+          ],
+          "answer": "Electronically",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "Name the type of muffler.",
+          "image_url": null,
+          "options": [
+            "Reverse flow muffler",
+            "Straight through muffler",
+            "Baffle type muffler",
+            "Electronic muffler"
+          ],
+          "answer": "Straight through muffler",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "What is the name of nozzle?",
+          "image_url": null,
+          "options": [
+            "Single hole nozzle",
+            "Multi hole nozzle",
+            "Delay nozzle",
+            "Pintle nozzle"
+          ],
+          "answer": "Pintle nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "What is the effect of detonation occurs in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Knocking sound in engine",
+            "More engine power",
+            "High engine speed",
+            "Suddenly stop the engine"
+          ],
+          "answer": "Knocking sound in engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "What is the name of equipment?",
+          "image_url": null,
+          "options": [
+            "FIP tester",
+            "Injector tester",
+            "Pump tester",
+            "Compression tester"
+          ],
+          "answer": "Injector tester",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "Why an auxiliary spray hole provided in the pintaux nozzle?",
+          "image_url": null,
+          "options": [
+            "To assist easy starting under cold condition",
+            "To assist stop under cold condition",
+            "To provide rich fuel under cold condition",
+            "To provide very less fuel supply"
+          ],
+          "answer": "To assist easy starting under cold condition",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "Where the diesel fuel is obtained?",
+          "image_url": null,
+          "options": [
+            "Crude oil",
+            "Vegetable oil",
+            "Animal oil",
+            "Synthetic oil"
+          ],
+          "answer": "Crude oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "Which fuel related with cetane number?",
+          "image_url": null,
+          "options": [
+            "Petrol",
+            "Diesel",
+            "Coal",
+            "Kerosene"
+          ],
+          "answer": "Diesel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "Which type of fuel system is best suited for less fuel consumption, more power and reduce the exhaust emission?",
+          "image_url": null,
+          "options": [
+            "Inline pump system",
+            "Rotary pump system",
+            "Distributor pump system",
+            "CRDI system"
+          ],
+          "answer": "CRDI system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 347,
+          "question": "What is the function of catalytic converter?",
+          "image_url": null,
+          "options": [
+            "Clean the unburnt hydro carbons",
+            "Reduce the heat",
+            "Cool the exhaust gas",
+            "Increase carbon deposit"
+          ],
+          "answer": "Clean the unburnt hydro carbons",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "Which type of muffler produces anti noise without restricting the exhaust flow in a silencer?",
+          "image_url": null,
+          "options": [
+            "Baffle type",
+            "Electronic type",
+            "Resonance type",
+            "Reverse flow type"
+          ],
+          "answer": "Electronic type",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "What is the name of nozzle?",
+          "image_url": null,
+          "options": [
+            "Single hole nozzle",
+            "Multi hole nozzle",
+            "Pintle nozzle",
+            "Pintaux nozzle"
+          ],
+          "answer": "Single hole nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 350,
+          "question": "What is the concept of quiet diesel technology?",
+          "image_url": null,
+          "options": [
+            "Low efficiency",
+            "Higher sulphur content",
+            "Increase emission",
+            "Reducer noise vibration harshness"
+          ],
+          "answer": "Reducer noise vibration harshness",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "Name the part marked as ‘x’.",
+          "image_url": null,
+          "options": [
+            "Turbine unit",
+            "Compressor unit",
+            "Exhauster unit",
+            "Charger unit"
+          ],
+          "answer": "Compressor unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "Why fuel filter is essential in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Increase the power",
+            "Prevent dirty smoke",
+            "Easy starting",
+            "Mirror polishing finish in nozzle and FIP"
+          ],
+          "answer": "Prevent dirty smoke",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 353,
+          "question": "How many fuel chamber’s are in HEUI?",
+          "image_url": null,
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "answer": "Two",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 354,
+          "question": "What is the advantages of CRDI system?",
+          "image_url": null,
+          "options": [
+            "Increase engine noisy",
+            "Reduce the engine torque",
+            "Increase fuel consumption",
+            "Above 25% of power developed"
+          ],
+          "answer": "Above 25% of power developed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 355,
+          "question": "Which is control the minimum and maximum speed of the diesel engine?",
+          "image_url": null,
+          "options": [
+            "FIP",
+            "Governor",
+            "Injector",
+            "Feed pump"
+          ],
+          "answer": "Governor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 356,
+          "question": "Which electronic unit gives signal to operate IAC valve?",
+          "image_url": null,
+          "options": [
+            "ECM",
+            "EDU",
+            "Solenoid",
+            "SCV"
+          ],
+          "answer": "ECM",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 357,
+          "question": "What is the function of inter cooler?",
+          "image_url": null,
+          "options": [
+            "Reduce the temperature of the inlet gas",
+            "Reduce density",
+            "Reduce horse power",
+            "Increase the temperature of the inlet gas"
+          ],
+          "answer": "Reduce the temperature of the inlet gas",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 358,
+          "question": "Which fuel system develop the high diesel pressure by hydraulic energy?",
+          "image_url": null,
+          "options": [
+            "Inline FIP",
+            "Distributor FIP",
+            "CRDI fuel system",
+            "HEUI fuel system"
+          ],
+          "answer": "HEUI fuel system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 359,
+          "question": "What is the name of the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Nozzle",
+            "Nozzle holder",
+            "Spindle",
+            "Injector body"
+          ],
+          "answer": "Nozzle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 360,
+          "question": "What is the expansion of HEUI?",
+          "image_url": null,
+          "options": [
+            "Hydraulically Actuated Electronically Controlled Unit Injector",
+            "Hydraulically Actuated Electrically Controlled Unit Injector",
+            "Hydro-electric Controlled Unit Injector",
+            "Hydraulic Effective Controlled Unit Injector"
+          ],
+          "answer": "Hydraulically Actuated Electronically Controlled Unit Injector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 361,
+          "question": "What is the purpose of muffler in exhaust system?",
+          "image_url": null,
+          "options": [
+            "Reduce the heat",
+            "Reduce the noise",
+            "Reduce the vibration",
+            "To filter exhaust gases"
+          ],
+          "answer": "Reduce the noise",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 362,
+          "question": "Which is developed diesel pressure in the CRDI engine?",
+          "image_url": null,
+          "options": [
+            "ECM",
+            "Injection",
+            "Fuel tank",
+            "High pressure pump"
+          ],
+          "answer": "High pressure pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 363,
+          "question": "What is the purpose of float chamber in solex carburettor?",
+          "image_url": null,
+          "options": [
+            "Enrich the fuel supply",
+            "Maintain the level of fuel in the chamber",
+            "Mix air and full",
+            "Bleed the air"
+          ],
+          "answer": "Maintain the level of fuel in the chamber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 364,
+          "question": "What is the name of the part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Swan neck pipe",
+            "Diesel pipe",
+            "‘U’ band pipe",
+            "Leakage pipe"
+          ],
+          "answer": "Swan neck pipe",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 365,
+          "question": "Which helps engine at high altitudes where the density of air is less?",
+          "image_url": null,
+          "options": [
+            "Air cleaner",
+            "Vane type exhauster",
+            "Impeller type exhauster",
+            "Turbo charger"
+          ],
+          "answer": "Turbo charger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 366,
+          "question": "How much maximum pressure, develops by high pressure diesel pump in CRDI engine?",
+          "image_url": null,
+          "options": [
+            "500 Kg/cm²",
+            "800 Kg/cm²",
+            "2000 Kg/cm²",
+            "1600 Kg/cm²"
+          ],
+          "answer": "2000 Kg/cm²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 367,
+          "question": "What is the function of heater plug?",
+          "image_url": null,
+          "options": [
+            "Warm up fuel pump",
+            "Warm up combustion chamber",
+            "Warm up injector",
+            "Warm up valves"
+          ],
+          "answer": "Warm up combustion chamber",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 368,
+          "question": "Which part build up fuel injection pressure in fuel injector?",
+          "image_url": null,
+          "options": [
+            "Solenoid",
+            "Regulator",
+            "Common rail",
+            "Fuel pump"
+          ],
+          "answer": "Solenoid",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 369,
+          "question": "Which feed system reduces above 50% unburnt hydro carbon?",
+          "image_url": null,
+          "options": [
+            "In line fuel injection system",
+            "Distributor fuel injection system",
+            "Electronic control system",
+            "Air blast fuel injection system"
+          ],
+          "answer": "Electronic control system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 370,
+          "question": "Where the turbo charger compressor housing outlet connected?",
+          "image_url": null,
+          "options": [
+            "Connected to air cleaner",
+            "Connected to inlet-manifold",
+            "Connected to exhaust - manifold",
+            "Connected to oil filter"
+          ],
+          "answer": "Connected to inlet-manifold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 371,
+          "question": "Which part is atomise the fuel into engine cylinder?",
+          "image_url": null,
+          "options": [
+            "Injector",
+            "FIP",
+            "Governor",
+            "Feed pump"
+          ],
+          "answer": "Injector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 372,
+          "question": "How much maximum fuel pressure developed in fuel injection pump?",
+          "image_url": null,
+          "options": [
+            "100 to 200 Kgf/cm²",
+            "200 to 300 Kgf/cm²",
+            "300 to 400 Kgf/cm²",
+            "400 to 700 Kgf/cm²"
+          ],
+          "answer": "400 to 700 Kgf/cm²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 373,
+          "question": "Name the part marked as ‘x’.",
+          "image_url": null,
+          "options": [
+            "Turbine unit",
+            "Compressor unit",
+            "Exhauster unit",
+            "Charger unit"
+          ],
+          "answer": "Turbine unit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 374,
+          "question": "What is the purpose of glow plug in pre-combustion chamber in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Completing combustion",
+            "Delaying combustion",
+            "Advance combustion",
+            "Initiating combustion"
+          ],
+          "answer": "Initiating combustion",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Marine and Stationery engine emission control",
+      "quizWrap": [
+        {
+          "id": 375,
+          "question": "What is the name engine?",
+          "image_url": null,
+          "options": [
+            "Double acting engine",
+            "Opposed piston engine",
+            "Single acting reciprocating engine",
+            "Double acting reciprocating engine"
+          ],
+          "answer": "Opposed piston engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 376,
+          "question": "Which is the commonly used cooling medium in the marine engine?",
+          "image_url": null,
+          "options": [
+            "Fan",
+            "Coolant",
+            "Sea water",
+            "Cooling water"
+          ],
+          "answer": "Sea water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 377,
+          "question": "Which reduces toxic gases and pollutant in an internal engine exhaust gas?",
+          "image_url": null,
+          "options": [
+            "EVAP",
+            "Catalytic convertor",
+            "Carburettor",
+            "Air cleaner"
+          ],
+          "answer": "Catalytic convertor",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 378,
+          "question": "What is the purpose of crank case ventilation?",
+          "image_url": null,
+          "options": [
+            "To prevent pressure build up",
+            "To prevent temperature build up",
+            "To increase the blow by gas",
+            "To reduce the combustion leak"
+          ],
+          "answer": "To prevent pressure build up",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 379,
+          "question": "Which system an accumulator is used?",
+          "image_url": null,
+          "options": [
+            "Cooling system",
+            "Starting system",
+            "Electrical system",
+            "Hydraulic system"
+          ],
+          "answer": "Hydraulic system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 380,
+          "question": "Which is required for selective catalytic reduction function?",
+          "image_url": null,
+          "options": [
+            "Water",
+            "Oxygen",
+            "Carbon dioxide",
+            "Ammonia"
+          ],
+          "answer": "Ammonia",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 381,
+          "question": "What is the acronym for DPF in exhaust emission system?",
+          "image_url": null,
+          "options": [
+            "Diesel pressure filter",
+            "Diesel primary filter",
+            "Diesel particulate filter",
+            "Direct particulate filter"
+          ],
+          "answer": "Diesel particulate filter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 382,
+          "question": "Which is the hydro carbon emission released directly from engine to the atmosphere?",
+          "image_url": null,
+          "options": [
+            "Crank case and exhaust system",
+            "Fuel tank and carburettor",
+            "Fuel tank and crank case",
+            "Fuel tank and exhaust"
+          ],
+          "answer": "Crank case and exhaust system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 383,
+          "question": "Which is less harmful emission elements after convert by catalytic converter?",
+          "image_url": null,
+          "options": [
+            "CO₂ + HC + H₂O",
+            "CO + HC + NOᵪ",
+            "NOx + CO₂ + Ph",
+            "Pb + CO₂ + Noᵪ"
+          ],
+          "answer": "NOx + CO₂ + Ph",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 384,
+          "question": "Which engine emits more amount of nitrogen oxides (NOᵪ)?",
+          "image_url": null,
+          "options": [
+            "Spark ignition engine",
+            "Compressed ignition engine",
+            "Two stroke engine",
+            "LPG engine"
+          ],
+          "answer": "Compressed ignition engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 385,
+          "question": "What is the type of drive?",
+          "image_url": null,
+          "options": [
+            "Electromagnetic",
+            "Single reduction",
+            "Double reduction",
+            "Hydraulic fluid coupling"
+          ],
+          "answer": "Double reduction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 386,
+          "question": "Where the positive crank case ventilation fitted?",
+          "image_url": null,
+          "options": [
+            "Muffler and air cleaner",
+            "Controller and air cleaner",
+            "Feed pump and air cleaner",
+            "Engine breather and air cleaner"
+          ],
+          "answer": "Engine breather and air cleaner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 387,
+          "question": "What is the purpose of EVAP canister?",
+          "image_url": null,
+          "options": [
+            "To trap the exhaust gas",
+            "To trap fresh air",
+            "To trap the leak off",
+            "To trap the fuel vapour"
+          ],
+          "answer": "To trap the fuel vapour",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 388,
+          "question": "Which engine is used sea water cooling?",
+          "image_url": null,
+          "options": [
+            "Aircraft engine",
+            "Marine engine",
+            "Heavy vehicle engine",
+            "Light motor vehicle engine"
+          ],
+          "answer": "Marine engine",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 389,
+          "question": "Where EGR valve connected?",
+          "image_url": null,
+          "options": [
+            "Exhaust system and intake system",
+            "Crank case and intake system",
+            "Crank case and exhaust system",
+            "Exhaust system and catalytic converter"
+          ],
+          "answer": "Exhaust system and intake system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 390,
+          "question": "Which device used to increase the torque?",
+          "image_url": null,
+          "options": [
+            "Clutch",
+            "Engine",
+            "Flywheel",
+            "Gear reduction drive"
+          ],
+          "answer": "Gear reduction drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 391,
+          "question": "Name the emission control technique when some amount of gases feed into the intake manifold of a running engine?",
+          "image_url": null,
+          "options": [
+            "Exhaust gas recirculation",
+            "Positive crank case ventilation",
+            "Catalytic convention",
+            "Selective catalytic reduction"
+          ],
+          "answer": "Exhaust gas recirculation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 392,
+          "question": "How do we achieve near zero emission diesel engine?",
+          "image_url": null,
+          "options": [
+            "Combo of PCV and EGR",
+            "Combo of EGR and SCR",
+            "Combo of PCV and 3 way catalytic connection",
+            "Combo of DPF and EGR"
+          ],
+          "answer": "Combo of EGR and SCR",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 393,
+          "question": "Which of the hydro carbon emission released after the combustion of the engine?",
+          "image_url": null,
+          "options": [
+            "From fuel tank",
+            "From carburettor",
+            "From crank case blow by",
+            "From exhaust system"
+          ],
+          "answer": "From exhaust system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 394,
+          "question": "What are the less harmful elements in an IC engine exhaust gas?",
+          "image_url": null,
+          "options": [
+            "Hydro carbon",
+            "Carbon monoxide",
+            "Oxide of nitrogen",
+            "Carbon di oxide + water + nitrogen"
+          ],
+          "answer": "Carbon di oxide + water + nitrogen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 395,
+          "question": "Which pollutant is released more from diesel engine during weak compression?",
+          "image_url": null,
+          "options": [
+            "CO",
+            "Particulate matter",
+            "HC",
+            "Noᵪ"
+          ],
+          "answer": "Particulate matter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 396,
+          "question": "Which automotive engine is cranked through hydraulic system?",
+          "image_url": null,
+          "options": [
+            "Trains",
+            "Trucks",
+            "Marines",
+            "Air crafts"
+          ],
+          "answer": "Marines",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 397,
+          "question": "What does the evaporation emission control eliminate?",
+          "image_url": null,
+          "options": [
+            "CO",
+            "CO₂",
+            "HC",
+            "Noᵪ"
+          ],
+          "answer": "HC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 398,
+          "question": "Which is a green house effect gas?",
+          "image_url": null,
+          "options": [
+            "O₂",
+            "CO",
+            "CO₂",
+            "N₂"
+          ],
+          "answer": "CO₂",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 399,
+          "question": "Name the type of transmission device.",
+          "image_url": null,
+          "options": [
+            "Fluid coupling",
+            "Electro magnetic coupling",
+            "Universal coupling",
+            "Flange coupling"
+          ],
+          "answer": "Fluid coupling",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Changing and Starting trouble shooting",
+      "quizWrap": [
+        {
+          "id": 400,
+          "question": "What is the mechanical cause for engine does not start?",
+          "image_url": null,
+          "options": [
+            "Starter motor mounting bolt loose",
+            "Defective alternator",
+            "Defective thermostat valve",
+            "Clogged fuel filter"
+          ],
+          "answer": "Clogged fuel filter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 401,
+          "question": "Which is used to turns the engine fly wheel in starting system?",
+          "image_url": null,
+          "options": [
+            "Drive pinion",
+            "Drive pulley",
+            "Drive coupling",
+            "Drive shaft"
+          ],
+          "answer": "Drive pinion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 402,
+          "question": "What is the reason for high oil consumption?",
+          "image_url": null,
+          "options": [
+            "Defective pressure relief valve",
+            "Fuel filter clogged",
+            "Improper valve timing",
+            "Worn out liner"
+          ],
+          "answer": "Worn out liner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 403,
+          "question": "What is the reason for engine low power generation?",
+          "image_url": null,
+          "options": [
+            "Piston ring worn out",
+            "Defective oil relief valve",
+            "Loose fan belt",
+            "Defective alternator"
+          ],
+          "answer": "Piston ring worn out",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 404,
+          "question": "What is the reason for low oil pressure in engine?",
+          "image_url": null,
+          "options": [
+            "Defective pressure relief valve assembly",
+            "Defective pressure gauge",
+            "Loose battery clamp",
+            "Clogged air cleaner"
+          ],
+          "answer": "Defective pressure relief valve assembly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 405,
+          "question": "What is the name of the test carried out?",
+          "image_url": null,
+          "options": [
+            "Full load test",
+            "Short circuit test",
+            "Open circuit test",
+            "No load circuit"
+          ],
+          "answer": "Open circuit test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 406,
+          "question": "What is the reason for engine over heating?",
+          "image_url": null,
+          "options": [
+            "Defective starting motor",
+            "External fuel leak",
+            "Improper injection timing",
+            "Oil pressure high"
+          ],
+          "answer": "Improper injection timing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 407,
+          "question": "What is the remedy if engine over heats?",
+          "image_url": null,
+          "options": [
+            "Top up oil level",
+            "Top up fuel level",
+            "Top up coolant level",
+            "Top up electrolyte level"
+          ],
+          "answer": "Top up coolant level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 408,
+          "question": "Which allows the current in one direction from alternator to battery?",
+          "image_url": null,
+          "options": [
+            "Stator assembly",
+            "Diodes",
+            "Slip ring",
+            "Regulator"
+          ],
+          "answer": "Diodes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 409,
+          "question": "Which part is used to allow current in only one direction in alternator?",
+          "image_url": null,
+          "options": [
+            "Field coil",
+            "Armature",
+            "Voltage regulator",
+            "Diode"
+          ],
+          "answer": "Diode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 410,
+          "question": "What is the name of the test carried out?",
+          "image_url": null,
+          "options": [
+            "Full load test",
+            "No load test",
+            "Short circuit test",
+            "Open circuit test"
+          ],
+          "answer": "Short circuit test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 411,
+          "question": "Which one produces DC supply?",
+          "image_url": null,
+          "options": [
+            "Dynamo",
+            "Alternator",
+            "Self motor",
+            "Transformer"
+          ],
+          "answer": "Dynamo",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 412,
+          "question": "What is the cause of low power generation?",
+          "image_url": null,
+          "options": [
+            "Clogged oil filter",
+            "Clogged fuel filter",
+            "Correct injection timing",
+            "More supply of fuel"
+          ],
+          "answer": "Clogged fuel filter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 413,
+          "question": "What is the reason for engine over heating?",
+          "image_url": null,
+          "options": [
+            "Clogged fuel filter",
+            "Fuel leakage",
+            "External leakage of oil",
+            "Defective thermostat valve"
+          ],
+          "answer": "Defective thermostat valve",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 414,
+          "question": "Which winding help to produce the magnetic field in starting system?",
+          "image_url": null,
+          "options": [
+            "Armature winding",
+            "Field winding",
+            "Solenoid winding",
+            "Compound winding"
+          ],
+          "answer": "Field winding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 415,
+          "question": "What is the reason for high fuel consumption of diesel?",
+          "image_url": null,
+          "options": [
+            "Defective thermostatic valve",
+            "Low compression",
+            "Loose battery terminals",
+            "Water in the fuel system"
+          ],
+          "answer": "Low compression",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 416,
+          "question": "What is the reason for engine over heating?",
+          "image_url": null,
+          "options": [
+            "Radiator pressure cap defective",
+            "Discharged battery",
+            "Clogged fuel tank vent hole",
+            "Excessive valve guide clearance"
+          ],
+          "answer": "Radiator pressure cap defective",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 417,
+          "question": "What is the possible cause of excessive fuel consumption?",
+          "image_url": null,
+          "options": [
+            "High fuel in tank",
+            "Low fuel in tank",
+            "High compression",
+            "Weak compression"
+          ],
+          "answer": "Weak compression",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 418,
+          "question": "What is the name of test carried out?",
+          "image_url": null,
+          "options": [
+            "Insulation test",
+            "Growler test",
+            "Continuity test",
+            "Open circuit test"
+          ],
+          "answer": "Continuity test",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 419,
+          "question": "What is the mechanical cause for engine does not start?",
+          "image_url": null,
+          "options": [
+            "Defective oil pump",
+            "Defective starter switch",
+            "Improper valve timing",
+            "No water in fuel"
+          ],
+          "answer": "Improper valve timing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 420,
+          "question": "Which one produces AC supply?",
+          "image_url": null,
+          "options": [
+            "Dynamo",
+            "Alternator",
+            "Self motor",
+            "Transformer"
+          ],
+          "answer": "Alternator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 421,
+          "question": "What is the mechanical cause for engine does not start?",
+          "image_url": null,
+          "options": [
+            "Loose fan belt",
+            "Clogged fuel tank vent hole",
+            "Defective regulator",
+            "Battery full charge"
+          ],
+          "answer": "Clogged fuel tank vent hole",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 422,
+          "question": "What is the name of the part, marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Armature",
+            "Drive pinion",
+            "Field coil",
+            "Commutator"
+          ],
+          "answer": "Commutator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 423,
+          "question": "What is the name of the circuit?",
+          "image_url": null,
+          "options": [
+            "Charging circuit",
+            "Lighting circuit",
+            "Ignition circuit",
+            "Starting circuit"
+          ],
+          "answer": "Starting circuit",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 424,
+          "question": "Which acts as a relay to close the contact between battery and starting motor?",
+          "image_url": null,
+          "options": [
+            "Armature shaft",
+            "Pinion",
+            "Flywheel",
+            "Solenoid switch"
+          ],
+          "answer": "Solenoid switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 425,
+          "question": "Where does slip ring used?",
+          "image_url": null,
+          "options": [
+            "Dynamo",
+            "Alternator",
+            "Self motor",
+            "Transformer"
+          ],
+          "answer": "Alternator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 426,
+          "question": "Which one of the component used to convert AC to DC in an alternator?",
+          "image_url": null,
+          "options": [
+            "Field coil",
+            "Pole pieces",
+            "Voltage regulator",
+            "Rectifier"
+          ],
+          "answer": "Rectifier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 427,
+          "question": "What is the possible cause of low power generation?",
+          "image_url": null,
+          "options": [
+            "More supply of air",
+            "More supply of fuel",
+            "Incomplete combustion of fuel",
+            "Defective oil filter"
+          ],
+          "answer": "Incomplete combustion of fuel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 428,
+          "question": "How does alternator get drive from engine?",
+          "image_url": null,
+          "options": [
+            "By coupling",
+            "By gear",
+            "By chain",
+            "By belt"
+          ],
+          "answer": "By belt",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 429,
+          "question": "Which one of the cause for low voltage output from alternator?",
+          "image_url": null,
+          "options": [
+            "Loose connection",
+            "Loose mountings",
+            "Fused indicator lamp",
+            "Broken drive belt"
+          ],
+          "answer": "Loose connection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 430,
+          "question": "What is the mechanical cause for engine does not start?",
+          "image_url": null,
+          "options": [
+            "No air in fuel system",
+            "Clogged exhaust manifold",
+            "Battery full charge",
+            "Starter motor engage properly"
+          ],
+          "answer": "Clogged exhaust manifold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 431,
+          "question": "Which one is connected to the starter motor shaft?",
+          "image_url": null,
+          "options": [
+            "Drive pinion",
+            "Ring gear",
+            "Drive pulley",
+            "Drive coupling"
+          ],
+          "answer": "Drive pinion",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 432,
+          "question": "What is the possible cause of high oil consumption?",
+          "image_url": null,
+          "options": [
+            "Clogged air cleaner",
+            "Clogged fuel filter",
+            "Worn out of piston rings",
+            "Low oil level"
+          ],
+          "answer": "Worn out of piston rings",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 433,
+          "question": "What is the function of the regulator in an alternator?",
+          "image_url": null,
+          "options": [
+            "Limits the alternator field current as necessary",
+            "Permits current to flow in one direction only",
+            "Takes heat from the diodes",
+            "To increase the current flow"
+          ],
+          "answer": "Limits the alternator field current as necessary",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 434,
+          "question": "What is the reason for high oil consumption?",
+          "image_url": null,
+          "options": [
+            "Defective pressure gauge",
+            "Improper valve timing",
+            "Excessive valve guide clearance",
+            "Clogged fuel filter"
+          ],
+          "answer": "Excessive valve guide clearance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 435,
+          "question": "Where does commutator is used?",
+          "image_url": null,
+          "options": [
+            "Dynamo",
+            "Alternator",
+            "Transformer",
+            "Ignition coil"
+          ],
+          "answer": "Dynamo",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 436,
+          "question": "Which system is used to the crank the engine?",
+          "image_url": null,
+          "options": [
+            "Charging system",
+            "Lighting system",
+            "Starting system",
+            "Cooling system"
+          ],
+          "answer": "Starting system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 437,
+          "question": "What is the reason for engine over heating?",
+          "image_url": null,
+          "options": [
+            "Defective pressure relief valve",
+            "Clogged silencer",
+            "Air in fuel system",
+            "Water in fuel system"
+          ],
+          "answer": "Clogged silencer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 438,
+          "question": "What is the name of part marked as ‘x’?",
+          "image_url": null,
+          "options": [
+            "Solenoid winding",
+            "Battery",
+            "Plunger",
+            "Starting motor"
+          ],
+          "answer": "Plunger",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 439,
+          "question": "What is the possible cause for no charge when engine is running?",
+          "image_url": null,
+          "options": [
+            "Slip ring proper seating",
+            "Battery with half-charge",
+            "Defective starting motor",
+            "Defective diode"
+          ],
+          "answer": "Defective diode",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 440,
+          "question": "What is the cause of engine does not start when cold?",
+          "image_url": null,
+          "options": [
+            "Detonation",
+            "Heater plug failure",
+            "Carbon deposit in combustion chamber",
+            "Incomplete combustion of fuel"
+          ],
+          "answer": "Incomplete combustion of fuel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 441,
+          "question": "What is the reason for high fuel consumption in diesel engine?",
+          "image_url": null,
+          "options": [
+            "Oil level high",
+            "Air cleaner clogged",
+            "Fuel level in tank is high",
+            "High compression pressure"
+          ],
+          "answer": "Air cleaner clogged",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 442,
+          "question": "Which one is strong electromagnetic switch in starting system?",
+          "image_url": null,
+          "options": [
+            "Starter switch",
+            "Solenoid switch",
+            "Ignition switch",
+            "Starter push switch"
+          ],
+          "answer": "Solenoid switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 443,
+          "question": "Which one is the possible cause for charges at high rate?",
+          "image_url": null,
+          "options": [
+            "Loose mounting",
+            "Blown fuse wire",
+            "Broken drive belt",
+            "Voltage regulator winding open"
+          ],
+          "answer": "Voltage regulator winding open",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 444,
+          "question": "What is the effect of tapper and ovality of a bore?",
+          "image_url": null,
+          "options": [
+            "Compression loss",
+            "Misfiring",
+            "Difficult starting",
+            "False valve timing"
+          ],
+          "answer": "Compression loss",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 445,
+          "question": "Which part is produce electricity in a vehicle?",
+          "image_url": null,
+          "options": [
+            "Battery",
+            "Starting motor",
+            "Alternator",
+            "Ignition coil"
+          ],
+          "answer": "Alternator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 446,
+          "question": "What is the name of the drive mechanism?",
+          "image_url": null,
+          "options": [
+            "Over running clutch drive",
+            "Bendix drive",
+            "Axial drive",
+            "Non axial drive"
+          ],
+          "answer": "Axial drive",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 447,
+          "question": "What is the possible cause of engine over heating?",
+          "image_url": null,
+          "options": [
+            "High air draft",
+            "High circulation of water",
+            "Radiator core blocked",
+            "High water level in radiator"
+          ],
+          "answer": "Radiator core blocked",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 448,
+          "question": "Which one is connected in the circuit between battery and starting motor?",
+          "image_url": null,
+          "options": [
+            "Starter switch",
+            "Solenoid switch",
+            "Plunger",
+            "Ignition switch"
+          ],
+          "answer": "Solenoid switch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 449,
+          "question": "What is the name of the circuit?",
+          "image_url": null,
+          "options": [
+            "Lighting circuit",
+            "Ignition circuit",
+            "Starting circuit",
+            "Charging circuit"
+          ],
+          "answer": "Charging circuit",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]

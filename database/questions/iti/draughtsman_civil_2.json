@@ -1,0 +1,5615 @@
+[
+    {
+      "module": "Types of Building & Planning",
+      "quizWrap": [
+        {
+          "id": 0,
+          "question": "What is the abbreviation for MOEF?",
+          "image_url": null,
+          "options": [
+            "Ministry of Ecology and Forest",
+            "Ministry of Environment and Federation",
+            "Ministry of Environment and Forest",
+            "Ministry of Ecology and Fire"
+          ],
+          "answer": "Ministry of Environment and Forest",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 1,
+          "question": "What is the full form of FSI?",
+          "image_url": null,
+          "options": [
+            "Floor Site Index",
+            "Floor Space Index",
+            "Floor Staircase Index",
+            "Floor Storey Index"
+          ],
+          "answer": "Floor Space Index",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 2,
+          "question": "Which classification of the building have highest F.A.R permissible?",
+          "image_url": null,
+          "options": [
+            "Residential building",
+            "Educational building",
+            "Institutional building",
+            "Mercantile building"
+          ],
+          "answer": "Mercantile building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 3,
+          "question": "Which of the following position of door and type of door shutter offer more privacy to room?",
+          "image_url": null,
+          "options": [
+            "Centre door - Single shutter",
+            "Centre door - Double shutter",
+            "Corner door - Single shutter",
+            "Corner door - Double shutter"
+          ],
+          "answer": "Corner door - Double shutter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 4,
+          "question": "What is the highest dots per inch (DPI) one can print a drawing?",
+          "image_url": null,
+          "options": [
+            "800 dpi",
+            "1000 dpi",
+            "1200 dpi",
+            "1400 dpi"
+          ],
+          "answer": "1200 dpi",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 5,
+          "question": "Which group in which custodial institution comes?",
+          "image_url": null,
+          "options": [
+            "Educational building",
+            "Institutional building",
+            "Assembly building",
+            "Business building"
+          ],
+          "answer": "Assembly building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 6,
+          "question": "What is the formula for floor area ratio?",
+          "image_url": null,
+          "options": [
+            "\\(\\frac{\\text { Total area of walls }}{\\text { Total plot area }} \\times 100 \\)",
+            "\\(\\frac{\\text { Total area of all floors }}{\\text { Total area of walls }} \\times 100\\)",
+            "\\(\\frac{\\text { Total area of all floors }}{\\text { Total plot area }} \\times 100\\)",
+            "\\(\\frac{\\text { Total plot area }}{\\text { Total area of all floors }} \\times 100\\)"
+          ],
+          "answer": "\\(\\frac{\\text { Total area of all floors }}{\\text { Total plot area }} \\times 100\\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 7,
+          "question": "What is the minimum scale of which the key plan need to be drawn according to NBC - 2005?",
+          "image_url": null,
+          "options": [
+            "01:50",
+            "02:40",
+            "04:20",
+            "07:40"
+          ],
+          "answer": "07:40",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 8,
+          "question": "Which of the following gives major importance to outside view?",
+          "image_url": null,
+          "options": [
+            "Aspect",
+            "Prospect",
+            "Grouping",
+            "Lighting"
+          ],
+          "answer": "Prospect",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 9,
+          "question": "Which authority in India regulate environment law for green belts?",
+          "image_url": null,
+          "options": [
+            "MOEF",
+            "EOFM",
+            "AIEM",
+            "EIAM"
+          ],
+          "answer": "MOEF",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 10,
+          "question": "What is the name of figure?",
+          "image_url": null,
+          "options": [
+            "Mouse",
+            "Monitor",
+            "Keyboard",
+            "Plotter"
+          ],
+          "answer": "Keyboard",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 11,
+          "question": "What are the advantages of green belt?",
+          "image_url": null,
+          "options": [
+            "It protects nature",
+            "Provide space",
+            "Protect sea",
+            "Development of society"
+          ],
+          "answer": "It protects nature",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 12,
+          "question": "Which group of building use for custody such as children, convalescents and the aged, convalescent homes and orphanages?",
+          "image_url": null,
+          "options": [
+            "C1",
+            "C",
+            "C2",
+            "C3"
+          ],
+          "answer": "C2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 13,
+          "question": "Which classification does row building comes in?",
+          "image_url": null,
+          "options": [
+            "Public building",
+            "Residential building",
+            "Educational building",
+            "Institutional building"
+          ],
+          "answer": "Residential building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 14,
+          "question": "Which building provides sleeping and cooking facilities?",
+          "image_url": null,
+          "options": [
+            "Institutional building",
+            "Educational building",
+            "Residential building",
+            "Hotel building"
+          ],
+          "answer": "Residential building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 15,
+          "question": "What is the FAR of plot area 100 sqm, having floor area of ground floor 60 sqm, First floor area=60 Sqm Third floor area=30 Sqm?",
+          "image_url": null,
+          "options": [
+            "100",
+            "150",
+            "120",
+            "125"
+          ],
+          "answer": "150",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 16,
+          "question": "What is the name of the useable floor area excluding staircase?",
+          "image_url": null,
+          "options": [
+            "Circulation area",
+            "Carpet area",
+            "Covered area",
+            "Plinth area"
+          ],
+          "answer": "Carpet area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 17,
+          "question": "If the area of the building is same, which of the following building is cheaper compared to single storey?",
+          "image_url": null,
+          "options": [
+            "2 storey building",
+            "3 storey building",
+            "4 storey building",
+            "5 storey building"
+          ],
+          "answer": "2 storey building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 18,
+          "question": "What is the name of the group institutional building was classified?",
+          "image_url": null,
+          "options": [
+            "Group C",
+            "Group E",
+            "Group H",
+            "Group I"
+          ],
+          "answer": "Group C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 19,
+          "question": "Who is having legal interest in land or building?",
+          "image_url": null,
+          "options": [
+            "Leaser",
+            "Mortgagee",
+            "Mortgagor",
+            "Owner"
+          ],
+          "answer": "Owner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 20,
+          "question": "Where does laboratories comes in the underground shopping?",
+          "image_url": null,
+          "options": [
+            "Mercantile building",
+            "Business building",
+            "Industrial building",
+            "Educational building"
+          ],
+          "answer": "Business building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 21,
+          "question": "What is the name of the part parallel between boundary and the building?",
+          "image_url": null,
+          "options": [
+            "Abut line",
+            "Set back line",
+            "Plot line",
+            "Plinth line"
+          ],
+          "answer": "Set back line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 22,
+          "question": "Which group of building use for housing person suffering from physical limitation because of health or age?",
+          "image_url": null,
+          "options": [
+            "C1",
+            "C2",
+            "C3",
+            "D1"
+          ],
+          "answer": "C1",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 23,
+          "question": "What is the formula for carpet area?",
+          "image_url": null,
+          "options": [
+            "Total plot area - Circulation area",
+            "Total circulation area - Floor area",
+            "Total floor area - Circulation area",
+            "Total area of all floors - Wall area"
+          ],
+          "answer": "Total floor area - Circulation area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 24,
+          "question": "What is the basic detail needed for a design engineer, while designing assembly building?",
+          "image_url": null,
+          "options": [
+            "Area of plot",
+            "Number of fixed seats",
+            "Location of plot",
+            "Total floor area"
+          ],
+          "answer": "Number of fixed seats",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 25,
+          "question": "Which of the following room in residential building need more air changes per hour, while comparing to bed room in residential building?",
+          "image_url": null,
+          "options": [
+            "Drawing room",
+            "Master bed room",
+            "Kitchen",
+            "Hall"
+          ],
+          "answer": "Kitchen",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 26,
+          "question": "What is the permissible F.A.R for commercial building?",
+          "image_url": null,
+          "options": [
+            "1.5",
+            "2",
+            "2.5",
+            "3"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 27,
+          "question": "Which is the important room in a residential building W.R.T NBC 2005?",
+          "image_url": null,
+          "options": [
+            "Kitchen",
+            "Bed room",
+            "Hall",
+            "Drawing room"
+          ],
+          "answer": "Bed room",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 28,
+          "question": "What is the full form of CADD?",
+          "image_url": null,
+          "options": [
+            "Computer Aided Designing and Drafting",
+            "Computer Aided Drafting and Drawing",
+            "Computer Aided Drawing and Designing",
+            "Computer Aided Drawing"
+          ],
+          "answer": "Computer Aided Designing and Drafting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 29,
+          "question": "What is the name of the built up area at the floor level?",
+          "image_url": null,
+          "options": [
+            "Plinth",
+            "Plinth area",
+            "Plinth height",
+            "Plinth level"
+          ],
+          "answer": "Plinth area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 30,
+          "question": "What is the maximum covered area for an Industry?",
+          "image_url": null,
+          "options": [
+            "40% of the site area",
+            "50% of the site area",
+            "60% of the site area",
+            "70% of the site area"
+          ],
+          "answer": "60% of the site area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 31,
+          "question": "Which does forest conservation act was passed?",
+          "image_url": null,
+          "options": [
+            "1992",
+            "1980",
+            "1972",
+            "2000"
+          ],
+          "answer": "1980",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 32,
+          "question": "What is the shape of the given plan?",
+          "image_url": null,
+          "options": [
+            "Square",
+            "Rectangle",
+            "Oblong",
+            "Circle"
+          ],
+          "answer": "Square",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 33,
+          "question": "which group of building use laboratories, research, establishments, libraries and test houses?",
+          "image_url": null,
+          "options": [
+            "E1",
+            "E2",
+            "F1",
+            "F3"
+          ],
+          "answer": "E2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 34,
+          "question": "What is the other name of circulation in the same floor?",
+          "image_url": null,
+          "options": [
+            "Horizontal circulation",
+            "Vertical circulation",
+            "Zig - Zag circulation",
+            "Winding circulation"
+          ],
+          "answer": "Horizontal circulation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 35,
+          "question": "Which group of building use shops, stores, departmental store with area up to 500 m²?",
+          "image_url": null,
+          "options": [
+            "F1",
+            "F",
+            "E1",
+            "F3"
+          ],
+          "answer": "F1",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 36,
+          "question": "Which building include living quarters for three or more families, having living and cooking facilities?",
+          "image_url": null,
+          "options": [
+            "Apartment houses",
+            "Assembly building",
+            "Hotels",
+            "Dormitories"
+          ],
+          "answer": "Apartment houses",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 37,
+          "question": "Which group of building use for training institutions under single management for student not less than 20?",
+          "image_url": null,
+          "options": [
+            "B2",
+            "B1",
+            "B",
+            "A"
+          ],
+          "answer": "B1",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 38,
+          "question": "What is the allowable height of riser in public building W.R.T to NBC 2005?",
+          "image_url": null,
+          "options": [
+            "12 cm",
+            "15 cm",
+            "17 cm",
+            "19 cm"
+          ],
+          "answer": "15 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 39,
+          "question": "Which of the following is the basic need of a human being?",
+          "image_url": null,
+          "options": [
+            "Sheet",
+            "Shelter",
+            "Huts",
+            "Tree"
+          ],
+          "answer": "Shelter",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 40,
+          "question": "Which room is provided for learning and reading in residential building?",
+          "image_url": null,
+          "options": [
+            "Drawing room",
+            "Study room",
+            "Entertainment room",
+            "Work room"
+          ],
+          "answer": "Study room",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 41,
+          "question": "What is the full form of GUI?",
+          "image_url": null,
+          "options": [
+            "Golden User Installation",
+            "Graphical User Installation",
+            "Graphical User Interface",
+            "Geometric User Interface"
+          ],
+          "answer": "Graphical User Interface",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 42,
+          "question": "How many persons require one wash basin in public buildings?",
+          "image_url": null,
+          "options": [
+            "100",
+            "150",
+            "175",
+            "200"
+          ],
+          "answer": "100",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 43,
+          "question": "Which type of building comes in group H?",
+          "image_url": null,
+          "options": [
+            "Hazardous",
+            "Industrial",
+            "Storage",
+            "Business"
+          ],
+          "answer": "Storage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 44,
+          "question": "Which season gives more lighting to the building?",
+          "image_url": null,
+          "options": [
+            "Summer",
+            "Winter",
+            "Spring",
+            "Autumn"
+          ],
+          "answer": "Summer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 45,
+          "question": "What should be the distance between building electric supply mains?",
+          "image_url": null,
+          "options": [
+            "1.0 - 1.8 m",
+            "1.0 - 2.0 m",
+            "1.2 - 2.0 m",
+            "1.5 - 2.0 m"
+          ],
+          "answer": "1.2 - 2.0 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 46,
+          "question": "What is the name of the room?",
+          "image_url": null,
+          "options": [
+            "Bed room",
+            "Study room",
+            "Dinning room",
+            "Multi purpose room"
+          ],
+          "answer": "Dinning room",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 47,
+          "question": "What is the normal life period of a residential building with concrete roof according to NBC 2005?",
+          "image_url": null,
+          "options": [
+            "50",
+            "75",
+            "100",
+            "110"
+          ],
+          "answer": "100",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 48,
+          "question": "What is the lead air charges per hour needed in a restaurant kitchen?",
+          "image_url": null,
+          "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+          ],
+          "answer": "12",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 49,
+          "question": "How much area of residential building should constitute for horizontal circulation?",
+          "image_url": null,
+          "options": [
+            "20% to 25% of total plan area",
+            "10% to 15% of total plan area",
+            "15% to 20% of total plan area",
+            "25% to 30% of total plan area"
+          ],
+          "answer": "20% to 25% of total plan area",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Knowledge of CAD & 3D Modelling",
+      "quizWrap": [
+        {
+          "id": 50,
+          "question": "What is the name of the point marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Midpoint of dollar",
+            "Midpoint of offset",
+            "Centre point of array",
+            "Centre point of leader line"
+          ],
+          "answer": "Centre point of array",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 51,
+          "question": "Which of the following pointing device is cheaper while comparing the digitizer?",
+          "image_url": null,
+          "options": [
+            "Key board",
+            "Puck",
+            "Mouse",
+            "Enter key"
+          ],
+          "answer": "Mouse",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 52,
+          "question": "Which shortcut key does the work of Redo last action?",
+          "image_url": null,
+          "options": [
+            "Ctrl + Z",
+            "Ctrl + Y",
+            "Ctrl + C",
+            "Ctrl + X"
+          ],
+          "answer": "Ctrl + Y",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 53,
+          "question": "Which command is used to create one or more copies of object?",
+          "image_url": null,
+          "options": [
+            "Move",
+            "Extend",
+            "Off set",
+            "Copy"
+          ],
+          "answer": "Copy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 54,
+          "question": "What is the use of ʹQʹ shortcut key?",
+          "image_url": null,
+          "options": [
+            "Quit",
+            "Quick calc",
+            "Save as",
+            "ʺQʺ leader"
+          ],
+          "answer": "Save as",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 55,
+          "question": "What is the shortcut to cancel the last command selected?",
+          "image_url": null,
+          "options": [
+            "Ctrl + ]",
+            "Ctrl + [",
+            "Ctrl + }",
+            "Ctrl + ,"
+          ],
+          "answer": "Ctrl + ]",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 56,
+          "question": "What is the full form of WCS?",
+          "image_url": null,
+          "options": [
+            "Western Co-ordinate System",
+            "World Co-ordinate System",
+            "Wide Co-ordinate System",
+            "Wrong Co-ordinate System"
+          ],
+          "answer": "World Co-ordinate System",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 57,
+          "question": "Which shortcut key does the work of ortho?",
+          "image_url": null,
+          "options": [
+            "F6",
+            "F7",
+            "F8",
+            "F9"
+          ],
+          "answer": "F8",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 58,
+          "question": "Which command is used for long term object using object?",
+          "image_url": null,
+          "options": [
+            "Move",
+            "Copy",
+            "Extend",
+            "Off set"
+          ],
+          "answer": "Extend",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 59,
+          "question": "What is the name of the command in the figure given below?",
+          "image_url": null,
+          "options": [
+            "P line",
+            "M line",
+            "Spline",
+            "Poly line"
+          ],
+          "answer": "Spline",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 60,
+          "question": "Which year does first micro processor was invented?",
+          "image_url": null,
+          "options": [
+            "1970",
+            "1971",
+            "1972",
+            "1973"
+          ],
+          "answer": "1971",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 61,
+          "question": "Which of the following commands has one major option?",
+          "image_url": null,
+          "options": [
+            "Line",
+            "M line",
+            "P line",
+            "Polygon"
+          ],
+          "answer": "P line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 62,
+          "question": "Which of the following shortcut keys gives quick calc?",
+          "image_url": null,
+          "options": [
+            "Ctrl + 6",
+            "Ctrl + 7",
+            "Ctrl + 8",
+            "Ctrl + 9"
+          ],
+          "answer": "Ctrl + 8",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 63,
+          "question": "What is the shortcut for rendering an image?",
+          "image_url": null,
+          "options": [
+            "RS",
+            "rsp",
+            "RP",
+            "RW"
+          ],
+          "answer": "RP",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 64,
+          "question": "What is the extension for 3D modelling file?",
+          "image_url": null,
+          "options": [
+            "0.3d",
+            "0.3dm",
+            "0.3m",
+            "0.3dmo"
+          ],
+          "answer": "0.3dm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 65,
+          "question": "What is the use of function key F12?",
+          "image_url": null,
+          "options": [
+            "OSNAP",
+            "SAVE AS",
+            "TABLET",
+            "ISO PLANE"
+          ],
+          "answer": "SAVE AS",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 66,
+          "question": "What is the name of the command in the figure given below?",
+          "image_url": null,
+          "options": [
+            "Offset",
+            "Construction line",
+            "Multi line",
+            "P line"
+          ],
+          "answer": "Multi line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 67,
+          "question": "Which of the following keys gives copy clip?",
+          "image_url": null,
+          "options": [
+            "Ctrl+Z",
+            "Ctrl+C",
+            "Ctrl+G",
+            "Ctrl+L"
+          ],
+          "answer": "Ctrl+C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 68,
+          "question": "What is the full form of CPU?",
+          "image_url": null,
+          "options": [
+            "Craft Processing Unit (CPU)",
+            "Code Processing Unit (CPU)",
+            "Central Processing Unit (CPU)",
+            "CD Processing Unit (CPU)"
+          ],
+          "answer": "Central Processing Unit (CPU)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 69,
+          "question": "Which of the following software is limited for AutoCAD installation?",
+          "image_url": null,
+          "options": [
+            "Windows DOS",
+            "Windows 98",
+            "Windows 03",
+            "Windows 10"
+          ],
+          "answer": "Windows 10",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 70,
+          "question": "What is the use of shortcut key ʹHʹ?",
+          "image_url": null,
+          "options": [
+            "Help",
+            "B hatch",
+            "Hatch",
+            "Hollow block"
+          ],
+          "answer": "Hatch",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 71,
+          "question": "Which command allows you to change 2D drawing into 3D model?",
+          "image_url": null,
+          "options": [
+            "3D modelling",
+            "Extrude",
+            "C plan",
+            "Ortho"
+          ],
+          "answer": "Extrude",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 72,
+          "question": "What is the name of the command from the figure given below?",
+          "image_url": null,
+          "options": [
+            "Star command",
+            "Array command",
+            "Point command",
+            "Trim command"
+          ],
+          "answer": "Point command",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 73,
+          "question": "Which short cut key does the work of snap?",
+          "image_url": null,
+          "options": [
+            "F7",
+            "F8",
+            "F9",
+            "F10"
+          ],
+          "answer": "F9",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 74,
+          "question": "What is the name of the tool bar given below?",
+          "image_url": null,
+          "options": [
+            "Draw",
+            "Modify",
+            "Dimension",
+            "Visual styles"
+          ],
+          "answer": "Draw",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Public Building & Earthquake Resistant Structure",
+      "quizWrap": [
+        {
+          "id": 75,
+          "question": "What is the work done for earthquake to create a flexible foundation?",
+          "image_url": null,
+          "options": [
+            "Base and Structure moves,",
+            "Only the base moves while the structures remains steady",
+            "Only the structure moves",
+            "Structure move base steady"
+          ],
+          "answer": "Only the base moves while the structures remains steady",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 76,
+          "question": "How much cost increases for the earthquakes resistance structure?",
+          "image_url": null,
+          "options": [
+            "20% of the structural cost",
+            "30% of the structural cost",
+            "10% of the structural cost",
+            "5% of the structural cost"
+          ],
+          "answer": "5% of the structural cost",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 77,
+          "question": "In which portion of tectonic plates, earthquake generally occurs?",
+          "image_url": null,
+          "options": [
+            "Plate boundaries",
+            "Diversion plates",
+            "Converging plates",
+            "Middle portion"
+          ],
+          "answer": "Plate boundaries",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 78,
+          "question": "Which of the following operation need to be done during earthquake?",
+          "image_url": null,
+          "options": [
+            "Standing near the window",
+            "Collect and put together an emergency kit",
+            "Check your gas lines",
+            "Cover and hold on under a desk/table"
+          ],
+          "answer": "Cover and hold on under a desk/table",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 79,
+          "question": "Which authority provides park in city?",
+          "image_url": null,
+          "options": [
+            "Public works department",
+            "Town planning",
+            "Municipal corporation",
+            "Nagar nigam"
+          ],
+          "answer": "Town planning",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 80,
+          "question": "Which one of the following is the hard landscape?",
+          "image_url": null,
+          "options": [
+            "Plantation",
+            "Types of trees",
+            "Design of space for people",
+            "Terrace gardens"
+          ],
+          "answer": "Design of space for people",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 81,
+          "question": "Which shape of building plan is safer for earthquake resisting building?",
+          "image_url": null,
+          "options": [
+            "Square plan",
+            "T- shaped plan",
+            "H- shaped plan",
+            "Plan have length more than twice the width"
+          ],
+          "answer": "Square plan",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 82,
+          "question": "What is the special requirement of earthquake resisting single storey building for foundation?",
+          "image_url": null,
+          "options": [
+            "Width of foundation not less than 750 mm",
+            "Width of foundation not less than 850 mm",
+            "Width of foundation not less than 950 mm",
+            "Width of foundation not less than 1000 mm"
+          ],
+          "answer": "Width of foundation not less than 750 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 83,
+          "question": "What will be the area for small size parks?",
+          "image_url": null,
+          "options": [
+            "From 1 hectare to 2 hectare",
+            "From 1 hectare to 3 hectare",
+            "From 1 hectare to 4 hectare",
+            "From 1 hectare to 5 hectare"
+          ],
+          "answer": "From 1 hectare to 4 hectare",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 84,
+          "question": "Which large scale process affecting the structure of the earth crust?",
+          "image_url": null,
+          "options": [
+            "Volcano",
+            "Earthquake",
+            "Seismic",
+            "Tectonic"
+          ],
+          "answer": "Tectonic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 85,
+          "question": "Which one of the following in structure is the most important factors affecting its earthquake performance?",
+          "image_url": null,
+          "options": [
+            "Workability",
+            "Serviceability",
+            "Flexibility",
+            "Responsibility"
+          ],
+          "answer": "Flexibility",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 86,
+          "question": "Which material is best for earthquakes?",
+          "image_url": null,
+          "options": [
+            "Glass and Steel",
+            "Plastic and Wood",
+            "Wood and Steel",
+            "Steel and Plastic"
+          ],
+          "answer": "Wood and Steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 87,
+          "question": "What is the distance between two through stones?",
+          "image_url": null,
+          "options": [
+            "150 to 300mm",
+            "300 to 450mm",
+            "450 to 600mm",
+            "600 to 750mm"
+          ],
+          "answer": "600 to 750mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 88,
+          "question": "How the size and location of play ground determined?",
+          "image_url": null,
+          "options": [
+            "Age group of people for whom they are required",
+            "Area of ground",
+            "Atmosphere of location",
+            "Private sector"
+          ],
+          "answer": "Age group of people for whom they are required",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 89,
+          "question": "Why earthquake resistant structure designed?",
+          "image_url": null,
+          "options": [
+            "For additional wind load",
+            "For additional live load",
+            "The motion of the ground imposes an additional horizontal load",
+            "For good elevation"
+          ],
+          "answer": "The motion of the ground imposes an additional horizontal load",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 90,
+          "question": "Which precaution should be taken for site selection to prevent earthquake?",
+          "image_url": null,
+          "options": [
+            "Near unstable embankments",
+            "On sloping ground",
+            "Columns of different height",
+            "Continuity of subsoil"
+          ],
+          "answer": "Continuity of subsoil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 91,
+          "question": "Which of the following option is taken, if the phone line system will be jammed after earth quake?",
+          "image_url": null,
+          "options": [
+            "Text messages",
+            "Call loudly",
+            "Call through phone",
+            "Whats app call"
+          ],
+          "answer": "Text messages",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 92,
+          "question": "Which device act like shock absorbers between the building and its foundation?",
+          "image_url": null,
+          "options": [
+            "Damper",
+            "Spring",
+            "Base isolation",
+            "Air bag"
+          ],
+          "answer": "Base isolation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 93,
+          "question": "What is the name of park that protects against noise, dust, HOTSUN and harmful winds?",
+          "image_url": null,
+          "options": [
+            "Urban parks",
+            "Botanical parks",
+            "Zoological parks",
+            "National parks"
+          ],
+          "answer": "Urban parks",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 94,
+          "question": "What is the area of playground for 1000 children?",
+          "image_url": null,
+          "options": [
+            "0.10 hectares",
+            "0.13 hectares",
+            "0.16 hectares",
+            "0.20 hectares"
+          ],
+          "answer": "0.13 hectares",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 95,
+          "question": "What is the name of place provides an attractive park like setting and contains houses and facilities for animals?",
+          "image_url": null,
+          "options": [
+            "Natural park",
+            "Botanical park",
+            "Zoological park",
+            "Theme park"
+          ],
+          "answer": "Zoological park",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 96,
+          "question": "What is the name of the figure?",
+          "image_url": null,
+          "options": [
+            "Isolation bearings",
+            "Viscous damper",
+            "Friction damper",
+            "Yielding damper"
+          ],
+          "answer": "Viscous damper",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 97,
+          "question": "What is the percentage of the structural cost of the building in the additional cost for the earthquake resisting structure?",
+          "image_url": null,
+          "options": [
+            "About 1%",
+            "About 2%",
+            "About 3%",
+            "About 5%"
+          ],
+          "answer": "About 5%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 98,
+          "question": "What is provided to meet with the needs of fresh air and peaceful enjoyment of the unspoiled nature?",
+          "image_url": null,
+          "options": [
+            "Forests",
+            "Open space",
+            "The garden",
+            "The park"
+          ],
+          "answer": "The park",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 99,
+          "question": "Which building element will perform better during earthquakes?",
+          "image_url": null,
+          "options": [
+            "Buildings constructed of ductile element",
+            "Buildings constructed of hard concrete",
+            "Buildings constructed in load bearing structure",
+            "Buildings constructed in black cotton soil"
+          ],
+          "answer": "Buildings constructed of ductile element",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "RCC, Materials used for RCC & Test",
+      "quizWrap": [
+        {
+          "id": 100,
+          "question": "What is the name of the frame structure?",
+          "image_url": null,
+          "options": [
+            "Portal frame with hinge base",
+            "Portal frame with fixed base",
+            "R.C.C framed structure",
+            "Portal frame"
+          ],
+          "answer": "Portal frame with fixed base",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 101,
+          "question": "Which diameter of reinforcement bars are used for heavy foundations, large girders or counterforts?",
+          "image_url": null,
+          "options": [
+            "20 mm",
+            "25 mm",
+            "32 mm",
+            "40 mm"
+          ],
+          "answer": "40 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 102,
+          "question": "Which type of mixer used for large quantity of concrete?",
+          "image_url": null,
+          "options": [
+            "Hand mixing",
+            "Batch mixing",
+            "Tilting drum mixers",
+            "Continuous mixer"
+          ],
+          "answer": "Continuous mixer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 103,
+          "question": "What is the PH value of water is used for concrete?",
+          "image_url": null,
+          "options": [
+            "2 and 3",
+            "4 and 5",
+            "6 and 8",
+            "9 and 10"
+          ],
+          "answer": "6 and 8",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 104,
+          "question": "What is the name of the part marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Lateral ties",
+            "Spiral reinforcement",
+            "Vertical main steel",
+            "Cover"
+          ],
+          "answer": "Vertical main steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 105,
+          "question": "Which is the defect of reinforced concrete?",
+          "image_url": null,
+          "options": [
+            "Honeycomb and Rock pockets",
+            "Cracking",
+            "Blistering",
+            "Scaling"
+          ],
+          "answer": "Honeycomb and Rock pockets",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 106,
+          "question": "What kind of labour is required for erection of RCC structures compared to steel structures?",
+          "image_url": null,
+          "options": [
+            "Less skilled",
+            "Semi skilled",
+            "Fully skilled",
+            "No skilled"
+          ],
+          "answer": "Less skilled",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 107,
+          "question": "What is the recommended slump for R.C.C work?",
+          "image_url": null,
+          "options": [
+            "25 to 50 mm",
+            "40 to 50 mm",
+            "80 to 150 mm",
+            "90 to 100 mm"
+          ],
+          "answer": "80 to 150 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 108,
+          "question": "What is the name of the structure in which components such as beam, column and footing are monolithic in design and construction?",
+          "image_url": null,
+          "options": [
+            "Portal frame",
+            "Non-portal frame",
+            "Rigid frame",
+            "Gabled frame"
+          ],
+          "answer": "Portal frame",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 109,
+          "question": "Where does covering of render is used?",
+          "image_url": null,
+          "options": [
+            "Roof",
+            "Floor",
+            "Outside of the building",
+            "Inside of the building"
+          ],
+          "answer": "Outside of the building",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 110,
+          "question": "What kind of material is concrete?",
+          "image_url": null,
+          "options": [
+            "Elasticity",
+            "Brittle",
+            "Stiff",
+            "Malleability"
+          ],
+          "answer": "Brittle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 111,
+          "question": "What is the concrete mix proportion for M10?",
+          "image_url": null,
+          "options": [
+            "01:03:06",
+            "01:02:04",
+            "1:1.5:3",
+            "01:01:02"
+          ],
+          "answer": "01:03:06",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 112,
+          "question": "Which reinforcement is used for work of large dimensions, like massive foundation etc.?",
+          "image_url": null,
+          "options": [
+            "Rolled steel beams",
+            "Fabric made by welding",
+            "Square mesh",
+            "Square bars"
+          ],
+          "answer": "Rolled steel beams",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 113,
+          "question": "What is the ratio for M15 grade of concrete?",
+          "image_url": null,
+          "options": [
+            "01:03:06",
+            "01:02:04",
+            "1:1.5:3",
+            "01:01:02"
+          ],
+          "answer": "01:02:04",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 114,
+          "question": "What is mass of 10 mm dia of steel bar per meter?",
+          "image_url": null,
+          "options": [
+            "0.302 Kg",
+            "0.395 Kg",
+            "0.617 Kg",
+            "0.888 Kg"
+          ],
+          "answer": "0.617 Kg",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 115,
+          "question": "What is the percentage reduction of strength for the 6 month old cement?",
+          "image_url": null,
+          "options": [
+            "0.2",
+            "0.3",
+            "0.4",
+            "0.5"
+          ],
+          "answer": "0.3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 116,
+          "question": "What is the advantage of slump test of concrete?",
+          "image_url": null,
+          "options": [
+            "It is simple and easy to check the work ability of concrete",
+            "Suitable for concrete aggregate exceeds to 40 mm",
+            "Slump test occur in case of dry mixer also",
+            "Reliable for lean mixes"
+          ],
+          "answer": "It is simple and easy to check the work ability of concrete",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 117,
+          "question": "Which part of building, the clear cover 25 mm or dia of bar whichever is more is used?",
+          "image_url": null,
+          "options": [
+            "Beam",
+            "Column",
+            "Slab",
+            "Foundation"
+          ],
+          "answer": "Beam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 118,
+          "question": "What is the weight / m of 12 mm diameter round bar?",
+          "image_url": null,
+          "options": [
+            "0.39 Kg/m",
+            "0.62 Kg/m",
+            "0.89 Kg/m",
+            "1.58 Kg/m"
+          ],
+          "answer": "0.89 Kg/m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 119,
+          "question": "Which material is strong in tensile strength?",
+          "image_url": null,
+          "options": [
+            "Cement",
+            "Sand",
+            "Steel",
+            "Water"
+          ],
+          "answer": "Steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 120,
+          "question": "Which structure is constructed for the purpose of retaining earth or other materials like coal, ore, water etc.?",
+          "image_url": null,
+          "options": [
+            "Load bearing wall",
+            "Non load bearing wall",
+            "Retaining wall",
+            "Wing wall"
+          ],
+          "answer": "Retaining wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 121,
+          "question": "Which type of reinforcement 6 mm diameter mild steel bars are used in walls?",
+          "image_url": null,
+          "options": [
+            "Vertical reinforcement",
+            "Longitudinal reinforcement",
+            "Horizontal reinforcement",
+            "Spiral reinforcement"
+          ],
+          "answer": "Longitudinal reinforcement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 122,
+          "question": "What is the maximum absorption limit for coarse aggregate under water for 24 hours?",
+          "image_url": null,
+          "options": [
+            "0.03",
+            "0.05",
+            "0.07",
+            "0.09"
+          ],
+          "answer": "0.05",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 123,
+          "question": "What is the name of the part marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Steel plate",
+            "Steel bars",
+            "Reinforced bars",
+            "Mesh reinforcement"
+          ],
+          "answer": "Mesh reinforcement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 124,
+          "question": "What is the name of the part marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Heel",
+            "Toe",
+            "Stem",
+            "Weep hole"
+          ],
+          "answer": "Heel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 125,
+          "question": "Which material is used to increase the tensile strength in concrete?",
+          "image_url": null,
+          "options": [
+            "Mud",
+            "Brick bats",
+            "Quarry dust",
+            "Steel"
+          ],
+          "answer": "Steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 126,
+          "question": "What is the distance between two yokes in column formwork?",
+          "image_url": null,
+          "options": [
+            "0.50 m",
+            "1.00 m",
+            "1.50 m",
+            "2.00 m"
+          ],
+          "answer": "1.00 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 127,
+          "question": "Name of the apparatus.",
+          "image_url": null,
+          "options": [
+            "Vicatʹs needle",
+            "Slump cone",
+            "Vibrating table",
+            "Cylindrical moulds"
+          ],
+          "answer": "Slump cone",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 128,
+          "question": "Which retaining wall constructed on site or prefabricated off site?",
+          "image_url": null,
+          "options": [
+            "Counter fort retaining wall",
+            "Non-Semi gravity wall",
+            "Semi-Gravity wall",
+            "Cantilever retaining wall"
+          ],
+          "answer": "Cantilever retaining wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 129,
+          "question": "Which of following is the advantage of reinforced concrete?",
+          "image_url": null,
+          "options": [
+            "Low maintenance cost",
+            "Low compressive strength",
+            "Low yield strength",
+            "Low shear strength"
+          ],
+          "answer": "Low maintenance cost",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 130,
+          "question": "What is the reason of failure of RCC framed structure?",
+          "image_url": null,
+          "options": [
+            "Foundation of RCC framed structure bearing load",
+            "Column - Shared load from slab",
+            "Cement concrete is strong in compressive strength",
+            "Poor concrete Mix and Water quality"
+          ],
+          "answer": "Poor concrete Mix and Water quality",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 131,
+          "question": "What is length of one ʹUʹ type hook?",
+          "image_url": null,
+          "options": [
+            "4φ",
+            "8φ",
+            "9φ",
+            "18φ"
+          ],
+          "answer": "9φ",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 132,
+          "question": "What is the excess length of the one side of the cranked bar?",
+          "image_url": null,
+          "options": [
+            "0.212 d",
+            "0.414 d",
+            "0.616 d",
+            "0.818 d"
+          ],
+          "answer": "0.414 d",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 133,
+          "question": "What is the minimum diameter of vertical bars used in columns?",
+          "image_url": null,
+          "options": [
+            "ɸ 8mm",
+            "ɸ 10mm",
+            "ɸ 12mm",
+            "ɸ 16mm"
+          ],
+          "answer": "ɸ 12mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 134,
+          "question": "What is the name of the part marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Column support",
+            "Bitumen filler",
+            "Hinge reinforcement",
+            "Foundation"
+          ],
+          "answer": "Hinge reinforcement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 135,
+          "question": "How many days the R.B slab is kept wet?",
+          "image_url": null,
+          "options": [
+            "Two to four weeks",
+            "One to two weeks",
+            "One week",
+            "3 days"
+          ],
+          "answer": "Two to four weeks",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 136,
+          "question": "What is name of the structure?",
+          "image_url": null,
+          "options": [
+            "R.C.C framed structure",
+            "Rigid frame structure",
+            "Braced frame structure",
+            "Portal frame structure"
+          ],
+          "answer": "R.C.C framed structure",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 137,
+          "question": "What is the grade of concrete for the concrete mix proportion is 1:1.5:3?",
+          "image_url": null,
+          "options": [
+            "M 10",
+            "M 15",
+            "M 20",
+            "M 25"
+          ],
+          "answer": "M 20",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 138,
+          "question": "What is the maximum size of particle in fine aggregate?",
+          "image_url": null,
+          "options": [
+            "2.75 mm",
+            "3.75 mm",
+            "4.75 mm",
+            "5.75 mm"
+          ],
+          "answer": "4.75 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 139,
+          "question": "What is the total quantity of coarse and fine aggregate for 50Kg cement for M15 grade of concrete required?",
+          "image_url": null,
+          "options": [
+            "625 Kg",
+            "480 Kg",
+            "330 Kg",
+            "250 Kg"
+          ],
+          "answer": "330 Kg",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 140,
+          "question": "What is the initial cost of timber formwork compared to steel formwork?",
+          "image_url": null,
+          "options": [
+            "Costly",
+            "Moderately",
+            "Cheap",
+            "Very low"
+          ],
+          "answer": "Cheap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 141,
+          "question": "What is the name of the bar shown in figure?",
+          "image_url": null,
+          "options": [
+            "Plain round bar",
+            "Twisted bar",
+            "Ribbed tor steel",
+            "Square bar"
+          ],
+          "answer": "Ribbed tor steel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 142,
+          "question": "Which masonry built in beam, slabs, lintel, column?",
+          "image_url": null,
+          "options": [
+            "Stone masonry",
+            "Brick masonry",
+            "Reinforced brick masonry",
+            "Combine masonry"
+          ],
+          "answer": "Reinforced brick masonry",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 143,
+          "question": "What is the permissible stress for grade Fe 500?",
+          "image_url": null,
+          "options": [
+            "0.33 fy",
+            "0.44 fy",
+            "0.55 fy",
+            "0.66 fy"
+          ],
+          "answer": "0.55 fy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 144,
+          "question": "What is the purpose of retaining wall?",
+          "image_url": null,
+          "options": [
+            "Partition of room",
+            "Supporting filled earth",
+            "Garden wall",
+            "Compound wall"
+          ],
+          "answer": "Supporting filled earth",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 145,
+          "question": "Which bar the hooks are provided?",
+          "image_url": null,
+          "options": [
+            "Plain bars",
+            "Hot rolled deformed bars",
+            "Cold twisted bars",
+            "Hard - drawn steel wire"
+          ],
+          "answer": "Plain bars",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 146,
+          "question": "Which material is coated at all the faces of concrete mould?",
+          "image_url": null,
+          "options": [
+            "Water",
+            "Sand",
+            "Crude oil",
+            "Glue"
+          ],
+          "answer": "Crude oil",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 147,
+          "question": "What is name of the retaining wall?",
+          "image_url": null,
+          "options": [
+            "Gravity retaining wall",
+            "Semi gravity retaining wall",
+            "Counter fort retaining wall",
+            "Cantilever retaining wall"
+          ],
+          "answer": "Cantilever retaining wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 148,
+          "question": "When does the probs of slab is removed if the span is more than 4.5 m?",
+          "image_url": null,
+          "options": [
+            "7 days",
+            "14 days",
+            "21 days",
+            "28 days"
+          ],
+          "answer": "14 days",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 149,
+          "question": "What is the conversion factor of wet volume to dry volume of concrete?",
+          "image_url": null,
+          "options": [
+            "1.42",
+            "1.62",
+            "1.52",
+            "1.72"
+          ],
+          "answer": "1.52",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Pre-fabricated Structure & Steel Structure",
+      "quizWrap": [
+        {
+          "id": 150,
+          "question": "What size of coarse aggregate used in stamp test?",
+          "image_url": null,
+          "options": [
+            "40 mm",
+            "45 mm",
+            "50 mm",
+            "55 mm"
+          ],
+          "answer": "40 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 151,
+          "question": "Which of the following concrete require transportation for placing?",
+          "image_url": null,
+          "options": [
+            "In site concrete",
+            "Post tensioned concrete",
+            "Pre cast concrete",
+            "Pre- stressed concrete"
+          ],
+          "answer": "Pre cast concrete",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 152,
+          "question": "What is the name of rivet head?",
+          "image_url": null,
+          "options": [
+            "Snap head",
+            "Pan head",
+            "Ellipsoidal head",
+            "Conical head"
+          ],
+          "answer": "Snap head",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 153,
+          "question": "What is the scale used for prefabricated structure?",
+          "image_url": null,
+          "options": [
+            "IS 15913-2011",
+            "IS 15914 - 2011",
+            "IS 15915-2011",
+            "IS 15916-2011"
+          ],
+          "answer": "IS 15916-2011",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 154,
+          "question": "Which span the plate girders are used?",
+          "image_url": null,
+          "options": [
+            "More than 5 m",
+            "More than 10 m",
+            "More than 15 m",
+            "More than 20 m"
+          ],
+          "answer": "More than 20 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 155,
+          "question": "Which system facilitates assembling of minor elements in conventional construction?",
+          "image_url": null,
+          "options": [
+            "Open pre-fab system",
+            "Partial pre-fab system",
+            "Full pre-fab system",
+            "Closed pre -fab system"
+          ],
+          "answer": "Partial pre-fab system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 156,
+          "question": "Which system is used with double tee slaps for precast beams and walls?",
+          "image_url": null,
+          "options": [
+            "Load bearing",
+            "Non load bearing",
+            "Framed structures",
+            "Foundation"
+          ],
+          "answer": "Load bearing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 157,
+          "question": "How many vertical bars are provided in a circular column having spiral or helical reinforcement?",
+          "image_url": null,
+          "options": [
+            "3 nos",
+            "4 nos",
+            "5 nos",
+            "6 nos"
+          ],
+          "answer": "6 nos",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 158,
+          "question": "Why do we use prefabricated structure?",
+          "image_url": null,
+          "options": [
+            "To improve the strength of structure",
+            "Avoids the need to transport So many skilled worker",
+            "To increase the quality of structure",
+            "To increase the time of working"
+          ],
+          "answer": "Avoids the need to transport So many skilled worker",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 159,
+          "question": "Which figures refers the conventional symbol for cylinder screw cross slot?",
+          "image_url": null,
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "answer": "",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 160,
+          "question": "What is the minimum distance between centres of any two adjacent rivet holes to the nominal diameter of the rivet?",
+          "image_url": null,
+          "options": [
+            "1.00 time",
+            "1.50 times",
+            "2.00 times",
+            "2.50 times"
+          ],
+          "answer": "2.50 times",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 161,
+          "question": "Which prefabricated method the moulds remain stationary at places where other procover are done?",
+          "image_url": null,
+          "options": [
+            "Flow method",
+            "Fixed method",
+            "Stand method",
+            "Hand method"
+          ],
+          "answer": "Stand method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 162,
+          "question": "Which prefabricated method the units of moved to various section for procover?",
+          "image_url": null,
+          "options": [
+            "Flow method",
+            "Fixed method",
+            "Stand method",
+            "Vehicle method"
+          ],
+          "answer": "Flow method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 163,
+          "question": "What is the name of the section?",
+          "image_url": null,
+          "options": [
+            "Tension members",
+            "Compression members",
+            "Torsion members",
+            "Beams"
+          ],
+          "answer": "Compression members",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 164,
+          "question": "Which section provide one monotitic action between prefabricated units?",
+          "image_url": null,
+          "options": [
+            "Composite",
+            "Steel",
+            "Tensile",
+            "Compression"
+          ],
+          "answer": "Composite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 165,
+          "question": "What is the disadvantage in prefabricated structure?",
+          "image_url": null,
+          "options": [
+            "Shorter construction time",
+            "Financial savings",
+            "Reduced site disruption",
+            "Transportation"
+          ],
+          "answer": "Transportation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 166,
+          "question": "Name the beam the deflection will take place in the top of the beam.",
+          "image_url": null,
+          "options": [
+            "Simply supported beam",
+            "Continuous beam",
+            "Inverted beam",
+            "Fixed beam"
+          ],
+          "answer": "Inverted beam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 167,
+          "question": "How much the diameter of the hole is larger than the nominal diameter of the rivet if it is less than or equal to 25 mm?",
+          "image_url": null,
+          "options": [
+            "0.5 mm",
+            "1.0 mm",
+            "1.5 mm",
+            "2.0 mm"
+          ],
+          "answer": "1.5 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 168,
+          "question": "What advantage of cold former steel members over reinforced concrete and timber?",
+          "image_url": null,
+          "options": [
+            "Termite - proof and rot proof",
+            "Economical",
+            "Shrinking and creeping at temperature",
+            "Less accurate detailing"
+          ],
+          "answer": "Termite - proof and rot proof",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 169,
+          "question": "What is the name of part marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Main beam",
+            "Secondary beam",
+            "Web cleats",
+            "Seat angles"
+          ],
+          "answer": "Web cleats",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 170,
+          "question": "What is the full form of R.E.C?",
+          "image_url": null,
+          "options": [
+            "Real Element Concrete",
+            "Rigid Element Concrete",
+            "Reinforced Element Concrete",
+            "Reconstructed Element Concrete"
+          ],
+          "answer": "Reinforced Element Concrete",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 171,
+          "question": "Which is the production of housing components using factory mechanisation?",
+          "image_url": null,
+          "options": [
+            "Prefabrication",
+            "Fabrication",
+            "Construction",
+            "Production"
+          ],
+          "answer": "Prefabrication",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 172,
+          "question": "Name the lintel which provides only over the opening with minimum bearing joint?",
+          "image_url": null,
+          "options": [
+            "Break lintel",
+            "Continuous lintel",
+            "Inverted lintel",
+            "Curved lintel"
+          ],
+          "answer": "Break lintel",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 173,
+          "question": "What is the name of the connection?",
+          "image_url": null,
+          "options": [
+            "Framed connection",
+            "Seated connection",
+            "Column to beam framed connection",
+            "Column to beam seated connection"
+          ],
+          "answer": "Framed connection",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 174,
+          "question": "What is the name of the truss marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Plate girder railway bridge",
+            "Lattice tower",
+            "Steel chimney",
+            "Warren truss used in bridges"
+          ],
+          "answer": "Warren truss used in bridges",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Sewage System",
+      "quizWrap": [
+        {
+          "id": 175,
+          "question": "What is the full form of P.H.E.?",
+          "image_url": null,
+          "options": [
+            "Public Health Engineering",
+            "Plumbing Heating Electrical",
+            "Public Health Emergencies",
+            "Peer Health Educations"
+          ],
+          "answer": "Public Health Engineering",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 176,
+          "question": "What is the name of the liquid flowing in sewer?",
+          "image_url": null,
+          "options": [
+            "Sewer",
+            "Sewage",
+            "Sewerage",
+            "Storm water"
+          ],
+          "answer": "Sewage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 177,
+          "question": "What is the name of the water coming out of the kitchen, bathroom, wash basin?",
+          "image_url": null,
+          "options": [
+            "Garbage",
+            "Sullage",
+            "Sewage",
+            "Discharge"
+          ],
+          "answer": "Sullage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 178,
+          "question": "What is the purpose of plumbing?",
+          "image_url": null,
+          "options": [
+            "Distribution & use of drinking water and Removal of wastes water",
+            "Removal water system",
+            "Removal sewage system",
+            "Removal drain system"
+          ],
+          "answer": "Distribution & use of drinking water and Removal of wastes water",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 179,
+          "question": "What is the first stage in sewage treatment process?",
+          "image_url": null,
+          "options": [
+            "Sedimentation",
+            "Screening",
+            "Filteration",
+            "softening"
+          ],
+          "answer": "Screening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 180,
+          "question": "Which factor does sanitary sewage quantity directly depends on?",
+          "image_url": null,
+          "options": [
+            "Rate of water supply",
+            "Area",
+            "Population",
+            "Precipitation"
+          ],
+          "answer": "Population",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 181,
+          "question": "What is the name of trap?",
+          "image_url": null,
+          "options": [
+            "Intercepting TRAP",
+            "Gully trap",
+            "Floor trap",
+            "Grease trap"
+          ],
+          "answer": "Gully trap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 182,
+          "question": "Which water tight under ground tank, admit sewage for treatment?",
+          "image_url": null,
+          "options": [
+            "Drinking water tank",
+            "Sewage water tank",
+            "Flushing tanks",
+            "Septic tank"
+          ],
+          "answer": "Septic tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 183,
+          "question": "Which pipe is not a best choice of climates?",
+          "image_url": null,
+          "options": [
+            "GI",
+            "Copper",
+            "CPVC",
+            "Cost iron"
+          ],
+          "answer": "CPVC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 184,
+          "question": "How many chambers are there in a septic tank?",
+          "image_url": null,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 185,
+          "question": "Which type of pump should be selected in order to pump the sewage from a septic tank to the water treatment system?",
+          "image_url": null,
+          "options": [
+            "Vertical slump pump",
+            "Progressive cavity pump",
+            "Centrifugal pump",
+            "Screw pump"
+          ],
+          "answer": "Centrifugal pump",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 186,
+          "question": "What is the purpose of treatment of water?",
+          "image_url": null,
+          "options": [
+            "To make it safe for use",
+            "To increase hardness",
+            "To decreases hardness",
+            "To increase TDS"
+          ],
+          "answer": "To make it safe for use",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 187,
+          "question": "What is the nominal shape of septic tank?",
+          "image_url": null,
+          "options": [
+            "Square",
+            "Rectangle",
+            "Circular",
+            "Oval"
+          ],
+          "answer": "Rectangle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 188,
+          "question": "Which system consists supply and distribution pipes, fixtures, taps, valves connections?",
+          "image_url": null,
+          "options": [
+            "Drainage system",
+            "Water distribution system",
+            "General water and sewer controlling system",
+            "House plumbing system"
+          ],
+          "answer": "House plumbing system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 189,
+          "question": "Which sewer resist sulphide corrosion?",
+          "image_url": null,
+          "options": [
+            "Brick sewer",
+            "Cast iron sewer",
+            "R.C.C. sewer",
+            "Lead sewer"
+          ],
+          "answer": "Lead sewer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 190,
+          "question": "Which device is used to prevent sewer gassed from entering the building?",
+          "image_url": null,
+          "options": [
+            "Filter",
+            "Trap",
+            "Ventilator",
+            "Vacuum pump"
+          ],
+          "answer": "Trap",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 191,
+          "question": "What is the purpose of lamp hole?",
+          "image_url": null,
+          "options": [
+            "To clean the drainage",
+            "To clean the water system",
+            "To detect the obstruction in the sewer",
+            "To enter the hole"
+          ],
+          "answer": "To detect the obstruction in the sewer",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 192,
+          "question": "What is the average temperature of sewage in India?",
+          "image_url": null,
+          "options": [
+            "10°C",
+            "15°C",
+            "20°C",
+            "25°C"
+          ],
+          "answer": "20°C",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 193,
+          "question": "Which type of sewer system are preferred in India?",
+          "image_url": null,
+          "options": [
+            "Partial",
+            "Combined",
+            "Direct",
+            "Separate"
+          ],
+          "answer": "Combined",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 194,
+          "question": "What is the term for water inside trap which prevents gas from entering?",
+          "image_url": null,
+          "options": [
+            "Drain water",
+            "Water seal",
+            "Waste water",
+            "Trap safety"
+          ],
+          "answer": "Water seal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 195,
+          "question": "What is the period for sludge digestion in normal conditions?",
+          "image_url": null,
+          "options": [
+            "10 days",
+            "20 days",
+            "30 days",
+            "60 days"
+          ],
+          "answer": "30 days",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 196,
+          "question": "What is the maximum spacing of manhole sewer size upto 0.3 mφ?",
+          "image_url": null,
+          "options": [
+            "20m",
+            "30m",
+            "45 m",
+            "75 m"
+          ],
+          "answer": "30m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 197,
+          "question": "Which device provided in a trap to preserve its water seal?",
+          "image_url": null,
+          "options": [
+            "Antisyphonage",
+            "Residual head",
+            "Vent pipe",
+            "Soil pipe"
+          ],
+          "answer": "Antisyphonage",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 198,
+          "question": "What is the angle between the drains and inspection manhole?",
+          "image_url": null,
+          "options": [
+            "45°",
+            "90°",
+            "135°",
+            "180°"
+          ],
+          "answer": "180°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 199,
+          "question": "What is the name of the appurtenance that are constructed at suitable intervals?",
+          "image_url": null,
+          "options": [
+            "Manholes",
+            "Catch basin",
+            "Pumps",
+            "Sewer appurtenances"
+          ],
+          "answer": "Manholes",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Roads & Railways",
+      "quizWrap": [
+        {
+          "id": 200,
+          "question": "Which circular curve consists of a single arc of uniform radius?",
+          "image_url": null,
+          "options": [
+            "Compound",
+            "Simple",
+            "Reverse",
+            "Transition"
+          ],
+          "answer": "Simple",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 201,
+          "question": "When did the IRC was set up?",
+          "image_url": null,
+          "options": [
+            "1943",
+            "1860",
+            "1934",
+            "1973"
+          ],
+          "answer": "1934",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 202,
+          "question": "Which crossing the right hand rail of one track crosses the left hand rail of another track and vice versa?",
+          "image_url": null,
+          "options": [
+            "Acute angle",
+            "Obtuse angle",
+            "Square",
+            "Rectangular"
+          ],
+          "answer": "Acute angle",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 203,
+          "question": "Which direction does rail creep occurs?",
+          "image_url": null,
+          "options": [
+            "Longitudinal",
+            "Lateral",
+            "Vertical",
+            "Transverse"
+          ],
+          "answer": "Longitudinal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 204,
+          "question": "What is the minimum width of shoulders provided in national highways?",
+          "image_url": null,
+          "options": [
+            "1m",
+            "1.5m",
+            "2m",
+            "2.5m"
+          ],
+          "answer": "2m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 205,
+          "question": "Which is the portion of the road constructed for vehicular traffic?",
+          "image_url": null,
+          "options": [
+            "Right way",
+            "Formation",
+            "Carriage way",
+            "Road way"
+          ],
+          "answer": "Carriage way",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 206,
+          "question": "Which is the highest point of a cross section of highway?",
+          "image_url": null,
+          "options": [
+            "Camber",
+            "Sub base",
+            "Carriage way",
+            "Crown"
+          ],
+          "answer": "Crown",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 207,
+          "question": "Where did the Central Road Research Institute Started?",
+          "image_url": null,
+          "options": [
+            "England",
+            "Nagpur",
+            "New Delhi",
+            "France"
+          ],
+          "answer": "New Delhi",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 208,
+          "question": "Which alternative road is provided to divert traffic to avoid obstruction?",
+          "image_url": null,
+          "options": [
+            "Loop",
+            "Ring",
+            "Trunk",
+            "By pass"
+          ],
+          "answer": "Loop",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 209,
+          "question": "Which instrument is used for setting out curves in angular method?",
+          "image_url": null,
+          "options": [
+            "Compass",
+            "Tape",
+            "Chain",
+            "Theodolite"
+          ],
+          "answer": "Theodolite",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 210,
+          "question": "Which shape of the surface drain is most preferred for heavy discharge in road?",
+          "image_url": null,
+          "options": [
+            "Rectangular",
+            "U shaped",
+            "Semicircular",
+            "V shaped"
+          ],
+          "answer": "Rectangular",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 211,
+          "question": "What is the name of crossing of railway track?",
+          "image_url": null,
+          "options": [
+            "Square crossing",
+            "Obtuse crossing",
+            "Diamond crossing",
+            "Level crossing"
+          ],
+          "answer": "Square crossing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 212,
+          "question": "Which survey is conducted to find the number of possible alternative routes between two points?",
+          "image_url": null,
+          "options": [
+            "Preliminary",
+            "Reconnaissance",
+            "Location",
+            "Detailed"
+          ],
+          "answer": "Reconnaissance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 213,
+          "question": "Which culvert is used if the water opening is less than 15m² and road crosses the water way on a relatively high embankment?",
+          "image_url": null,
+          "options": [
+            "Pipe",
+            "Arch",
+            "Box",
+            "Slab"
+          ],
+          "answer": "Slab",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 214,
+          "question": "What is the major cause of rail creep?",
+          "image_url": null,
+          "options": [
+            "Rails not properly fixed",
+            "Bad quality of sleepers",
+            "Rail joint in bad condition",
+            "Unequal expansion and contraction"
+          ],
+          "answer": "Unequal expansion and contraction",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 215,
+          "question": "What is the name for raising of the level of the outer rail over that of inner rail?",
+          "image_url": null,
+          "options": [
+            "Creep",
+            "Cant",
+            "Boxing",
+            "Wearing"
+          ],
+          "answer": "Cant",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 216,
+          "question": "What is the time required for a driver to realise the necessity of applying brakes to the vehicles?",
+          "image_url": null,
+          "options": [
+            "Reaction",
+            "Reflection",
+            "Perception",
+            "Sight distance"
+          ],
+          "answer": "Perception",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 217,
+          "question": "What is the name of layout of yard in figure?",
+          "image_url": null,
+          "options": [
+            "Marshalling yard",
+            "Flag station",
+            "Loop line yard",
+            "Goods yard"
+          ],
+          "answer": "Marshalling yard",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 218,
+          "question": "What is used for fixing the rails to the wooden sleepers?",
+          "image_url": null,
+          "options": [
+            "Spikes",
+            "Bearing plates",
+            "Fish bolt",
+            "Rail chair"
+          ],
+          "answer": "Spikes",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 219,
+          "question": "Who started the development of railways in India?",
+          "image_url": null,
+          "options": [
+            "George Stephenson",
+            "Lord Dalhousie",
+            "Lord Curzon",
+            "Lord Ripon"
+          ],
+          "answer": "Lord Dalhousie",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 220,
+          "question": "What is the process for filling the ballast around the sleepers?",
+          "image_url": null,
+          "options": [
+            "Creep",
+            "Turn table",
+            "Boxing",
+            "Coning"
+          ],
+          "answer": "Boxing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 221,
+          "question": "Which cross slope is given to the top layer of road in Macadam Construction?",
+          "image_url": null,
+          "options": [
+            "1 in 20",
+            "1 in 45",
+            "1 in 10",
+            "1 in 36"
+          ],
+          "answer": "1 in 36",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 222,
+          "question": "Which is the basic requirement of alignment?",
+          "image_url": null,
+          "options": [
+            "Crosses maximum number of bridges",
+            "Short",
+            "Lengthy straight routes",
+            "Curves"
+          ],
+          "answer": "Short",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 223,
+          "question": "What is the value of minimum gradient?",
+          "image_url": null,
+          "options": [
+            "1 in 14.3",
+            "1in 20",
+            "1in 30",
+            "1 in 200"
+          ],
+          "answer": "1 in 200",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 224,
+          "question": "What is the length of bull headed rail?",
+          "image_url": null,
+          "options": [
+            "16.7 m",
+            "18.29 m",
+            "18.6m",
+            "19.2mm"
+          ],
+          "answer": "18.29 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 225,
+          "question": "What is the width of broad gauge?",
+          "image_url": null,
+          "options": [
+            "0.16 m",
+            "0.762 m",
+            "1.00 m",
+            "1.676 m"
+          ],
+          "answer": "1.676 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 226,
+          "question": "What is the depth of wooden sleeper of 25cm width and sleeper spacing 65cm?",
+          "image_url": null,
+          "options": [
+            "10 cm",
+            "20 cm",
+            "30 cm",
+            "25 cm"
+          ],
+          "answer": "20 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 227,
+          "question": "Which road connects areas of production and market with state highways and railways?",
+          "image_url": null,
+          "options": [
+            "National highway",
+            "Major district",
+            "Village",
+            "Other district"
+          ],
+          "answer": "Major district",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 228,
+          "question": "What is the main purpose of providing camber?",
+          "image_url": null,
+          "options": [
+            "To follow IRC specification",
+            "To prevent entry of moisture into subgrade",
+            "To maintain equilibrium",
+            "To follow specifications"
+          ],
+          "answer": "To prevent entry of moisture into subgrade",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 229,
+          "question": "Which is the classification of road according to importance?",
+          "image_url": null,
+          "options": [
+            "State highways",
+            "Second class",
+            "Cement concrete",
+            "Express highways"
+          ],
+          "answer": "Second class",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 230,
+          "question": "Which gauge is adopted for main cities and routes of maximum intensities?",
+          "image_url": null,
+          "options": [
+            "Broad",
+            "Narrow",
+            "Metre",
+            "Wide"
+          ],
+          "answer": "Broad",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 231,
+          "question": "Which system of transportation is the fastest and provides more comfort for men and material?",
+          "image_url": null,
+          "options": [
+            "Railways",
+            "Airways",
+            "Waterways",
+            "Roadways"
+          ],
+          "answer": "Airways",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 232,
+          "question": "Which mode of transportation has the maximum flexibility for travel with respect to route, directions, time etc?",
+          "image_url": null,
+          "options": [
+            "Roadways",
+            "Railways",
+            "Waterways",
+            "Airways"
+          ],
+          "answer": "Roadways",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 233,
+          "question": "Which crossing is used where road and the railway line cross each other at the same level?",
+          "image_url": null,
+          "options": [
+            "Loop line",
+            "Level crossing",
+            "Gradient",
+            "Wheel on level"
+          ],
+          "answer": "Loop line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 234,
+          "question": "Which is used to reduce creeping of rail?",
+          "image_url": null,
+          "options": [
+            "Bearing plates",
+            "Spikes",
+            "Anchors",
+            "Chairs"
+          ],
+          "answer": "Anchors",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 235,
+          "question": "Which is used for joining the rail?",
+          "image_url": null,
+          "options": [
+            "Spikes",
+            "Rail chairs",
+            "Fish plates",
+            "Bearing plate"
+          ],
+          "answer": "Fish plates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 236,
+          "question": "What is the minimum shoulder width recommended by IRC?",
+          "image_url": null,
+          "options": [
+            "1.30m",
+            "1.85m",
+            "2m",
+            "2.5m"
+          ],
+          "answer": "2.5m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 237,
+          "question": "Which is a cast iron sleeper?",
+          "image_url": null,
+          "options": [
+            "Duplex",
+            "Steel",
+            "Pot",
+            "Box"
+          ],
+          "answer": "Pot",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 238,
+          "question": "What is the height of embankment above HFL in the construction of permanent way?",
+          "image_url": null,
+          "options": [
+            "30 cm",
+            "50m",
+            "60 cm",
+            "65 cm"
+          ],
+          "answer": "60 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 239,
+          "question": "What is the standard size of ballast for wooden sleepers?",
+          "image_url": null,
+          "options": [
+            "25 mm",
+            "40 mm",
+            "50 mm",
+            "60 mm"
+          ],
+          "answer": "50 mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 240,
+          "question": "Which transition curve is recommended by the IRC in the horizontal alignment of highway?",
+          "image_url": null,
+          "options": [
+            "Spiral",
+            "Lemniscate",
+            "Cubic parabola",
+            "Summit"
+          ],
+          "answer": "Spiral",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 241,
+          "question": "Which method is used to repair the worn out or damaged rails and to built up damaged components of points and crossing?",
+          "image_url": null,
+          "options": [
+            "Bending",
+            "Hogging",
+            "Creep",
+            "Welding"
+          ],
+          "answer": "Welding",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 242,
+          "question": "Who created central public works department to look after the work of road?",
+          "image_url": null,
+          "options": [
+            "Lord William Bentinck",
+            "Lord Mayo",
+            "Lord Dalhousie",
+            "Lord Ripon"
+          ],
+          "answer": "Lord Dalhousie",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 243,
+          "question": "What is the name of the spike is in figure?",
+          "image_url": null,
+          "options": [
+            "Round",
+            "Screw",
+            "Elastic",
+            "Dog"
+          ],
+          "answer": "Dog",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 244,
+          "question": "What is the width of shoulders in roads?",
+          "image_url": null,
+          "options": [
+            "0.5m to 1.25m",
+            "1.25m to 2m",
+            "2m to 4m",
+            "4m to 6m"
+          ],
+          "answer": "1.25m to 2m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 245,
+          "question": "What is rail creep?",
+          "image_url": null,
+          "options": [
+            "Longitudinal movement of rails in the tracks",
+            "Lateral movement of rails in the tracks",
+            "Angular movement of rails in the tracks",
+            "Radial movement of rails in the tracks"
+          ],
+          "answer": "Lateral movement of rails in the tracks",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 246,
+          "question": "Which is the linear method of setting out a simple circular curve?",
+          "image_url": null,
+          "options": [
+            "Successive bisection of arcs",
+            "Two theodolite method",
+            "Tachometric method",
+            "Rankinʹs method"
+          ],
+          "answer": "Successive bisection of arcs",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 247,
+          "question": "Which area wear of rails maximum?",
+          "image_url": null,
+          "options": [
+            "Top of rail",
+            "End of rail",
+            "Inner side of rail",
+            "Head of rail"
+          ],
+          "answer": "End of rail",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 248,
+          "question": "How a simple circular curve designated?",
+          "image_url": null,
+          "options": [
+            "Curvature of the curve",
+            "Radius of the curve",
+            "Angle subtended by an arc",
+            "Angle subtended by a chord"
+          ],
+          "answer": "Radius of the curve",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Bridges and Culverts",
+      "quizWrap": [
+        {
+          "id": 249,
+          "question": "What plays a great role in fixing the height of bridge?",
+          "image_url": null,
+          "options": [
+            "Design",
+            "Effect of scouring",
+            "Highest flood level",
+            "Type of traffic"
+          ],
+          "answer": "Highest flood level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 250,
+          "question": "Which structure is constructed in a bridge to support and protect the embankment of river?",
+          "image_url": null,
+          "options": [
+            "Wing wall",
+            "Abutment",
+            "Pier",
+            "Approach"
+          ],
+          "answer": "Wing wall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 251,
+          "question": "What is the shape of the wingwall if it is inclined in plan?",
+          "image_url": null,
+          "options": [
+            "Straight",
+            "Return wall",
+            "Square",
+            "Splayed"
+          ],
+          "answer": "Splayed",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 252,
+          "question": "Which bridge composed of several small spans for crossing a valley?",
+          "image_url": null,
+          "options": [
+            "Aqueduct",
+            "Fort",
+            "Viaduct",
+            "Deck"
+          ],
+          "answer": "Viaduct",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 253,
+          "question": "What is the maximum noise levels of ventilation fans while measure at the closest point of employee exposure?",
+          "image_url": null,
+          "options": [
+            "90 decibels",
+            "100 decibels",
+            "120 decibels",
+            "130 decibels"
+          ],
+          "answer": "90 decibels",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 254,
+          "question": "Which caisson the ratio of sinking effort to skin friction is maximum?",
+          "image_url": null,
+          "options": [
+            "Circular well",
+            "Box",
+            "Dumb well",
+            "Pneumatic caisson"
+          ],
+          "answer": "Circular well",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 255,
+          "question": "Which foundation is suitable for the construction of bridge?",
+          "image_url": null,
+          "options": [
+            "Pile",
+            "Shallow",
+            "Grillage",
+            "Inverted arch"
+          ],
+          "answer": "Pile",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 256,
+          "question": "Which bridge is mostly used for railway bridges of small spans?",
+          "image_url": null,
+          "options": [
+            "Steel girder",
+            "Steel trough plate",
+            "Suspension",
+            "Steel truss"
+          ],
+          "answer": "Steel trough plate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 257,
+          "question": "Which is most common type of coffer dam?",
+          "image_url": null,
+          "options": [
+            "Wells",
+            "Dike",
+            "Pneumatic",
+            "Box"
+          ],
+          "answer": "Dike",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 258,
+          "question": "What is oxygen concentration in air between for under ground tunnelling?",
+          "image_url": null,
+          "options": [
+            "1.5 Percent & 5.0 Percent",
+            "19.5 Percent & 22.0 Percent",
+            "10.5 Percent & 15.0 Percent",
+            "5.5 Percent & 10.0 Percent"
+          ],
+          "answer": "19.5 Percent & 22.0 Percent",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 259,
+          "question": "Which is the intermediate support of a bridge superstructure?",
+          "image_url": null,
+          "options": [
+            "Foundation",
+            "Pier",
+            "Abutment",
+            "Wing wall"
+          ],
+          "answer": "Pier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 260,
+          "question": "Which bridge is shown in figure?",
+          "image_url": null,
+          "options": [
+            "Semi through",
+            "Deck",
+            "Through",
+            "Suspension"
+          ],
+          "answer": "Through",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 261,
+          "question": "What is marked as ʹxʹ?",
+          "image_url": null,
+          "options": [
+            "Clearance",
+            "Approach",
+            "Free board",
+            "Apron"
+          ],
+          "answer": "Free board",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 262,
+          "question": "Which foundation is adopted when the loose soil extends to a great depth?",
+          "image_url": null,
+          "options": [
+            "Spread",
+            "Raft",
+            "Caisson",
+            "Pile"
+          ],
+          "answer": "Pile",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 263,
+          "question": "Which material is suitable for caisson of open well type?",
+          "image_url": null,
+          "options": [
+            "Cast iron",
+            "rcc",
+            "Steel",
+            "Timber"
+          ],
+          "answer": "Cast iron",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 264,
+          "question": "What is the maximum span of culvert?",
+          "image_url": null,
+          "options": [
+            "2m",
+            "3m",
+            "5m",
+            "6m"
+          ],
+          "answer": "6m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 265,
+          "question": "What is the name of bridge having alignments centre line of river at right angle?",
+          "image_url": null,
+          "options": [
+            "Skew bridge",
+            "Straight bridge",
+            "Culvert",
+            "Long bridge"
+          ],
+          "answer": "Straight bridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 266,
+          "question": "Which is provided for the superstructure in the alignment on curve in hilly areas?",
+          "image_url": null,
+          "options": [
+            "RCC girders",
+            "Box culverts",
+            "Dumb bell pier",
+            "Column bents"
+          ],
+          "answer": "RCC girders",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 267,
+          "question": "Which bridge is suitable for long span up to 70m?",
+          "image_url": null,
+          "options": [
+            "RCC rigid bridge",
+            "RCC cantilever bridge",
+            "Through bridge",
+            "Deck bridge"
+          ],
+          "answer": "RCC cantilever bridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 268,
+          "question": "What is the name of bridge, alignment and centre line of river not at right angle?",
+          "image_url": null,
+          "options": [
+            "Skew bridge",
+            "Straight bridge",
+            "Culvert",
+            "Long bridge"
+          ],
+          "answer": "Skew bridge",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 269,
+          "question": "Which foundation is provided for heavy works at a depth of 12 m to 15 m below the level of standing water surface?",
+          "image_url": null,
+          "options": [
+            "Well",
+            "Caisson",
+            "Coffer dam",
+            "Pile"
+          ],
+          "answer": "Caisson",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 270,
+          "question": "What is the name of the wingwall if the angle of splay 90°?",
+          "image_url": null,
+          "options": [
+            "Splayed",
+            "Return",
+            "Straight",
+            "Tee abutment"
+          ],
+          "answer": "Return",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 271,
+          "question": "Which is a temporary structure constructed to remove water or soil from an area to carry construction under dry condition?",
+          "image_url": null,
+          "options": [
+            "Caisson",
+            "Well",
+            "Cotter dam",
+            "Box"
+          ],
+          "answer": "Cotter dam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 272,
+          "question": "What is the minimum percentage of oxygen concentration in underground air quality for tunnel?",
+          "image_url": null,
+          "options": [
+            "12.5ʹ%",
+            "15.5ʹ%",
+            "17.5ʹ%",
+            "19.5ʹ%"
+          ],
+          "answer": "19.5ʹ%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 273,
+          "question": "What is the name of the abutment shown in figure?",
+          "image_url": null,
+          "options": [
+            "Straight",
+            "Splayed wing wall",
+            "Return wing wall",
+            "Straight wing wall"
+          ],
+          "answer": "Return wing wall",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Irrigation & Canals",
+      "quizWrap": [
+        {
+          "id": 274,
+          "question": "What is the name of dam constructed of masonry concrete, steel or timber?",
+          "image_url": null,
+          "options": [
+            "Rigid dam",
+            "Non-Rigid dam",
+            "Rock fill dam",
+            "Earth dam"
+          ],
+          "answer": "Rigid dam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 275,
+          "question": "What is the life period of thermal plant?",
+          "image_url": null,
+          "options": [
+            "Less than 30 years",
+            "More than 30 years",
+            "Less than 50 years",
+            "More than 50 years"
+          ],
+          "answer": "Less than 30 years",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 276,
+          "question": "Which of the following canal is classified based on nature of supply?",
+          "image_url": null,
+          "options": [
+            "Carrier",
+            "Feeder",
+            "Navigation",
+            "Permanent"
+          ],
+          "answer": "Permanent",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 277,
+          "question": "Which is provided in the diversion headwork to scour away silt deposited?",
+          "image_url": null,
+          "options": [
+            "Fish ladder",
+            "Groynes",
+            "Barrage",
+            "Under sluices"
+          ],
+          "answer": "Under sluices",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 278,
+          "question": "Which crops are sown in autumn in harvested in spring?",
+          "image_url": null,
+          "options": [
+            "Kharif",
+            "Autumn",
+            "Rabi",
+            "South west monsoon"
+          ],
+          "answer": "Rabi",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 279,
+          "question": "Which is the graphical representation of average rainfall between rainfall excess?",
+          "image_url": null,
+          "options": [
+            "Hyetograph",
+            "Hydrograph",
+            "S-hydrograph",
+            "Unit hydrograph"
+          ],
+          "answer": "Hydrograph",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 280,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Distributary head regulator",
+            "Off take channel",
+            "Parent canal",
+            "Cross regulator"
+          ],
+          "answer": "Distributary head regulator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 281,
+          "question": "Which canal carries water for another canal besides doing irrigation?",
+          "image_url": null,
+          "options": [
+            "Carrier",
+            "Feeder",
+            "Navigation",
+            "Power"
+          ],
+          "answer": "Carrier",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 282,
+          "question": "What is the relation between duty (D) Delta (Δ) and base period (B)?",
+          "image_url": null,
+          "options": [
+            "\\( \\Delta  =\\frac{86.4 B}{D} \\)",
+            "\\( \\Delta  =\\frac{864 B}{D} \\)",
+            "\\( \\Delta  =\\frac{8.64 B}{D} \\)",
+            "\\( \\Delta  =\\frac{8640 B}{D}\\)"
+          ],
+          "answer": "\\( \\Delta  =\\frac{8.64 B}{D} \\)",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 283,
+          "question": "What is the unit for measuring rainfall?",
+          "image_url": null,
+          "options": [
+            "cm",
+            "mm",
+            "Feet",
+            "No unit"
+          ],
+          "answer": "mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 284,
+          "question": "Which is the angle that the axis of head regulator makes with the axis of the weir?",
+          "image_url": null,
+          "options": [
+            "90° to 120°",
+            "90° to 60°",
+            "90° to 100°",
+            "180°"
+          ],
+          "answer": "90° to 120°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 285,
+          "question": "Which is the main factor for selection of site for a reservoir?",
+          "image_url": null,
+          "options": [
+            "Maximum runoff",
+            "Maximum percolation",
+            "Wide opening",
+            "Minimum runoff"
+          ],
+          "answer": "Maximum runoff",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 286,
+          "question": "Which construction is at the head of the canal to divert the river water towards the canal?",
+          "image_url": null,
+          "options": [
+            "Storage head work",
+            "Diversion head work",
+            "Barrage",
+            "Weir"
+          ],
+          "answer": "Diversion head work",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 287,
+          "question": "Which is the main function of diversion head work of a canal?",
+          "image_url": null,
+          "options": [
+            "To remove silt",
+            "To control floods",
+            "To store water",
+            "To raise water level"
+          ],
+          "answer": "To raise water level",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 288,
+          "question": "What is the name of dam?",
+          "image_url": null,
+          "options": [
+            "Rock fill dam",
+            "Concrete buttress dam",
+            "Earth dam",
+            "Combined Earth and Rock dam"
+          ],
+          "answer": "Earth dam",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 289,
+          "question": "Which canal is constructed to feed two or more canals?",
+          "image_url": null,
+          "options": [
+            "Carrier",
+            "Feeder",
+            "Navigation",
+            "Irrigation"
+          ],
+          "answer": "Feeder",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 290,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Parent canal",
+            "Silt jetty",
+            "Off take canal",
+            "Cross regulator"
+          ],
+          "answer": "Silt jetty",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 291,
+          "question": "Where ground level is above the FSL of the channel the canal is called?",
+          "image_url": null,
+          "options": [
+            "Channel in filling",
+            "Channel in cutting",
+            "Channel in partial",
+            "Channel unlined"
+          ],
+          "answer": "Channel in cutting",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 292,
+          "question": "What is the classification of dam based on use?",
+          "image_url": null,
+          "options": [
+            "Detention",
+            "Debris",
+            "Rigid",
+            "Buttress"
+          ],
+          "answer": "Detention",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 293,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Turbine",
+            "Draft tube",
+            "Gallery",
+            "Pen stock"
+          ],
+          "answer": "Pen stock",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 294,
+          "question": "Where did the surplus water in weir is allowed to flow?",
+          "image_url": null,
+          "options": [
+            "Gates",
+            "Crest",
+            "Spill way",
+            "Openings"
+          ],
+          "answer": "Crest",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 295,
+          "question": "Which of the following is non rigid dam?",
+          "image_url": null,
+          "options": [
+            "Concrete",
+            "Rock fill",
+            "Gravity",
+            "Arch"
+          ],
+          "answer": "Rock fill",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 296,
+          "question": "When does hydrograph called as unit hydrograph?",
+          "image_url": null,
+          "options": [
+            "1 cm of runoff from rainfall",
+            "3 cm of runoff from rainfall",
+            "1 mm of runoff from rainfall",
+            "3 mm of runoff from rainfall"
+          ],
+          "answer": "1 cm of runoff from rainfall",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 297,
+          "question": "Which element of hydroelectric power plant reduce the water hammer pressure formed in the penstock?",
+          "image_url": null,
+          "options": [
+            "Valves",
+            "Surge tank",
+            "Turbines",
+            "Draft tubes"
+          ],
+          "answer": "Surge tank",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 298,
+          "question": "Which crop is grown at a particular crop season?",
+          "image_url": null,
+          "options": [
+            "Culturable cultivated area",
+            "Gross commanded area",
+            "Culturable commanded area",
+            "Culturable uncultivated area"
+          ],
+          "answer": "Culturable cultivated area",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Estimation & Rate Analysis",
+      "quizWrap": [
+        {
+          "id": 299,
+          "question": "What is the measuring unit for modern door and window frames?",
+          "image_url": null,
+          "options": [
+            "m",
+            "sq.m",
+            "cu.m",
+            "mm"
+          ],
+          "answer": "cu.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 300,
+          "question": "How many nominal size bricks are required for 1m³ of brick work?",
+          "image_url": null,
+          "options": [
+            "500",
+            "600",
+            "700",
+            "800"
+          ],
+          "answer": "500",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 301,
+          "question": "Which cement concrete proportion is used for damp proofing first class building?",
+          "image_url": null,
+          "options": [
+            "1:1.5:3",
+            "01:02:04",
+            "01:02:06",
+            "01:04:08"
+          ],
+          "answer": "1:1.5:3",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 302,
+          "question": "What is the equation for computation of area by Simpsonʹs formula?",
+          "image_url": null,
+          "options": [
+            "A=D/3[0₁+0n+4(0₂+0₄+…)n-2)+2(0₃+0₅+…)n-1)]",
+            "A=D/3[0₁=0n=4(0₂+0₃+…0n-1)]",
+            "A=D/3[0₁+0n+4(0₂+0₄+….+0n-2)]",
+            "A=D/3[0₁+0₂+….+0n]"
+          ],
+          "answer": "A=D/3[0₁+0n+4(0₂+0₄+…)n-2)+2(0₃+0₅+…)n-1)]",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 303,
+          "question": "What is the measuring unit for soling layer?",
+          "image_url": null,
+          "options": [
+            "m",
+            "sq.m",
+            "cu.m",
+            "Nos."
+          ],
+          "answer": "sq.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 304,
+          "question": "What is the minimum length for bill quantity calculation?",
+          "image_url": null,
+          "options": [
+            "0.5 mm",
+            "1mm",
+            "1cm",
+            "10 cm"
+          ],
+          "answer": "1mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 305,
+          "question": "What is the out-turn of mason constructing stone arch work?",
+          "image_url": null,
+          "options": [
+            "0.40 cu.m",
+            "0.55 cu.m",
+            "0.80 cu.m",
+            "0.90 cu.m"
+          ],
+          "answer": "0.40 cu.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 306,
+          "question": "How aggregate is specified?",
+          "image_url": null,
+          "options": [
+            "Size in mm",
+            "Length in mm",
+            "Height and breadth in cm",
+            "Length in m, section in mm"
+          ],
+          "answer": "Size in mm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 307,
+          "question": "What is the process of determining the fair price or value of a property?",
+          "image_url": null,
+          "options": [
+            "Valuation",
+            "Estimation",
+            "Fixation",
+            "Taxation"
+          ],
+          "answer": "Valuation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 308,
+          "question": "What is the plastering area for a pillar?",
+          "image_url": null,
+          "options": [
+            "Length x breadth x height",
+            "Section area x height",
+            "Perimeter",
+            "Perimeter x height"
+          ],
+          "answer": "Perimeter x height",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 309,
+          "question": "What quantity of coarse aggregate is required for 100m³ of 1:2:4 cement concrete?",
+          "image_url": null,
+          "options": [
+            "84 m³",
+            "86 m³",
+            "88 m³",
+            "90 m³"
+          ],
+          "answer": "84 m³",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 310,
+          "question": "What is the name of specification gives nature and class of work and material, give idea of the whole work?",
+          "image_url": null,
+          "options": [
+            "General or Brief specification",
+            "Detailed specification",
+            "Item specification",
+            "Quantity specification"
+          ],
+          "answer": "General or Brief specification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 311,
+          "question": "Which brick wall thickness is measured in sq.m?",
+          "image_url": null,
+          "options": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "30 cm"
+          ],
+          "answer": "10 cm",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 312,
+          "question": "What is the annual periodic payment for repayment of the capital amount invested by a party?",
+          "image_url": null,
+          "options": [
+            "Capital cost",
+            "Annuity",
+            "Depreciation",
+            "Outgoings"
+          ],
+          "answer": "Annuity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 313,
+          "question": "What is the unit for excavation in M.K.S system?",
+          "image_url": null,
+          "options": [
+            "m",
+            "sq.m",
+            "cu.m",
+            "no"
+          ],
+          "answer": "cu.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 314,
+          "question": "What is the quantity, Cement for 2.5 cm thick cement concrete 1:1 1/2:3 damp proof course for 100 sq.m?",
+          "image_url": null,
+          "options": [
+            "22 1/2 Bags",
+            "25 Bags",
+            "20 1/2 Bags",
+            "30 Bags"
+          ],
+          "answer": "22 1/2 Bags",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 315,
+          "question": "What is the name of estimate prepared to maintain the structure or work in safe condition?",
+          "image_url": null,
+          "options": [
+            "Annual repair estimate",
+            "Extension estimate",
+            "Revised estimate",
+            "Supplementary estimate"
+          ],
+          "answer": "Annual repair estimate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 316,
+          "question": "Who prepares the schedule of rates?",
+          "image_url": null,
+          "options": [
+            "Engineering department",
+            "Contractors",
+            "Private agencies",
+            "Government agencies"
+          ],
+          "answer": "Engineering department",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 317,
+          "question": "Which method of valuation capitalized value = Actual cost of construction - Depreciation?",
+          "image_url": null,
+          "options": [
+            "Rental method of valuation",
+            "Valuation based on cost",
+            "Development method of valuation",
+            "Direct comparison"
+          ],
+          "answer": "Valuation based on cost",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 318,
+          "question": "What is the name of estimate is prepared in additional works are required during the progress of work?",
+          "image_url": null,
+          "options": [
+            "Annual repair estimate",
+            "Supplementary estimate",
+            "Cubical estimate",
+            "Extension estimate"
+          ],
+          "answer": "Supplementary estimate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 319,
+          "question": "What is the unit measurement of damp proof course?",
+          "image_url": null,
+          "options": [
+            "Metre",
+            "CM",
+            "Cum",
+            "Sq.m"
+          ],
+          "answer": "Sq.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 320,
+          "question": "What quantity bitumen is required for 100m² first coat painting on DPC?",
+          "image_url": null,
+          "options": [
+            "75 Kg",
+            "100 Kg",
+            "125 Kg",
+            "150 Kg"
+          ],
+          "answer": "150 Kg",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 321,
+          "question": "Calculate quantity of earth work 200m length of road uniform ground heights of bank two ends 1.00 m and 1.60 m, formation width 10m and Side slope 2:1 no transverse slope.",
+          "image_url": null,
+          "options": [
+            "3280 cum",
+            "2676 cum",
+            "3276 cum",
+            "327.6 cum"
+          ],
+          "answer": "3276 cum",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 322,
+          "question": "What is the minimum cubical quantity for bill quantity calculation?",
+          "image_url": null,
+          "options": [
+            "1 mm³",
+            "1 cm³",
+            "0.01 m³",
+            "0.1 m³"
+          ],
+          "answer": "0.01 m³",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 323,
+          "question": "What is the area by simpsonʹs rule?",
+          "image_url": null,
+          "options": [
+            "717 m²",
+            "727 m²",
+            "959 m²",
+            "1090 m²"
+          ],
+          "answer": "727 m²",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 324,
+          "question": "What is the equation for computation of area by trapezoidal formula?",
+          "image_url": null,
+          "options": [
+            "A=D/2[0₁+0₂+0₃….+0n-1]",
+            "A=D/2 [0₁+0n+2(0₂+0₃+0₄+…..+0n-1)]",
+            "A=D/2 [0₁+0n-1+2(0₂+0₃+0₄+…..)n)",
+            "A=D/2 [0₁+0₂+0₃….+0n]"
+          ],
+          "answer": "A=D/2 [0₁+0n+2(0₂+0₃+0₄+…..+0n-1)]",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 325,
+          "question": "What quantity of stone is required for 1m³ of rubble masonry?",
+          "image_url": null,
+          "options": [
+            "0.5 cu.m",
+            "0.75 cu.m",
+            "1.00 cu.m",
+            "1.25 cu.m"
+          ],
+          "answer": "1.25 cu.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 326,
+          "question": "Which is an item rate estimate?",
+          "image_url": null,
+          "options": [
+            "Plinth area",
+            "Annual repair",
+            "Cubical content",
+            "Preliminary"
+          ],
+          "answer": "Annual repair",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 327,
+          "question": "Which cement concrete proportion is used for damp proofing second class building?",
+          "image_url": null,
+          "options": [
+            "1:1.5:3",
+            "01:02:04",
+            "01:02:06",
+            "01:04:08"
+          ],
+          "answer": "01:02:04",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 328,
+          "question": "What is the measuring unit for cornice?",
+          "image_url": null,
+          "options": [
+            "m",
+            "sq.m",
+            "cu.m",
+            "mm"
+          ],
+          "answer": "m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 329,
+          "question": "Which brick structure is measured in sq.m?",
+          "image_url": null,
+          "options": [
+            "Reinforced brick work",
+            "Broken glass coping",
+            "Concrete fencing posts",
+            "Brick work in arches"
+          ],
+          "answer": "Broken glass coping",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 330,
+          "question": "What (%) percentage is added as contingencies in approximate estimate?",
+          "image_url": null,
+          "options": [
+            "1% to 5%",
+            "5% to 10%",
+            "10% to 12%",
+            "10% to 15%"
+          ],
+          "answer": "5% to 10%",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 331,
+          "question": "Which class of building specification doors and windows frame shall be made of teak wood?",
+          "image_url": null,
+          "options": [
+            "Second class building specification",
+            "First class building specification",
+            "Third class building specification",
+            "Fourth class building specification"
+          ],
+          "answer": "First class building specification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 332,
+          "question": "What is printed list of rates of various items of work maintained by the engineering department?",
+          "image_url": null,
+          "options": [
+            "Schedule of rates",
+            "Analysis of rates",
+            "Item rates",
+            "Market rates"
+          ],
+          "answer": "Schedule of rates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 333,
+          "question": "What is the minimum lift for earthwork excavation?",
+          "image_url": null,
+          "options": [
+            "1 meter",
+            "1.5 m",
+            "2.0 m",
+            "3.0 m"
+          ],
+          "answer": "1.5 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 334,
+          "question": "What is the method of estimate in measure external length of wall out to out and internal length in to in?",
+          "image_url": null,
+          "options": [
+            "Long wall short wall method",
+            "Centre line method",
+            "Lump sum method",
+            "All round method"
+          ],
+          "answer": "Long wall short wall method",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 335,
+          "question": "How many mazdoor or helper is required per mason for brick work?",
+          "image_url": null,
+          "options": [
+            "1",
+            "1.5 to 2",
+            "3",
+            "4"
+          ],
+          "answer": "1.5 to 2",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 336,
+          "question": "Which class of building specification damp proof course shall be of 2 cm thick cement concrete 1:2:4 standard water proofing materials?",
+          "image_url": null,
+          "options": [
+            "Second class building specification",
+            "First class building specification",
+            "Third class building specification",
+            "Fourth class building specification"
+          ],
+          "answer": "Second class building specification",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 337,
+          "question": "What material is specified for the plinth of 1st class building?",
+          "image_url": null,
+          "options": [
+            "First class brick work in cement mortar 1:6",
+            "Second class brick work in cement mortar",
+            "Third class brick work in cement mortar",
+            "Sum dried brick work in mud mortar"
+          ],
+          "answer": "First class brick work in cement mortar 1:6",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 338,
+          "question": "Which estimate is prepared while the expenditure on a work exceeds by more than 10%?",
+          "image_url": null,
+          "options": [
+            "Supplementary",
+            "Revised",
+            "Annual repair",
+            "Cubical content"
+          ],
+          "answer": "Revised",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 339,
+          "question": "What percentage contractors profit is included in the analysis of rate?",
+          "image_url": null,
+          "options": [
+            "5",
+            "10",
+            "15",
+            "20"
+          ],
+          "answer": "10",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 340,
+          "question": "What is the deduction for opening consider in plastering and pointing?",
+          "image_url": null,
+          "options": [
+            "Up to 0.5 Sq.m opening",
+            "Up to 3 Sq.m opening",
+            "Up to 5 Sq.m opening",
+            "Up to 6 Sq.m opening"
+          ],
+          "answer": "Up to 0.5 Sq.m opening",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 341,
+          "question": "What is the quantity paint ready mixed for painting one coat for 100 sq.m?",
+          "image_url": null,
+          "options": [
+            "5 litre",
+            "15 litre",
+            "10 litre",
+            "20 litre"
+          ],
+          "answer": "10 litre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 342,
+          "question": "Which is rough cost estimate?",
+          "image_url": null,
+          "options": [
+            "Revised estimate",
+            "Annual repair estimate",
+            "Plinth area estimate",
+            "Supplementary estimate"
+          ],
+          "answer": "Plinth area estimate",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 343,
+          "question": "Which method of valuation capitalized value of the property = Net income x YP?",
+          "image_url": null,
+          "options": [
+            "Rental method of valuation",
+            "Valuation based on cost",
+            "Development method of valuation",
+            "Direct comparison"
+          ],
+          "answer": "Rental method of valuation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 344,
+          "question": "What is the density of mild steel?",
+          "image_url": null,
+          "options": [
+            "0.785 q/cu.m",
+            "7.85q/cu.m",
+            "78.5q/cu.m",
+            "785q/cu.m"
+          ],
+          "answer": "78.5q/cu.m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 345,
+          "question": "What is the minimum height specified for first class building?",
+          "image_url": null,
+          "options": [
+            "3.3 m",
+            "3.7 m",
+            "3.8 m",
+            "3.9 m"
+          ],
+          "answer": "3.7 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 346,
+          "question": "Which data is necessary for the preparation of estimate?",
+          "image_url": null,
+          "options": [
+            "Labour",
+            "Material",
+            "Fund",
+            "Drawings"
+          ],
+          "answer": "Drawings",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    },
+    {
+      "module": "Total Station & GPS",
+      "quizWrap": [
+        {
+          "id": 347,
+          "question": "What is the name of measurement for distances taken to a prism on reflecting foil most accurate?",
+          "image_url": null,
+          "options": [
+            "Precise measurement",
+            "Rapid measurement",
+            "Tracking measurement",
+            "Angle measurement"
+          ],
+          "answer": "Precise measurement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 348,
+          "question": "What is marked as ʹX?",
+          "image_url": null,
+          "options": [
+            "Objective lens",
+            "Collimator",
+            "Optical plummet",
+            "Data out connector"
+          ],
+          "answer": "Data out connector",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 349,
+          "question": "What is the name of the figure given below?",
+          "image_url": null,
+          "options": [
+            "Rectangular and polar co-ordinates",
+            "Polar to cartesian co-ordinates",
+            "Rectangular co-ordinates",
+            "Polar co-ordinates"
+          ],
+          "answer": "Rectangular co-ordinates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 350,
+          "question": "Which measurement reduces the measurement time to a prism between 0.5 and 1ʹs for both phase shift and pulsed systems?",
+          "image_url": null,
+          "options": [
+            "Precise measurement",
+            "Rapid measurement",
+            "Tracking measurement",
+            "Angle measurement"
+          ],
+          "answer": "Rapid measurement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 351,
+          "question": "What is the formula for principle of operation of EDM?",
+          "image_url": null,
+          "options": [
+            "Velocity = Time x Distance",
+            "Velocity = Time / Distance",
+            "Velocity = Distance x Time",
+            "Velocity = Distance / Time"
+          ],
+          "answer": "Velocity = Distance / Time",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 352,
+          "question": "Which country developed the GPS?",
+          "image_url": null,
+          "options": [
+            "USA",
+            "India",
+            "Russia",
+            "Italy"
+          ],
+          "answer": "USA",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 353,
+          "question": "What is the formula to find out the sum of interior angles of a closed polygon traverse?",
+          "image_url": null,
+          "options": [
+            "(n – 2) x 360°",
+            "(n + 2) x 360°",
+            "(n – 2) x 180°",
+            "(n + 2) x 180°"
+          ],
+          "answer": "(n – 2) x 180°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 354,
+          "question": "What is the advantage of Total Station?",
+          "image_url": null,
+          "options": [
+            "The instruments costly",
+            "Does not provide field note",
+            "Direct observation of sum not possible",
+            "Greater accuracy in area computation"
+          ],
+          "answer": "Greater accuracy in area computation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 355,
+          "question": "What is the advantage of photogrammetry?",
+          "image_url": null,
+          "options": [
+            "Weather dependent",
+            "Covers large area",
+            "Costlier",
+            "Complex system"
+          ],
+          "answer": "Covers large area",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 356,
+          "question": "Which is an application of GPS for visually impaired in India?",
+          "image_url": null,
+          "options": [
+            "Marine GOS",
+            "Drishti",
+            "Ranchers",
+            "GIS"
+          ],
+          "answer": "Drishti",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 357,
+          "question": "What is the distance between the UTM grid lines on topo maps?",
+          "image_url": null,
+          "options": [
+            "100 m",
+            "1000 m",
+            "2000 m",
+            "5000 m"
+          ],
+          "answer": "1000 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 358,
+          "question": "What is the accuracy of the Garmin GPS speedo meter?",
+          "image_url": null,
+          "options": [
+            "With in 7 metre",
+            "With in 10 metre",
+            "With in 15 metre",
+            "With in 20 metre"
+          ],
+          "answer": "With in 10 metre",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 359,
+          "question": "Where the open traverse is used?",
+          "image_url": null,
+          "options": [
+            "Topographic survey",
+            "Layout of engineering works",
+            "Construction of pipelines",
+            "Property measurement"
+          ],
+          "answer": "Construction of pipelines",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 360,
+          "question": "What is the advantage of using EDM?",
+          "image_url": null,
+          "options": [
+            "Precise measurement of distance",
+            "Electronic batteries",
+            "Expensive",
+            "Accuracy affected by atmospheric condition"
+          ],
+          "answer": "Precise measurement of distance",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 361,
+          "question": "What is the disadvantage of Total Station?",
+          "image_url": null,
+          "options": [
+            "Automation of old maps",
+            "Local language support",
+            "Full GIS creation",
+            "The instrument is costly"
+          ],
+          "answer": "The instrument is costly",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 362,
+          "question": "What is the orbital height for GPS?",
+          "image_url": null,
+          "options": [
+            "10,00 Km",
+            "15,000 Km",
+            "20,180 Km",
+            "24,280 Km"
+          ],
+          "answer": "20,180 Km",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 363,
+          "question": "What is the sum of the interior angles of a closed polygon traverse that has of 8 sides?",
+          "image_url": null,
+          "options": [
+            "720°",
+            "1080°",
+            "1440°",
+            "1800°"
+          ],
+          "answer": "1080°",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 364,
+          "question": "What is the practice of determining the geometric properties of objects from photographic images?",
+          "image_url": null,
+          "options": [
+            "Photogrammetry",
+            "Positioning",
+            "Remote sensing",
+            "Orientation"
+          ],
+          "answer": "Photogrammetry",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 365,
+          "question": "Which survey instruments has electronic laser distance measurement?",
+          "image_url": null,
+          "options": [
+            "Total station",
+            "Theodolite",
+            "Dumpy level",
+            "Tachometer"
+          ],
+          "answer": "Total station",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 366,
+          "question": "Which is an application of GPS for visually impaired?",
+          "image_url": null,
+          "options": [
+            "MOBIC",
+            "GIS",
+            "Ranchers",
+            "Navigation"
+          ],
+          "answer": "MOBIC",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 367,
+          "question": "Which program is used for setting out points?",
+          "image_url": null,
+          "options": [
+            "Resection",
+            "Stake out",
+            "Reference line",
+            "Remote height"
+          ],
+          "answer": "Stake out",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 368,
+          "question": "Which range can be obtained for a reflector less measurement taken with a phase shift system?",
+          "image_url": null,
+          "options": [
+            "50 m",
+            "100 m",
+            "150 m",
+            "200 m"
+          ],
+          "answer": "100 m",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 369,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Reflector height",
+            "Instrumental height",
+            "Height of collimation",
+            "Slope height"
+          ],
+          "answer": "Instrumental height",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 370,
+          "question": "What is the process of getting digital equivalent of analog signals for processing?",
+          "image_url": null,
+          "options": [
+            "Data acquisition",
+            "Data processing",
+            "Image recognition",
+            "Pattern recognition"
+          ],
+          "answer": "Data acquisition",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 371,
+          "question": "Which is the common choice of co-ordinate for specifying position?",
+          "image_url": null,
+          "options": [
+            "Latitude, departure and elevation",
+            "Latitude, longitude and elevation",
+            "Northing, southing and easting",
+            "Southing, azimuths and elevation"
+          ],
+          "answer": "Latitude, longitude and elevation",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 372,
+          "question": "What is the disadvantage of using EDM?",
+          "image_url": null,
+          "options": [
+            "Capable of measuring long distances",
+            "Precise measurement of distance",
+            "Accuracy affected by atmospheric conditions",
+            "Reflectorless are single person operation"
+          ],
+          "answer": "Accuracy affected by atmospheric conditions",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 373,
+          "question": "Which instrument is used to find out the co-ordinates of a reflection and at the same time measuring the vertical angles?",
+          "image_url": null,
+          "options": [
+            "Auto level",
+            "Total station",
+            "Theodolite",
+            "Transmit theodolite"
+          ],
+          "answer": "Total station",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 374,
+          "question": "What is an advantage of GPS survey?",
+          "image_url": null,
+          "options": [
+            "High precision",
+            "Weather dependent",
+            "Night operation only",
+            "Site intervisibility required"
+          ],
+          "answer": "High precision",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 375,
+          "question": "What is an advantage of GPS survey?",
+          "image_url": null,
+          "options": [
+            "Two dimensional",
+            "Three dimensional",
+            "Weather dependent",
+            "Only day tim operation"
+          ],
+          "answer": "Three dimensional",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 376,
+          "question": "What is an advantage of digital over analog signal processing?",
+          "image_url": null,
+          "options": [
+            "Digital system is difficult to reprogramme",
+            "Digital signal processing provides better control of accuracy",
+            "Digital signals are difficult to store without deterioration",
+            "More ancient signal processing algorithms can be used"
+          ],
+          "answer": "Digital signal processing provides better control of accuracy",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 377,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Top Handle",
+            "Collimator",
+            "Optical plummet",
+            "Data out connector"
+          ],
+          "answer": "Collimator",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 378,
+          "question": "What is the another name for exposure station?",
+          "image_url": null,
+          "options": [
+            "Air station",
+            "Nadir point",
+            "Zenith point",
+            "Horizon point"
+          ],
+          "answer": "Air station",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 379,
+          "question": "What is the name of the figure given below?",
+          "image_url": null,
+          "options": [
+            "Rectangular and polar co-ordinates",
+            "Polar to cartesian co-ordinates",
+            "Rectangular co-ordinates",
+            "Polar co-ordinates"
+          ],
+          "answer": "Polar co-ordinates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 380,
+          "question": "What is the name of the figure given below?",
+          "image_url": null,
+          "options": [
+            "Rectangular and polar co-ordinates",
+            "Polar to cartesian co-ordinates",
+            "Rectangular co-ordinates",
+            "Polar co-ordinates"
+          ],
+          "answer": "Rectangular and polar co-ordinates",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 381,
+          "question": "What is marked as ʹXʹ?",
+          "image_url": null,
+          "options": [
+            "Optical plummet",
+            "Collimator",
+            "Data out connector",
+            "Bottom plate"
+          ],
+          "answer": "Optical plummet",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 382,
+          "question": "What is the abbreviation for EDM in surveying?",
+          "image_url": null,
+          "options": [
+            "Electronic Distance Measurement",
+            "Engineering Distance Measurement",
+            "Electro Discharge Machining",
+            "Electronic Direct Mailing"
+          ],
+          "answer": "Electronic Distance Measurement",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 383,
+          "question": "Which program is used for erecting perpendicular line to base line?",
+          "image_url": null,
+          "options": [
+            "Stake out",
+            "Free station",
+            "Reference line",
+            "Tie distance"
+          ],
+          "answer": "Reference line",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 384,
+          "question": "Which segment of GPS consists of satellite?",
+          "image_url": null,
+          "options": [
+            "Control",
+            "Space",
+            "User",
+            "Navigation"
+          ],
+          "answer": "Space",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 385,
+          "question": "What is an advantage of digital signal?",
+          "image_url": null,
+          "options": [
+            "High cost",
+            "Difficult to control",
+            "Noise immunity",
+            "Rigidity in response to design"
+          ],
+          "answer": "Noise immunity",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 386,
+          "question": "What is the shape of a single reflector prism?",
+          "image_url": null,
+          "options": [
+            "Cube corner",
+            "Cuboid corner",
+            "Circular",
+            "Triangular corner"
+          ],
+          "answer": "Cube corner",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 387,
+          "question": "Which is the total station with latest technology?",
+          "image_url": null,
+          "options": [
+            "Mechanical",
+            "Semi automatic",
+            "Manual",
+            "Automatic"
+          ],
+          "answer": "Automatic",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 388,
+          "question": "What is the name of system?",
+          "image_url": null,
+          "options": [
+            "Segment of GPS system",
+            "Graphic Longitude and Latitude",
+            "Geographic co-ordinate system",
+            "Reading co-ordinate"
+          ],
+          "answer": "Geographic co-ordinate system",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 389,
+          "question": "In which conditions, the LCD screen does not work?",
+          "image_url": null,
+          "options": [
+            "Cold",
+            "Hot",
+            "Warm",
+            "Wind"
+          ],
+          "answer": "Cold",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 390,
+          "question": "Which program is used to determine the position of new station with reference to two known points?",
+          "image_url": null,
+          "options": [
+            "Free station",
+            "Tie distance",
+            "Remote height",
+            "Reference line"
+          ],
+          "answer": "Free station",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 391,
+          "question": "Which segment of GPS consists of receivers?",
+          "image_url": null,
+          "options": [
+            "Control",
+            "User",
+            "Space",
+            "Navigation"
+          ],
+          "answer": "User",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 392,
+          "question": "What is meant by GPS?",
+          "image_url": null,
+          "options": [
+            "Global Processing System",
+            "Global Positioning System",
+            "Geographic Positional System",
+            "Geographic Processing System"
+          ],
+          "answer": "Global Positioning System",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 393,
+          "question": "What is meant by the study of something without direct contact?",
+          "image_url": null,
+          "options": [
+            "Remote sensing",
+            "Geographic information system",
+            "Tachometry",
+            "Ranging"
+          ],
+          "answer": "Remote sensing",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 394,
+          "question": "Faulty temperature and pressure measurement occurs by which source of error in EDM?",
+          "image_url": null,
+          "options": [
+            "Personal",
+            "Instrumental",
+            "Natural",
+            "Environmental"
+          ],
+          "answer": "Personal",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 395,
+          "question": "Which instrument is a combination of EDM, electronic theodolite and micro processor?",
+          "image_url": null,
+          "options": [
+            "Total Station",
+            "Tacheometer",
+            "Diatomite",
+            "Tellurometer"
+          ],
+          "answer": "Total Station",
+          "explanation": "",
+          "time": 30
+        },
+        {
+          "id": 396,
+          "question": "What is the name of traverse computing survey by total station?",
+          "image_url": null,
+          "options": [
+            "Close traverse",
+            "Open traverse",
+            "Segmental traverse",
+            "Lop traverse"
+          ],
+          "answer": "Open traverse",
+          "explanation": "",
+          "time": 30
+        }
+      ]
+    }
+  ]
