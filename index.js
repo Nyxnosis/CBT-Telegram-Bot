@@ -11,6 +11,7 @@ const categories = {
     army: { icon: '🪖', message: 'How will I ask you the questions?' },
     navy: { icon: '⚓', message: 'How will I ask you the questions?' },
     gk: { icon: '📊', message: 'How will I ask you the questions?' },
+    indian_railway: { icon: '🚃', message: 'How will I ask you the questions?' },
 };
 
 bot.onText(/\/start(?:\s+(.+))?/, (msg) => {
