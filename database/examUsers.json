@@ -1,1 +1,15 @@
-{}
+{
+  "7740200187": {
+    "chatId": 7740200187,
+    "score": 0,
+    "points": 1,
+    "firstName": "Nyx",
+    "category": "iti",
+    "sub_category": "copa",
+    "module": "module_2_windows_operating_system",
+    "examStarted": false,
+    "currentQuestion": null,
+    "answers": [],
+    "examQuestions": []
+  }
+}
